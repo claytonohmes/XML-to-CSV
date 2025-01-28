@@ -1,0 +1,2041 @@
+reas_group,reas_desc,state,category1,spare4
+String|Line1 Reasons,Line Producing,DOWNTIME,None,1
+String|Line1 Reasons,Running Semi-Auto,DOWNTIME,None,2
+String|Line1 Reasons,Line Stopped/Idle,DOWNTIME,None,9
+String|Line1 Reasons,Communication Fault,DOWNTIME,Excluded Time,10
+String|Line1 Reasons,Plan Downtime,DOWNTIME,Excluded Time,11
+String|Line1 Reasons|External Delay,Starved - Primary,DOWNTIME,Excluded Time,12
+String|Line1 Reasons|External Delay,Starved - Secondary,DOWNTIME,Excluded Time,13
+String|Line1 Reasons|External Delay,Blocked - Primary,DOWNTIME,Excluded Time,14
+String|Line1 Reasons|External Delay,Blocked - Secondary,DOWNTIME,Excluded Time,15
+String|Line1 Reasons,Bypassed/Not In Use,DOWNTIME,Excluded Time,20
+String|Line1 Reasons,Operator Stop,DOWNTIME,Process Failure - 2404,21
+String|Line1 Reasons|Operator Stop,EStop,DOWNTIME,Process Failure - 2404,22
+String|Line1 Reasons|Operator Stop,Held,DOWNTIME,Process Failure - 2404,23
+String|Line1 Reasons|Operator Stop,Stopped,DOWNTIME,Process Failure - 2404,24
+String|Line1 Reasons|Operator Stop,Idle/Complete,DOWNTIME,Process Failure - 2404,25
+String|Line1 Reasons|Operator Stop,Mode Off,DOWNTIME,Process Failure - 2404,26
+String|Line1 Reasons|Operator Stop,Mode Manual,DOWNTIME,Process Failure - 2404,27
+String|Line1 Reasons|Operator Stop,Mode Semi-Auto,DOWNTIME,Process Failure - 2404,28
+String|Line1 Reasons|Operator Stop,Mode Not Auto,DOWNTIME,Process Failure - 2404,29
+String|Line1 Reasons,Filling Buffer,DOWNTIME,Excluded Time,51
+String|Line1 Reasons,Emptying Buffer,DOWNTIME,Excluded Time,52
+String|Line1 Reasons,Buffer Full,DOWNTIME,Excluded Time,53
+String|Line1 Reasons,Buffer Empty,DOWNTIME,Excluded Time,54
+String|Line1 Reasons,Idling,DOWNTIME,Excluded Time,55
+String|Line1 Reasons,Stopped Bottle Count,DOWNTIME,Excluded Time,56
+String|Line1 Reasons|Not Running,With Buffer Capacity,DOWNTIME,Excluded Time,60
+String|Line1 Reasons,Bypassed to TFS,DOWNTIME,Excluded Time,61
+String|Line1 Reasons,Labeler Not In Use,DOWNTIME,Excluded Time,62
+String|Line1 Reasons,Changeover,DOWNTIME,No Superreason - 2405,100
+String|Line1 Reasons|Changeover,Pack,DOWNTIME,Prod Adjustment - 2402,105
+String|Line1 Reasons|Changeover,Scent,DOWNTIME,Prod Adjustment - 2402,110
+String|Line1 Reasons|Changeover,Size,DOWNTIME,Prod Adjustment - 2402,115
+String|Line1 Reasons|Changeover,Size + Scent + Pack,DOWNTIME,Prod Adjustment - 2402,120
+String|Line1 Reasons|Changeover,Size + Scent,DOWNTIME,Prod Adjustment - 2402,125
+String|Line1 Reasons,Excluded Time,DOWNTIME,Excluded Time,200
+String|Line1 Reasons|Excluded Time,Capital Work 75M,DOWNTIME,Excluded Time,205
+String|Line1 Reasons|Excluded Time,COVID19,DOWNTIME,Excluded Time,210
+String|Line1 Reasons|Excluded Time,EO PQ,DOWNTIME,Excluded Time,215
+String|Line1 Reasons|Excluded Time,Scheduled Down,DOWNTIME,Excluded Time,235
+String|Line1 Reasons,Planned,DOWNTIME,No Superreason - 2405,400
+String|Line1 Reasons|Planned,Breaks-Lunch,DOWNTIME,Shutdown Loss - 2401,405
+String|Line1 Reasons|Planned,Meetings,DOWNTIME,Shutdown Loss - 2401,410
+String|Line1 Reasons|Planned,Shutdown Procedure,DOWNTIME,Shutdown Loss - 2401,415
+String|Line1 Reasons|Planned,Startup Procedure,DOWNTIME,Shutdown Loss - 2401,420
+String|Line1 Reasons|Planned,Testing,DOWNTIME,Shutdown Loss - 2401,425
+String|Line1 Reasons|Planned,AM event (add note),DOWNTIME,Shutdown Loss - 2401,430
+String|Line1 Reasons|Planned,Training,DOWNTIME,Shutdown Loss - 2401,450
+String|Line1 Reasons|Planned,Maintenance,DOWNTIME,Shutdown Loss - 2401,600
+String|Line1 Reasons|Planned|Maintenance,Capital Project,DOWNTIME,Shutdown Loss - 2401,605
+String|Line1 Reasons|Planned|Maintenance,Clean Inspect Lube,DOWNTIME,Shutdown Loss - 2401,610
+String|Line1 Reasons|Planned|Maintenance,Planned Maint PMs,DOWNTIME,Shutdown Loss - 2401,615
+String|Line1 Reasons|Planned|Maintenance,Work Orders,DOWNTIME,Shutdown Loss - 2401,625
+String|Line1 Reasons,Depal1,DOWNTIME,Process Failure - 2404,1000
+String|Line1 Reasons|Depal1,Operator Stop,DOWNTIME,Process Failure - 2404,1001
+String|Line1 Reasons|Depal1,General Stop,DOWNTIME,Process Failure - 2404,1002
+String|Line1 Reasons|Depal1|General Stop,Internal,DOWNTIME,Process Failure - 2404,1003
+String|Line1 Reasons|Depal1|General Stop,External,DOWNTIME,Process Failure - 2404,1004
+String|Line1 Reasons|Depal1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,1005
+String|Line1 Reasons|Depal1,Communication Fault,DOWNTIME,Process Failure - 2404,1010
+String|Line1 Reasons|Conveyors,Depal1 Infeed,DOWNTIME,Process Failure - 2404,1012
+String|Line1 Reasons|Conveyors,Depal1 Discharge,DOWNTIME,Process Failure - 2404,1014
+String|Line1 Reasons|Depal1,Motor Protect Fault,DOWNTIME,Process Failure - 2404,1021
+String|Line1 Reasons|Depal1,Area Not Clear,DOWNTIME,Process Failure - 2404,1022
+String|Line1 Reasons|Depal1,Transfer Unit Fault,DOWNTIME,Process Failure - 2404,1023
+String|Line1 Reasons|Depal1,Product Pickup Fault,DOWNTIME,Process Failure - 2404,1024
+String|Line1 Reasons|Depal1,Pivot Monitoring,DOWNTIME,Process Failure - 2404,1025
+String|Line1 Reasons|Depal1,Product Lost,DOWNTIME,Process Failure - 2404,1026
+String|Line1 Reasons|Depal1,Stop Tripped,DOWNTIME,Process Failure - 2404,1027
+String|Line1 Reasons|Depal1,Pallet Positioning,DOWNTIME,Process Failure - 2404,1028
+String|Line1 Reasons|Depal1,Container Table Blck,DOWNTIME,Process Failure - 2404,1029
+String|Line1 Reasons|Depal1,Pneumatic System,DOWNTIME,Process Failure - 2404,1030
+String|Line1 Reasons,Winder1,DOWNTIME,Process Failure - 2404,2000
+String|Line1 Reasons|Winder1,General - Stopped,DOWNTIME,Process Failure - 2404,2002
+String|Line1 Reasons|Winder1,General,DOWNTIME,Process Failure - 2404,2100
+String|Line1 Reasons|Winder1|General,Operator Stop,DOWNTIME,Process Failure - 2404,2101
+String|Line1 Reasons|Winder1|General,Communication Fault,DOWNTIME,Process Failure - 2404,2110
+String|Line1 Reasons|Winder1|General,Accumulator Full,DOWNTIME,Process Failure - 2404,2122
+String|Line1 Reasons|Winder1|General,Future Fault 2123,DOWNTIME,Process Failure - 2404,2123
+String|Line1 Reasons|Winder1|General,Future Fault 2124,DOWNTIME,Process Failure - 2404,2124
+String|Line1 Reasons|Winder1|General,Future Fault 2125,DOWNTIME,Process Failure - 2404,2125
+String|Line1 Reasons|Winder1|General,Future Fault 2126,DOWNTIME,Process Failure - 2404,2126
+String|Line1 Reasons|Winder1|General,Future Fault 2127,DOWNTIME,Process Failure - 2404,2127
+String|Line1 Reasons|Winder1|General,Future Fault 2128,DOWNTIME,Process Failure - 2404,2128
+String|Line1 Reasons|Winder1|General,Future Fault 2129,DOWNTIME,Process Failure - 2404,2129
+String|Line1 Reasons|Winder1|General,Future Fault 2130,DOWNTIME,Process Failure - 2404,2130
+String|Line1 Reasons|Winder1|Accumulator,Full,DOWNTIME,Process Failure - 2404,2131
+String|Line1 Reasons|Winder1|Accumulator,Not Ready,DOWNTIME,Process Failure - 2404,2132
+String|Line1 Reasons|Winder1|Tail Seal,Not Ready,DOWNTIME,Process Failure - 2404,2133
+String|Line1 Reasons|Winder1,Threadup Complete,DOWNTIME,Process Failure - 2404,2134
+String|Line1 Reasons|Winder1|Lost Ethernet,Threadup Drive 1,DOWNTIME,Process Failure - 2404,2135
+String|Line1 Reasons|Winder1|Lost Ethernet,Threadup Drive 2,DOWNTIME,Process Failure - 2404,2136
+String|Line1 Reasons|Winder1,UpperPly Control,DOWNTIME,Process Failure - 2404,2200
+String|Line1 Reasons|Winder1|UpperPly Control,Operator Stop,DOWNTIME,Process Failure - 2404,2201
+String|Line1 Reasons|Winder1|UpperPly Control,Communication Fault,DOWNTIME,Process Failure - 2404,2210
+String|Line1 Reasons|Winder1|UpperPly Control,Parent Roll Expired,DOWNTIME,Process Failure - 2404,2221
+String|Line1 Reasons|Winder1|UpperPly Control,Splice Upper Ply,DOWNTIME,Process Failure - 2404,2222
+String|Line1 Reasons|Winder1|UpperPly Control,Error Following,DOWNTIME,Process Failure - 2404,2223
+String|Line1 Reasons|Winder1|UpperPly Control,Invalid Mode,DOWNTIME,Process Failure - 2404,2224
+String|Line1 Reasons|Winder1|UpperPly Control,Future Fault 2225,DOWNTIME,Process Failure - 2404,2225
+String|Line1 Reasons|Winder1|UpperPly Control,Future Fault 2226,DOWNTIME,Process Failure - 2404,2226
+String|Line1 Reasons|Winder1|UpperPly Control,Future Fault 2227,DOWNTIME,Process Failure - 2404,2227
+String|Line1 Reasons|Winder1|UpperPly Control,Future Fault 2228,DOWNTIME,Process Failure - 2404,2228
+String|Line1 Reasons|Winder1|UpperPly Control,Future Fault 2229,DOWNTIME,Process Failure - 2404,2229
+String|Line1 Reasons|Winder1|UpperPly Control,Future Fault 2230,DOWNTIME,Process Failure - 2404,2230
+String|Line1 Reasons|Winder1,Rewind,DOWNTIME,Process Failure - 2404,2300
+String|Line1 Reasons|Winder1|Rewind,Operator Stop,DOWNTIME,Process Failure - 2404,2301
+String|Line1 Reasons|Winder1|Rewind,Communication Fault,DOWNTIME,Process Failure - 2404,2310
+String|Line1 Reasons|Winder1|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2321
+String|Line1 Reasons|Winder1|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2322
+String|Line1 Reasons|Winder1|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2323
+String|Line1 Reasons|Winder1|Rewind,Web Break,DOWNTIME,Process Failure - 2404,2324
+String|Line1 Reasons|Winder1|Rewind,No Core,DOWNTIME,Process Failure - 2404,2325
+String|Line1 Reasons|Winder1|Rewind,Not Detected,DOWNTIME,Process Failure - 2404,2326
+String|Line1 Reasons|Winder1|Rewind,Jammed,DOWNTIME,Process Failure - 2404,2327
+String|Line1 Reasons|Winder1|Rewind,Low Core Hopper,DOWNTIME,Process Failure - 2404,2328
+String|Line1 Reasons|Winder1|Rewind,Jammed,DOWNTIME,Process Failure - 2404,2329
+String|Line1 Reasons|Winder1|Rewind,No Core,DOWNTIME,Process Failure - 2404,2330
+String|Line1 Reasons|Winder1|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2331
+String|Line1 Reasons|Winder1|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2332
+String|Line1 Reasons|Winder1|Rewind,Low Xfer Adhesive,DOWNTIME,Process Failure - 2404,2333
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2334,DOWNTIME,Process Failure - 2404,2334
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2335,DOWNTIME,Process Failure - 2404,2335
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2336,DOWNTIME,Process Failure - 2404,2336
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2337,DOWNTIME,Process Failure - 2404,2337
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2338,DOWNTIME,Process Failure - 2404,2338
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2339,DOWNTIME,Process Failure - 2404,2339
+String|Line1 Reasons|Winder1|Rewind,Future Fault 2340,DOWNTIME,Process Failure - 2404,2340
+String|Line1 Reasons|Winder1,Extractor,DOWNTIME,Process Failure - 2404,2400
+String|Line1 Reasons|Winder1|Extractor,Operator Stop,DOWNTIME,Process Failure - 2404,2401
+String|Line1 Reasons|Winder1|Extractor,Communication Fault,DOWNTIME,Process Failure - 2404,2410
+String|Line1 Reasons|Winder1|Extractor,Log Not Loaded,DOWNTIME,Process Failure - 2404,2421
+String|Line1 Reasons|Winder1|Extractor,Jammed,DOWNTIME,Process Failure - 2404,2422
+String|Line1 Reasons|Winder1|Extractor,Jammed,DOWNTIME,Process Failure - 2404,2423
+String|Line1 Reasons|Winder1|Extractor,Jammed,DOWNTIME,Process Failure - 2404,2424
+String|Line1 Reasons|Winder1|Extractor,No Logs,DOWNTIME,Process Failure - 2404,2425
+String|Line1 Reasons|Winder1|Extractor,No Mandrels,DOWNTIME,Process Failure - 2404,2426
+String|Line1 Reasons|Winder1|Extractor,Not Extracted,DOWNTIME,Process Failure - 2404,2427
+String|Line1 Reasons|Winder1|Extractor,Not Disengaged,DOWNTIME,Process Failure - 2404,2428
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2429,DOWNTIME,Process Failure - 2404,2429
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2430,DOWNTIME,Process Failure - 2404,2430
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2431,DOWNTIME,Process Failure - 2404,2431
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2432,DOWNTIME,Process Failure - 2404,2432
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2433,DOWNTIME,Process Failure - 2404,2433
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2434,DOWNTIME,Process Failure - 2404,2434
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2435,DOWNTIME,Process Failure - 2404,2435
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2436,DOWNTIME,Process Failure - 2404,2436
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2437,DOWNTIME,Process Failure - 2404,2437
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2438,DOWNTIME,Process Failure - 2404,2438
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2439,DOWNTIME,Process Failure - 2404,2439
+String|Line1 Reasons|Winder1|Extractor,Future Fault 2440,DOWNTIME,Process Failure - 2404,2440
+String|Line1 Reasons|Winder1,Unwind 1,DOWNTIME,Process Failure - 2404,2500
+String|Line1 Reasons|Winder1|Unwind 1,Operator Stop,DOWNTIME,Process Failure - 2404,2501
+String|Line1 Reasons|Winder1|Unwind 1,Communication Fault,DOWNTIME,Process Failure - 2404,2510
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2521,DOWNTIME,Process Failure - 2404,2521
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2522,DOWNTIME,Process Failure - 2404,2522
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2523,DOWNTIME,Process Failure - 2404,2523
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2524,DOWNTIME,Process Failure - 2404,2524
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2525,DOWNTIME,Process Failure - 2404,2525
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2526,DOWNTIME,Process Failure - 2404,2526
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2527,DOWNTIME,Process Failure - 2404,2527
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2528,DOWNTIME,Process Failure - 2404,2528
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2529,DOWNTIME,Process Failure - 2404,2529
+String|Line1 Reasons|Winder1|Unwind 1,Future Fault 2530,DOWNTIME,Process Failure - 2404,2530
+String|Line1 Reasons|Winder1,Unwind 2,DOWNTIME,Process Failure - 2404,2600
+String|Line1 Reasons|Winder1|Unwind 2,Operator Stop,DOWNTIME,Process Failure - 2404,2601
+String|Line1 Reasons|Winder1|Unwind 2,Communication Fault,DOWNTIME,Process Failure - 2404,2610
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2621,DOWNTIME,Process Failure - 2404,2621
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2622,DOWNTIME,Process Failure - 2404,2622
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2623,DOWNTIME,Process Failure - 2404,2623
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2624,DOWNTIME,Process Failure - 2404,2624
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2625,DOWNTIME,Process Failure - 2404,2625
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2626,DOWNTIME,Process Failure - 2404,2626
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2627,DOWNTIME,Process Failure - 2404,2627
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2628,DOWNTIME,Process Failure - 2404,2628
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2629,DOWNTIME,Process Failure - 2404,2629
+String|Line1 Reasons|Winder1|Unwind 2,Future Fault 2630,DOWNTIME,Process Failure - 2404,2630
+String|Line1 Reasons|Winder1,Log Saw,DOWNTIME,Process Failure - 2404,2800
+String|Line1 Reasons|Winder1|Log Saw,Operator Stop,DOWNTIME,Process Failure - 2404,2801
+String|Line1 Reasons|Winder1|Log Saw,Communication Fault,DOWNTIME,Process Failure - 2404,2810
+String|Line1 Reasons|Winder1,Log Saw Infeed,DOWNTIME,Process Failure - 2404,2812
+String|Line1 Reasons|Winder1,Log Saw Discharge,DOWNTIME,Process Failure - 2404,2814
+String|Line1 Reasons|Winder1|Log Saw,Jammed Fault 66,DOWNTIME,Process Failure - 2404,2821
+String|Line1 Reasons|Winder1|Log Saw,Jammed Fault 91,DOWNTIME,Process Failure - 2404,2822
+String|Line1 Reasons|Winder1|Log Saw,Dropped Log,DOWNTIME,Process Failure - 2404,2823
+String|Line1 Reasons|Winder1|Log Saw,Axis Fault,DOWNTIME,Process Failure - 2404,2824
+String|Line1 Reasons|Winder1|Log Saw,Future Fault 2825,DOWNTIME,Process Failure - 2404,2825
+String|Line1 Reasons|Winder1|Log Saw,Future Fault 2826,DOWNTIME,Process Failure - 2404,2826
+String|Line1 Reasons|Winder1|Log Saw,Future Fault 2827,DOWNTIME,Process Failure - 2404,2827
+String|Line1 Reasons|Winder1|Log Saw,Future Fault 2828,DOWNTIME,Process Failure - 2404,2828
+String|Line1 Reasons|Winder1|Log Saw,Future Fault 2829,DOWNTIME,Process Failure - 2404,2829
+String|Line1 Reasons|Winder1|Log Saw,Future Fault 2830,DOWNTIME,Process Failure - 2404,2830
+String|Line1 Reasons|Winder1,Tail Seal,DOWNTIME,Process Failure - 2404,2900
+String|Line1 Reasons|Winder1|Tail Seal,Operator Stop,DOWNTIME,Process Failure - 2404,2901
+String|Line1 Reasons|Winder1|Tail Seal,Communication Fault,DOWNTIME,Process Failure - 2404,2910
+String|Line1 Reasons|Winder1,Tail Seal Infeed,DOWNTIME,Process Failure - 2404,2912
+String|Line1 Reasons|Winder1,Tail Seal Discharge,DOWNTIME,Process Failure - 2404,2914
+String|Line1 Reasons|Winder1|Tail Seal,Jam Infeed Rolls,DOWNTIME,Process Failure - 2404,2921
+String|Line1 Reasons|Winder1|Tail Seal,Jam Accum Infeed,DOWNTIME,Process Failure - 2404,2922
+String|Line1 Reasons|Winder1|Tail Seal,Log Slip Infd Rolls,DOWNTIME,Process Failure - 2404,2923
+String|Line1 Reasons|Winder1|Tail Seal,Dropped Log,DOWNTIME,Process Failure - 2404,2924
+String|Line1 Reasons|Winder1|Tail Seal,Accum Not Ready,DOWNTIME,Process Failure - 2404,2925
+String|Line1 Reasons|Winder1|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,2926
+String|Line1 Reasons|Winder1|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,2927
+String|Line1 Reasons|Winder1|Tail Seal,Future Fault 2928,DOWNTIME,Process Failure - 2404,2928
+String|Line1 Reasons|Winder1|Tail Seal,Future Fault 2929,DOWNTIME,Process Failure - 2404,2929
+String|Line1 Reasons|Winder1|Tail Seal,Future Fault 2930,DOWNTIME,Process Failure - 2404,2930
+String|Line1 Reasons,Winder2,DOWNTIME,Process Failure - 2404,8000
+String|Line1 Reasons|Winder2,General - Stopped,DOWNTIME,Process Failure - 2404,8002
+String|Line1 Reasons|Winder2,General,DOWNTIME,Process Failure - 2404,8100
+String|Line1 Reasons|Winder2|General,Operator Stop,DOWNTIME,Process Failure - 2404,8101
+String|Line1 Reasons|Winder2|General,Communication Fault,DOWNTIME,Process Failure - 2404,8110
+String|Line1 Reasons|Winder2|General,Accumulator Full,DOWNTIME,Process Failure - 2404,8122
+String|Line1 Reasons|Winder2|General,Future Fault 2123,DOWNTIME,Process Failure - 2404,8123
+String|Line1 Reasons|Winder2|General,Future Fault 2124,DOWNTIME,Process Failure - 2404,8124
+String|Line1 Reasons|Winder2|General,Future Fault 2125,DOWNTIME,Process Failure - 2404,8125
+String|Line1 Reasons|Winder2|General,Future Fault 2126,DOWNTIME,Process Failure - 2404,8126
+String|Line1 Reasons|Winder2|General,Future Fault 2127,DOWNTIME,Process Failure - 2404,8127
+String|Line1 Reasons|Winder2|General,Future Fault 2128,DOWNTIME,Process Failure - 2404,8128
+String|Line1 Reasons|Winder2|General,Future Fault 2129,DOWNTIME,Process Failure - 2404,8129
+String|Line1 Reasons|Winder2|General,Future Fault 2130,DOWNTIME,Process Failure - 2404,8130
+String|Line1 Reasons|Winder2|Accumulator,Full,DOWNTIME,Process Failure - 2404,8131
+String|Line1 Reasons|Winder2|Accumulator,Not Ready,DOWNTIME,Process Failure - 2404,8132
+String|Line1 Reasons|Winder2|Tail Seal,Not Ready,DOWNTIME,Process Failure - 2404,8133
+String|Line1 Reasons|Winder2,Threadup Complete,DOWNTIME,Process Failure - 2404,8134
+String|Line1 Reasons|Winder2|Lost Ethernet,Threadup Drive 1,DOWNTIME,Process Failure - 2404,8135
+String|Line1 Reasons|Winder2|Lost Ethernet,Threadup Drive 2,DOWNTIME,Process Failure - 2404,8136
+String|Line1 Reasons|Winder2,UpperPly Control,DOWNTIME,Process Failure - 2404,8200
+String|Line1 Reasons|Winder2|UpperPly Control,Operator Stop,DOWNTIME,Process Failure - 2404,8201
+String|Line1 Reasons|Winder2|UpperPly Control,Communication Fault,DOWNTIME,Process Failure - 2404,8210
+String|Line1 Reasons|Winder2|UpperPly Control,Parent Roll Expired,DOWNTIME,Process Failure - 2404,8221
+String|Line1 Reasons|Winder2|UpperPly Control,Splice Upper Ply,DOWNTIME,Process Failure - 2404,8222
+String|Line1 Reasons|Winder2|UpperPly Control,Error Following,DOWNTIME,Process Failure - 2404,8223
+String|Line1 Reasons|Winder2|UpperPly Control,Invalid Mode,DOWNTIME,Process Failure - 2404,8224
+String|Line1 Reasons|Winder2|UpperPly Control,Future Fault 2225,DOWNTIME,Process Failure - 2404,8225
+String|Line1 Reasons|Winder2|UpperPly Control,Future Fault 2226,DOWNTIME,Process Failure - 2404,8226
+String|Line1 Reasons|Winder2|UpperPly Control,Future Fault 2227,DOWNTIME,Process Failure - 2404,8227
+String|Line1 Reasons|Winder2|UpperPly Control,Future Fault 2228,DOWNTIME,Process Failure - 2404,8228
+String|Line1 Reasons|Winder2|UpperPly Control,Future Fault 2229,DOWNTIME,Process Failure - 2404,8229
+String|Line1 Reasons|Winder2|UpperPly Control,Future Fault 2230,DOWNTIME,Process Failure - 2404,8230
+String|Line1 Reasons|Winder2,Rewind,DOWNTIME,Process Failure - 2404,8300
+String|Line1 Reasons|Winder2|Rewind,Operator Stop,DOWNTIME,Process Failure - 2404,8301
+String|Line1 Reasons|Winder2|Rewind,Communication Fault,DOWNTIME,Process Failure - 2404,8310
+String|Line1 Reasons|Winder2|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8321
+String|Line1 Reasons|Winder2|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8322
+String|Line1 Reasons|Winder2|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8323
+String|Line1 Reasons|Winder2|Rewind,Web Break,DOWNTIME,Process Failure - 2404,8324
+String|Line1 Reasons|Winder2|Rewind,No Core,DOWNTIME,Process Failure - 2404,8325
+String|Line1 Reasons|Winder2|Rewind,Not Detected,DOWNTIME,Process Failure - 2404,8326
+String|Line1 Reasons|Winder2|Rewind,Jammed,DOWNTIME,Process Failure - 2404,8327
+String|Line1 Reasons|Winder2|Rewind,Low Core Hopper,DOWNTIME,Process Failure - 2404,8328
+String|Line1 Reasons|Winder2|Rewind,Jammed,DOWNTIME,Process Failure - 2404,8329
+String|Line1 Reasons|Winder2|Rewind,No Core,DOWNTIME,Process Failure - 2404,8330
+String|Line1 Reasons|Winder2|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8331
+String|Line1 Reasons|Winder2|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8332
+String|Line1 Reasons|Winder2|Rewind,Low Xfer Adhesive,DOWNTIME,Process Failure - 2404,8333
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2334,DOWNTIME,Process Failure - 2404,8334
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2335,DOWNTIME,Process Failure - 2404,8335
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2336,DOWNTIME,Process Failure - 2404,8336
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2337,DOWNTIME,Process Failure - 2404,8337
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2338,DOWNTIME,Process Failure - 2404,8338
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2339,DOWNTIME,Process Failure - 2404,8339
+String|Line1 Reasons|Winder2|Rewind,Future Fault 2340,DOWNTIME,Process Failure - 2404,8340
+String|Line1 Reasons|Winder2,Extractor,DOWNTIME,Process Failure - 2404,8400
+String|Line1 Reasons|Winder2|Extractor,Operator Stop,DOWNTIME,Process Failure - 2404,8401
+String|Line1 Reasons|Winder2|Extractor,Communication Fault,DOWNTIME,Process Failure - 2404,8410
+String|Line1 Reasons|Winder2|Extractor,Log Not Loaded,DOWNTIME,Process Failure - 2404,8421
+String|Line1 Reasons|Winder2|Extractor,Jammed,DOWNTIME,Process Failure - 2404,8422
+String|Line1 Reasons|Winder2|Extractor,Jammed,DOWNTIME,Process Failure - 2404,8423
+String|Line1 Reasons|Winder2|Extractor,Jammed,DOWNTIME,Process Failure - 2404,8424
+String|Line1 Reasons|Winder2|Extractor,No Logs,DOWNTIME,Process Failure - 2404,8425
+String|Line1 Reasons|Winder2|Extractor,No Mandrels,DOWNTIME,Process Failure - 2404,8426
+String|Line1 Reasons|Winder2|Extractor,Not Extracted,DOWNTIME,Process Failure - 2404,8427
+String|Line1 Reasons|Winder2|Extractor,Not Disengaged,DOWNTIME,Process Failure - 2404,8428
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2429,DOWNTIME,Process Failure - 2404,8429
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2430,DOWNTIME,Process Failure - 2404,8430
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2431,DOWNTIME,Process Failure - 2404,8431
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2432,DOWNTIME,Process Failure - 2404,8432
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2433,DOWNTIME,Process Failure - 2404,8433
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2434,DOWNTIME,Process Failure - 2404,8434
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2435,DOWNTIME,Process Failure - 2404,8435
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2436,DOWNTIME,Process Failure - 2404,8436
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2437,DOWNTIME,Process Failure - 2404,8437
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2438,DOWNTIME,Process Failure - 2404,8438
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2439,DOWNTIME,Process Failure - 2404,8439
+String|Line1 Reasons|Winder2|Extractor,Future Fault 2440,DOWNTIME,Process Failure - 2404,8440
+String|Line1 Reasons|Winder2,Unwind 1,DOWNTIME,Process Failure - 2404,8500
+String|Line1 Reasons|Winder2|Unwind 1,Operator Stop,DOWNTIME,Process Failure - 2404,8501
+String|Line1 Reasons|Winder2|Unwind 1,Communication Fault,DOWNTIME,Process Failure - 2404,8510
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2521,DOWNTIME,Process Failure - 2404,8521
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2522,DOWNTIME,Process Failure - 2404,8522
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2523,DOWNTIME,Process Failure - 2404,8523
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2524,DOWNTIME,Process Failure - 2404,8524
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2525,DOWNTIME,Process Failure - 2404,8525
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2526,DOWNTIME,Process Failure - 2404,8526
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2527,DOWNTIME,Process Failure - 2404,8527
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2528,DOWNTIME,Process Failure - 2404,8528
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2529,DOWNTIME,Process Failure - 2404,8529
+String|Line1 Reasons|Winder2|Unwind 1,Future Fault 2530,DOWNTIME,Process Failure - 2404,8530
+String|Line1 Reasons|Winder2,Unwind 2,DOWNTIME,Process Failure - 2404,8600
+String|Line1 Reasons|Winder2|Unwind 2,Operator Stop,DOWNTIME,Process Failure - 2404,8601
+String|Line1 Reasons|Winder2|Unwind 2,Communication Fault,DOWNTIME,Process Failure - 2404,8610
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2621,DOWNTIME,Process Failure - 2404,8621
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2622,DOWNTIME,Process Failure - 2404,8622
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2623,DOWNTIME,Process Failure - 2404,8623
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2624,DOWNTIME,Process Failure - 2404,8624
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2625,DOWNTIME,Process Failure - 2404,8625
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2626,DOWNTIME,Process Failure - 2404,8626
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2627,DOWNTIME,Process Failure - 2404,8627
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2628,DOWNTIME,Process Failure - 2404,8628
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2629,DOWNTIME,Process Failure - 2404,8629
+String|Line1 Reasons|Winder2|Unwind 2,Future Fault 2630,DOWNTIME,Process Failure - 2404,8630
+String|Line1 Reasons|Winder2,Log Saw,DOWNTIME,Process Failure - 2404,8800
+String|Line1 Reasons|Winder2|Log Saw,Operator Stop,DOWNTIME,Process Failure - 2404,8801
+String|Line1 Reasons|Winder2|Log Saw,Communication Fault,DOWNTIME,Process Failure - 2404,8810
+String|Line1 Reasons|Winder2,Log Saw Infeed,DOWNTIME,Process Failure - 2404,8812
+String|Line1 Reasons|Winder2,Log Saw Discharge,DOWNTIME,Process Failure - 2404,8814
+String|Line1 Reasons|Winder2|Log Saw,Jammed Fault 66,DOWNTIME,Process Failure - 2404,8821
+String|Line1 Reasons|Winder2|Log Saw,Jammed Fault 91,DOWNTIME,Process Failure - 2404,8822
+String|Line1 Reasons|Winder2|Log Saw,Dropped Log,DOWNTIME,Process Failure - 2404,8823
+String|Line1 Reasons|Winder2|Log Saw,Axis Fault,DOWNTIME,Process Failure - 2404,8824
+String|Line1 Reasons|Winder2|Log Saw,Future Fault 2825,DOWNTIME,Process Failure - 2404,8825
+String|Line1 Reasons|Winder2|Log Saw,Future Fault 2826,DOWNTIME,Process Failure - 2404,8826
+String|Line1 Reasons|Winder2|Log Saw,Future Fault 2827,DOWNTIME,Process Failure - 2404,8827
+String|Line1 Reasons|Winder2|Log Saw,Future Fault 2828,DOWNTIME,Process Failure - 2404,8828
+String|Line1 Reasons|Winder2|Log Saw,Future Fault 2829,DOWNTIME,Process Failure - 2404,8829
+String|Line1 Reasons|Winder2|Log Saw,Future Fault 2830,DOWNTIME,Process Failure - 2404,8830
+String|Line1 Reasons|Winder2,Tail Seal,DOWNTIME,Process Failure - 2404,8900
+String|Line1 Reasons|Winder2|Tail Seal,Operator Stop,DOWNTIME,Process Failure - 2404,8901
+String|Line1 Reasons|Winder2|Tail Seal,Communication Fault,DOWNTIME,Process Failure - 2404,8910
+String|Line1 Reasons|Winder2,Tail Seal Infeed,DOWNTIME,Process Failure - 2404,8912
+String|Line1 Reasons|Winder2,Tail Seal Discharge,DOWNTIME,Process Failure - 2404,8914
+String|Line1 Reasons|Winder2|Tail Seal,Jam Infeed Rolls,DOWNTIME,Process Failure - 2404,8921
+String|Line1 Reasons|Winder2|Tail Seal,Jam Accum Infeed,DOWNTIME,Process Failure - 2404,8922
+String|Line1 Reasons|Winder2|Tail Seal,Log Slip Infd Rolls,DOWNTIME,Process Failure - 2404,8923
+String|Line1 Reasons|Winder2|Tail Seal,Dropped Log,DOWNTIME,Process Failure - 2404,8924
+String|Line1 Reasons|Winder2|Tail Seal,Accum Not Ready,DOWNTIME,Process Failure - 2404,8925
+String|Line1 Reasons|Winder2|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,8926
+String|Line1 Reasons|Winder2|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,8927
+String|Line1 Reasons|Winder2|Tail Seal,Future Fault 2928,DOWNTIME,Process Failure - 2404,8928
+String|Line1 Reasons|Winder2|Tail Seal,Future Fault 2929,DOWNTIME,Process Failure - 2404,8929
+String|Line1 Reasons|Winder2|Tail Seal,Future Fault 2930,DOWNTIME,Process Failure - 2404,8930
+String|Line1 Reasons,Stuffer1,DOWNTIME,Process Failure - 2404,3000
+String|Line1 Reasons|Stuffer1,Operator Stop,DOWNTIME,Process Failure - 2404,3001
+String|Line1 Reasons|Stuffer1,General Stop,DOWNTIME,Process Failure - 2404,3002
+String|Line1 Reasons|Stuffer1|General Stop,Aborted,DOWNTIME,Process Failure - 2404,3003
+String|Line1 Reasons|Stuffer1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,3004
+String|Line1 Reasons|Stuffer1|General Stop,No Counts,DOWNTIME,Process Failure - 2404,3005
+String|Line1 Reasons|Stuffer1,Communication Fault,DOWNTIME,Process Failure - 2404,3010
+String|Line1 Reasons|Conveyors,Stuffer1 Infeed,DOWNTIME,Process Failure - 2404,3012
+String|Line1 Reasons|Conveyors,Stuffer1 Infeed Off,DOWNTIME,Process Failure - 2404,3013
+String|Line1 Reasons|Conveyors,Stuffer1 Discharge,DOWNTIME,Process Failure - 2404,3014
+String|Line1 Reasons|Conveyors,Stuffer1 Disch Off,DOWNTIME,Process Failure - 2404,3015
+String|Line1 Reasons|Stuffer1,Missing Canisters,DOWNTIME,Process Failure - 2404,3021
+String|Line1 Reasons|Stuffer1,Guard Door Open,DOWNTIME,Process Failure - 2404,3022
+String|Line1 Reasons|Stuffer1,Axis Overtorque,DOWNTIME,Process Failure - 2404,3023
+String|Line1 Reasons|Stuffer1,Low Air Pressure,DOWNTIME,Process Failure - 2404,3024
+String|Line1 Reasons|Stuffer1,Load Check Failure,DOWNTIME,Process Failure - 2404,3025
+String|Line1 Reasons|Stuffer1,Ovhead Confiner Jam,DOWNTIME,Process Failure - 2404,3026
+String|Line1 Reasons|Stuffer1,Discharge Jam,DOWNTIME,Process Failure - 2404,3027
+String|Line1 Reasons|Stuffer1,Loader Jam,DOWNTIME,Process Failure - 2404,3028
+String|Line1 Reasons|Stuffer1,Clip Out 2,DOWNTIME,Process Failure - 2404,3029
+String|Line1 Reasons|Stuffer1,Checkmat Fault,DOWNTIME,Process Failure - 2404,3030
+String|Line1 Reasons,Filler1,DOWNTIME,Process Failure - 2404,4000
+String|Line1 Reasons|Filler1,Operator Stop,DOWNTIME,Process Failure - 2404,4001
+String|Line1 Reasons|Filler1,General Stop,DOWNTIME,Process Failure - 2404,4002
+String|Line1 Reasons|Filler1|General Stop,Internal,DOWNTIME,Process Failure - 2404,4003
+String|Line1 Reasons|Filler1|General Stop,External,DOWNTIME,Process Failure - 2404,4004
+String|Line1 Reasons|Filler1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,4005
+String|Line1 Reasons|Filler1,Communication Fault,DOWNTIME,Process Failure - 2404,4010
+String|Line1 Reasons|Conveyors,Filler1 Infeed,DOWNTIME,Process Failure - 2404,4012
+String|Line1 Reasons|Conveyors,Filler1 Discharge,DOWNTIME,Process Failure - 2404,4014
+String|Line1 Reasons|Filler1,Coder Not Ready,DOWNTIME,Process Failure - 2404,4021
+String|Line1 Reasons|Filler1|Checkmat,Not Ready,DOWNTIME,Process Failure - 2404,4022
+String|Line1 Reasons|Filler1|Capper,Feed Not Ready,DOWNTIME,Process Failure - 2404,4023
+String|Line1 Reasons|Filler1|Checkmat,Faulty Cap,DOWNTIME,Process Failure - 2404,4024
+String|Line1 Reasons|Filler1,Softstart Overload,DOWNTIME,Process Failure - 2404,4025
+String|Line1 Reasons|Filler1|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4026
+String|Line1 Reasons|Filler1|Capper,No Caps - Transfer,DOWNTIME,Process Failure - 2404,4028
+String|Line1 Reasons|Filler1,Backlog/Backup,DOWNTIME,Process Failure - 2404,4029
+String|Line1 Reasons|Filler1,Infeed Gap,DOWNTIME,Process Failure - 2404,4030
+String|Line1 Reasons|Filler1,Cont Present Trip,DOWNTIME,Process Failure - 2404,4031
+String|Line1 Reasons|Filler1,Machine Not Ready,DOWNTIME,Process Failure - 2404,4032
+String|Line1 Reasons|Filler1,Turn ON Required,DOWNTIME,Process Failure - 2404,4033
+String|Line1 Reasons|Filler1,Arol Cap Jam,DOWNTIME,Process Failure - 2404,4034
+String|Line1 Reasons|Filler1,Arol Cap Jam,DOWNTIME,Process Failure - 2404,4035
+String|Line1 Reasons|Filler1,Future Fault 4036,DOWNTIME,Process Failure - 2404,4036
+String|Line1 Reasons|Filler1,Future Fault 4037,DOWNTIME,Process Failure - 2404,4037
+String|Line1 Reasons|Filler1,Future Fault 4038,DOWNTIME,Process Failure - 2404,4038
+String|Line1 Reasons|Filler1,Future Fault 4039,DOWNTIME,Process Failure - 2404,4039
+String|Line1 Reasons|Filler1,Future Fault 4040,DOWNTIME,Process Failure - 2404,4040
+String|Line1 Reasons|Filler1|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4051
+String|Line1 Reasons|Filler1|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4052
+String|Line1 Reasons|Filler1|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4053
+String|Line1 Reasons|Filler1|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4054
+String|Line1 Reasons|Filler1|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4055
+String|Line1 Reasons|Conveyors,Filler Glideliner,DOWNTIME,Process Failure - 2404,4910
+String|Line1 Reasons|Conveyors|Filler Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4911
+String|Line1 Reasons|Conveyors|Filler Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4912
+String|Line1 Reasons|Conveyors|Filler Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4914
+String|Line1 Reasons|Conveyors,Labeler1 Glideliner,DOWNTIME,Process Failure - 2404,4920
+String|Line1 Reasons|Conveyors|Labeler1 Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4921
+String|Line1 Reasons|Conveyors|Labeler1 Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4922
+String|Line1 Reasons|Conveyors|Labeler1 Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4924
+String|Line1 Reasons|Conveyors,Labeler2 Glideliner,DOWNTIME,Process Failure - 2404,4930
+String|Line1 Reasons|Conveyors|Labeler2 Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4931
+String|Line1 Reasons|Conveyors|Labeler2 Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4932
+String|Line1 Reasons|Conveyors|Labeler2 Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4934
+String|Line1 Reasons|Conveyors,Labeler3 Glideliner,DOWNTIME,Process Failure - 2404,4940
+String|Line1 Reasons|Conveyors|Labeler3 Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4941
+String|Line1 Reasons|Conveyors|Labeler3 Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4942
+String|Line1 Reasons|Conveyors|Labeler3 Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4944
+String|Line1 Reasons,Labeler1,DOWNTIME,Process Failure - 2404,5100
+String|Line1 Reasons|Labeler1,Operator Stop,DOWNTIME,Process Failure - 2404,5101
+String|Line1 Reasons|Labeler1,General Stop,DOWNTIME,Process Failure - 2404,5102
+String|Line1 Reasons|Labeler1|General Stop,Internal,DOWNTIME,Process Failure - 2404,5103
+String|Line1 Reasons|Labeler1|General Stop,External,DOWNTIME,Process Failure - 2404,5104
+String|Line1 Reasons|Labeler1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,5105
+String|Line1 Reasons|Labeler1,Communication Fault,DOWNTIME,Process Failure - 2404,5110
+String|Line1 Reasons|Conveyors,Labeler1 Infeed,DOWNTIME,Process Failure - 2404,5112
+String|Line1 Reasons|Conveyors,Labeler1 Discharge,DOWNTIME,Process Failure - 2404,5114
+String|Line1 Reasons|Labeler1,Container Backup,DOWNTIME,Process Failure - 2404,5121
+String|Line1 Reasons|Labeler1,Label Chk Not Ready,DOWNTIME,Process Failure - 2404,5122
+String|Line1 Reasons|Labeler1,Auto-Changeover,DOWNTIME,Process Failure - 2404,5123
+String|Line1 Reasons|Labeler1,Damaged Container,DOWNTIME,Process Failure - 2404,5124
+String|Line1 Reasons|Labeler1,Inspect Unit Fault,DOWNTIME,Process Failure - 2404,5125
+String|Line1 Reasons|Labeler1,Infeed Gap Monitor,DOWNTIME,Process Failure - 2404,5126
+String|Line1 Reasons|Labeler1,Rear Cross Slide,DOWNTIME,Process Failure - 2404,5127
+String|Line1 Reasons|Labeler1,Subsystem Not Ready,DOWNTIME,Process Failure - 2404,5128
+String|Line1 Reasons|Labeler1,Wait for Enable Code,DOWNTIME,Process Failure - 2404,5129
+String|Line1 Reasons|Labeler1,Future Fault 5135,DOWNTIME,Process Failure - 2404,5135
+String|Line1 Reasons,Labeler2,DOWNTIME,Process Failure - 2404,5400
+String|Line1 Reasons|Labeler2,Operator Stop,DOWNTIME,Process Failure - 2404,5401
+String|Line1 Reasons|Labeler2,General Stop,DOWNTIME,Process Failure - 2404,5402
+String|Line1 Reasons|Labeler2|General Stop,Internal,DOWNTIME,Process Failure - 2404,5403
+String|Line1 Reasons|Labeler2|General Stop,External,DOWNTIME,Process Failure - 2404,5404
+String|Line1 Reasons|Labeler2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,5405
+String|Line1 Reasons|Labeler2,Communication Fault,DOWNTIME,Process Failure - 2404,5410
+String|Line1 Reasons|Conveyors,Labeler2 Infeed,DOWNTIME,Process Failure - 2404,5412
+String|Line1 Reasons|Conveyors,Labeler2 Discharge,DOWNTIME,Process Failure - 2404,5414
+String|Line1 Reasons|Labeler2,Container Backup,DOWNTIME,Process Failure - 2404,5421
+String|Line1 Reasons|Labeler2,Label Chk Not Ready,DOWNTIME,Process Failure - 2404,5422
+String|Line1 Reasons|Labeler2,Auto-Changeover,DOWNTIME,Process Failure - 2404,5423
+String|Line1 Reasons|Labeler2,Damaged Container,DOWNTIME,Process Failure - 2404,5424
+String|Line1 Reasons|Labeler2,Inspect Unit Fault,DOWNTIME,Process Failure - 2404,5425
+String|Line1 Reasons|Labeler2,Infeed Gap Monitor,DOWNTIME,Process Failure - 2404,5426
+String|Line1 Reasons|Labeler2,Rear Cross Slide,DOWNTIME,Process Failure - 2404,5427
+String|Line1 Reasons|Labeler2,Subsystem Not Ready,DOWNTIME,Process Failure - 2404,5428
+String|Line1 Reasons|Labeler2,Wait for Enable Code,DOWNTIME,Process Failure - 2404,5429
+String|Line1 Reasons|Labeler2,Future Fault 5x30,DOWNTIME,Process Failure - 2404,5430
+String|Line1 Reasons,Labeler3,DOWNTIME,Process Failure - 2404,5700
+String|Line1 Reasons|Labeler3,Operator Stop,DOWNTIME,Process Failure - 2404,5701
+String|Line1 Reasons|Labeler3,General Stop,DOWNTIME,Process Failure - 2404,5702
+String|Line1 Reasons|Labeler3|General Stop,Internal,DOWNTIME,Process Failure - 2404,5703
+String|Line1 Reasons|Labeler3|General Stop,External,DOWNTIME,Process Failure - 2404,5704
+String|Line1 Reasons|Labeler3|General Stop,Suspended,DOWNTIME,Process Failure - 2404,5705
+String|Line1 Reasons|Labeler3,Communication Fault,DOWNTIME,Process Failure - 2404,5710
+String|Line1 Reasons|Conveyors,Labeler3 Infeed,DOWNTIME,Process Failure - 2404,5712
+String|Line1 Reasons|Conveyors,Labeler3 Discharge,DOWNTIME,Process Failure - 2404,5714
+String|Line1 Reasons|Labeler3,Container Backup,DOWNTIME,Process Failure - 2404,5721
+String|Line1 Reasons|Labeler3,Label Chk Not Ready,DOWNTIME,Process Failure - 2404,5722
+String|Line1 Reasons|Labeler3,Auto-Changeover,DOWNTIME,Process Failure - 2404,5723
+String|Line1 Reasons|Labeler3,Damaged Container,DOWNTIME,Process Failure - 2404,5724
+String|Line1 Reasons|Labeler3,Inspect Unit Fault,DOWNTIME,Process Failure - 2404,5725
+String|Line1 Reasons|Labeler3,Infeed Gap Monitor,DOWNTIME,Process Failure - 2404,5726
+String|Line1 Reasons|Labeler3,Rear Cross Slide,DOWNTIME,Process Failure - 2404,5727
+String|Line1 Reasons|Labeler3,Subsystem Not Ready,DOWNTIME,Process Failure - 2404,5728
+String|Line1 Reasons|Labeler3,Wait for Enable Code,DOWNTIME,Process Failure - 2404,5729
+String|Line1 Reasons|Labeler3,Future Fault 5x30,DOWNTIME,Process Failure - 2404,5730
+String|Line1 Reasons,FS1,DOWNTIME,Process Failure - 2404,6000
+String|Line1 Reasons|FS1,Operator Stop,DOWNTIME,Process Failure - 2404,6001
+String|Line1 Reasons|FS1,General Stop,DOWNTIME,Process Failure - 2404,6002
+String|Line1 Reasons|FS1|General Stop,Internal,DOWNTIME,Process Failure - 2404,6003
+String|Line1 Reasons|FS1|General Stop,External,DOWNTIME,Process Failure - 2404,6004
+String|Line1 Reasons|FS1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6005
+String|Line1 Reasons|FS1,Communication Fault,DOWNTIME,Process Failure - 2404,6010
+String|Line1 Reasons|Conveyors,FS1 Infeed,DOWNTIME,Process Failure - 2404,6012
+String|Line1 Reasons|Conveyors,FS1 Discharge,DOWNTIME,Process Failure - 2404,6014
+String|Line1 Reasons|FS1,Containers NotSpaced,DOWNTIME,Process Failure - 2404,6021
+String|Line1 Reasons|FS1,Containers Tipped,DOWNTIME,Process Failure - 2404,6022
+String|Line1 Reasons|FS1,Magazine Empty,DOWNTIME,Process Failure - 2404,6023
+String|Line1 Reasons|FS1,No Register Mark,DOWNTIME,Process Failure - 2404,6024
+String|Line1 Reasons|FS1,Servo Fault,DOWNTIME,Process Failure - 2404,6025
+String|Line1 Reasons|FS1,Pack Conveyor Fault,DOWNTIME,Process Failure - 2404,6026
+String|Line1 Reasons|FS1,Pack Length Fault,DOWNTIME,Process Failure - 2404,6027
+String|Line1 Reasons|FS1,Double Blank,DOWNTIME,Process Failure - 2404,6029
+String|Line1 Reasons|FS1,Infeed Monitoring,DOWNTIME,Process Failure - 2404,6030
+String|Line1 Reasons|FS1,Incorrect Wrap,DOWNTIME,Process Failure - 2404,6031
+String|Line1 Reasons|FS1,No Blank Separator,DOWNTIME,Process Failure - 2404,6032
+String|Line1 Reasons|FS1,Cam Linking Inactive,DOWNTIME,Process Failure - 2404,6033
+String|Line1 Reasons|FS1,PE Sensor Fault,DOWNTIME,Process Failure - 2404,6034
+String|Line1 Reasons|FS1,Future Fault 6x35,DOWNTIME,Process Failure - 2404,6035
+String|Line1 Reasons|FS1,Future Fault 6x36,DOWNTIME,Process Failure - 2404,6036
+String|Line1 Reasons|FS1,Future Fault 6x37,DOWNTIME,Process Failure - 2404,6037
+String|Line1 Reasons|FS1,Future Fault 6x38,DOWNTIME,Process Failure - 2404,6038
+String|Line1 Reasons|FS1,Future Fault 6x39,DOWNTIME,Process Failure - 2404,6039
+String|Line1 Reasons|FS1,Future Fault 6x40,DOWNTIME,Process Failure - 2404,6040
+String|Line1 Reasons|FS1,Pack Not Glued,DOWNTIME,Process Failure - 2404,6051
+String|Line1 Reasons|FS1,Pack Jam - Closing,DOWNTIME,Process Failure - 2404,6052
+String|Line1 Reasons|FS1|Pack Length Fault,In Folding Station,DOWNTIME,Process Failure - 2404,6053
+String|Line1 Reasons|FS1|Pack Length Fault,Front of Folding,DOWNTIME,Process Failure - 2404,6054
+String|Line1 Reasons|FS1,Separated Blank,DOWNTIME,Process Failure - 2404,6055
+String|Line1 Reasons|FS1,Missing Blank,DOWNTIME,Process Failure - 2404,6056
+String|Line1 Reasons|FS1,Container Fallen,DOWNTIME,Process Failure - 2404,6057
+String|Line1 Reasons|FS1,Divider Height,DOWNTIME,Process Failure - 2404,6058
+String|Line1 Reasons|FS1,Collision Fault,DOWNTIME,Process Failure - 2404,6059
+String|Line1 Reasons|FS1,Push Chain Sensor,DOWNTIME,Process Failure - 2404,6060
+String|Line1 Reasons|FS1,Push Rod Fault,DOWNTIME,Process Failure - 2404,6061
+String|Line1 Reasons|FS1,Push Chain Fault,DOWNTIME,Process Failure - 2404,6062
+String|Line1 Reasons|FS1,Insufficient Qty,DOWNTIME,Process Failure - 2404,6063
+String|Line1 Reasons|FS1,Push Rods Active,DOWNTIME,Process Failure - 2404,6064
+String|Line1 Reasons,CosmoPack1,DOWNTIME,Process Failure - 2404,6400
+String|Line1 Reasons|CosmoPack1,Operator Stop,DOWNTIME,Process Failure - 2404,6401
+String|Line1 Reasons|CosmoPack1,General Stop,DOWNTIME,Process Failure - 2404,6402
+String|Line1 Reasons|CosmoPack1|General Stop,Internal,DOWNTIME,Process Failure - 2404,6403
+String|Line1 Reasons|CosmoPack1|General Stop,External,DOWNTIME,Process Failure - 2404,6404
+String|Line1 Reasons|CosmoPack1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6405
+String|Line1 Reasons|CosmoPack1,Communication Fault,DOWNTIME,Process Failure - 2404,6410
+String|Line1 Reasons|Conveyors,CosmoPack1 Infeed,DOWNTIME,Process Failure - 2404,6412
+String|Line1 Reasons|Conveyors,CosmoPack1 Discharge,DOWNTIME,Process Failure - 2404,6414
+String|Line1 Reasons|CosmoPack1,Reset Status,DOWNTIME,Process Failure - 2404,6421
+String|Line1 Reasons|CosmoPack1,Stopped Status,DOWNTIME,Process Failure - 2404,6422
+String|Line1 Reasons|CosmoPack1,Initialized Status,DOWNTIME,Process Failure - 2404,6423
+String|Line1 Reasons|CosmoPack1,Ready Status,DOWNTIME,Process Failure - 2404,6424
+String|Line1 Reasons|CosmoPack1,Suspended Status,DOWNTIME,Process Failure - 2404,6425
+String|Line1 Reasons|CosmoPack1,Held Status,DOWNTIME,Process Failure - 2404,6426
+String|Line1 Reasons|CosmoPack1,Completed Status,DOWNTIME,Process Failure - 2404,6427
+String|Line1 Reasons|CosmoPack1,Changeover Status,DOWNTIME,Process Failure - 2404,6428
+String|Line1 Reasons|CosmoPack1,CIP Status,DOWNTIME,Process Failure - 2404,6429
+String|Line1 Reasons|CosmoPack1,Aborted Status,DOWNTIME,Process Failure - 2404,6420
+String|Line1 Reasons|CosmoPack1|Prod Out of Position,After Screws,DOWNTIME,Process Failure - 2404,6430
+String|Line1 Reasons|CosmoPack1|Prod Out of Position,Before Outfeed Guide,DOWNTIME,Process Failure - 2404,6431
+String|Line1 Reasons|CosmoPack1|Operator Stop,Cycle Stop/Not Auto,DOWNTIME,Process Failure - 2404,6432
+String|Line1 Reasons|CosmoPack1,Discharge Blockage,DOWNTIME,Process Failure - 2404,6433
+String|Line1 Reasons|CosmoPack1,Infeed Screw Blocked,DOWNTIME,Process Failure - 2404,6434
+String|Line1 Reasons|CosmoPack1,Future Fault 6n35,DOWNTIME,Process Failure - 2404,6435
+String|Line1 Reasons|CosmoPack1,Future Fault 6n36,DOWNTIME,Process Failure - 2404,6436
+String|Line1 Reasons|CosmoPack1,Future Fault 6n37,DOWNTIME,Process Failure - 2404,6437
+String|Line1 Reasons|CosmoPack1,Future Fault 6n38,DOWNTIME,Process Failure - 2404,6438
+String|Line1 Reasons|CosmoPack1,Future Fault 6n39,DOWNTIME,Process Failure - 2404,6439
+String|Line1 Reasons|CosmoPack1,Future Fault 6n40,DOWNTIME,Process Failure - 2404,6440
+String|Line1 Reasons,TFS1,DOWNTIME,Process Failure - 2404,6500
+String|Line1 Reasons|TFS1,Operator Stop,DOWNTIME,Process Failure - 2404,6501
+String|Line1 Reasons|TFS1,General Stop,DOWNTIME,Process Failure - 2404,6502
+String|Line1 Reasons|TFS1|General Stop,Internal,DOWNTIME,Process Failure - 2404,6503
+String|Line1 Reasons|TFS1|General Stop,External,DOWNTIME,Process Failure - 2404,6504
+String|Line1 Reasons|TFS1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6505
+String|Line1 Reasons|TFS1,Communication Fault,DOWNTIME,Process Failure - 2404,6510
+String|Line1 Reasons|Conveyors,TFS1 Infeed,DOWNTIME,Process Failure - 2404,6512
+String|Line1 Reasons|Conveyors,TFS1 Discharge,DOWNTIME,Process Failure - 2404,6514
+String|Line1 Reasons|TFS1,Containers NotSpaced,DOWNTIME,Process Failure - 2404,6521
+String|Line1 Reasons|TFS1,Containers Tipped,DOWNTIME,Process Failure - 2404,6522
+String|Line1 Reasons|TFS1,Magazine Empty,DOWNTIME,Process Failure - 2404,6523
+String|Line1 Reasons|TFS1,No Register Mark,DOWNTIME,Process Failure - 2404,6524
+String|Line1 Reasons|TFS1,Servo Fault,DOWNTIME,Process Failure - 2404,6525
+String|Line1 Reasons|TFS1,Pack Conveyor Fault,DOWNTIME,Process Failure - 2404,6526
+String|Line1 Reasons|TFS1,Pack Length Fault,DOWNTIME,Process Failure - 2404,6527
+String|Line1 Reasons|TFS1,Double Blank,DOWNTIME,Process Failure - 2404,6529
+String|Line1 Reasons|TFS1,Infeed Monitoring,DOWNTIME,Process Failure - 2404,6530
+String|Line1 Reasons|TFS1,Incorrect Wrap,DOWNTIME,Process Failure - 2404,6531
+String|Line1 Reasons|TFS1,No Blank Separator,DOWNTIME,Process Failure - 2404,6532
+String|Line1 Reasons|TFS1,Cam Linking Inactive,DOWNTIME,Process Failure - 2404,6533
+String|Line1 Reasons|TFS1,PE Sensor Fault,DOWNTIME,Process Failure - 2404,6534
+String|Line1 Reasons|TFS1,Future Fault 6x35,DOWNTIME,Process Failure - 2404,6535
+String|Line1 Reasons|TFS1,Future Fault 6x36,DOWNTIME,Process Failure - 2404,6536
+String|Line1 Reasons|TFS1,Future Fault 6x37,DOWNTIME,Process Failure - 2404,6537
+String|Line1 Reasons|TFS1,Future Fault 6x38,DOWNTIME,Process Failure - 2404,6538
+String|Line1 Reasons|TFS1,Future Fault 6x39,DOWNTIME,Process Failure - 2404,6539
+String|Line1 Reasons|TFS1,Future Fault 6x40,DOWNTIME,Process Failure - 2404,6540
+String|Line1 Reasons|TFS1,Pack Not Glued,DOWNTIME,Process Failure - 2404,6551
+String|Line1 Reasons|TFS1,Pack Jam - Closing,DOWNTIME,Process Failure - 2404,6552
+String|Line1 Reasons|TFS1|Pack Length Fault,In Folding Station,DOWNTIME,Process Failure - 2404,6553
+String|Line1 Reasons|TFS1|Pack Length Fault,Front of Folding,DOWNTIME,Process Failure - 2404,6554
+String|Line1 Reasons|TFS1,Separated Blank,DOWNTIME,Process Failure - 2404,6555
+String|Line1 Reasons|TFS1,Missing Blank,DOWNTIME,Process Failure - 2404,6556
+String|Line1 Reasons|TFS1,Container Fallen,DOWNTIME,Process Failure - 2404,6557
+String|Line1 Reasons|TFS1,Divider Height,DOWNTIME,Process Failure - 2404,6558
+String|Line1 Reasons|TFS1,Collision Fault,DOWNTIME,Process Failure - 2404,6559
+String|Line1 Reasons|TFS1,Push Chain Sensor,DOWNTIME,Process Failure - 2404,6560
+String|Line1 Reasons|TFS1,Push Rod Fault,DOWNTIME,Process Failure - 2404,6561
+String|Line1 Reasons|TFS1,Push Chain Fault,DOWNTIME,Process Failure - 2404,6562
+String|Line1 Reasons|TFS1,Insufficient Qty,DOWNTIME,Process Failure - 2404,6563
+String|Line1 Reasons|TFS1,Push Rods Active,DOWNTIME,Process Failure - 2404,6564
+String|Line1 Reasons,FS2,DOWNTIME,Process Failure - 2404,6200
+String|Line1 Reasons|FS2,Operator Stop,DOWNTIME,Process Failure - 2404,6201
+String|Line1 Reasons|FS2,General Stop,DOWNTIME,Process Failure - 2404,6202
+String|Line1 Reasons|FS2|General Stop,Internal,DOWNTIME,Process Failure - 2404,6203
+String|Line1 Reasons|FS2|General Stop,External,DOWNTIME,Process Failure - 2404,6204
+String|Line1 Reasons|FS2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6205
+String|Line1 Reasons|FS2,Communication Fault,DOWNTIME,Process Failure - 2404,6210
+String|Line1 Reasons|Conveyors,FS2 Infeed,DOWNTIME,Process Failure - 2404,6212
+String|Line1 Reasons|Conveyors,FS2 Discharge,DOWNTIME,Process Failure - 2404,6214
+String|Line1 Reasons|FS2,Containers NotSpaced,DOWNTIME,Process Failure - 2404,6221
+String|Line1 Reasons|FS2,Containers Tipped,DOWNTIME,Process Failure - 2404,6222
+String|Line1 Reasons|FS2,Magazine Empty,DOWNTIME,Process Failure - 2404,6223
+String|Line1 Reasons|FS2,No Register Mark,DOWNTIME,Process Failure - 2404,6224
+String|Line1 Reasons|FS2,Servo Fault,DOWNTIME,Process Failure - 2404,6225
+String|Line1 Reasons|FS2,Pack Conveyor Fault,DOWNTIME,Process Failure - 2404,6226
+String|Line1 Reasons|FS2,Pack Length Fault,DOWNTIME,Process Failure - 2404,6227
+String|Line1 Reasons|FS2,Double Blank,DOWNTIME,Process Failure - 2404,6229
+String|Line1 Reasons|FS2,Infeed Monitoring,DOWNTIME,Process Failure - 2404,6230
+String|Line1 Reasons|FS2,Incorrect Wrap,DOWNTIME,Process Failure - 2404,6231
+String|Line1 Reasons|FS2,No Blank Separator,DOWNTIME,Process Failure - 2404,6232
+String|Line1 Reasons|FS2,Cam Linking Inactive,DOWNTIME,Process Failure - 2404,6233
+String|Line1 Reasons|FS2,PE Sensor Fault,DOWNTIME,Process Failure - 2404,6234
+String|Line1 Reasons|FS2,Future Fault 6x35,DOWNTIME,Process Failure - 2404,6235
+String|Line1 Reasons|FS2,Future Fault 6x36,DOWNTIME,Process Failure - 2404,6236
+String|Line1 Reasons|FS2,Future Fault 6x37,DOWNTIME,Process Failure - 2404,6237
+String|Line1 Reasons|FS2,Future Fault 6x38,DOWNTIME,Process Failure - 2404,6238
+String|Line1 Reasons|FS2,Future Fault 6x39,DOWNTIME,Process Failure - 2404,6239
+String|Line1 Reasons|FS2,Future Fault 6x40,DOWNTIME,Process Failure - 2404,6240
+String|Line1 Reasons|FS2,Pack Not Glued,DOWNTIME,Process Failure - 2404,6251
+String|Line1 Reasons|FS2,Pack Jam - Closing,DOWNTIME,Process Failure - 2404,6252
+String|Line1 Reasons|FS2|Pack Length Fault,In Folding Station,DOWNTIME,Process Failure - 2404,6253
+String|Line1 Reasons|FS2|Pack Length Fault,Front of Folding,DOWNTIME,Process Failure - 2404,6254
+String|Line1 Reasons|FS2,Separated Blank,DOWNTIME,Process Failure - 2404,6255
+String|Line1 Reasons|FS2,Missing Blank,DOWNTIME,Process Failure - 2404,6256
+String|Line1 Reasons|FS2,Container Fallen,DOWNTIME,Process Failure - 2404,6257
+String|Line1 Reasons|FS2,Divider Height,DOWNTIME,Process Failure - 2404,6258
+String|Line1 Reasons|FS2,Collision Fault,DOWNTIME,Process Failure - 2404,6259
+String|Line1 Reasons|FS2,Push Chain Sensor,DOWNTIME,Process Failure - 2404,6260
+String|Line1 Reasons|FS2,Push Rod Fault,DOWNTIME,Process Failure - 2404,6261
+String|Line1 Reasons|FS2,Push Chain Fault,DOWNTIME,Process Failure - 2404,6262
+String|Line1 Reasons|FS2,Insufficient Qty,DOWNTIME,Process Failure - 2404,6263
+String|Line1 Reasons|FS2,Push Rods Active,DOWNTIME,Process Failure - 2404,6264
+String|Line1 Reasons,TFS2,DOWNTIME,Process Failure - 2404,6700
+String|Line1 Reasons|TFS2,Operator Stop,DOWNTIME,Process Failure - 2404,6701
+String|Line1 Reasons|TFS2,General Stop,DOWNTIME,Process Failure - 2404,6702
+String|Line1 Reasons|TFS2|General Stop,Internal,DOWNTIME,Process Failure - 2404,6703
+String|Line1 Reasons|TFS2|General Stop,External,DOWNTIME,Process Failure - 2404,6704
+String|Line1 Reasons|TFS2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6705
+String|Line1 Reasons|TFS2,Communication Fault,DOWNTIME,Process Failure - 2404,6710
+String|Line1 Reasons|Conveyors,TFS2 Infeed,DOWNTIME,Process Failure - 2404,6712
+String|Line1 Reasons|Conveyors,TFS2 Discharge,DOWNTIME,Process Failure - 2404,6714
+String|Line1 Reasons|TFS2,Containers NotSpaced,DOWNTIME,Process Failure - 2404,6721
+String|Line1 Reasons|TFS2,Containers Tipped,DOWNTIME,Process Failure - 2404,6722
+String|Line1 Reasons|TFS2,Magazine Empty,DOWNTIME,Process Failure - 2404,6723
+String|Line1 Reasons|TFS2,No Register Mark,DOWNTIME,Process Failure - 2404,6724
+String|Line1 Reasons|TFS2,Servo Fault,DOWNTIME,Process Failure - 2404,6725
+String|Line1 Reasons|TFS2,Pack Conveyor Fault,DOWNTIME,Process Failure - 2404,6726
+String|Line1 Reasons|TFS2,Pack Length Fault,DOWNTIME,Process Failure - 2404,6727
+String|Line1 Reasons|TFS2,Double Blank,DOWNTIME,Process Failure - 2404,6729
+String|Line1 Reasons|TFS2,Infeed Monitoring,DOWNTIME,Process Failure - 2404,6730
+String|Line1 Reasons|TFS2,Incorrect Wrap,DOWNTIME,Process Failure - 2404,6731
+String|Line1 Reasons|TFS2,No Blank Separator,DOWNTIME,Process Failure - 2404,6732
+String|Line1 Reasons|TFS2,Cam Linking Inactive,DOWNTIME,Process Failure - 2404,6733
+String|Line1 Reasons|TFS2,PE Sensor Fault,DOWNTIME,Process Failure - 2404,6734
+String|Line1 Reasons|TFS2,Future Fault 6x35,DOWNTIME,Process Failure - 2404,6735
+String|Line1 Reasons|TFS2,Future Fault 6x36,DOWNTIME,Process Failure - 2404,6736
+String|Line1 Reasons|TFS2,Future Fault 6x37,DOWNTIME,Process Failure - 2404,6737
+String|Line1 Reasons|TFS2,Future Fault 6x38,DOWNTIME,Process Failure - 2404,6738
+String|Line1 Reasons|TFS2,Future Fault 6x39,DOWNTIME,Process Failure - 2404,6739
+String|Line1 Reasons|TFS2,Future Fault 6x40,DOWNTIME,Process Failure - 2404,6740
+String|Line1 Reasons|TFS2,Pack Not Glued,DOWNTIME,Process Failure - 2404,6751
+String|Line1 Reasons|TFS2,Pack Jam - Closing,DOWNTIME,Process Failure - 2404,6752
+String|Line1 Reasons|TFS2|Pack Length Fault,In Folding Station,DOWNTIME,Process Failure - 2404,6753
+String|Line1 Reasons|TFS2|Pack Length Fault,Front of Folding,DOWNTIME,Process Failure - 2404,6754
+String|Line1 Reasons|TFS2,Separated Blank,DOWNTIME,Process Failure - 2404,6755
+String|Line1 Reasons|TFS2,Missing Blank,DOWNTIME,Process Failure - 2404,6756
+String|Line1 Reasons|TFS2,Container Fallen,DOWNTIME,Process Failure - 2404,6757
+String|Line1 Reasons|TFS2,Divider Height,DOWNTIME,Process Failure - 2404,6758
+String|Line1 Reasons|TFS2,Collision Fault,DOWNTIME,Process Failure - 2404,6759
+String|Line1 Reasons|TFS2,Push Chain Sensor,DOWNTIME,Process Failure - 2404,6760
+String|Line1 Reasons|TFS2,Push Rod Fault,DOWNTIME,Process Failure - 2404,6761
+String|Line1 Reasons|TFS2,Push Chain Fault,DOWNTIME,Process Failure - 2404,6762
+String|Line1 Reasons|TFS2,Insufficient Qty,DOWNTIME,Process Failure - 2404,6763
+String|Line1 Reasons|TFS2,Push Rods Active,DOWNTIME,Process Failure - 2404,6764
+String|Line1 Reasons,CosmoPack2,DOWNTIME,Process Failure - 2404,6900
+String|Line1 Reasons|CosmoPack2,Operator Stop,DOWNTIME,Process Failure - 2404,6901
+String|Line1 Reasons|CosmoPack2,General Stop,DOWNTIME,Process Failure - 2404,6902
+String|Line1 Reasons|CosmoPack2|General Stop,Internal,DOWNTIME,Process Failure - 2404,6903
+String|Line1 Reasons|CosmoPack2|General Stop,External,DOWNTIME,Process Failure - 2404,6904
+String|Line1 Reasons|CosmoPack2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6905
+String|Line1 Reasons|CosmoPack2,Communication Fault,DOWNTIME,Process Failure - 2404,6910
+String|Line1 Reasons|Conveyors,CosmoPack2 Infeed,DOWNTIME,Process Failure - 2404,6912
+String|Line1 Reasons|Conveyors,CosmoPack2 Discharge,DOWNTIME,Process Failure - 2404,6914
+String|Line1 Reasons|CosmoPack2,Reset Status,DOWNTIME,Process Failure - 2404,6921
+String|Line1 Reasons|CosmoPack2,Stopped Status,DOWNTIME,Process Failure - 2404,6922
+String|Line1 Reasons|CosmoPack2,Initialized Status,DOWNTIME,Process Failure - 2404,6923
+String|Line1 Reasons|CosmoPack2,Ready Status,DOWNTIME,Process Failure - 2404,6924
+String|Line1 Reasons|CosmoPack2,Suspended Status,DOWNTIME,Process Failure - 2404,6925
+String|Line1 Reasons|CosmoPack2,Held Status,DOWNTIME,Process Failure - 2404,6926
+String|Line1 Reasons|CosmoPack2,Completed Status,DOWNTIME,Process Failure - 2404,6927
+String|Line1 Reasons|CosmoPack2,Changeover Status,DOWNTIME,Process Failure - 2404,6928
+String|Line1 Reasons|CosmoPack2,CIP Status,DOWNTIME,Process Failure - 2404,6929
+String|Line1 Reasons|CosmoPack2,Aborted Status,DOWNTIME,Process Failure - 2404,6920
+String|Line1 Reasons|CosmoPack2|Prod Out of Position,After Screws,DOWNTIME,Process Failure - 2404,6930
+String|Line1 Reasons|CosmoPack2|Prod Out of Position,Before Outfeed Guide,DOWNTIME,Process Failure - 2404,6931
+String|Line1 Reasons|CosmoPack2|Operator Stop,Cycle Stop/Not Auto,DOWNTIME,Process Failure - 2404,6932
+String|Line1 Reasons|CosmoPack2,Discharge Blockage,DOWNTIME,Process Failure - 2404,6933
+String|Line1 Reasons|CosmoPack2,Infeed Screw Blocked,DOWNTIME,Process Failure - 2404,6934
+String|Line1 Reasons|CosmoPack2,Future Fault 6n35,DOWNTIME,Process Failure - 2404,6935
+String|Line1 Reasons|CosmoPack2,Future Fault 6n36,DOWNTIME,Process Failure - 2404,6936
+String|Line1 Reasons|CosmoPack2,Future Fault 6n37,DOWNTIME,Process Failure - 2404,6937
+String|Line1 Reasons|CosmoPack2,Future Fault 6n38,DOWNTIME,Process Failure - 2404,6938
+String|Line1 Reasons|CosmoPack2,Future Fault 6n39,DOWNTIME,Process Failure - 2404,6939
+String|Line1 Reasons|CosmoPack2,Future Fault 6n40,DOWNTIME,Process Failure - 2404,6940
+String|Line1 Reasons,Palletizer1,DOWNTIME,Process Failure - 2404,7000
+String|Line1 Reasons|Palletizer1,Operator Stop,DOWNTIME,Process Failure - 2404,7001
+String|Line1 Reasons|Palletizer1,General Stop,DOWNTIME,Process Failure - 2404,7002
+String|Line1 Reasons|Palletizer1|General Stop,Internal,DOWNTIME,Process Failure - 2404,7003
+String|Line1 Reasons|Palletizer1|General Stop,External,DOWNTIME,Process Failure - 2404,7004
+String|Line1 Reasons|Palletizer1|General Stop,Suspended,DOWNTIME,Process Failure - 2404,7005
+String|Line1 Reasons|Palletizer1,Communication Fault,DOWNTIME,Process Failure - 2404,7010
+String|Line1 Reasons|Conveyors,Palletizer1 Infeed,DOWNTIME,Process Failure - 2404,7012
+String|Line1 Reasons|Conveyors,Palletizer1 Discharge,DOWNTIME,Process Failure - 2404,7014
+String|Line1 Reasons|Palletizer1,Device Comm Fault,DOWNTIME,Process Failure - 2404,7017
+String|Line1 Reasons|Palletizer1,Power Supply Fault,DOWNTIME,Process Failure - 2404,7018
+String|Line1 Reasons|Palletizer1,Servo/Inverter Fault,DOWNTIME,Process Failure - 2404,7019
+String|Line1 Reasons|Palletizer1|Layer Pad Fault,Cannot Scan,DOWNTIME,Process Failure - 2404,7020
+String|Line1 Reasons|Palletizer1,Scanning PE Sensor,DOWNTIME,Process Failure - 2404,7021
+String|Line1 Reasons|Palletizer1|Layer Pad Fault,Pad Lost,DOWNTIME,Process Failure - 2404,7022
+String|Line1 Reasons|Palletizer1,Area Not Clear,DOWNTIME,Process Failure - 2404,7023
+String|Line1 Reasons|Palletizer1|Layer Pad Fault,Out of Position,DOWNTIME,Process Failure - 2404,7024
+String|Line1 Reasons|Palletizer1,Suction Gripper Head,DOWNTIME,Process Failure - 2404,7025
+String|Line1 Reasons|Palletizer1|Layer Pad Fault,Faulty Pick-Up,DOWNTIME,Process Failure - 2404,7026
+String|Line1 Reasons|Palletizer1,Diffuse PE Sensor,DOWNTIME,Process Failure - 2404,7027
+String|Line1 Reasons|Palletizer1,Future Fault 7028,DOWNTIME,Process Failure - 2404,7028
+String|Line1 Reasons|Palletizer1,Future Fault 7029,DOWNTIME,Process Failure - 2404,7029
+String|Line1 Reasons|Palletizer1,Safety PE Sensor,DOWNTIME,Process Failure - 2404,7031
+String|Line1 Reasons|Palletizer1,Discharge Not Clear,DOWNTIME,Process Failure - 2404,7032
+String|Line1 Reasons|Palletizer1,Trigger PE Sensor,DOWNTIME,Process Failure - 2404,7033
+String|Line1 Reasons|Palletizer1,Machine Stop Tripped,DOWNTIME,Process Failure - 2404,7034
+String|Line1 Reasons|Palletizer1,Monitoring PE Sensor,DOWNTIME,Process Failure - 2404,7035
+String|Line1 Reasons|Palletizer1,Pallet Positioning,DOWNTIME,Process Failure - 2404,7036
+String|Line1 Reasons|Palletizer1,Pallet Centering,DOWNTIME,Process Failure - 2404,7037
+String|Line1 Reasons|Palletizer1,Runtime Monitoring,DOWNTIME,Process Failure - 2404,7038
+String|Line1 Reasons|Palletizer1,Pneumatic Position,DOWNTIME,Process Failure - 2404,7039
+String|Line1 Reasons|Palletizer1,Layer PE Sensor,DOWNTIME,Process Failure - 2404,7040
+String|Line1 Reasons|Palletizer1,Layer Length Fault,DOWNTIME,Process Failure - 2404,7041
+String|Line1 Reasons|Palletizer1,Circuit Fault,DOWNTIME,Process Failure - 2404,7042
+String|Line1 Reasons|Palletizer1,Insufficient Gap,DOWNTIME,Process Failure - 2404,7043
+String|Line1 Reasons|Palletizer1,Pack Length Bad,DOWNTIME,Process Failure - 2404,7044
+String|Line1 Reasons|Palletizer1,Pack Transfer Fault,DOWNTIME,Process Failure - 2404,7045
+String|Line1 Reasons|Palletizer1,Area Not Clear,DOWNTIME,Process Failure - 2404,7046
+String|Line1 Reasons|Palletizer1,Cases Not Counted,DOWNTIME,Process Failure - 2404,7048
+String|Line1 Reasons|Palletizer1,Spacing Conveyor,DOWNTIME,Process Failure - 2404,7049
+String|Line1 Reasons|Palletizer1,Grouping System,DOWNTIME,Process Failure - 2404,7050
+String|Line1 Reasons|Palletizer1,Cycle Length Fault,DOWNTIME,Process Failure - 2404,7052
+String|Line1 Reasons,Stretchwrapper2,DOWNTIME,Process Failure - 2404,7500
+String|Line1 Reasons|Stretchwrapper2,Operator Stop,DOWNTIME,Process Failure - 2404,7501
+String|Line1 Reasons|Stretchwrapper2,General Stop,DOWNTIME,Process Failure - 2404,7502
+String|Line1 Reasons|Stretchwrapper2|General Stop,Aborted,DOWNTIME,Process Failure - 2404,7503
+String|Line1 Reasons|Stretchwrapper2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,7504
+String|Line1 Reasons|Stretchwrapper2,Communication Fault,DOWNTIME,Process Failure - 2404,7510
+String|Line1 Reasons|Conveyors,Stretchwrapper2 Infeed,DOWNTIME,Process Failure - 2404,7512
+String|Line1 Reasons|Conveyors,Stretchwrapper2 Infeed Off,DOWNTIME,Process Failure - 2404,7513
+String|Line1 Reasons|Conveyors,Stretchwrapper2 Discharge,DOWNTIME,Process Failure - 2404,7514
+String|Line1 Reasons|Conveyors,Stretchwrapper2 Disch Off,DOWNTIME,Process Failure - 2404,7515
+String|Line1 Reasons|Stretchwrapper2,Arm Fault - A,DOWNTIME,Process Failure - 2404,7521
+String|Line1 Reasons|Stretchwrapper2,Arm Fault - B,DOWNTIME,Process Failure - 2404,7522
+String|Line1 Reasons|Stretchwrapper2,Arm Fault - C,DOWNTIME,Process Failure - 2404,7523
+String|Line1 Reasons|Stretchwrapper2,Arm Fault - D,DOWNTIME,Process Failure - 2404,7524
+String|Line1 Reasons|Stretchwrapper2,Contrast Bar Pos,DOWNTIME,Process Failure - 2404,7525
+String|Line1 Reasons|Stretchwrapper2|Operator Stop,Guard Door/Barrier,DOWNTIME,Process Failure - 2404,7526
+String|Line1 Reasons|Stretchwrapper2|Operator Stop,Stop PB,DOWNTIME,Process Failure - 2404,7527
+String|Line1 Reasons|Stretchwrapper2,Broken Film,DOWNTIME,Process Failure - 2404,7528
+String|Line1 Reasons|Stretchwrapper2,Corner Not Present,DOWNTIME,Process Failure - 2404,7529
+String|Line1 Reasons|Stretchwrapper2,Future Fault 7548,DOWNTIME,Process Failure - 2404,7548
+String|Line1 Reasons|Not Auto Program,Start Up,DOWNTIME,Process Failure - 2404,9102
+String|Line1 Reasons|Not Auto Program,Run Down,DOWNTIME,Process Failure - 2404,9104
+String|Line1 Reasons|Not Auto Program,Clean,DOWNTIME,Process Failure - 2404,9108
+String|Line1 Reasons|Not Auto Program,Changeover,DOWNTIME,Process Failure - 2404,9116
+String|Line1 Reasons|Not Auto Program,Maintenance,DOWNTIME,Process Failure - 2404,9132
+String|Line1 Reasons|Not Auto Program,Break,DOWNTIME,Process Failure - 2404,9164
+String|Line1 Reasons|Operator Stop,Guard Doors,DOWNTIME,Process Failure - 2404,9200
+String|Line1 Reasons|Operator Stop|Guard Doors,General,DOWNTIME,Process Failure - 2404,9201
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 1 Door 1,DOWNTIME,Process Failure - 2404,9202
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 1 Door 2,DOWNTIME,Process Failure - 2404,9203
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 1 Door 3,DOWNTIME,Process Failure - 2404,9204
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 2 Door 1,DOWNTIME,Process Failure - 2404,9205
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 2 Door 2,DOWNTIME,Process Failure - 2404,9206
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 2 Door 3,DOWNTIME,Process Failure - 2404,9207
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 3 Door 1,DOWNTIME,Process Failure - 2404,9208
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 3 Door 2,DOWNTIME,Process Failure - 2404,9209
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 3 Door 3,DOWNTIME,Process Failure - 2404,9210
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 4 Door 1,DOWNTIME,Process Failure - 2404,9211
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 4 Door 2,DOWNTIME,Process Failure - 2404,9212
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 4 Door 3,DOWNTIME,Process Failure - 2404,9213
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 1 Door 1,DOWNTIME,Process Failure - 2404,9214
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 2 Door 1,DOWNTIME,Process Failure - 2404,9215
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 1 Door 3,DOWNTIME,Process Failure - 2404,9216
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 2 Door 1,DOWNTIME,Process Failure - 2404,9217
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 2 Door 2,DOWNTIME,Process Failure - 2404,9218
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 2 Door 3,DOWNTIME,Process Failure - 2404,9219
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 3 Door 1,DOWNTIME,Process Failure - 2404,9220
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 3 Door 2,DOWNTIME,Process Failure - 2404,9221
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 3 Door 3,DOWNTIME,Process Failure - 2404,9222
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 4 Door 1,DOWNTIME,Process Failure - 2404,9223
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 4 Door 2,DOWNTIME,Process Failure - 2404,9224
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 4 Door 3,DOWNTIME,Process Failure - 2404,9225
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 5 Door 1,DOWNTIME,Process Failure - 2404,9226
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 5 Door 2,DOWNTIME,Process Failure - 2404,9227
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 5 Door 3,DOWNTIME,Process Failure - 2404,9228
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 6 Door 1,DOWNTIME,Process Failure - 2404,9229
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 6 Door 2,DOWNTIME,Process Failure - 2404,9230
+String|Line1 Reasons|Operator Stop|Guard Doors,Station 6 Door 3,DOWNTIME,Process Failure - 2404,9231
+String|Line1 Reasons|Operator Stop|Guard Doors,Shrinking Unit,DOWNTIME,Process Failure - 2404,9232
+String|Line1 Reasons|Operator Stop|Guard Doors,Linear Reject Unit,DOWNTIME,Process Failure - 2404,9233
+String|Line1 Reasons|Operator Stop|Guard Doors,Reel Magazine Left,DOWNTIME,Process Failure - 2404,9234
+String|Line1 Reasons|Operator Stop|Guard Doors,Reel Magazine Right,DOWNTIME,Process Failure - 2404,9235
+String|Line1 Reasons|Operator Stop|Guard Doors,Reel Buffer Door 1,DOWNTIME,Process Failure - 2404,9236
+String|Line1 Reasons|Operator Stop|Guard Doors,Reel Buffer Door 2,DOWNTIME,Process Failure - 2404,9237
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 1 Door 4,DOWNTIME,Process Failure - 2404,9238
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 1 Door 5,DOWNTIME,Process Failure - 2404,9239
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 2 Door 4,DOWNTIME,Process Failure - 2404,9240
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 2 Door 5,DOWNTIME,Process Failure - 2404,9241
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 3 Door 4,DOWNTIME,Process Failure - 2404,9242
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 3 Door 5,DOWNTIME,Process Failure - 2404,9243
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 4 Door 4,DOWNTIME,Process Failure - 2404,9244
+String|Line1 Reasons|Operator Stop|Guard Doors,Side 4 Door 5,DOWNTIME,Process Failure - 2404,9245
+String|Line1 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9246
+String|Line1 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9247
+String|Line1 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9248
+String|Line1 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9249
+String|Line1 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9250
+String|Line1 Reasons|Operator Stop|Guard Doors,Taxomat 2,DOWNTIME,Process Failure - 2404,9259
+String|Line1 Reasons|Operator Stop|Guard Doors,Taxomat,DOWNTIME,Process Failure - 2404,9260
+String|Line1 Reasons|Operator Stop|Guard Doors,Taxomat Hotmelt,DOWNTIME,Process Failure - 2404,9261
+String|Line1 Reasons|Operator Stop|Guard Doors,Canmatic,DOWNTIME,Process Failure - 2404,9262
+String|Line1 Reasons|Operator Stop|Guard Doors,Separation Guard,DOWNTIME,Process Failure - 2404,9263
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS1,DOWNTIME,Process Failure - 2404,9264
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS1,DOWNTIME,Process Failure - 2404,9265
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS2,DOWNTIME,Process Failure - 2404,9266
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS2,DOWNTIME,Process Failure - 2404,9267
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS3,DOWNTIME,Process Failure - 2404,9268
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS3,DOWNTIME,Process Failure - 2404,9269
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS4,DOWNTIME,Process Failure - 2404,9270
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS4,DOWNTIME,Process Failure - 2404,9271
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS5,DOWNTIME,Process Failure - 2404,9272
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS5,DOWNTIME,Process Failure - 2404,9273
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS6,DOWNTIME,Process Failure - 2404,9274
+String|Line1 Reasons|Operator Stop|Guard Doors,Autocol LS6,DOWNTIME,Process Failure - 2404,9275
+String|Line1 Reasons|Stretchwrapper2|Ext Sft Not OK,,DOWNTIME,Process Failure - 2404,7530
+String|Line1 Reasons|Stretchwrapper2|Change Working Mode,,DOWNTIME,Process Failure - 2404,7531
+String|Line1 Reasons|Stretchwrapper2|Corner Type Req A,,DOWNTIME,Process Failure - 2404,7532
+String|Line1 Reasons|Stretchwrapper2|SW3 Door Req,,DOWNTIME,Process Failure - 2404,7533
+String|Line1 Reasons|Stretchwrapper2|Sft Circuit Not OK,,DOWNTIME,Process Failure - 2404,7534
+String|Line1 Reasons|Stretchwrapper2|ESTOP XPB16031,,DOWNTIME,Process Failure - 2404,7535
+String|Line1 Reasons|Stretchwrapper2|ESTOP XPB16033,,DOWNTIME,Process,7536
+String|Line1 Reasons|Stretchwrapper2|Entry Sft Not OK,,DOWNTIME,Process,7537
+String|Line1 Reasons|Stretchwrapper2|STOP XPB16031-4,,DOWNTIME,Process,7538
+String|Line1 Reasons|Stretchwrapper2|SW4 Door Req,,DOWNTIME,Process,7539
+String|Line1 Reasons|Stretchwrapper2|Festo 220P8 Com,,DOWNTIME,Process,7540
+String|Line1 Reasons|Stretchwrapper2|In Pos For Chute,,DOWNTIME,Process,7541
+String|Line1 Reasons|Stretchwrapper2|Film Not Hooked,,DOWNTIME,Process,7542
+String|Line1 Reasons|Stretchwrapper2|Forklift Present,,DOWNTIME,Process,7543
+String|Line1 Reasons|Stretchwrapper2|Film Not Pos,,DOWNTIME,Process,7544
+String|Line1 Reasons|Stretchwrapper2|Eth Com Encoder,,DOWNTIME,Process,7545
+String|Line1 Reasons|Stretchwrapper2|Corner Type Req B,,DOWNTIME,Process,7546
+String|Line1 Reasons|Stretchwrapper2|Corner Type Req C,,DOWNTIME,Process,7547
+String|Line1 Reasons|Palletizer1|FutureFault 7064,,DOWNTIME,Process,7064
+String|Line1 Reasons|Palletizer1|Servo MPCB Trip,,DOWNTIME,Process,7053
+String|Line1 Reasons|Palletizer1|Freq Inverter,,DOWNTIME,Process,7054
+String|Line1 Reasons|Palletizer1|Sft Device N/Active,,DOWNTIME,Process,7055
+String|Line1 Reasons|Palletizer1|Movement Sensor Error,,DOWNTIME,Process,7056
+String|Line1 Reasons|Palletizer1|Layer Height High,,DOWNTIME,Process,7057
+String|Line1 Reasons|Palletizer1|Collision Area Breach,,DOWNTIME,Process,7058
+String|Line1 Reasons|Palletizer1|Reset PE,,DOWNTIME,Process,7059
+String|Line1 Reasons|Palletizer1|Scanning P.E. Fault,,DOWNTIME,Process,7060
+String|Line1 Reasons|Palletizer1|Layer Length Trip,,DOWNTIME,Process,7061
+String|Line1 Reasons|Palletizer1|Runtime Exceeded,,DOWNTIME,Process,7062
+String|Line1 Reasons|Palletizer1|Module Cycle Shift,,DOWNTIME,Process,7063
+String|Line1 Reasons|Depal1|Not In SP Position,,DOWNTIME,Process,1031
+String|Line1 Reasons|Depal1|Area Monitor Trip,,DOWNTIME,Process,1032
+String|Line1 Reasons|Depal1|Calculation Fault,,DOWNTIME,Process,1033
+String|Line1 Reasons|Depal1|Stop Switch Active,,DOWNTIME,Process,1034
+String|Line1 Reasons|Depal1|Runtime Monitoring,,DOWNTIME,Process,1035
+String|Line1 Reasons|Labeler1|Malfunction,,DOWNTIME,Process,5131
+String|Line1 Reasons|Labeler1|Cont Present Sensor,,DOWNTIME,Process,5133
+String|Line1 Reasons|Labeler1|Infeed Fault,,DOWNTIME,Process,5134
+String|Line1 Reasons|Labeler3|Malfunction,,DOWNTIME,Process,5731
+String|Line1 Reasons|Labeler3|Cont Present Sensor,,DOWNTIME,Process,5733
+String|Line1 Reasons|Labeler3|Infeed Fault,,DOWNTIME,Process,5734
+String|Line1 Reasons|Labeler2|Malfunction,,DOWNTIME,Process,5431
+String|Line1 Reasons|Labeler2|Cont Present Sensor,,DOWNTIME,Process,5433
+String|Line1 Reasons|Labeler2|Infeed Fault,,DOWNTIME,Process,5434
+String|Line1 Reasons|Stuffer1|Stuffer Clip Out,,DOWNTIME,Process,3031
+String|Line1 Reasons|Stuffer1|Normal Stop,,DOWNTIME,Process,3032
+String|Line1 Reasons|Stuffer1|Cycle Stop,,DOWNTIME,Process,3033
+String|Line1 Reasons|Stuffer1|Bypass Backup,,DOWNTIME,Process,3034
+String|Line1 Reasons|Stuffer1|ESTOP 0070-6 Guard 5,,DOWNTIME,Process,3035
+String|Line1 Reasons|Depal1|Gripper Unit Compress,,DOWNTIME,Process,1036
+String|Line1 Reasons|Depal1|Lift Area-Clear Trip,,DOWNTIME,Process,1037
+String|Line1 Reasons|Depal1|Stop Switch Activate,,DOWNTIME,Process,1038
+String|Line1 Reasons|Depal1|Runtime Monitoring,,DOWNTIME,Process,1039
+String|Line1 Reasons|Filler1|PLC/LMS Connection,,DOWNTIME,Process Failure - 2404,4027
+String|Line1 Reasons|Filler1|Container Missing,,DOWNTIME,Process Failure - 2404,4041
+String|Line1 Reasons|FS1|No Start Enabled,,DOWNTIME,Process Failure - 2404,6041
+String|Line1 Reasons|FS1|Film Torn,,DOWNTIME,Process Failure - 2404,6042
+String|Line1 Reasons|FS1|Register Mark Sensor,,DOWNTIME,Process Failure - 2404,6043
+String|Line1 Reasons|FS2|No Start Enabled,,DOWNTIME,Process Failure - 2404,6228
+String|Line1 Reasons|FS2|Film Torn,,DOWNTIME,Process Failure - 2404,6241
+String|Line1 Reasons|FS2|Register Mark Sensor,,DOWNTIME,Process Failure - 2404,6242
+String|Line1 Reasons|FS2|PLC/LMS Connection,,DOWNTIME,Process Failure - 2404,6243
+String|Line1 Reasons|FS2|Film Wrapping Homed,,DOWNTIME,Process Failure - 2404,6244
+String|Line1 Reasons|FS2|No Film Reel Selected,,DOWNTIME,Process Failure - 2404,6245
+String|Line1 Reasons|FS1|PLC/LMS Connection,,DOWNTIME,Process Failure - 2404,6044
+String|Line1 Reasons|FS1|Film Wrapping Homed,,DOWNTIME,Process Failure - 2404,6045
+String|Line1 Reasons|FS1|No Film Reel Selected,,DOWNTIME,Process Failure - 2404,6046
+String|Line1 Reasons|Labeler1|Stuck Button,,DOWNTIME,Process,5130
+String|Line1 Reasons|Labeler1|Container Missing,,DOWNTIME,Process,5136
+String|Line1 Reasons|Labeler2|Stuck Button,,DOWNTIME,Process,5435
+String|Line1 Reasons|Labeler2|Container Missing,,DOWNTIME,Process,5436
+String|Line1 Reasons|Labeler3|Stuck Button,,DOWNTIME,Process,5735
+String|Line1 Reasons|Labeler3|Container Missing,,DOWNTIME,Process,5736
+String|Line1 Reasons|Palletizer1|Layer Pad Fault,,DOWNTIME,Process,7071
+String|Line1 Reasons|Stuffer1|Guard Door 14 Open,,DOWNTIME,Process,3036
+String|Line1 Reasons|TFS1|PLC/LMS Connection,,DOWNTIME,Process Failure - 2404,6541
+String|Line1 Reasons|TFS1|Area-Clear Trip,,DOWNTIME,Process Failure - 2404,6542
+String|Line1 Reasons|TFS1|Infeed Fault,,DOWNTIME,Process Failure - 2404,6543
+String|Line1 Reasons|TFS1|No Carton Reel Sep,,DOWNTIME,Process Failure - 2404,6544
+String|Line1 Reasons|TFS1|Pack Conv OFF After,,DOWNTIME,Process Failure - 2404,6545
+String|Line1 Reasons|TFS1|Ext Encoder Failed,,DOWNTIME,Process Failure - 2404,6546
+String|Line1 Reasons|Stretchwrapper2|Press After Solenoid,,DOWNTIME,Process,7550
+String|Line1 Reasons|Winder1|General,Future Fault 2056,DOWNTIME,Process Failure - 2404,2056
+String|Line1 Reasons|Winder1|General,ReW Door 1 Axc Req,DOWNTIME,Process Failure - 2404,2137
+String|Line1 Reasons|Winder1|General,ReW Door 2 Axc Req,DOWNTIME,Process Failure - 2404,2138
+String|Line1 Reasons|Winder1|General,ReW Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,2139
+String|Line1 Reasons|Winder1|General,ReW Door 3 Guard Sw,DOWNTIME,Process Failure - 2404,2140
+String|Line1 Reasons|Winder1|General,ReW Sft Zone Fault,DOWNTIME,Process Failure - 2404,2141
+String|Line1 Reasons|Winder2|General,ReW Door 1 Axc Req,DOWNTIME,Process Failure - 2404,8137
+String|Line1 Reasons|Winder2|General,ReW Door 2 Axc Req,DOWNTIME,Process Failure - 2404,8138
+String|Line1 Reasons|Winder2|General,ReW Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,8139
+String|Line1 Reasons|Winder2|General,ReW Door 3 Guard Sw,DOWNTIME,Process Failure - 2404,8140
+String|Line1 Reasons|Winder2|General,ReW Sft Zone Fault,DOWNTIME,Process Failure - 2404,8141
+String|Line1 Reasons|Winder1|UpperPly Control,Upper Ply 1 Error,DOWNTIME,Process Failure - 2404,2231
+String|Line1 Reasons|Winder1|UpperPly Control,Upper Ply 3 Error,DOWNTIME,Process Failure - 2404,2232
+String|Line1 Reasons|Winder1|UpperPly Control,Unwind Web Break,DOWNTIME,Process Failure - 2404,2233
+String|Line1 Reasons|Winder1|UpperPly Control,Unwind Door 1 Axc Rq,DOWNTIME,Process Failure - 2404,2234
+String|Line1 Reasons|Winder1|UpperPly Control,Upper Ply Stop PB,DOWNTIME,Process Failure - 2404,2235
+String|Line1 Reasons|Winder1|UpperPly Control,Splice Unit Latch,DOWNTIME,Process Failure - 2404,2236
+String|Line1 Reasons|Winder1|UpperPly Control,Unwind Door Axs Rq,DOWNTIME,Process Failure - 2404,2237
+String|Line1 Reasons|Winder1|UpperPly Control,Splice Cutoff Stuck,DOWNTIME,Process Failure - 2404,2238
+String|Line1 Reasons|Winder2|UpperPly Control,Upper Ply 1 Error,DOWNTIME,Process Failure - 2404,8231
+String|Line1 Reasons|Winder2|UpperPly Control,Upper Ply 3 Error,DOWNTIME,Process Failure - 2404,8232
+String|Line1 Reasons|Winder2|UpperPly Control,Unwind Web Break,DOWNTIME,Process Failure - 2404,8233
+String|Line1 Reasons|Winder2|UpperPly Control,Unwind Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,8234
+String|Line1 Reasons|Winder2|UpperPly Control,Upper Ply Stop PB,DOWNTIME,Process Failure - 2404,8235
+String|Line1 Reasons|Winder2|UpperPly Control,Splice Unit Latch,DOWNTIME,Process Failure - 2404,8236
+String|Line1 Reasons|Winder2|UpperPly Control,Unwind Door 2 Axs Rq,DOWNTIME,Process Failure - 2404,8237
+String|Line1 Reasons|Winder2|UpperPly Control,Splice Cutoff Stuck,DOWNTIME,Process Failure - 2404,8238
+String|Line1 Reasons|Winder1|Rewind,CorHop Door 1 Guard Sw,DOWNTIME,Process Failure - 2404,2341
+String|Line1 Reasons|Winder1|Rewind,ReW Infeed Guide Roll,DOWNTIME,Process Failure - 2404,2342
+String|Line1 Reasons|Winder1|Rewind,Infeed Guide Roll,DOWNTIME,Process Failure - 2404,2343
+String|Line1 Reasons|Winder2|Rewind,CorHop Door 1 Open,DOWNTIME,Process Failure - 2404,8341
+String|Line1 Reasons|Winder2|Rewind,CorHop Door 1 Guard Sw,DOWNTIME,Process Failure - 2404,8342
+String|Line1 Reasons|Winder2|Rewind,ReW Infeed Guide Roll,DOWNTIME,Process Failure - 2404,8343
+String|Line1 Reasons|Winder2|Rewind,Infeed Guide Roll,DOWNTIME,Process Failure - 2404,8344
+String|Line1 Reasons|Winder1|Extractor,Ext Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,2441
+String|Line1 Reasons|Winder1|Extractor,Ext Door 4 Axs Rq,DOWNTIME,Process Failure - 2404,2442
+String|Line1 Reasons|Winder1|Extractor,Ext Main Zone PB,DOWNTIME,Process Failure - 2404,2443
+String|Line1 Reasons|Winder1|Extractor,TS Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,2444
+String|Line1 Reasons|Winder1|Extractor,Outfeed Conv Error,DOWNTIME,Process Failure - 2404,2445
+String|Line1 Reasons|Winder1|Extractor,Mandrel Align Conv,DOWNTIME,Process Failure - 2404,2446
+String|Line1 Reasons|Winder1|Extractor,Ext Ops Stop PB,DOWNTIME,Process Failure - 2404,2447
+String|Line1 Reasons|Winder1|Extractor,Log Infeed Conv,DOWNTIME,Process Failure - 2404,2448
+String|Line1 Reasons|Winder1|Extractor,Mandrel Station 1 NF,DOWNTIME,Process Failure - 2404,2449
+String|Line1 Reasons|Winder1|Extractor,Mandrel Station 2 NF,DOWNTIME,Process Failure - 2404,2450
+String|Line1 Reasons|Winder1|Extractor,Mandrel Station 3 NF,DOWNTIME,Process Failure - 2404,2451
+String|Line1 Reasons|Winder2|Extractor,Ext Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,8441
+String|Line1 Reasons|Winder2|Extractor,Ext Door 4 Axs Rq,DOWNTIME,Process Failure - 2404,8442
+String|Line1 Reasons|Winder2|Extractor,Ext Main Zone PB,DOWNTIME,Process Failure - 2404,8443
+String|Line1 Reasons|Winder2|Extractor,TS Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,8444
+String|Line1 Reasons|Winder2|Extractor,Outfeed Conv Error,DOWNTIME,Process Failure - 2404,8445
+String|Line1 Reasons|Winder2|Extractor,Mandrel Align Conv,DOWNTIME,Process Failure - 2404,8446
+String|Line1 Reasons|Winder2|Extractor,Ext Ops Stop PB,DOWNTIME,Process Failure - 2404,8447
+String|Line1 Reasons|Winder2|Extractor,Log Infeed Conv,DOWNTIME,Process Failure - 2404,8448
+String|Line1 Reasons|Winder2|Extractor,Mandrel Station 1 NF,DOWNTIME,Process Failure - 2404,8449
+String|Line1 Reasons|Winder2|Extractor,Mandrel Station 2 NF,DOWNTIME,Process Failure - 2404,8450
+String|Line1 Reasons|Winder2|Extractor,Mandrel Station 3 NF,DOWNTIME,Process Failure - 2404,8451
+String|Line1 Reasons|Winder1|Rewind Outfeed Servo,CorHop Door 1 Guard Sw,DOWNTIME,Process Failure - 2404,2344
+String|Line1 Reasons|Winder1|Rewind,Rewind Outfeed Servo,DOWNTIME,Process Failure - 2404,2345
+String|Line1 Reasons|Winder1|Rewind,Perf 1 Interference,DOWNTIME,Process Failure - 2404,2346
+String|Line1 Reasons|Winder1|Rewind,Lower Roll Speed,DOWNTIME,Process Failure - 2404,2347
+String|Line1 Reasons|Winder1|Rewind,Discharge Gate,DOWNTIME,Process Failure - 2404,2348
+String|Line1 Reasons|Winder1|Rewind,Infeed Draw Roll-OPS,DOWNTIME,Process Failure - 2404,2349
+String|Line1 Reasons|Winder1|Rewind,Infeed Draw Roll-DRV,DOWNTIME,Process Failure - 2404,2350
+String|Line1 Reasons|Winder1|Rewind,Upper Roll,DOWNTIME,Process Failure - 2404,2351
+String|Line1 Reasons|Winder1|Rewind,OPS Side HR-ODR,DOWNTIME,Process Failure - 2404,2352
+String|Line1 Reasons|Winder1|Rewind,DRV Side HR-ODR,DOWNTIME,Process Failure - 2404,2353
+String|Line1 Reasons|Winder1|Rewind,Core Asst Contractor,DOWNTIME,Process Failure - 2404,2354
+String|Line1 Reasons|Winder1|Rewind,Core Asst Overload,DOWNTIME,Process Failure - 2404,2355
+String|Line1 Reasons|Winder1|Rewind,Cam Calculation,DOWNTIME,Process Failure - 2404,2356
+String|Line1 Reasons|Winder1|Rewind,Rewind Phase State,DOWNTIME,Process Failure - 2404,2357
+String|Line1 Reasons|Winder1|Rewind,Core Hopper Conveyor,DOWNTIME,Process Failure - 2404,2358
+String|Line1 Reasons|Winder2|Rewind,Rewind Outfeed Servo,DOWNTIME,Process Failure - 2404,8345
+String|Line1 Reasons|Winder2|Rewind,Perf 1 Interference,DOWNTIME,Process Failure - 2404,8346
+String|Line1 Reasons|Winder2|Rewind,Lower Roll Speed,DOWNTIME,Process Failure - 2404,8347
+String|Line1 Reasons|Winder2|Rewind,Discharge Gate,DOWNTIME,Process Failure - 2404,8348
+String|Line1 Reasons|Winder2|Rewind,Infeed Draw Roll-OPS,DOWNTIME,Process Failure - 2404,8349
+String|Line1 Reasons|Winder2|Rewind,Infeed Draw Roll-DRV,DOWNTIME,Process Failure - 2404,8350
+String|Line1 Reasons|Winder2|Rewind,Upper Roll,DOWNTIME,Process Failure - 2404,8351
+String|Line1 Reasons|Winder2|Rewind,OPS Side HR-ODR,DOWNTIME,Process Failure - 2404,8352
+String|Line1 Reasons|Winder2|Rewind,DRV Side HR-ODR,DOWNTIME,Process Failure - 2404,8353
+String|Line1 Reasons|Winder2|Rewind,Core Asst Contactor,DOWNTIME,Process Failure - 2404,8354
+String|Line1 Reasons|Winder2|Rewind,Core Asst Overload,DOWNTIME,Process Failure - 2404,8355
+String|Line1 Reasons|Winder2|Rewind,Cam Calculation,DOWNTIME,Process Failure - 2404,8356
+String|Line1 Reasons|Winder2|Rewind,Rewind Phase State,DOWNTIME,Process Failure - 2404,8357
+String|Line1 Reasons|Winder2|Rewind,Core Hopper Conveyor,DOWNTIME,Process Failure - 2404,8358
+String|Line1 Reasons|Winder1|Log Saw,ESTOP Relay,DOWNTIME,Process Failure - 2404,2831
+String|Line1 Reasons|Winder1|Log Saw,ESTOP PB,DOWNTIME,Process Failure - 2404,2832
+String|Line1 Reasons|Winder2|Log Saw,ESTOP Relay,DOWNTIME,Process Failure - 2404,8831
+String|Line1 Reasons|Winder2|Log Saw,ESTOP PB,DOWNTIME,Process Failure - 2404,8832
+String|Line1 Reasons|Winder1|Tail Seal,TS Main ESTOP,DOWNTIME,Process Failure - 2404,2931
+String|Line1 Reasons|Winder1|Tail Seal,Interlock Door Open,DOWNTIME,Process Failure - 2404,2932
+String|Line1 Reasons|Winder1|Tail Seal,Accum Infeed ESTOP,DOWNTIME,Process Failure - 2404,2933
+String|Line1 Reasons|Winder1|Tail Seal,Vacuum Blower 2,DOWNTIME,Process Failure - 2404,2934
+String|Line1 Reasons|Winder1|Tail Seal,Index Paddle Jammed,DOWNTIME,Process Failure - 2404,2935
+String|Line1 Reasons|Winder1|Tail Seal,Log Index Paddle 1,DOWNTIME,Process Failure - 2404,2936
+String|Line1 Reasons|Winder1|Tail Seal,Log Index Paddle 2,DOWNTIME,Process Failure - 2404,2937
+String|Line1 Reasons|Winder1|Tail Seal,Log Infeed Rolld ND,DOWNTIME,Process Failure - 2404,2938
+String|Line1 Reasons|Winder1|Tail Seal,Outfeed Table Open,DOWNTIME,Process Failure - 2404,2939
+String|Line1 Reasons|Winder1|Tail Seal,Prep Tail Blocked,DOWNTIME,Process Failure - 2404,2940
+String|Line1 Reasons|Winder1|Tail Seal,ReW Lost Comms,DOWNTIME,Process Failure - 2404,2941
+String|Line1 Reasons|Winder1|Tail Seal,TS Door 4 Guard SW,DOWNTIME,Process Failure - 2404,2942
+String|Line1 Reasons|Winder1|Tail Seal,Index Paddle Pos Err,DOWNTIME,Process Failure - 2404,2943
+String|Line1 Reasons|Winder1|Tail Seal,Accumulator Full,DOWNTIME,Process Failure - 2404,2944
+String|Line1 Reasons|Winder1|Tail Seal,Accumulator Empty,DOWNTIME,Process Failure - 2404,2945
+String|Line1 Reasons|Winder2|Tail Seal,TS Main ESTOP,DOWNTIME,Process Failure - 2404,8931
+String|Line1 Reasons|Winder2|Tail Seal,Interlock Door Open,DOWNTIME,Process Failure - 2404,8932
+String|Line1 Reasons|Winder2|Tail Seal,Accum Infeed ESTOP,DOWNTIME,Process Failure - 2404,8933
+String|Line1 Reasons|Winder2|Tail Seal,Vacuum Blower 2,DOWNTIME,Process Failure - 2404,8934
+String|Line1 Reasons|Winder2|Tail Seal,Index Paddle Jammed,DOWNTIME,Process Failure - 2404,8935
+String|Line1 Reasons|Winder2|Tail Seal,Log Index Paddle 1,DOWNTIME,Process Failure - 2404,8936
+String|Line1 Reasons|Winder2|Tail Seal,Log Index Paddle 2,DOWNTIME,Process Failure - 2404,8937
+String|Line1 Reasons|Winder2|Tail Seal,Log Infeed Rolld ND,DOWNTIME,Process Failure - 2404,8938
+String|Line1 Reasons|Winder2|Tail Seal,Outfeed Table Open,DOWNTIME,Process Failure - 2404,8939
+String|Line1 Reasons|Winder2|Tail Seal,Prep Tail Blocked,DOWNTIME,Process Failure - 2404,8940
+String|Line1 Reasons|Winder2|Tail Seal,ReW Lost Comms,DOWNTIME,Process Failure - 2404,8941
+String|Line1 Reasons|Winder2|Tail Seal,TS Door 4 Guard SW,DOWNTIME,Process Failure - 2404,8942
+String|Line1 Reasons|Winder2|Tail Seal,Index Paddle Pos Err,DOWNTIME,Process Failure - 2404,8943
+String|Line1 Reasons|Winder2|Tail Seal,Accumulator Full,DOWNTIME,Process Failure - 2404,8944
+String|Line1 Reasons|Winder2|Tail Seal,Accumulator Empty,DOWNTIME,Process Failure - 2404,8945
+String|Line1 Reasons|Winder1|Unwind 1,Peel Off Error,DOWNTIME,Process Failure - 2404,2531
+String|Line1 Reasons|Winder1|Unwind 1,Splice Rack Calib,DOWNTIME,Process Failure - 2404,2532
+String|Line1 Reasons|Winder1|Unwind 1,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,2533
+String|Line1 Reasons|Winder1|Unwind 1,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,2534
+String|Line1 Reasons|Winder1|Unwind 1,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,2535
+String|Line1 Reasons|Winder1|Unwind 1,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,2536
+String|Line1 Reasons|Winder1|Unwind 1,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,2537
+String|Line1 Reasons|Winder1|Unwind 1,Peel Off Roll,DOWNTIME,Process Failure - 2404,2538
+String|Line1 Reasons|Winder1|Unwind 1,Guard Gate Position,DOWNTIME,Process Failure - 2404,2539
+String|Line1 Reasons|Winder1|Unwind 1,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,2540
+String|Line1 Reasons|Winder1|Unwind 2,Peel Off Error,DOWNTIME,Process Failure - 2404,2631
+String|Line1 Reasons|Winder1|Unwind 2,Splice Rack Calib,DOWNTIME,Process Failure - 2404,2632
+String|Line1 Reasons|Winder1|Unwind 2,Pivot Ops TImeout,DOWNTIME,Process Failure - 2404,2633
+String|Line1 Reasons|Winder1|Unwind 2,Pivot Drive TImeout,DOWNTIME,Process Failure - 2404,2634
+String|Line1 Reasons|Winder1|Unwind 2,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,2635
+String|Line1 Reasons|Winder1|Unwind 2,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,2636
+String|Line1 Reasons|Winder1|Unwind 2,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,2637
+String|Line1 Reasons|Winder1|Unwind 2,Peel Off Roll,DOWNTIME,Process Failure - 2404,2638
+String|Line1 Reasons|Winder1|Unwind 2,Guard Gate Position,DOWNTIME,Process Failure - 2404,2639
+String|Line1 Reasons|Winder1|Unwind 2,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,2640
+String|Line1 Reasons|Winder2|Unwind 1,Peel Off Error,DOWNTIME,Process Failure - 2404,8531
+String|Line1 Reasons|Winder2|Unwind 1,Splice Rack Calib,DOWNTIME,Process Failure - 2404,8532
+String|Line1 Reasons|Winder2|Unwind 1,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,8533
+String|Line1 Reasons|Winder2|Unwind 1,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,8534
+String|Line1 Reasons|Winder2|Unwind 1,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,8535
+String|Line1 Reasons|Winder2|Unwind 1,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,8536
+String|Line1 Reasons|Winder2|Unwind 1,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,8537
+String|Line1 Reasons|Winder2|Unwind 1,Peel Off Roll,DOWNTIME,Process Failure - 2404,8538
+String|Line1 Reasons|Winder2|Unwind 1,Guard Gate Position,DOWNTIME,Process Failure - 2404,8539
+String|Line1 Reasons|Winder2|Unwind 1,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,8540
+String|Line1 Reasons|Winder2|Unwind 2,Peel off Error,DOWNTIME,Process Failure - 2404,8631
+String|Line1 Reasons|Winder2|Unwind 2,Splice Rack Calib,DOWNTIME,Process Failure - 2404,8632
+String|Line1 Reasons|Winder2|Unwind 2,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,8633
+String|Line1 Reasons|Winder2|Unwind 2,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,8634
+String|Line1 Reasons|Winder2|Unwind 2,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,8635
+String|Line1 Reasons|Winder2|Unwind 2,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,8636
+String|Line1 Reasons|Winder2|Unwind 2,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,8637
+String|Line1 Reasons|Winder2|Unwind 2,Peel Off Roll,DOWNTIME,Process Failure - 2404,8638
+String|Line1 Reasons|Winder2|Unwind 2,Guard Gate Position,DOWNTIME,Process Failure - 2404,8639
+String|Line1 Reasons|Winder2|Unwind 2,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,8640
+String|Line1 Reasons|Winder1|Extractor,MPU V Bnk 1 Com Loss,DOWNTIME,Process Failure - 2404,2452
+String|Line1 Reasons|Winder2|Extractor,MPU V Bnk 1 Com Loss,DOWNTIME,Process Failure - 2404,8452
+String|Line1 Reasons|Winder1|Log Saw,Saw Conveyor Error,DOWNTIME,Process Failure - 2404,2833
+String|Line1 Reasons|Winder1|Log Saw,Trail Shuttle Error,DOWNTIME,Process Failure - 2404,2834
+String|Line1 Reasons|Winder1|Log Saw,Grinder Rachet Setup,DOWNTIME,Process Failure - 2404,2835
+String|Line1 Reasons|Winder1|Log Saw,Lane 3 Saw Conveyor,DOWNTIME,Process Failure - 2404,2836
+String|Line1 Reasons|Winder1|Log Saw,Low Pressure Saw Air,DOWNTIME,Process Failure - 2404,2837
+String|Line1 Reasons|Winder1|Log Saw,Trim Chute Jam,DOWNTIME,Process Failure - 2404,2838
+String|Line1 Reasons|Winder1|Log Saw,Shuttle Area Jam,DOWNTIME,Process Failure - 2404,2839
+String|Line1 Reasons|Winder1|Log Saw,Orbit Head PE Block,DOWNTIME,Process Failure - 2404,2840
+String|Line1 Reasons|Winder1|Log Saw,Inv Lead Shuttl Pos,DOWNTIME,Process Failure - 2404,2841
+String|Line1 Reasons|Winder1|Log Saw,Inv Trail Shuttl Pos,DOWNTIME,Process Failure - 2404,2842
+String|Line1 Reasons|Winder1|Log Saw,Saw Door 3 Guard SW,DOWNTIME,Process Failure - 2404,2843
+String|Line1 Reasons|Winder1|Log Saw,Acc Door 3 Guard SW,DOWNTIME,Process Failure - 2404,2844
+String|Line1 Reasons|Winder1|Log Saw,Acc Out Drive Fault,DOWNTIME,Process Failure - 2404,2845
+String|Line1 Reasons|Winder1|Log Saw,Acc Door 2 Guard SW,DOWNTIME,Process Failure - 2404,2846
+String|Line1 Reasons|Winder1|Log Saw,Lane 5 Saw Conveyor,DOWNTIME,Process Failure - 2404,2847
+String|Line1 Reasons|Winder1|Log Saw,Acc Door 1 Not Ready,DOWNTIME,Process Failure - 2404,2848
+String|Line1 Reasons|Winder2|Log Saw,Saw Conveyor Error,DOWNTIME,Process Failure - 2404,8833
+String|Line1 Reasons|Winder2|Log Saw,Trail Shuttle Error,DOWNTIME,Process Failure - 2404,8834
+String|Line1 Reasons|Winder2|Log Saw,Grinder Rachet Setup,DOWNTIME,Process Failure - 2404,8835
+String|Line1 Reasons|Winder2|Log Saw,Lane 3 Saw Conveyor,DOWNTIME,Process Failure - 2404,8836
+String|Line1 Reasons|Winder2|Log Saw,Low Pressure Saw Air,DOWNTIME,Process Failure - 2404,8837
+String|Line1 Reasons|Winder2|Log Saw,Trim Chute Jam,DOWNTIME,Process Failure - 2404,8838
+String|Line1 Reasons|Winder2|Log Saw,Shuttle Area Jam,DOWNTIME,Process Failure - 2404,8839
+String|Line1 Reasons|Winder2|Log Saw,Orbit Head PE Block,DOWNTIME,Process Failure - 2404,8840
+String|Line1 Reasons|Winder2|Log Saw,Inv Lead Shuttl Pos,DOWNTIME,Process Failure - 2404,8841
+String|Line1 Reasons|Winder2|Log Saw,Inv Trail Shuttl Pos,DOWNTIME,Process Failure - 2404,8842
+String|Line1 Reasons|Winder2|Log Saw,Saw Door 3 Guard SW,DOWNTIME,Process Failure - 2404,8843
+String|Line1 Reasons|Winder2|Log Saw,Acc Door 3 Guard SW,DOWNTIME,Process Failure - 2404,8844
+String|Line1 Reasons|Winder2|Log Saw,Acc Out Drive Fault,DOWNTIME,Process Failure - 2404,8845
+String|Line1 Reasons|Winder2|Log Saw,Acc Door 2 Guard SW,DOWNTIME,Process Failure - 2404,8846
+String|Line1 Reasons|Winder2|Log Saw,Lane 5 Saw Conveyor,DOWNTIME,Process Failure - 2404,8847
+String|Line1 Reasons|Winder2|Log Saw,Acc Door 1 Not Ready,DOWNTIME,Process Failure - 2404,8848
+String|Line2 Reasons,Line Producing,DOWNTIME,None,1
+String|Line2 Reasons,Running Semi-Auto,DOWNTIME,None,2
+String|Line2 Reasons,Line Stopped/Idle,DOWNTIME,None,9
+String|Line2 Reasons,Communication Fault,DOWNTIME,Excluded Time,10
+String|Line2 Reasons,Plan Downtime,DOWNTIME,Excluded Time,11
+String|Line2 Reasons|External Delay,Starved - Primary,DOWNTIME,Excluded Time,12
+String|Line2 Reasons|External Delay,Starved - Secondary,DOWNTIME,Excluded Time,13
+String|Line2 Reasons|External Delay,Blocked - Primary,DOWNTIME,Excluded Time,14
+String|Line2 Reasons|External Delay,Blocked - Secondary,DOWNTIME,Excluded Time,15
+String|Line2 Reasons,Bypassed/Not In Use,DOWNTIME,Excluded Time,20
+String|Line2 Reasons,Operator Stop,DOWNTIME,Process Failure - 2404,21
+String|Line2 Reasons|Operator Stop,EStop,DOWNTIME,Process Failure - 2404,22
+String|Line2 Reasons|Operator Stop,Held,DOWNTIME,Process Failure - 2404,23
+String|Line2 Reasons|Operator Stop,Stopped,DOWNTIME,Process Failure - 2404,24
+String|Line2 Reasons|Operator Stop,Idle/Complete,DOWNTIME,Process Failure - 2404,25
+String|Line2 Reasons|Operator Stop,Mode Off,DOWNTIME,Process Failure - 2404,26
+String|Line2 Reasons|Operator Stop,Mode Manual,DOWNTIME,Process Failure - 2404,27
+String|Line2 Reasons|Operator Stop,Mode Semi-Auto,DOWNTIME,Process Failure - 2404,28
+String|Line2 Reasons|Operator Stop,Mode Not Auto,DOWNTIME,Process Failure - 2404,29
+String|Line2 Reasons,Filling Buffer,DOWNTIME,Excluded Time,51
+String|Line2 Reasons,Emptying Buffer,DOWNTIME,Excluded Time,52
+String|Line2 Reasons,Buffer Full,DOWNTIME,Excluded Time,53
+String|Line2 Reasons,Buffer Empty,DOWNTIME,Excluded Time,54
+String|Line2 Reasons,Idling,DOWNTIME,Excluded Time,55
+String|Line2 Reasons,Stopped Bottle Count,DOWNTIME,Excluded Time,56
+String|Line2 Reasons|Not Running,With Buffer Capacity,DOWNTIME,Excluded Time,60
+String|Line2 Reasons,Bypassed to TFS,DOWNTIME,Excluded Time,61
+String|Line2 Reasons,Labeler Not In Use,DOWNTIME,Excluded Time,62
+String|Line2 Reasons,Changeover,DOWNTIME,No Superreason - 2405,100
+String|Line2 Reasons|Changeover,Pack,DOWNTIME,Prod Adjustment - 2402,105
+String|Line2 Reasons|Changeover,Scent,DOWNTIME,Prod Adjustment - 2402,110
+String|Line2 Reasons|Changeover,Size,DOWNTIME,Prod Adjustment - 2402,115
+String|Line2 Reasons|Changeover,Size + Scent + Pack,DOWNTIME,Prod Adjustment - 2402,120
+String|Line2 Reasons|Changeover,Size + Scent,DOWNTIME,Prod Adjustment - 2402,125
+String|Line2 Reasons,Excluded Time,DOWNTIME,Excluded Time,200
+String|Line2 Reasons|Excluded Time,Capital Work 75M,DOWNTIME,Excluded Time,205
+String|Line2 Reasons|Excluded Time,COVID19,DOWNTIME,Excluded Time,210
+String|Line2 Reasons|Excluded Time,EO PQ,DOWNTIME,Excluded Time,215
+String|Line2 Reasons|Excluded Time,Scheduled Down,DOWNTIME,Excluded Time,235
+String|Line2 Reasons,Planned,DOWNTIME,No Superreason - 2405,400
+String|Line2 Reasons|Planned,Breaks-Lunch,DOWNTIME,Shutdown Loss - 2401,405
+String|Line2 Reasons|Planned,Meetings,DOWNTIME,Shutdown Loss - 2401,410
+String|Line2 Reasons|Planned,Shutdown Procedure,DOWNTIME,Shutdown Loss - 2401,415
+String|Line2 Reasons|Planned,Startup Procedure,DOWNTIME,Shutdown Loss - 2401,420
+String|Line2 Reasons|Planned,Testing,DOWNTIME,Shutdown Loss - 2401,425
+String|Line2 Reasons|Planned,AM event (add note),DOWNTIME,Shutdown Loss - 2401,430
+String|Line2 Reasons|Planned,Training,DOWNTIME,Shutdown Loss - 2401,450
+String|Line2 Reasons|Planned,Maintenance,DOWNTIME,Shutdown Loss - 2401,600
+String|Line2 Reasons|Planned|Maintenance,Capital Project,DOWNTIME,Shutdown Loss - 2401,605
+String|Line2 Reasons|Planned|Maintenance,Clean Inspect Lube,DOWNTIME,Shutdown Loss - 2401,610
+String|Line2 Reasons|Planned|Maintenance,Planned Maint PMs,DOWNTIME,Shutdown Loss - 2401,615
+String|Line2 Reasons|Planned|Maintenance,Work Orders,DOWNTIME,Shutdown Loss - 2401,625
+String|Line2 Reasons,Depal2,DOWNTIME,Process Failure - 2404,1000
+String|Line2 Reasons|Depal2,Operator Stop,DOWNTIME,Process Failure - 2404,1001
+String|Line2 Reasons|Depal2,General Stop,DOWNTIME,Process Failure - 2404,1002
+String|Line2 Reasons|Depal2|General Stop,Internal,DOWNTIME,Process Failure - 2404,1003
+String|Line2 Reasons|Depal2|General Stop,External,DOWNTIME,Process Failure - 2404,1004
+String|Line2 Reasons|Depal2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,1005
+String|Line2 Reasons|Depal2,Communication Fault,DOWNTIME,Process Failure - 2404,1010
+String|Line2 Reasons|Conveyors,Depal2 Infeed,DOWNTIME,Process Failure - 2404,1012
+String|Line2 Reasons|Conveyors,Depal2 Discharge,DOWNTIME,Process Failure - 2404,1014
+String|Line2 Reasons|Depal2,Motor Protect Fault,DOWNTIME,Process Failure - 2404,1021
+String|Line2 Reasons|Depal2,Area Not Clear,DOWNTIME,Process Failure - 2404,1022
+String|Line2 Reasons|Depal2,Transfer Unit Fault,DOWNTIME,Process Failure - 2404,1023
+String|Line2 Reasons|Depal2,Product Pickup Fault,DOWNTIME,Process Failure - 2404,1024
+String|Line2 Reasons|Depal2,Pivot Monitoring,DOWNTIME,Process Failure - 2404,1025
+String|Line2 Reasons|Depal2,Product Lost,DOWNTIME,Process Failure - 2404,1026
+String|Line2 Reasons|Depal2,Stop Tripped,DOWNTIME,Process Failure - 2404,1027
+String|Line2 Reasons|Depal2,Pallet Positioning,DOWNTIME,Process Failure - 2404,1028
+String|Line2 Reasons|Depal2,Container Table Blck,DOWNTIME,Process Failure - 2404,1029
+String|Line2 Reasons|Depal2,Pneumatic System,DOWNTIME,Process Failure - 2404,1030
+String|Line2 Reasons,Winder3,DOWNTIME,Process Failure - 2404,2000
+String|Line2 Reasons|Winder3,General - Stopped,DOWNTIME,Process Failure - 2404,2002
+String|Line2 Reasons|Winder3,General,DOWNTIME,Process Failure - 2404,2100
+String|Line2 Reasons|Winder3|General,Operator Stop,DOWNTIME,Process Failure - 2404,2101
+String|Line2 Reasons|Winder3|General,Communication Fault,DOWNTIME,Process Failure - 2404,2110
+String|Line2 Reasons|Winder3|General,Accumulator Full,DOWNTIME,Process Failure - 2404,2122
+String|Line2 Reasons|Winder3|General,Future Fault 2123,DOWNTIME,Process Failure - 2404,2123
+String|Line2 Reasons|Winder3|General,Future Fault 2124,DOWNTIME,Process Failure - 2404,2124
+String|Line2 Reasons|Winder3|General,Future Fault 2125,DOWNTIME,Process Failure - 2404,2125
+String|Line2 Reasons|Winder3|General,Future Fault 2126,DOWNTIME,Process Failure - 2404,2126
+String|Line2 Reasons|Winder3|General,Future Fault 2127,DOWNTIME,Process Failure - 2404,2127
+String|Line2 Reasons|Winder3|General,Future Fault 2128,DOWNTIME,Process Failure - 2404,2128
+String|Line2 Reasons|Winder3|General,Future Fault 2129,DOWNTIME,Process Failure - 2404,2129
+String|Line2 Reasons|Winder3|General,Future Fault 2130,DOWNTIME,Process Failure - 2404,2130
+String|Line2 Reasons|Winder3|Accumulator,Full,DOWNTIME,Process Failure - 2404,2131
+String|Line2 Reasons|Winder3|Accumulator,Not Ready,DOWNTIME,Process Failure - 2404,2132
+String|Line2 Reasons|Winder3|Tail Seal,Not Ready,DOWNTIME,Process Failure - 2404,2133
+String|Line2 Reasons|Winder3,Threadup Complete,DOWNTIME,Process Failure - 2404,2134
+String|Line2 Reasons|Winder3|Lost Ethernet,Threadup Drive 1,DOWNTIME,Process Failure - 2404,2135
+String|Line2 Reasons|Winder3|Lost Ethernet,Threadup Drive 2,DOWNTIME,Process Failure - 2404,2136
+String|Line2 Reasons|Winder3,UpperPly Control,DOWNTIME,Process Failure - 2404,2200
+String|Line2 Reasons|Winder3|UpperPly Control,Operator Stop,DOWNTIME,Process Failure - 2404,2201
+String|Line2 Reasons|Winder3|UpperPly Control,Communication Fault,DOWNTIME,Process Failure - 2404,2210
+String|Line2 Reasons|Winder3|UpperPly Control,Parent Roll Expired,DOWNTIME,Process Failure - 2404,2221
+String|Line2 Reasons|Winder3|UpperPly Control,Splice Upper Ply,DOWNTIME,Process Failure - 2404,2222
+String|Line2 Reasons|Winder3|UpperPly Control,Error Following,DOWNTIME,Process Failure - 2404,2223
+String|Line2 Reasons|Winder3|UpperPly Control,Invalid Mode,DOWNTIME,Process Failure - 2404,2224
+String|Line2 Reasons|Winder3|UpperPly Control,Future Fault 2225,DOWNTIME,Process Failure - 2404,2225
+String|Line2 Reasons|Winder3|UpperPly Control,Future Fault 2226,DOWNTIME,Process Failure - 2404,2226
+String|Line2 Reasons|Winder3|UpperPly Control,Future Fault 2227,DOWNTIME,Process Failure - 2404,2227
+String|Line2 Reasons|Winder3|UpperPly Control,Future Fault 2228,DOWNTIME,Process Failure - 2404,2228
+String|Line2 Reasons|Winder3|UpperPly Control,Future Fault 2229,DOWNTIME,Process Failure - 2404,2229
+String|Line2 Reasons|Winder3|UpperPly Control,Future Fault 2230,DOWNTIME,Process Failure - 2404,2230
+String|Line2 Reasons|Winder3,Rewind,DOWNTIME,Process Failure - 2404,2300
+String|Line2 Reasons|Winder3|Rewind,Operator Stop,DOWNTIME,Process Failure - 2404,2301
+String|Line2 Reasons|Winder3|Rewind,Communication Fault,DOWNTIME,Process Failure - 2404,2310
+String|Line2 Reasons|Winder3|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2321
+String|Line2 Reasons|Winder3|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2322
+String|Line2 Reasons|Winder3|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2323
+String|Line2 Reasons|Winder3|Rewind,Web Break,DOWNTIME,Process Failure - 2404,2324
+String|Line2 Reasons|Winder3|Rewind,No Core,DOWNTIME,Process Failure - 2404,2325
+String|Line2 Reasons|Winder3|Rewind,Not Detected,DOWNTIME,Process Failure - 2404,2326
+String|Line2 Reasons|Winder3|Rewind,Jammed,DOWNTIME,Process Failure - 2404,2327
+String|Line2 Reasons|Winder3|Rewind,Low Core Hopper,DOWNTIME,Process Failure - 2404,2328
+String|Line2 Reasons|Winder3|Rewind,Jammed,DOWNTIME,Process Failure - 2404,2329
+String|Line2 Reasons|Winder3|Rewind,No Core,DOWNTIME,Process Failure - 2404,2330
+String|Line2 Reasons|Winder3|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2331
+String|Line2 Reasons|Winder3|Rewind,Error Following,DOWNTIME,Process Failure - 2404,2332
+String|Line2 Reasons|Winder3|Rewind,Low Xfer Adhesive,DOWNTIME,Process Failure - 2404,2333
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2334,DOWNTIME,Process Failure - 2404,2334
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2335,DOWNTIME,Process Failure - 2404,2335
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2336,DOWNTIME,Process Failure - 2404,2336
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2337,DOWNTIME,Process Failure - 2404,2337
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2338,DOWNTIME,Process Failure - 2404,2338
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2339,DOWNTIME,Process Failure - 2404,2339
+String|Line2 Reasons|Winder3|Rewind,Future Fault 2340,DOWNTIME,Process Failure - 2404,2340
+String|Line2 Reasons|Winder3,Extractor,DOWNTIME,Process Failure - 2404,2400
+String|Line2 Reasons|Winder3|Extractor,Operator Stop,DOWNTIME,Process Failure - 2404,2401
+String|Line2 Reasons|Winder3|Extractor,Communication Fault,DOWNTIME,Process Failure - 2404,2410
+String|Line2 Reasons|Winder3|Extractor,Log Not Loaded,DOWNTIME,Process Failure - 2404,2421
+String|Line2 Reasons|Winder3|Extractor,Jammed,DOWNTIME,Process Failure - 2404,2422
+String|Line2 Reasons|Winder3|Extractor,Jammed,DOWNTIME,Process Failure - 2404,2423
+String|Line2 Reasons|Winder3|Extractor,Jammed,DOWNTIME,Process Failure - 2404,2424
+String|Line2 Reasons|Winder3|Extractor,No Logs,DOWNTIME,Process Failure - 2404,2425
+String|Line2 Reasons|Winder3|Extractor,No Mandrels,DOWNTIME,Process Failure - 2404,2426
+String|Line2 Reasons|Winder3|Extractor,Not Extracted,DOWNTIME,Process Failure - 2404,2427
+String|Line2 Reasons|Winder3|Extractor,Not Disengaged,DOWNTIME,Process Failure - 2404,2428
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2429,DOWNTIME,Process Failure - 2404,2429
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2430,DOWNTIME,Process Failure - 2404,2430
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2431,DOWNTIME,Process Failure - 2404,2431
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2432,DOWNTIME,Process Failure - 2404,2432
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2433,DOWNTIME,Process Failure - 2404,2433
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2434,DOWNTIME,Process Failure - 2404,2434
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2435,DOWNTIME,Process Failure - 2404,2435
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2436,DOWNTIME,Process Failure - 2404,2436
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2437,DOWNTIME,Process Failure - 2404,2437
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2438,DOWNTIME,Process Failure - 2404,2438
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2439,DOWNTIME,Process Failure - 2404,2439
+String|Line2 Reasons|Winder3|Extractor,Future Fault 2440,DOWNTIME,Process Failure - 2404,2440
+String|Line2 Reasons|Winder3,Unwind 1,DOWNTIME,Process Failure - 2404,2500
+String|Line2 Reasons|Winder3|Unwind 1,Operator Stop,DOWNTIME,Process Failure - 2404,2501
+String|Line2 Reasons|Winder3|Unwind 1,Communication Fault,DOWNTIME,Process Failure - 2404,2510
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2521,DOWNTIME,Process Failure - 2404,2521
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2522,DOWNTIME,Process Failure - 2404,2522
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2523,DOWNTIME,Process Failure - 2404,2523
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2524,DOWNTIME,Process Failure - 2404,2524
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2525,DOWNTIME,Process Failure - 2404,2525
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2526,DOWNTIME,Process Failure - 2404,2526
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2527,DOWNTIME,Process Failure - 2404,2527
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2528,DOWNTIME,Process Failure - 2404,2528
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2529,DOWNTIME,Process Failure - 2404,2529
+String|Line2 Reasons|Winder3|Unwind 1,Future Fault 2530,DOWNTIME,Process Failure - 2404,2530
+String|Line2 Reasons|Winder3,Unwind 2,DOWNTIME,Process Failure - 2404,2600
+String|Line2 Reasons|Winder3|Unwind 2,Operator Stop,DOWNTIME,Process Failure - 2404,2601
+String|Line2 Reasons|Winder3|Unwind 2,Communication Fault,DOWNTIME,Process Failure - 2404,2610
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2621,DOWNTIME,Process Failure - 2404,2621
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2622,DOWNTIME,Process Failure - 2404,2622
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2623,DOWNTIME,Process Failure - 2404,2623
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2624,DOWNTIME,Process Failure - 2404,2624
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2625,DOWNTIME,Process Failure - 2404,2625
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2626,DOWNTIME,Process Failure - 2404,2626
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2627,DOWNTIME,Process Failure - 2404,2627
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2628,DOWNTIME,Process Failure - 2404,2628
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2629,DOWNTIME,Process Failure - 2404,2629
+String|Line2 Reasons|Winder3|Unwind 2,Future Fault 2630,DOWNTIME,Process Failure - 2404,2630
+String|Line2 Reasons|Winder3,Log Saw,DOWNTIME,Process Failure - 2404,2800
+String|Line2 Reasons|Winder3|Log Saw,Operator Stop,DOWNTIME,Process Failure - 2404,2801
+String|Line2 Reasons|Winder3|Log Saw,Communication Fault,DOWNTIME,Process Failure - 2404,2810
+String|Line2 Reasons|Winder3,Log Saw Infeed,DOWNTIME,Process Failure - 2404,2812
+String|Line2 Reasons|Winder3,Log Saw Discharge,DOWNTIME,Process Failure - 2404,2814
+String|Line2 Reasons|Winder3|Log Saw,Jammed Fault 66,DOWNTIME,Process Failure - 2404,2821
+String|Line2 Reasons|Winder3|Log Saw,Jammed Fault 91,DOWNTIME,Process Failure - 2404,2822
+String|Line2 Reasons|Winder3|Log Saw,Dropped Log,DOWNTIME,Process Failure - 2404,2823
+String|Line2 Reasons|Winder3|Log Saw,Axis Fault,DOWNTIME,Process Failure - 2404,2824
+String|Line2 Reasons|Winder3|Log Saw,Future Fault 2825,DOWNTIME,Process Failure - 2404,2825
+String|Line2 Reasons|Winder3|Log Saw,Future Fault 2826,DOWNTIME,Process Failure - 2404,2826
+String|Line2 Reasons|Winder3|Log Saw,Future Fault 2827,DOWNTIME,Process Failure - 2404,2827
+String|Line2 Reasons|Winder3|Log Saw,Future Fault 2828,DOWNTIME,Process Failure - 2404,2828
+String|Line2 Reasons|Winder3|Log Saw,Future Fault 2829,DOWNTIME,Process Failure - 2404,2829
+String|Line2 Reasons|Winder3|Log Saw,Future Fault 2830,DOWNTIME,Process Failure - 2404,2830
+String|Line2 Reasons|Winder3,Tail Seal,DOWNTIME,Process Failure - 2404,2900
+String|Line2 Reasons|Winder3|Tail Seal,Operator Stop,DOWNTIME,Process Failure - 2404,2901
+String|Line2 Reasons|Winder3|Tail Seal,Communication Fault,DOWNTIME,Process Failure - 2404,2910
+String|Line2 Reasons|Winder3,Tail Seal Infeed,DOWNTIME,Process Failure - 2404,2912
+String|Line2 Reasons|Winder3,Tail Seal Discharge,DOWNTIME,Process Failure - 2404,2914
+String|Line2 Reasons|Winder3|Tail Seal,Jam Infeed Rolls,DOWNTIME,Process Failure - 2404,2921
+String|Line2 Reasons|Winder3|Tail Seal,Jam Accum Infeed,DOWNTIME,Process Failure - 2404,2922
+String|Line2 Reasons|Winder3|Tail Seal,Log Slip Infd Rolls,DOWNTIME,Process Failure - 2404,2923
+String|Line2 Reasons|Winder3|Tail Seal,Dropped Log,DOWNTIME,Process Failure - 2404,2924
+String|Line2 Reasons|Winder3|Tail Seal,Accum Not Ready,DOWNTIME,Process Failure - 2404,2925
+String|Line2 Reasons|Winder3|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,2926
+String|Line2 Reasons|Winder3|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,2927
+String|Line2 Reasons|Winder3|Tail Seal,Future Fault 2928,DOWNTIME,Process Failure - 2404,2928
+String|Line2 Reasons|Winder3|Tail Seal,Future Fault 2929,DOWNTIME,Process Failure - 2404,2929
+String|Line2 Reasons|Winder3|Tail Seal,Future Fault 2930,DOWNTIME,Process Failure - 2404,2930
+String|Line2 Reasons,Stuffer3,DOWNTIME,Process Failure - 2404,3000
+String|Line2 Reasons|Stuffer3,Operator Stop,DOWNTIME,Process Failure - 2404,3001
+String|Line2 Reasons|Stuffer3,General Stop,DOWNTIME,Process Failure - 2404,3002
+String|Line2 Reasons|Stuffer3|General Stop,Aborted,DOWNTIME,Process Failure - 2404,3003
+String|Line2 Reasons|Stuffer3|General Stop,Suspended,DOWNTIME,Process Failure - 2404,3004
+String|Line2 Reasons|Stuffer3|General Stop,No Counts,DOWNTIME,Process Failure - 2404,3005
+String|Line2 Reasons|Stuffer3,Communication Fault,DOWNTIME,Process Failure - 2404,3010
+String|Line2 Reasons|Conveyors,Stuffer3 Infeed,DOWNTIME,Process Failure - 2404,3012
+String|Line2 Reasons|Conveyors,Stuffer3 Infeed Off,DOWNTIME,Process Failure - 2404,3013
+String|Line2 Reasons|Conveyors,Stuffer3 Discharge,DOWNTIME,Process Failure - 2404,3014
+String|Line2 Reasons|Conveyors,Stuffer3 Disch Off,DOWNTIME,Process Failure - 2404,3015
+String|Line2 Reasons|Stuffer3,Missing Canisters,DOWNTIME,Process Failure - 2404,3021
+String|Line2 Reasons|Stuffer3,Guard Door Open,DOWNTIME,Process Failure - 2404,3022
+String|Line2 Reasons|Stuffer3,Axis Overtorque,DOWNTIME,Process Failure - 2404,3023
+String|Line2 Reasons|Stuffer3,Low Air Pressure,DOWNTIME,Process Failure - 2404,3024
+String|Line2 Reasons|Stuffer3,Load Check Failure,DOWNTIME,Process Failure - 2404,3025
+String|Line2 Reasons|Stuffer3,Ovhead Confiner Jam,DOWNTIME,Process Failure - 2404,3026
+String|Line2 Reasons|Stuffer3,Discharge Jam,DOWNTIME,Process Failure - 2404,3027
+String|Line2 Reasons|Stuffer3,Loader Jam,DOWNTIME,Process Failure - 2404,3028
+String|Line2 Reasons|Stuffer3,Clip Out 2,DOWNTIME,Process Failure - 2404,3029
+String|Line2 Reasons|Stuffer3,Checkmat Fault,DOWNTIME,Process Failure - 2404,3030
+String|Line2 Reasons,Stuffer4,DOWNTIME,Process Failure - 2404,3500
+String|Line2 Reasons|Stuffer4,Operator Stop,DOWNTIME,Process Failure - 2404,3501
+String|Line2 Reasons|Stuffer4,General Stop,DOWNTIME,Process Failure - 2404,3502
+String|Line2 Reasons|Stuffer4|General Stop,Aborted,DOWNTIME,Process Failure - 2404,3503
+String|Line2 Reasons|Stuffer4|General Stop,Suspended,DOWNTIME,Process Failure - 2404,3504
+String|Line2 Reasons|Stuffer4|General Stop,No Counts,DOWNTIME,Process Failure - 2404,3505
+String|Line2 Reasons|Stuffer4,Communication Fault,DOWNTIME,Process Failure - 2404,3510
+String|Line2 Reasons|Conveyors,Stuffer4 Infeed,DOWNTIME,Process Failure - 2404,3512
+String|Line2 Reasons|Conveyors,Stuffer4 Infeed Off,DOWNTIME,Process Failure - 2404,3513
+String|Line2 Reasons|Conveyors,Stuffer4 Discharge,DOWNTIME,Process Failure - 2404,3514
+String|Line2 Reasons|Conveyors,Stuffer4 Disch Off,DOWNTIME,Process Failure - 2404,3515
+String|Line2 Reasons|Stuffer4,Missing Canisters,DOWNTIME,Process Failure - 2404,3521
+String|Line2 Reasons|Stuffer4,Guard Door Open,DOWNTIME,Process Failure - 2404,3522
+String|Line2 Reasons|Stuffer4,Axis Overtorque,DOWNTIME,Process Failure - 2404,3523
+String|Line2 Reasons|Stuffer4,Low Air Pressure,DOWNTIME,Process Failure - 2404,3524
+String|Line2 Reasons|Stuffer4,Load Check Failure,DOWNTIME,Process Failure - 2404,3525
+String|Line2 Reasons|Stuffer4,Ovhead Confiner Jam,DOWNTIME,Process Failure - 2404,3526
+String|Line2 Reasons|Stuffer4,Discharge Jam,DOWNTIME,Process Failure - 2404,3527
+String|Line2 Reasons|Stuffer4,Loader Jam,DOWNTIME,Process Failure - 2404,3528
+String|Line2 Reasons|Stuffer4,Clip Out 2,DOWNTIME,Process Failure - 2404,3529
+String|Line2 Reasons|Stuffer4,Checkmat Fault,DOWNTIME,Process Failure - 2404,3530
+String|Line2 Reasons,Filler2,DOWNTIME,Process Failure - 2404,4000
+String|Line2 Reasons|Filler2,Operator Stop,DOWNTIME,Process Failure - 2404,4001
+String|Line2 Reasons|Filler2,General Stop,DOWNTIME,Process Failure - 2404,4002
+String|Line2 Reasons|Filler2|General Stop,Internal,DOWNTIME,Process Failure - 2404,4003
+String|Line2 Reasons|Filler2|General Stop,External,DOWNTIME,Process Failure - 2404,4004
+String|Line2 Reasons|Filler2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,4005
+String|Line2 Reasons|Filler2,Communication Fault,DOWNTIME,Process Failure - 2404,4010
+String|Line2 Reasons|Conveyors,Filler2 Infeed,DOWNTIME,Process Failure - 2404,4012
+String|Line2 Reasons|Conveyors,Filler2 Discharge,DOWNTIME,Process Failure - 2404,4014
+String|Line2 Reasons|Filler2,Coder Not Ready,DOWNTIME,Process Failure - 2404,4021
+String|Line2 Reasons|Filler2|Checkmat,Not Ready,DOWNTIME,Process Failure - 2404,4022
+String|Line2 Reasons|Filler2|Capper,Feed Not Ready,DOWNTIME,Process Failure - 2404,4023
+String|Line2 Reasons|Filler2|Checkmat,Faulty Cap,DOWNTIME,Process Failure - 2404,4024
+String|Line2 Reasons|Filler2,Softstart Overload,DOWNTIME,Process Failure - 2404,4025
+String|Line2 Reasons|Filler2|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4026
+String|Line2 Reasons|Filler2|Capper,No Caps - Transfer,DOWNTIME,Process Failure - 2404,4028
+String|Line2 Reasons|Filler2,Backlog/Backup,DOWNTIME,Process Failure - 2404,4029
+String|Line2 Reasons|Filler2,Infeed Gap,DOWNTIME,Process Failure - 2404,4030
+String|Line2 Reasons|Filler2,Future Fault 4031,DOWNTIME,Process Failure - 2404,4031
+String|Line2 Reasons|Filler2,Future Fault 4032,DOWNTIME,Process Failure - 2404,4032
+String|Line2 Reasons|Filler2,Future Fault 4033,DOWNTIME,Process Failure - 2404,4033
+String|Line2 Reasons|Filler2,Future Fault 4034,DOWNTIME,Process Failure - 2404,4034
+String|Line2 Reasons|Filler2,Future Fault 4035,DOWNTIME,Process Failure - 2404,4035
+String|Line2 Reasons|Filler2,Future Fault 4036,DOWNTIME,Process Failure - 2404,4036
+String|Line2 Reasons|Filler2,Future Fault 4037,DOWNTIME,Process Failure - 2404,4037
+String|Line2 Reasons|Filler2,Future Fault 4038,DOWNTIME,Process Failure - 2404,4038
+String|Line2 Reasons|Filler2,Future Fault 4039,DOWNTIME,Process Failure - 2404,4039
+String|Line2 Reasons|Filler2,Future Fault 4040,DOWNTIME,Process Failure - 2404,4040
+String|Line2 Reasons|Filler2|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4051
+String|Line2 Reasons|Filler2|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4052
+String|Line2 Reasons|Filler2|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4053
+String|Line2 Reasons|Filler2|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4054
+String|Line2 Reasons|Filler2|Capper,No Caps - Screw,DOWNTIME,Process Failure - 2404,4055
+String|Line2 Reasons|Conveyors,Filler Glideliner,DOWNTIME,Process Failure - 2404,4910
+String|Line2 Reasons|Conveyors|Filler Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4911
+String|Line2 Reasons|Conveyors|Filler Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4912
+String|Line2 Reasons|Conveyors|Filler Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4914
+String|Line2 Reasons|Conveyors,Labeler4 Glideliner,DOWNTIME,Process Failure - 2404,4920
+String|Line2 Reasons|Conveyors|Labeler4 Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4921
+String|Line2 Reasons|Conveyors|Labeler4 Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4922
+String|Line2 Reasons|Conveyors|Labeler4 Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4924
+String|Line2 Reasons|Conveyors,Labeler5 Glideliner,DOWNTIME,Process Failure - 2404,4930
+String|Line2 Reasons|Conveyors|Labeler5 Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4931
+String|Line2 Reasons|Conveyors|Labeler5 Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4932
+String|Line2 Reasons|Conveyors|Labeler5 Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4934
+String|Line2 Reasons|Conveyors,Labeler6 Glideliner,DOWNTIME,Process Failure - 2404,4940
+String|Line2 Reasons|Conveyors|Labeler6 Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4941
+String|Line2 Reasons|Conveyors|Labeler6 Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4942
+String|Line2 Reasons|Conveyors|Labeler6 Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4944
+String|Line2 Reasons|Conveyors,Label4-FS Glideliner,DOWNTIME,Process Failure - 2404,4950
+String|Line2 Reasons|Conveyors|Label4-FS Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4951
+String|Line2 Reasons|Conveyors|Label4-FS Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4952
+String|Line2 Reasons|Conveyors|Label4-FS Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4954
+String|Line2 Reasons|Conveyors,Label5-FS Glideliner,DOWNTIME,Process Failure - 2404,4960
+String|Line2 Reasons|Conveyors|Label5-FS Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4961
+String|Line2 Reasons|Conveyors|Label5-FS Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4962
+String|Line2 Reasons|Conveyors|Label5-FS Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4964
+String|Line2 Reasons|Conveyors,Label6-FS Glideliner,DOWNTIME,Process Failure - 2404,4970
+String|Line2 Reasons|Conveyors|Label6-FS Glideliner,Operator Stop,DOWNTIME,Process Failure - 2404,4971
+String|Line2 Reasons|Conveyors|Label6-FS Glideliner,General Stop,DOWNTIME,Process Failure - 2404,4972
+String|Line2 Reasons|Conveyors|Label6-FS Glideliner,Communication Fault,DOWNTIME,Process Failure - 2404,4974
+String|Line2 Reasons,Labeler4,DOWNTIME,Process Failure - 2404,5100
+String|Line2 Reasons|Labeler4,Operator Stop,DOWNTIME,Process Failure - 2404,5101
+String|Line2 Reasons|Labeler4,General Stop,DOWNTIME,Process Failure - 2404,5102
+String|Line2 Reasons|Labeler4|General Stop,Internal,DOWNTIME,Process Failure - 2404,5103
+String|Line2 Reasons|Labeler4|General Stop,External,DOWNTIME,Process Failure - 2404,5104
+String|Line2 Reasons|Labeler4|General Stop,Suspended,DOWNTIME,Process Failure - 2404,5105
+String|Line2 Reasons|Labeler4,Communication Fault,DOWNTIME,Process Failure - 2404,5110
+String|Line2 Reasons|Conveyors,Labeler4 Infeed,DOWNTIME,Process Failure - 2404,5112
+String|Line2 Reasons|Conveyors,Labeler4 Discharge,DOWNTIME,Process Failure - 2404,5114
+String|Line2 Reasons|Labeler4,Container Backup,DOWNTIME,Process Failure - 2404,5121
+String|Line2 Reasons|Labeler4,Label Chk Not Ready,DOWNTIME,Process Failure - 2404,5122
+String|Line2 Reasons|Labeler4,Auto-Changeover,DOWNTIME,Process Failure - 2404,5123
+String|Line2 Reasons|Labeler4,Damaged Container,DOWNTIME,Process Failure - 2404,5124
+String|Line2 Reasons|Labeler4,Inspect Unit Fault,DOWNTIME,Process Failure - 2404,5125
+String|Line2 Reasons|Labeler4,Infeed Gap Monitor,DOWNTIME,Process Failure - 2404,5126
+String|Line2 Reasons|Labeler4,Rear Cross Slide,DOWNTIME,Process Failure - 2404,5127
+String|Line2 Reasons|Labeler4,Subsystem Not Ready,DOWNTIME,Process Failure - 2404,5128
+String|Line2 Reasons|Labeler4,Wait for Enable Code,DOWNTIME,Process Failure - 2404,5129
+String|Line2 Reasons|Labeler4,Future Fault 5x30,DOWNTIME,Process Failure - 2404,5130
+String|Line2 Reasons,Labeler5,DOWNTIME,Process Failure - 2404,5400
+String|Line2 Reasons|Labeler5,Operator Stop,DOWNTIME,Process Failure - 2404,5401
+String|Line2 Reasons|Labeler5,General Stop,DOWNTIME,Process Failure - 2404,5402
+String|Line2 Reasons|Labeler5|General Stop,Internal,DOWNTIME,Process Failure - 2404,5403
+String|Line2 Reasons|Labeler5|General Stop,External,DOWNTIME,Process Failure - 2404,5404
+String|Line2 Reasons|Labeler5|General Stop,Suspended,DOWNTIME,Process Failure - 2404,5405
+String|Line2 Reasons|Labeler5,Communication Fault,DOWNTIME,Process Failure - 2404,5410
+String|Line2 Reasons|Conveyors,Labeler5 Infeed,DOWNTIME,Process Failure - 2404,5412
+String|Line2 Reasons|Conveyors,Labeler5 Discharge,DOWNTIME,Process Failure - 2404,5414
+String|Line2 Reasons|Labeler5,Container Backup,DOWNTIME,Process Failure - 2404,5421
+String|Line2 Reasons|Labeler5,Label Chk Not Ready,DOWNTIME,Process Failure - 2404,5422
+String|Line2 Reasons|Labeler5,Auto-Changeover,DOWNTIME,Process Failure - 2404,5423
+String|Line2 Reasons|Labeler5,Damaged Container,DOWNTIME,Process Failure - 2404,5424
+String|Line2 Reasons|Labeler5,Inspect Unit Fault,DOWNTIME,Process Failure - 2404,5425
+String|Line2 Reasons|Labeler5,Infeed Gap Monitor,DOWNTIME,Process Failure - 2404,5426
+String|Line2 Reasons|Labeler5,Rear Cross Slide,DOWNTIME,Process Failure - 2404,5427
+String|Line2 Reasons|Labeler5,Subsystem Not Ready,DOWNTIME,Process Failure - 2404,5428
+String|Line2 Reasons|Labeler5,Wait for Enable Code,DOWNTIME,Process Failure - 2404,5429
+String|Line2 Reasons|Labeler5,Future Fault 5x30,DOWNTIME,Process Failure - 2404,5430
+String|Line2 Reasons,Labeler6,DOWNTIME,Process Failure - 2404,5700
+String|Line2 Reasons|Labeler6,Operator Stop,DOWNTIME,Process Failure - 2404,5701
+String|Line2 Reasons|Labeler6,General Stop,DOWNTIME,Process Failure - 2404,5702
+String|Line2 Reasons|Labeler6|General Stop,Internal,DOWNTIME,Process Failure - 2404,5703
+String|Line2 Reasons|Labeler6|General Stop,External,DOWNTIME,Process Failure - 2404,5704
+String|Line2 Reasons|Labeler6|General Stop,Suspended,DOWNTIME,Process Failure - 2404,5705
+String|Line2 Reasons|Labeler6,Communication Fault,DOWNTIME,Process Failure - 2404,5710
+String|Line2 Reasons|Conveyors,Labeler6 Infeed,DOWNTIME,Process Failure - 2404,5712
+String|Line2 Reasons|Conveyors,Labeler6 Discharge,DOWNTIME,Process Failure - 2404,5714
+String|Line2 Reasons|Labeler6,Container Backup,DOWNTIME,Process Failure - 2404,5721
+String|Line2 Reasons|Labeler6,Label Chk Not Ready,DOWNTIME,Process Failure - 2404,5722
+String|Line2 Reasons|Labeler6,Auto-Changeover,DOWNTIME,Process Failure - 2404,5723
+String|Line2 Reasons|Labeler6,Damaged Container,DOWNTIME,Process Failure - 2404,5724
+String|Line2 Reasons|Labeler6,Inspect Unit Fault,DOWNTIME,Process Failure - 2404,5725
+String|Line2 Reasons|Labeler6,Infeed Gap Monitor,DOWNTIME,Process Failure - 2404,5726
+String|Line2 Reasons|Labeler6,Rear Cross Slide,DOWNTIME,Process Failure - 2404,5727
+String|Line2 Reasons|Labeler6,Subsystem Not Ready,DOWNTIME,Process Failure - 2404,5728
+String|Line2 Reasons|Labeler6,Wait for Enable Code,DOWNTIME,Process Failure - 2404,5729
+String|Line2 Reasons|Labeler6,Future Fault 5x30,DOWNTIME,Process Failure - 2404,5730
+String|Line2 Reasons,FS3,DOWNTIME,Process Failure - 2404,6000
+String|Line2 Reasons|FS3,Operator Stop,DOWNTIME,Process Failure - 2404,6001
+String|Line2 Reasons|FS3,General Stop,DOWNTIME,Process Failure - 2404,6002
+String|Line2 Reasons|FS3|General Stop,Internal,DOWNTIME,Process Failure - 2404,6003
+String|Line2 Reasons|FS3|General Stop,External,DOWNTIME,Process Failure - 2404,6004
+String|Line2 Reasons|FS3|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6005
+String|Line2 Reasons|FS3,Communication Fault,DOWNTIME,Process Failure - 2404,6010
+String|Line2 Reasons|Conveyors,FS3 Infeed,DOWNTIME,Process Failure - 2404,6012
+String|Line2 Reasons|Conveyors,FS3 Discharge,DOWNTIME,Process Failure - 2404,6014
+String|Line2 Reasons|FS3,Containers NotSpaced,DOWNTIME,Process Failure - 2404,6021
+String|Line2 Reasons|FS3,Containers Tipped,DOWNTIME,Process Failure - 2404,6022
+String|Line2 Reasons|FS3,Magazine Empty,DOWNTIME,Process Failure - 2404,6023
+String|Line2 Reasons|FS3,No Register Mark,DOWNTIME,Process Failure - 2404,6024
+String|Line2 Reasons|FS3,Servo Fault,DOWNTIME,Process Failure - 2404,6025
+String|Line2 Reasons|FS3,Pack Conveyor Fault,DOWNTIME,Process Failure - 2404,6026
+String|Line2 Reasons|FS3,Pack Length Fault,DOWNTIME,Process Failure - 2404,6027
+String|Line2 Reasons|FS3,Double Blank,DOWNTIME,Process Failure - 2404,6029
+String|Line2 Reasons|FS3,Infeed Monitoring,DOWNTIME,Process Failure - 2404,6030
+String|Line2 Reasons|FS3,Incorrect Wrap,DOWNTIME,Process Failure - 2404,6031
+String|Line2 Reasons|FS3,No Blank Separator,DOWNTIME,Process Failure - 2404,6032
+String|Line2 Reasons|FS3,Cam Linking Inactive,DOWNTIME,Process Failure - 2404,6033
+String|Line2 Reasons|FS3,PE Sensor Fault,DOWNTIME,Process Failure - 2404,6034
+String|Line2 Reasons|FS3,Future Fault 6x35,DOWNTIME,Process Failure - 2404,6035
+String|Line2 Reasons|FS3,Future Fault 6x36,DOWNTIME,Process Failure - 2404,6036
+String|Line2 Reasons|FS3,Future Fault 6x37,DOWNTIME,Process Failure - 2404,6037
+String|Line2 Reasons|FS3,Future Fault 6x38,DOWNTIME,Process Failure - 2404,6038
+String|Line2 Reasons|FS3,Future Fault 6x39,DOWNTIME,Process Failure - 2404,6039
+String|Line2 Reasons|FS3,Future Fault 6x40,DOWNTIME,Process Failure - 2404,6040
+String|Line2 Reasons|FS3,Pack Not Glued,DOWNTIME,Process Failure - 2404,6051
+String|Line2 Reasons|FS3,Pack Jam - Closing,DOWNTIME,Process Failure - 2404,6052
+String|Line2 Reasons|FS3|Pack Length Fault,In Folding Station,DOWNTIME,Process Failure - 2404,6053
+String|Line2 Reasons|FS3|Pack Length Fault,Front of Folding,DOWNTIME,Process Failure - 2404,6054
+String|Line2 Reasons|FS3,Separated Blank,DOWNTIME,Process Failure - 2404,6055
+String|Line2 Reasons|FS3,Missing Blank,DOWNTIME,Process Failure - 2404,6056
+String|Line2 Reasons|FS3,Container Fallen,DOWNTIME,Process Failure - 2404,6057
+String|Line2 Reasons|FS3,Divider Height,DOWNTIME,Process Failure - 2404,6058
+String|Line2 Reasons|FS3,Collision Fault,DOWNTIME,Process Failure - 2404,6059
+String|Line2 Reasons|FS3,Push Chain Sensor,DOWNTIME,Process Failure - 2404,6060
+String|Line2 Reasons|FS3,Push Rod Fault,DOWNTIME,Process Failure - 2404,6061
+String|Line2 Reasons|FS3,Push Chain Fault,DOWNTIME,Process Failure - 2404,6062
+String|Line2 Reasons|FS3,Insufficient Qty,DOWNTIME,Process Failure - 2404,6063
+String|Line2 Reasons|FS3,Push Rods Active,DOWNTIME,Process Failure - 2404,6064
+String|Line2 Reasons,TFS3,DOWNTIME,Process Failure - 2404,6500
+String|Line2 Reasons|TFS3,Operator Stop,DOWNTIME,Process Failure - 2404,6501
+String|Line2 Reasons|TFS3,General Stop,DOWNTIME,Process Failure - 2404,6502
+String|Line2 Reasons|TFS3|General Stop,Internal,DOWNTIME,Process Failure - 2404,6503
+String|Line2 Reasons|TFS3|General Stop,External,DOWNTIME,Process Failure - 2404,6504
+String|Line2 Reasons|TFS3|General Stop,Suspended,DOWNTIME,Process Failure - 2404,6505
+String|Line2 Reasons|TFS3,Communication Fault,DOWNTIME,Process Failure - 2404,6510
+String|Line2 Reasons|Conveyors,TFS3 Infeed,DOWNTIME,Process Failure - 2404,6512
+String|Line2 Reasons|Conveyors,TFS3 Discharge,DOWNTIME,Process Failure - 2404,6514
+String|Line2 Reasons|TFS3,Containers NotSpaced,DOWNTIME,Process Failure - 2404,6521
+String|Line2 Reasons|TFS3,Containers Tipped,DOWNTIME,Process Failure - 2404,6522
+String|Line2 Reasons|TFS3,Magazine Empty,DOWNTIME,Process Failure - 2404,6523
+String|Line2 Reasons|TFS3,No Register Mark,DOWNTIME,Process Failure - 2404,6524
+String|Line2 Reasons|TFS3,Servo Fault,DOWNTIME,Process Failure - 2404,6525
+String|Line2 Reasons|TFS3,Pack Conveyor Fault,DOWNTIME,Process Failure - 2404,6526
+String|Line2 Reasons|TFS3,Pack Length Fault,DOWNTIME,Process Failure - 2404,6527
+String|Line2 Reasons|TFS3,Double Blank,DOWNTIME,Process Failure - 2404,6529
+String|Line2 Reasons|TFS3,Infeed Monitoring,DOWNTIME,Process Failure - 2404,6530
+String|Line2 Reasons|TFS3,Incorrect Wrap,DOWNTIME,Process Failure - 2404,6531
+String|Line2 Reasons|TFS3,No Blank Separator,DOWNTIME,Process Failure - 2404,6532
+String|Line2 Reasons|TFS3,Cam Linking Inactive,DOWNTIME,Process Failure - 2404,6533
+String|Line2 Reasons|TFS3,PE Sensor Fault,DOWNTIME,Process Failure - 2404,6534
+String|Line2 Reasons|TFS3,Future Fault 6x35,DOWNTIME,Process Failure - 2404,6535
+String|Line2 Reasons|TFS3,Future Fault 6x36,DOWNTIME,Process Failure - 2404,6536
+String|Line2 Reasons|TFS3,Future Fault 6x37,DOWNTIME,Process Failure - 2404,6537
+String|Line2 Reasons|TFS3,Future Fault 6x38,DOWNTIME,Process Failure - 2404,6538
+String|Line2 Reasons|TFS3,Future Fault 6x39,DOWNTIME,Process Failure - 2404,6539
+String|Line2 Reasons|TFS3,Future Fault 6x40,DOWNTIME,Process Failure - 2404,6540
+String|Line2 Reasons|TFS3,Pack Not Glued,DOWNTIME,Process Failure - 2404,6551
+String|Line2 Reasons|TFS3,Pack Jam - Closing,DOWNTIME,Process Failure - 2404,6552
+String|Line2 Reasons|TFS3|Pack Length Fault,In Folding Station,DOWNTIME,Process Failure - 2404,6553
+String|Line2 Reasons|TFS3|Pack Length Fault,Front of Folding,DOWNTIME,Process Failure - 2404,6554
+String|Line2 Reasons|TFS3,Separated Blank,DOWNTIME,Process Failure - 2404,6555
+String|Line2 Reasons|TFS3,Missing Blank,DOWNTIME,Process Failure - 2404,6556
+String|Line2 Reasons|TFS3,Container Fallen,DOWNTIME,Process Failure - 2404,6557
+String|Line2 Reasons|TFS3,Divider Height,DOWNTIME,Process Failure - 2404,6558
+String|Line2 Reasons|TFS3,Collision Fault,DOWNTIME,Process Failure - 2404,6559
+String|Line2 Reasons|TFS3,Push Chain Sensor,DOWNTIME,Process Failure - 2404,6560
+String|Line2 Reasons|TFS3,Push Rod Fault,DOWNTIME,Process Failure - 2404,6561
+String|Line2 Reasons|TFS3,Push Chain Fault,DOWNTIME,Process Failure - 2404,6562
+String|Line2 Reasons|TFS3,Insufficient Qty,DOWNTIME,Process Failure - 2404,6563
+String|Line2 Reasons|TFS3,Push Rods Active,DOWNTIME,Process Failure - 2404,6564
+String|Line2 Reasons,Palletizer2,DOWNTIME,Process Failure - 2404,7000
+String|Line2 Reasons|Palletizer2,Operator Stop,DOWNTIME,Process Failure - 2404,7001
+String|Line2 Reasons|Palletizer2,General Stop,DOWNTIME,Process Failure - 2404,7002
+String|Line2 Reasons|Palletizer2|General Stop,Aborted,DOWNTIME,Process Failure - 2404,7003
+String|Line2 Reasons|Palletizer2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,7004
+String|Line2 Reasons|Palletizer2,Communication Fault,DOWNTIME,Process Failure - 2404,7010
+String|Line2 Reasons|Conveyors,Palletizer2 Infeed,DOWNTIME,Process Failure - 2404,7012
+String|Line2 Reasons|Conveyors,Palletizer2 Infeed Off,DOWNTIME,Process Failure - 2404,7013
+String|Line2 Reasons|Conveyors,Palletizer2 Discharge,DOWNTIME,Process Failure - 2404,7014
+String|Line2 Reasons|Conveyors,Palletizer2 Disch Off,DOWNTIME,Process Failure - 2404,7015
+String|Line2 Reasons|Palletizer2|Operator Stop,Estop,DOWNTIME,Process Failure - 2404,7021
+String|Line2 Reasons|Palletizer2|Operator Stop,Guard Door/Barrier,DOWNTIME,Process Failure - 2404,7022
+String|Line2 Reasons|Palletizer2,Future Fault 7023,DOWNTIME,Process Failure - 2404,7023
+String|Line2 Reasons|Palletizer2,Future Fault 7024,DOWNTIME,Process Failure - 2404,7024
+String|Line2 Reasons|Palletizer2,Future Fault 7025,DOWNTIME,Process Failure - 2404,7025
+String|Line2 Reasons|Palletizer2,Future Fault 7026,DOWNTIME,Process Failure - 2404,7026
+String|Line2 Reasons|Palletizer2,Future Fault 7027,DOWNTIME,Process Failure - 2404,7027
+String|Line2 Reasons|Palletizer2,Future Fault 7028,DOWNTIME,Process Failure - 2404,7028
+String|Line2 Reasons|Palletizer2,Future Fault 7029,DOWNTIME,Process Failure - 2404,7029
+String|Line2 Reasons|Palletizer2,Future Fault 7030,DOWNTIME,Process Failure - 2404,7030
+String|Line2 Reasons,Stretchwrapper2,DOWNTIME,Process Failure - 2404,7500
+String|Line2 Reasons|Stretchwrapper2,Operator Stop,DOWNTIME,Process Failure - 2404,7501
+String|Line2 Reasons|Stretchwrapper2,General Stop,DOWNTIME,Process Failure - 2404,7502
+String|Line2 Reasons|Stretchwrapper2|General Stop,Aborted,DOWNTIME,Process Failure - 2404,7503
+String|Line2 Reasons|Stretchwrapper2|General Stop,Suspended,DOWNTIME,Process Failure - 2404,7504
+String|Line2 Reasons|Stretchwrapper2,Communication Fault,DOWNTIME,Process Failure - 2404,7510
+String|Line2 Reasons|Conveyors,Stretchwrapper2 Infeed,DOWNTIME,Process Failure - 2404,7512
+String|Line2 Reasons|Conveyors,Stretchwrapper2 Infeed Off,DOWNTIME,Process Failure - 2404,7513
+String|Line2 Reasons|Conveyors,Stretchwrapper2 Discharge,DOWNTIME,Process Failure - 2404,7514
+String|Line2 Reasons|Conveyors,Stretchwrapper2 Disch Off,DOWNTIME,Process Failure - 2404,7515
+String|Line2 Reasons|Stretchwrapper2,Arm Fault - A,DOWNTIME,Process Failure - 2404,7521
+String|Line2 Reasons|Stretchwrapper2,Arm Fault - B,DOWNTIME,Process Failure - 2404,7522
+String|Line2 Reasons|Stretchwrapper2,Arm Fault - C,DOWNTIME,Process Failure - 2404,7523
+String|Line2 Reasons|Stretchwrapper2,Arm Fault - D,DOWNTIME,Process Failure - 2404,7524
+String|Line2 Reasons|Stretchwrapper2,Contrast Bar Pos,DOWNTIME,Process Failure - 2404,7525
+String|Line2 Reasons|Stretchwrapper2|Operator Stop,Guard Door/Barrier,DOWNTIME,Process Failure - 2404,7526
+String|Line2 Reasons|Stretchwrapper2|Operator Stop,Stop PB,DOWNTIME,Process Failure - 2404,7527
+String|Line2 Reasons|Stretchwrapper2,Broken Film,DOWNTIME,Process Failure - 2404,7528
+String|Line2 Reasons|Stretchwrapper2,Corner Not Present,DOWNTIME,Process Failure - 2404,7529
+String|Line2 Reasons|Stretchwrapper2,Future Fault 7530,DOWNTIME,Process Failure - 2404,7530
+String|Line2 Reasons,Winder4,DOWNTIME,Process Failure - 2404,8000
+String|Line2 Reasons|Winder4,General - Stopped,DOWNTIME,Process Failure - 2404,8002
+String|Line2 Reasons|Winder4,General,DOWNTIME,Process Failure - 2404,8100
+String|Line2 Reasons|Winder4|General,Operator Stop,DOWNTIME,Process Failure - 2404,8101
+String|Line2 Reasons|Winder4|General,Communication Fault,DOWNTIME,Process Failure - 2404,8110
+String|Line2 Reasons|Winder4|General,Accumulator Full,DOWNTIME,Process Failure - 2404,8122
+String|Line2 Reasons|Winder4|General,Future Fault 2123,DOWNTIME,Process Failure - 2404,8123
+String|Line2 Reasons|Winder4|General,Future Fault 2124,DOWNTIME,Process Failure - 2404,8124
+String|Line2 Reasons|Winder4|General,Future Fault 2125,DOWNTIME,Process Failure - 2404,8125
+String|Line2 Reasons|Winder4|General,Future Fault 2126,DOWNTIME,Process Failure - 2404,8126
+String|Line2 Reasons|Winder4|General,Future Fault 2127,DOWNTIME,Process Failure - 2404,8127
+String|Line2 Reasons|Winder4|General,Future Fault 2128,DOWNTIME,Process Failure - 2404,8128
+String|Line2 Reasons|Winder4|General,Future Fault 2129,DOWNTIME,Process Failure - 2404,8129
+String|Line2 Reasons|Winder4|General,Future Fault 2130,DOWNTIME,Process Failure - 2404,8130
+String|Line2 Reasons|Winder4|Accumulator,Full,DOWNTIME,Process Failure - 2404,8131
+String|Line2 Reasons|Winder4|Accumulator,Not Ready,DOWNTIME,Process Failure - 2404,8132
+String|Line2 Reasons|Winder4|Tail Seal,Not Ready,DOWNTIME,Process Failure - 2404,8133
+String|Line2 Reasons|Winder4,Threadup Complete,DOWNTIME,Process Failure - 2404,8134
+String|Line2 Reasons|Winder4|Lost Ethernet,Threadup Drive 1,DOWNTIME,Process Failure - 2404,8135
+String|Line2 Reasons|Winder4|Lost Ethernet,Threadup Drive 2,DOWNTIME,Process Failure - 2404,8136
+String|Line2 Reasons|Winder4,UpperPly Control,DOWNTIME,Process Failure - 2404,8200
+String|Line2 Reasons|Winder4|UpperPly Control,Operator Stop,DOWNTIME,Process Failure - 2404,8201
+String|Line2 Reasons|Winder4|UpperPly Control,Communication Fault,DOWNTIME,Process Failure - 2404,8210
+String|Line2 Reasons|Winder4|UpperPly Control,Parent Roll Expired,DOWNTIME,Process Failure - 2404,8221
+String|Line2 Reasons|Winder4|UpperPly Control,Splice Upper Ply,DOWNTIME,Process Failure - 2404,8222
+String|Line2 Reasons|Winder4|UpperPly Control,Error Following,DOWNTIME,Process Failure - 2404,8223
+String|Line2 Reasons|Winder4|UpperPly Control,Invalid Mode,DOWNTIME,Process Failure - 2404,8224
+String|Line2 Reasons|Winder4|UpperPly Control,Future Fault 2225,DOWNTIME,Process Failure - 2404,8225
+String|Line2 Reasons|Winder4|UpperPly Control,Future Fault 2226,DOWNTIME,Process Failure - 2404,8226
+String|Line2 Reasons|Winder4|UpperPly Control,Future Fault 2227,DOWNTIME,Process Failure - 2404,8227
+String|Line2 Reasons|Winder4|UpperPly Control,Future Fault 2228,DOWNTIME,Process Failure - 2404,8228
+String|Line2 Reasons|Winder4|UpperPly Control,Future Fault 2229,DOWNTIME,Process Failure - 2404,8229
+String|Line2 Reasons|Winder4|UpperPly Control,Future Fault 2230,DOWNTIME,Process Failure - 2404,8230
+String|Line2 Reasons|Winder4,Rewind,DOWNTIME,Process Failure - 2404,8300
+String|Line2 Reasons|Winder4|Rewind,Operator Stop,DOWNTIME,Process Failure - 2404,8301
+String|Line2 Reasons|Winder4|Rewind,Communication Fault,DOWNTIME,Process Failure - 2404,8310
+String|Line2 Reasons|Winder4|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8321
+String|Line2 Reasons|Winder4|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8322
+String|Line2 Reasons|Winder4|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8323
+String|Line2 Reasons|Winder4|Rewind,Web Break,DOWNTIME,Process Failure - 2404,8324
+String|Line2 Reasons|Winder4|Rewind,No Core,DOWNTIME,Process Failure - 2404,8325
+String|Line2 Reasons|Winder4|Rewind,Not Detected,DOWNTIME,Process Failure - 2404,8326
+String|Line2 Reasons|Winder4|Rewind,Jammed,DOWNTIME,Process Failure - 2404,8327
+String|Line2 Reasons|Winder4|Rewind,Low Core Hopper,DOWNTIME,Process Failure - 2404,8328
+String|Line2 Reasons|Winder4|Rewind,Jammed,DOWNTIME,Process Failure - 2404,8329
+String|Line2 Reasons|Winder4|Rewind,No Core,DOWNTIME,Process Failure - 2404,8330
+String|Line2 Reasons|Winder4|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8331
+String|Line2 Reasons|Winder4|Rewind,Error Following,DOWNTIME,Process Failure - 2404,8332
+String|Line2 Reasons|Winder4|Rewind,Low Xfer Adhesive,DOWNTIME,Process Failure - 2404,8333
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2334,DOWNTIME,Process Failure - 2404,8334
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2335,DOWNTIME,Process Failure - 2404,8335
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2336,DOWNTIME,Process Failure - 2404,8336
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2337,DOWNTIME,Process Failure - 2404,8337
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2338,DOWNTIME,Process Failure - 2404,8338
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2339,DOWNTIME,Process Failure - 2404,8339
+String|Line2 Reasons|Winder4|Rewind,Future Fault 2340,DOWNTIME,Process Failure - 2404,8340
+String|Line2 Reasons|Winder4,Extractor,DOWNTIME,Process Failure - 2404,8400
+String|Line2 Reasons|Winder4|Extractor,Operator Stop,DOWNTIME,Process Failure - 2404,8401
+String|Line2 Reasons|Winder4|Extractor,Communication Fault,DOWNTIME,Process Failure - 2404,8410
+String|Line2 Reasons|Winder4|Extractor,Log Not Loaded,DOWNTIME,Process Failure - 2404,8421
+String|Line2 Reasons|Winder4|Extractor,Jammed,DOWNTIME,Process Failure - 2404,8422
+String|Line2 Reasons|Winder4|Extractor,Jammed,DOWNTIME,Process Failure - 2404,8423
+String|Line2 Reasons|Winder4|Extractor,Jammed,DOWNTIME,Process Failure - 2404,8424
+String|Line2 Reasons|Winder4|Extractor,No Logs,DOWNTIME,Process Failure - 2404,8425
+String|Line2 Reasons|Winder4|Extractor,No Mandrels,DOWNTIME,Process Failure - 2404,8426
+String|Line2 Reasons|Winder4|Extractor,Not Extracted,DOWNTIME,Process Failure - 2404,8427
+String|Line2 Reasons|Winder4|Extractor,Not Disengaged,DOWNTIME,Process Failure - 2404,8428
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2429,DOWNTIME,Process Failure - 2404,8429
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2430,DOWNTIME,Process Failure - 2404,8430
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2431,DOWNTIME,Process Failure - 2404,8431
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2432,DOWNTIME,Process Failure - 2404,8432
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2433,DOWNTIME,Process Failure - 2404,8433
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2434,DOWNTIME,Process Failure - 2404,8434
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2435,DOWNTIME,Process Failure - 2404,8435
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2436,DOWNTIME,Process Failure - 2404,8436
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2437,DOWNTIME,Process Failure - 2404,8437
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2438,DOWNTIME,Process Failure - 2404,8438
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2439,DOWNTIME,Process Failure - 2404,8439
+String|Line2 Reasons|Winder4|Extractor,Future Fault 2440,DOWNTIME,Process Failure - 2404,8440
+String|Line2 Reasons|Winder4,Unwind 1,DOWNTIME,Process Failure - 2404,8500
+String|Line2 Reasons|Winder4|Unwind 1,Operator Stop,DOWNTIME,Process Failure - 2404,8501
+String|Line2 Reasons|Winder4|Unwind 1,Communication Fault,DOWNTIME,Process Failure - 2404,8510
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2521,DOWNTIME,Process Failure - 2404,8521
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2522,DOWNTIME,Process Failure - 2404,8522
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2523,DOWNTIME,Process Failure - 2404,8523
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2524,DOWNTIME,Process Failure - 2404,8524
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2525,DOWNTIME,Process Failure - 2404,8525
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2526,DOWNTIME,Process Failure - 2404,8526
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2527,DOWNTIME,Process Failure - 2404,8527
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2528,DOWNTIME,Process Failure - 2404,8528
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2529,DOWNTIME,Process Failure - 2404,8529
+String|Line2 Reasons|Winder4|Unwind 1,Future Fault 2530,DOWNTIME,Process Failure - 2404,8530
+String|Line2 Reasons|Winder4,Unwind 2,DOWNTIME,Process Failure - 2404,8600
+String|Line2 Reasons|Winder4|Unwind 2,Operator Stop,DOWNTIME,Process Failure - 2404,8601
+String|Line2 Reasons|Winder4|Unwind 2,Communication Fault,DOWNTIME,Process Failure - 2404,8610
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2621,DOWNTIME,Process Failure - 2404,8621
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2622,DOWNTIME,Process Failure - 2404,8622
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2623,DOWNTIME,Process Failure - 2404,8623
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2624,DOWNTIME,Process Failure - 2404,8624
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2625,DOWNTIME,Process Failure - 2404,8625
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2626,DOWNTIME,Process Failure - 2404,8626
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2627,DOWNTIME,Process Failure - 2404,8627
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2628,DOWNTIME,Process Failure - 2404,8628
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2629,DOWNTIME,Process Failure - 2404,8629
+String|Line2 Reasons|Winder4|Unwind 2,Future Fault 2630,DOWNTIME,Process Failure - 2404,8630
+String|Line2 Reasons|Winder4,Log Saw,DOWNTIME,Process Failure - 2404,8800
+String|Line2 Reasons|Winder4|Log Saw,Operator Stop,DOWNTIME,Process Failure - 2404,8801
+String|Line2 Reasons|Winder4|Log Saw,Communication Fault,DOWNTIME,Process Failure - 2404,8810
+String|Line2 Reasons|Winder4,Log Saw Infeed,DOWNTIME,Process Failure - 2404,8812
+String|Line2 Reasons|Winder4,Log Saw Discharge,DOWNTIME,Process Failure - 2404,8814
+String|Line2 Reasons|Winder4|Log Saw,Jammed Fault 66,DOWNTIME,Process Failure - 2404,8821
+String|Line2 Reasons|Winder4|Log Saw,Jammed Fault 91,DOWNTIME,Process Failure - 2404,8822
+String|Line2 Reasons|Winder4|Log Saw,Dropped Log,DOWNTIME,Process Failure - 2404,8823
+String|Line2 Reasons|Winder4|Log Saw,Axis Fault,DOWNTIME,Process Failure - 2404,8824
+String|Line2 Reasons|Winder4|Log Saw,Future Fault 2825,DOWNTIME,Process Failure - 2404,8825
+String|Line2 Reasons|Winder4|Log Saw,Future Fault 2826,DOWNTIME,Process Failure - 2404,8826
+String|Line2 Reasons|Winder4|Log Saw,Future Fault 2827,DOWNTIME,Process Failure - 2404,8827
+String|Line2 Reasons|Winder4|Log Saw,Future Fault 2828,DOWNTIME,Process Failure - 2404,8828
+String|Line2 Reasons|Winder4|Log Saw,Future Fault 2829,DOWNTIME,Process Failure - 2404,8829
+String|Line2 Reasons|Winder4|Log Saw,Future Fault 2830,DOWNTIME,Process Failure - 2404,8830
+String|Line2 Reasons|Winder4,Tail Seal,DOWNTIME,Process Failure - 2404,8900
+String|Line2 Reasons|Winder4|Tail Seal,Operator Stop,DOWNTIME,Process Failure - 2404,8901
+String|Line2 Reasons|Winder4|Tail Seal,Communication Fault,DOWNTIME,Process Failure - 2404,8910
+String|Line2 Reasons|Winder4,Tail Seal Infeed,DOWNTIME,Process Failure - 2404,8912
+String|Line2 Reasons|Winder4,Tail Seal Discharge,DOWNTIME,Process Failure - 2404,8914
+String|Line2 Reasons|Winder4|Tail Seal,Jam Infeed Rolls,DOWNTIME,Process Failure - 2404,8921
+String|Line2 Reasons|Winder4|Tail Seal,Jam Accum Infeed,DOWNTIME,Process Failure - 2404,8922
+String|Line2 Reasons|Winder4|Tail Seal,Log Slip Infd Rolls,DOWNTIME,Process Failure - 2404,8923
+String|Line2 Reasons|Winder4|Tail Seal,Dropped Log,DOWNTIME,Process Failure - 2404,8924
+String|Line2 Reasons|Winder4|Tail Seal,Accum Not Ready,DOWNTIME,Process Failure - 2404,8925
+String|Line2 Reasons|Winder4|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,8926
+String|Line2 Reasons|Winder4|Tail Seal,Adhesive Cable,DOWNTIME,Process Failure - 2404,8927
+String|Line2 Reasons|Winder4|Tail Seal,Future Fault 2928,DOWNTIME,Process Failure - 2404,8928
+String|Line2 Reasons|Winder4|Tail Seal,Future Fault 2929,DOWNTIME,Process Failure - 2404,8929
+String|Line2 Reasons|Winder4|Tail Seal,Future Fault 2930,DOWNTIME,Process Failure - 2404,8930
+String|Line2 Reasons|Not Auto Program,Start Up,DOWNTIME,Process Failure - 2404,9102
+String|Line2 Reasons|Not Auto Program,Run Down,DOWNTIME,Process Failure - 2404,9104
+String|Line2 Reasons|Not Auto Program,Clean,DOWNTIME,Process Failure - 2404,9108
+String|Line2 Reasons|Not Auto Program,Changeover,DOWNTIME,Process Failure - 2404,9116
+String|Line2 Reasons|Not Auto Program,Maintenance,DOWNTIME,Process Failure - 2404,9132
+String|Line2 Reasons|Not Auto Program,Break,DOWNTIME,Process Failure - 2404,9164
+String|Line2 Reasons|Operator Stop,Guard Doors,DOWNTIME,Process Failure - 2404,9200
+String|Line2 Reasons|Operator Stop|Guard Doors,General,DOWNTIME,Process Failure - 2404,9201
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 1 Door 1,DOWNTIME,Process Failure - 2404,9202
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 1 Door 2,DOWNTIME,Process Failure - 2404,9203
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 1 Door 3,DOWNTIME,Process Failure - 2404,9204
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 2 Door 1,DOWNTIME,Process Failure - 2404,9205
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 2 Door 2,DOWNTIME,Process Failure - 2404,9206
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 2 Door 3,DOWNTIME,Process Failure - 2404,9207
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 3 Door 1,DOWNTIME,Process Failure - 2404,9208
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 3 Door 2,DOWNTIME,Process Failure - 2404,9209
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 3 Door 3,DOWNTIME,Process Failure - 2404,9210
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 4 Door 1,DOWNTIME,Process Failure - 2404,9211
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 4 Door 2,DOWNTIME,Process Failure - 2404,9212
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 4 Door 3,DOWNTIME,Process Failure - 2404,9213
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 1 Door 1,DOWNTIME,Process Failure - 2404,9214
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 2 Door 1,DOWNTIME,Process Failure - 2404,9215
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 1 Door 3,DOWNTIME,Process Failure - 2404,9216
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 2 Door 1,DOWNTIME,Process Failure - 2404,9217
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 2 Door 2,DOWNTIME,Process Failure - 2404,9218
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 2 Door 3,DOWNTIME,Process Failure - 2404,9219
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 3 Door 1,DOWNTIME,Process Failure - 2404,9220
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 3 Door 2,DOWNTIME,Process Failure - 2404,9221
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 3 Door 3,DOWNTIME,Process Failure - 2404,9222
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 4 Door 1,DOWNTIME,Process Failure - 2404,9223
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 4 Door 2,DOWNTIME,Process Failure - 2404,9224
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 4 Door 3,DOWNTIME,Process Failure - 2404,9225
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 5 Door 1,DOWNTIME,Process Failure - 2404,9226
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 5 Door 2,DOWNTIME,Process Failure - 2404,9227
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 5 Door 3,DOWNTIME,Process Failure - 2404,9228
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 6 Door 1,DOWNTIME,Process Failure - 2404,9229
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 6 Door 2,DOWNTIME,Process Failure - 2404,9230
+String|Line2 Reasons|Operator Stop|Guard Doors,Station 6 Door 3,DOWNTIME,Process Failure - 2404,9231
+String|Line2 Reasons|Operator Stop|Guard Doors,Shrinking Unit,DOWNTIME,Process Failure - 2404,9232
+String|Line2 Reasons|Operator Stop|Guard Doors,Linear Reject Unit,DOWNTIME,Process Failure - 2404,9233
+String|Line2 Reasons|Operator Stop|Guard Doors,Reel Magazine Left,DOWNTIME,Process Failure - 2404,9234
+String|Line2 Reasons|Operator Stop|Guard Doors,Reel Magazine Right,DOWNTIME,Process Failure - 2404,9235
+String|Line2 Reasons|Operator Stop|Guard Doors,Reel Buffer Door 1,DOWNTIME,Process Failure - 2404,9236
+String|Line2 Reasons|Operator Stop|Guard Doors,Reel Buffer Door 2,DOWNTIME,Process Failure - 2404,9237
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 1 Door 4,DOWNTIME,Process Failure - 2404,9238
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 1 Door 5,DOWNTIME,Process Failure - 2404,9239
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 2 Door 4,DOWNTIME,Process Failure - 2404,9240
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 2 Door 5,DOWNTIME,Process Failure - 2404,9241
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 3 Door 4,DOWNTIME,Process Failure - 2404,9242
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 3 Door 5,DOWNTIME,Process Failure - 2404,9243
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 4 Door 4,DOWNTIME,Process Failure - 2404,9244
+String|Line2 Reasons|Operator Stop|Guard Doors,Side 4 Door 5,DOWNTIME,Process Failure - 2404,9245
+String|Line2 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9246
+String|Line2 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9247
+String|Line2 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9248
+String|Line2 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9249
+String|Line2 Reasons|Operator Stop|Guard Doors,Sleever,DOWNTIME,Process Failure - 2404,9250
+String|Line2 Reasons|Operator Stop|Guard Doors,Taxomat 2,DOWNTIME,Process Failure - 2404,9259
+String|Line2 Reasons|Operator Stop|Guard Doors,Taxomat,DOWNTIME,Process Failure - 2404,9260
+String|Line2 Reasons|Operator Stop|Guard Doors,Taxomat Hotmelt,DOWNTIME,Process Failure - 2404,9261
+String|Line2 Reasons|Operator Stop|Guard Doors,Canmatic,DOWNTIME,Process Failure - 2404,9262
+String|Line2 Reasons|Operator Stop|Guard Doors,Separation Guard,DOWNTIME,Process Failure - 2404,9263
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS1,DOWNTIME,Process Failure - 2404,9264
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS1,DOWNTIME,Process Failure - 2404,9265
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS2,DOWNTIME,Process Failure - 2404,9266
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS2,DOWNTIME,Process Failure - 2404,9267
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS3,DOWNTIME,Process Failure - 2404,9268
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS3,DOWNTIME,Process Failure - 2404,9269
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS4,DOWNTIME,Process Failure - 2404,9270
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS4,DOWNTIME,Process Failure - 2404,9271
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS5,DOWNTIME,Process Failure - 2404,9272
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS5,DOWNTIME,Process Failure - 2404,9273
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS6,DOWNTIME,Process Failure - 2404,9274
+String|Line2 Reasons|Operator Stop|Guard Doors,Autocol LS6,DOWNTIME,Process Failure - 2404,9275
+String|Line2 Reasons|Stretchwrapper2|Change Working Mode,,DOWNTIME,Process,7531
+String|Line2 Reasons|Stretchwrapper2|Roll Carriage Hook 1,,DOWNTIME,Process,7532
+String|Line2 Reasons|Stretchwrapper2|Roll Carriage Hook 2,,DOWNTIME,Process,7533
+String|Line2 Reasons|Depal2|Guard Manual Release,,DOWNTIME,Process,1031
+String|Line2 Reasons|Depal2|Lift Are-Clear Trip,,DOWNTIME,,1032
+String|Line2 Reasons|Filler2|Machine Not Ready,,DOWNTIME,Process Failure - 2404,4027
+String|Line2 Reasons|Filler2|Closure Feed Sort B,,DOWNTIME,Process Failure - 2404,4041
+String|Line2 Reasons|Filler2|Closure Feed Sort B,,DOWNTIME,Process Failure - 2404,4042
+String|Line2 Reasons|Labeler4|Overload Clutch Trip,,DOWNTIME,Process Failure - 2404,5131
+String|Line2 Reasons|Labeler4|Container Missing,,DOWNTIME,Process Failure - 2404,5132
+String|Line2 Reasons|Labeler5|Overload Clutch Trip,,DOWNTIME,Process Failure - 2404,5431
+String|Line2 Reasons|Labeler5|Container Missing,,DOWNTIME,Process Failure - 2404,5432
+String|Line2 Reasons|Labeler6|Overload Clutch Trip,,DOWNTIME,Process Failure - 2404,5731
+String|Line2 Reasons|Labeler6|Container Missing,,DOWNTIME,Process Failure - 2404,5732
+String|Line2 Reasons|Palletizer2|PLC/LMS Connection,,DOWNTIME,Process Failure - 2404,7031
+String|Line2 Reasons|Palletizer2|Unlocked Guard Area,,DOWNTIME,Process Failure - 2404,7032
+String|Line2 Reasons|Palletizer2|Pallet Conveyor Change,,DOWNTIME,Process Failure - 2404,7033
+String|Line2 Reasons|TFS3|Chain Must Be Homed,,DOWNTIME,Process Failure - 2404,6528
+String|Line2 Reasons|Stuffer3|Force Enabled/Present,,DOWNTIME,Process Failure - 2404,3031
+String|Line2 Reasons|Stuffer3|Low Canister Supply,,DOWNTIME,Process Failure - 2404,3032
+String|Line2 Reasons|Stuffer4|Low Canister Supply,,DOWNTIME,Process Failure - 2404,3531
+String|Line2 Reasons|Stuffer4|Force Enabled/Present,,DOWNTIME,Process Failure - 2404,3532
+String|Line2 Reasons|Winder3|General,ReW Door 1 Axc Req,DOWNTIME,Process Failure - 2404,2137
+String|Line2 Reasons|Winder3|General,ReW Door 2 Axc Req,DOWNTIME,Process Failure - 2404,2138
+String|Line2 Reasons|Winder3|General,ReW Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,2139
+String|Line2 Reasons|Winder3|General,ReW Door 3 Guard Sw,DOWNTIME,Process Failure - 2404,2140
+String|Line2 Reasons|Winder3|General,ReW Sft Zone Fault,DOWNTIME,Process Failure - 2404,2141
+String|Line2 Reasons|Winder4|General,ReW Door 1 Axc Req,DOWNTIME,Process Failure - 2404,8137
+String|Line2 Reasons|Winder4|General,ReW Door 2 Axc Req,DOWNTIME,Process Failure - 2404,8138
+String|Line2 Reasons|Winder4|General,ReW Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,8139
+String|Line2 Reasons|Winder4|General,ReW Door 3 Guard Sw,DOWNTIME,Process Failure - 2404,8140
+String|Line2 Reasons|Winder4|General,ReW Sft Zone Fault,DOWNTIME,Process Failure - 2404,8141
+String|Line2 Reasons|Winder3|UpperPly Control,Upper Ply 1 Error,DOWNTIME,Process Failure - 2404,2231
+String|Line2 Reasons|Winder3|UpperPly Control,Upper Ply 3 Error,DOWNTIME,Process Failure - 2404,2232
+String|Line2 Reasons|Winder3|UpperPly Control,Unwind Web Break,DOWNTIME,Process Failure - 2404,2233
+String|Line2 Reasons|Winder3|UpperPly Control,Unwind Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,2234
+String|Line2 Reasons|Winder3|UpperPly Control,Upper Ply Stop PB,DOWNTIME,Process Failure - 2404,2235
+String|Line2 Reasons|Winder3|UpperPly Control,Splice Unit Latch,DOWNTIME,Process Failure - 2404,2236
+String|Line2 Reasons|Winder3|UpperPly Control,Unwind Door 2 Axs Rq,DOWNTIME,Process Failure - 2404,2237
+String|Line2 Reasons|Winder3|UpperPly Control,Unwind Door 2 Axs Rq,DOWNTIME,Process Failure - 2404,2238
+String|Line2 Reasons|Winder3|UpperPly Control,Splice Cutoff Stuck,DOWNTIME,Process Failure - 2404,2239
+String|Line2 Reasons|Winder4|UpperPly Control,Upper Ply 1 Error,DOWNTIME,Process Failure - 2404,8231
+String|Line2 Reasons|Winder4|UpperPly Control,Upper Ply 3 Error,DOWNTIME,Process Failure - 2404,8232
+String|Line2 Reasons|Winder4|UpperPly Control,Unwind Web Break,DOWNTIME,Process Failure - 2404,8233
+String|Line2 Reasons|Winder4|UpperPly Control,Unwind Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,8234
+String|Line2 Reasons|Winder4|UpperPly Control,Upper Ply Stop PB,DOWNTIME,Process Failure - 2404,8235
+String|Line2 Reasons|Winder4|UpperPly Control,Splice Unit Latch,DOWNTIME,Process Failure - 2404,8236
+String|Line2 Reasons|Winder4|UpperPly Control,Unwind Door 2 Axs Rq,DOWNTIME,Process Failure - 2404,8237
+String|Line2 Reasons|Winder4|UpperPly Control,Splice Cutoff Stuck,DOWNTIME,Process Failure - 2404,8238
+String|Line2 Reasons|Winder3|Rewind,CorHop Door 1 Open,DOWNTIME,Process Failure - 2404,2341
+String|Line2 Reasons|Winder3|Rewind,CorHop Door 1 Guard Sw,DOWNTIME,Process Failure - 2404,2342
+String|Line2 Reasons|Winder3|Rewind,ReW Infeed Guide Roll,DOWNTIME,Process Failure - 2404,2343
+String|Line2 Reasons|Winder3|Rewind,Infeed Guide Roll,DOWNTIME,Process Failure - 2404,2344
+String|Line2 Reasons|Winder4|Rewind,CorHop Door 1 Open,DOWNTIME,Process Failure - 2404,8341
+String|Line2 Reasons|Winder4|Rewind,CorHop Door 1 Guard Sw,DOWNTIME,Process Failure - 2404,8342
+String|Line2 Reasons|Winder4|Rewind,ReW Infeed Guide Roll,DOWNTIME,Process Failure - 2404,8343
+String|Line2 Reasons|Winder4|Rewind,Infeed Guide Roll,DOWNTIME,Process Failure - 2404,8344
+String|Line2 Reasons|Winder3|Extractor,Ext Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,2441
+String|Line2 Reasons|Winder3|Extractor,Ext Door 4 Axs Rq,DOWNTIME,Process Failure - 2404,2442
+String|Line2 Reasons|Winder3|Extractor,Ext Main Zone PB,DOWNTIME,Process Failure - 2404,2443
+String|Line2 Reasons|Winder3|Extractor,TS Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,2444
+String|Line2 Reasons|Winder3|Extractor,Outfeed Conv Error,DOWNTIME,Process Failure - 2404,2445
+String|Line2 Reasons|Winder3|Extractor,Mandrel Align Conv,DOWNTIME,Process Failure - 2404,2446
+String|Line2 Reasons|Winder3|Extractor,Ext Ops Stop PB,DOWNTIME,Process Failure - 2404,2447
+String|Line2 Reasons|Winder3|Extractor,Log Infeed Conv,DOWNTIME,Process Failure - 2404,2448
+String|Line2 Reasons|Winder3|Extractor,Mandrel Station 1 NF,DOWNTIME,Process Failure - 2404,2449
+String|Line2 Reasons|Winder3|Extractor,Mandrel Station 2 NF,DOWNTIME,Process Failure - 2404,2450
+String|Line2 Reasons|Winder3|Extractor,Mandrel Station 3 NF,DOWNTIME,Process Failure - 2404,2451
+String|Line2 Reasons|Winder4|Extractor,Ext Door 2 Guard Sw,DOWNTIME,Process Failure - 2404,8441
+String|Line2 Reasons|Winder4|Extractor,Ext Door 4 Axs Rq,DOWNTIME,Process Failure - 2404,8442
+String|Line2 Reasons|Winder4|Extractor,Ext Main Zone PB,DOWNTIME,Process Failure - 2404,8443
+String|Line2 Reasons|Winder4|Extractor,TS Door 1 Axs Rq,DOWNTIME,Process Failure - 2404,8444
+String|Line2 Reasons|Winder4|Extractor,Outfeed Conv Error,DOWNTIME,Process Failure - 2404,8445
+String|Line2 Reasons|Winder4|Extractor,Mandrel Align Conv,DOWNTIME,Process Failure - 2404,8446
+String|Line2 Reasons|Winder4|Extractor,Ext Ops Stop PB,DOWNTIME,Process Failure - 2404,8447
+String|Line2 Reasons|Winder4|Extractor,Log Infeed Conv,DOWNTIME,Process Failure - 2404,8448
+String|Line2 Reasons|Winder4|Extractor,Mandrel Station 1 NF,DOWNTIME,Process Failure - 2404,8449
+String|Line2 Reasons|Winder4|Extractor,Mandrel Station 2 NF,DOWNTIME,Process Failure - 2404,8450
+String|Line2 Reasons|Winder4|Extractor,Mandrel Station 3 NF,DOWNTIME,Process Failure - 2404,8451
+String|Line2 Reasons|Winder3|Rewind,Rewind Outfeed Servo,DOWNTIME,Process Failure - 2404,2345
+String|Line2 Reasons|Winder3|Rewind,Perf 1 Interference,DOWNTIME,Process Failure - 2404,2346
+String|Line2 Reasons|Winder3|Rewind,Lower Roll Speed,DOWNTIME,Process Failure - 2404,2347
+String|Line2 Reasons|Winder3|Rewind,Discharge Gate,DOWNTIME,Process Failure - 2404,2348
+String|Line2 Reasons|Winder3|Rewind,Infeed Draw Roll-OPS,DOWNTIME,Process Failure - 2404,2349
+String|Line2 Reasons|Winder3|Rewind,Infeed Draw Roll-DRV,DOWNTIME,Process Failure - 2404,2350
+String|Line2 Reasons|Winder3|Rewind,Upper Roll,DOWNTIME,Process Failure - 2404,2351
+String|Line2 Reasons|Winder3|Rewind,OPS Side HR-ODR,DOWNTIME,Process Failure - 2404,2352
+String|Line2 Reasons|Winder3|Rewind,DRV Side HR-ODR,DOWNTIME,Process Failure - 2404,2353
+String|Line2 Reasons|Winder3|Rewind,Core Asst Contrator,DOWNTIME,Process Failure - 2404,2354
+String|Line2 Reasons|Winder3|Rewind,Core Asst Overload,DOWNTIME,Process Failure - 2404,2355
+String|Line2 Reasons|Winder3|Rewind,Cam Calculation,DOWNTIME,Process Failure - 2404,2356
+String|Line2 Reasons|Winder3|Rewind,Rewind Phase State,DOWNTIME,Process Failure - 2404,2357
+String|Line2 Reasons|Winder3|Rewind,Core Hopper Conveyor,DOWNTIME,Process Failure - 2404,2358
+String|Line2 Reasons|Winder4|Rewind,Rewind Outfeed Servo,DOWNTIME,Process Failure - 2404,8345
+String|Line2 Reasons|Winder4|Rewind,Perf 1 Interference,DOWNTIME,Process Failure - 2404,8346
+String|Line2 Reasons|Winder4|Rewind,Lower Roll Speed,DOWNTIME,Process Failure - 2404,8347
+String|Line2 Reasons|Winder4|Rewind,Discharge Gate,DOWNTIME,Process Failure - 2404,8348
+String|Line2 Reasons|Winder4|Rewind,Infeed Draw Roll-OPS,DOWNTIME,Process Failure - 2404,8349
+String|Line2 Reasons|Winder4|Rewind,Infeed Draw Roll-DRV,DOWNTIME,Process Failure - 2404,8350
+String|Line2 Reasons|Winder4|Rewind,Core Asst Contactor,DOWNTIME,Process Failure - 2404,8351
+String|Line2 Reasons|Winder4|Rewind,Upper Roll,DOWNTIME,Process Failure - 2404,8352
+String|Line2 Reasons|Winder4|Rewind,OPS Side HR-ODR,DOWNTIME,Process Failure - 2404,8353
+String|Line2 Reasons|Winder4|Rewind,DRV Side HR-ODR,DOWNTIME,Process Failure - 2404,8354
+String|Line2 Reasons|Winder4|Rewind,Core Asst Overload,DOWNTIME,Process Failure - 2404,8355
+String|Line2 Reasons|Winder4|Rewind,Cam Calculation,DOWNTIME,Process Failure - 2404,8356
+String|Line2 Reasons|Winder4|Rewind,Rewind Phase State,DOWNTIME,Process Failure - 2404,8357
+String|Line2 Reasons|Winder4|Rewind,Core Hopper Conveyor,DOWNTIME,Process Failure - 2404,8358
+String|Line2 Reasons|Winder3|Log Saw,ESTOP Relay,DOWNTIME,Process Failure - 2404,2831
+String|Line2 Reasons|Winder3|Log Saw,ESTOP PB,DOWNTIME,Process Failure - 2404,2832
+String|Line2 Reasons|Winder4|Log Saw,ESTOP Relay,DOWNTIME,Process Failure - 2404,8831
+String|Line2 Reasons|Winder4|Log Saw,ESTOP PB,DOWNTIME,Process Failure - 2404,8832
+String|Line2 Reasons|Winder3|Tail Seal,TS Main ESTOP,DOWNTIME,Process Failure - 2404,2931
+String|Line2 Reasons|Winder3|Tail Seal,Interlock Door Open,DOWNTIME,Process Failure - 2404,2932
+String|Line2 Reasons|Winder3|Tail Seal,Accum Infeed ESTOP,DOWNTIME,Process Failure - 2404,2933
+String|Line2 Reasons|Winder3|Tail Seal,Vacuum Blower 2,DOWNTIME,Process Failure - 2404,2934
+String|Line2 Reasons|Winder3|Tail Seal,Index Paddle Jammed,DOWNTIME,Process Failure - 2404,2935
+String|Line2 Reasons|Winder3|Tail Seal,Log Index Paddle 1,DOWNTIME,Process Failure - 2404,2936
+String|Line2 Reasons|Winder3|Tail Seal,Log Index Paddle 2,DOWNTIME,Process Failure - 2404,2937
+String|Line2 Reasons|Winder3|Tail Seal,Log Infeed Rolld ND,DOWNTIME,Process Failure - 2404,2938
+String|Line2 Reasons|Winder3|Tail Seal,Outfeed Table Open,DOWNTIME,Process Failure - 2404,2939
+String|Line2 Reasons|Winder3|Tail Seal,Prep Tail Blocked,DOWNTIME,Process Failure - 2404,2940
+String|Line2 Reasons|Winder3|Tail Seal,ReW Lost Comms,DOWNTIME,Process Failure - 2404,2941
+String|Line2 Reasons|Winder3|Tail Seal,TS Door 4 Guard SW,DOWNTIME,Process Failure - 2404,2942
+String|Line2 Reasons|Winder3|Tail Seal,Accumulator Full,DOWNTIME,Process Failure - 2404,2944
+String|Line2 Reasons|Winder3|Tail Seal,Accumulator Empty,DOWNTIME,Process Failure - 2404,2945
+String|Line2 Reasons|Winder4|Tail Seal,TS Main ESTOP,DOWNTIME,Process Failure - 2404,8931
+String|Line2 Reasons|Winder4|Tail Seal,Interlock Door Open,DOWNTIME,Process Failure - 2404,8932
+String|Line2 Reasons|Winder4|Tail Seal,Accum Infeed ESTOP,DOWNTIME,Process Failure - 2404,8933
+String|Line2 Reasons|Winder4|Tail Seal,Vacuum Blower 2,DOWNTIME,Process Failure - 2404,8934
+String|Line2 Reasons|Winder4|Tail Seal,Index Paddle Jammed,DOWNTIME,Process Failure - 2404,8935
+String|Line2 Reasons|Winder4|Tail Seal,Log Index Paddle 1,DOWNTIME,Process Failure - 2404,8936
+String|Line2 Reasons|Winder4|Tail Seal,Log Index Paddle 2,DOWNTIME,Process Failure - 2404,8937
+String|Line2 Reasons|Winder4|Tail Seal,Log Infeed Rolld ND,DOWNTIME,Process Failure - 2404,8938
+String|Line2 Reasons|Winder4|Tail Seal,Outfeed Table Open,DOWNTIME,Process Failure - 2404,8939
+String|Line2 Reasons|Winder4|Tail Seal,Prep Tail Blocked,DOWNTIME,Process Failure - 2404,8940
+String|Line2 Reasons|Winder4|Tail Seal,ReW Lost Comms,DOWNTIME,Process Failure - 2404,8941
+String|Line2 Reasons|Winder4|Tail Seal,TS Door 4 Guard SW,DOWNTIME,Process Failure - 2404,8942
+String|Line2 Reasons|Winder4|Tail Seal,Index Paddle Pos Err,DOWNTIME,Process Failure - 2404,8943
+String|Line2 Reasons|Winder4|Tail Seal,Accumulator Full,DOWNTIME,Process Failure - 2404,8944
+String|Line2 Reasons|Winder4|Tail Seal,Accumulator Empty,DOWNTIME,Process Failure - 2404,8945
+String|Line2 Reasons|Winder3|Unwind 1,Peel Off Error,DOWNTIME,Process Failure - 2404,2531
+String|Line2 Reasons|Winder3|Unwind 1,Splice Rack Calib,DOWNTIME,Process Failure - 2404,2532
+String|Line2 Reasons|Winder3|Unwind 1,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,2533
+String|Line2 Reasons|Winder3|Unwind 1,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,2534
+String|Line2 Reasons|Winder3|Unwind 1,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,2535
+String|Line2 Reasons|Winder3|Unwind 1,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,2536
+String|Line2 Reasons|Winder3|Unwind 1,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,2537
+String|Line2 Reasons|Winder3|Unwind 1,Peel Off Roll,DOWNTIME,Process Failure - 2404,2538
+String|Line2 Reasons|Winder3|Unwind 1,Guard Gate Position,DOWNTIME,Process Failure - 2404,2539
+String|Line2 Reasons|Winder3|Unwind 1,Guard Gate Not Rdy,DOWNTIME,Process Failure - 2404,2540
+String|Line2 Reasons|Winder3|Unwind 2,Peel Off Error,DOWNTIME,Process Failure - 2404,2631
+String|Line2 Reasons|Winder3|Unwind 2,Splice Rack Calib,DOWNTIME,Process Failure - 2404,2632
+String|Line2 Reasons|Winder3|Unwind 2,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,2633
+String|Line2 Reasons|Winder3|Unwind 2,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,2634
+String|Line2 Reasons|Winder3|Unwind 2,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,2635
+String|Line2 Reasons|Winder3|Unwind 2,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,2636
+String|Line2 Reasons|Winder3|Unwind 2,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,2637
+String|Line2 Reasons|Winder3|Unwind 2,Peel Off Roll,DOWNTIME,Process Failure - 2404,2638
+String|Line2 Reasons|Winder3|Unwind 2,Guard Gate Position,DOWNTIME,Process Failure - 2404,2639
+String|Line2 Reasons|Winder3|Unwind 2,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,2640
+String|Line2 Reasons|Winder4|Unwind 1,Peel Off Error,DOWNTIME,Process Failure - 2404,8531
+String|Line2 Reasons|Winder4|Unwind 1,Splice Rack Calib,DOWNTIME,Process Failure - 2404,8532
+String|Line2 Reasons|Winder4|Unwind 1,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,8533
+String|Line2 Reasons|Winder4|Unwind 1,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,8534
+String|Line2 Reasons|Winder4|Unwind 1,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,8535
+String|Line2 Reasons|Winder4|Unwind 1,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,8536
+String|Line2 Reasons|Winder4|Unwind 1,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,8537
+String|Line2 Reasons|Winder4|Unwind 1,Peel Off Roll,DOWNTIME,Process Failure - 2404,8538
+String|Line2 Reasons|Winder4|Unwind 1,Guard Gate Position,DOWNTIME,Process Failure - 2404,8539
+String|Line2 Reasons|Winder4|Unwind 1,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,8540
+String|Line2 Reasons|Winder4|Unwind 2,Peel Off Error,DOWNTIME,Process Failure - 2404,8631
+String|Line2 Reasons|Winder4|Unwind 2,Splice Rack Calib,DOWNTIME,Process Failure - 2404,8632
+String|Line2 Reasons|Winder4|Unwind 2,Pivot Ops Timeout,DOWNTIME,Process Failure - 2404,8633
+String|Line2 Reasons|Winder4|Unwind 2,Pivot Drive Timeout,DOWNTIME,Process Failure - 2404,8634
+String|Line2 Reasons|Winder4|Unwind 2,Splice Cutoff Drive,DOWNTIME,Process Failure - 2404,8635
+String|Line2 Reasons|Winder4|Unwind 2,Splice Cutoff Calib,DOWNTIME,Process Failure - 2404,8636
+String|Line2 Reasons|Winder4|Unwind 2,Exp Roll Guard Doors,DOWNTIME,Process Failure - 2404,8637
+String|Line2 Reasons|Winder4|Unwind 2,Peel Off Roll,DOWNTIME,Process Failure - 2404,8638
+String|Line2 Reasons|Winder4|Unwind 2,Guard Gate Position,DOWNTIME,Process Failure - 2404,8639
+String|Line2 Reasons|Winder4|Unwind 2,Cutoff Drive Not Rdy,DOWNTIME,Process Failure - 2404,8640
+String|Line2 Reasons|Winder3|Extractor,MPU V Bnk 1 Com Loss,DOWNTIME,Process Failure - 2404,2452
+String|Line2 Reasons|Winder4|Extractor,MPU V Bnk 1 Com Loss,DOWNTIME,Process Failure - 2404,8452
+String|Line2 Reasons|Winder3|Log Saw,Saw Conveyor Error,DOWNTIME,Process Failure - 2404,2833
+String|Line2 Reasons|Winder3|Log Saw,Trail Shuttle Error,DOWNTIME,Process Failure - 2404,2834
+String|Line2 Reasons|Winder3|Log Saw,Grinder Rachet Setup,DOWNTIME,Process Failure - 2404,2835
+String|Line2 Reasons|Winder3|Log Saw,Lane 3 Saw Conveyor,DOWNTIME,Process Failure - 2404,2836
+String|Line2 Reasons|Winder3|Log Saw,Low Pressure Saw Air,DOWNTIME,Process Failure - 2404,2837
+String|Line2 Reasons|Winder3|Log Saw,Trim Chute Jam,DOWNTIME,Process Failure - 2404,2838
+String|Line2 Reasons|Winder3|Log Saw,Shuttle Area Jam,DOWNTIME,Process Failure - 2404,2839
+String|Line2 Reasons|Winder3|Log Saw,Orbit Head PE Block,DOWNTIME,Process Failure - 2404,2840
+String|Line2 Reasons|Winder3|Log Saw,Inv Lead Shuttl Pos,DOWNTIME,Process Failure - 2404,2841
+String|Line2 Reasons|Winder3|Log Saw,Inv Trail Shuttl Pos,DOWNTIME,Process Failure - 2404,2842
+String|Line2 Reasons|Winder3|Log Saw,Saw Door 3 Guard SW,DOWNTIME,Process Failure - 2404,2843
+String|Line2 Reasons|Winder3|Log Saw,Acc Door 3 Guard SW,DOWNTIME,Process Failure - 2404,2844
+String|Line2 Reasons|Winder3|Log Saw,Acc Out Drive Fault,DOWNTIME,Process Failure - 2404,2845
+String|Line2 Reasons|Winder3|Log Saw,Acc Door 2 Guard SW,DOWNTIME,Process Failure - 2404,2846
+String|Line2 Reasons|Winder3|Log Saw,Lane 5 Saw Conveyor,DOWNTIME,Process Failure - 2404,2847
+String|Line2 Reasons|Winder3|Log Saw,Acc Door 1 Not Ready,DOWNTIME,Process Failure - 2404,2848
+String|Line2 Reasons|Winder4|Log Saw,Saw Conveyor Error,DOWNTIME,Process Failure - 2404,8833
+String|Line2 Reasons|Winder4|Log Saw,Trail Shuttle Error,DOWNTIME,Process Failure - 2404,8834
+String|Line2 Reasons|Winder4|Log Saw,Grinder Rachet Setup,DOWNTIME,Process Failure - 2404,8835
+String|Line2 Reasons|Winder4|Log Saw,Lane 3 Saw Conveyor,DOWNTIME,Process Failure - 2404,8836
+String|Line2 Reasons|Winder4|Log Saw,Low Pressure Saw Air,DOWNTIME,Process Failure - 2404,8837
+String|Line2 Reasons|Winder4|Log Saw,Low Pressure Saw Air,DOWNTIME,Process Failure - 2404,8838
+String|Line2 Reasons|Winder4|Log Saw,Trim Chute Jam,DOWNTIME,Process Failure - 2404,8839
+String|Line2 Reasons|Winder4|Log Saw,Shuttle Area Jam,DOWNTIME,Process Failure - 2404,8840
+String|Line2 Reasons|Winder4|Log Saw,Orbit Head PE Block,DOWNTIME,Process Failure - 2404,8841
+String|Line2 Reasons|Winder4|Log Saw,Inv Lead Shuttl Pos,DOWNTIME,Process Failure - 2404,8842
+String|Line2 Reasons|Winder4|Log Saw,Inv Trail Shuttl Pos,DOWNTIME,Process Failure - 2404,8843
+String|Line2 Reasons|Winder4|Log Saw,Saw Door 3 Guard SW,DOWNTIME,Process Failure - 2404,8844
+String|Line2 Reasons|Winder4|Log Saw,Acc Door 3 Guard SW,DOWNTIME,Process Failure - 2404,8845
+String|Line2 Reasons|Winder4|Log Saw,Acc Out Drive Fault,DOWNTIME,Process Failure - 2404,8846
+String|Line2 Reasons|Winder4|Log Saw,Acc Door 2 Guard SW,DOWNTIME,Process Failure - 2404,8847
+String|Line2 Reasons|Winder4|Log Saw,Lane 5 Saw Conveyor,DOWNTIME,Process Failure - 2404,8848
+String|Line2 Reasons|Winder4|Log Saw,Acc Door 1 Not Ready,DOWNTIME,Process Failure - 2404,8849
+String|Process Reasons,Communication Fault,DOWNTIME,None,1
+String|Process Reasons,Invalid Destination,DOWNTIME,None,2
+String|Process Reasons,Invalid State,DOWNTIME,None,3
+String|Process Reasons,Bypass/Not Used,DOWNTIME,None,4
+String|Process Reasons,Idle,DOWNTIME,None,11
+String|Process Reasons,Running,DOWNTIME,None,12
+String|Process Reasons,Held,DOWNTIME,None,13
+String|Process Reasons,Aborted,DOWNTIME,None,14
+String|Process Reasons,Stopped,DOWNTIME,None,15
+String|Process Reasons|Idle,Line1,DOWNTIME,None,101
+String|Process Reasons|Running,Line1,DOWNTIME,None,102
+String|Process Reasons|Held,Line1,DOWNTIME,None,103
+String|Process Reasons|Aborted,Line1,DOWNTIME,None,104
+String|Process Reasons|Stopped,Line1,DOWNTIME,None,105
+String|Process Reasons|Idle,Line2,DOWNTIME,None,201
+String|Process Reasons|Running,Line2,DOWNTIME,None,202
+String|Process Reasons|Held,Line2,DOWNTIME,None,203
+String|Process Reasons|Aborted,Line2,DOWNTIME,None,204
+String|Process Reasons|Stopped,Line2,DOWNTIME,None,205
