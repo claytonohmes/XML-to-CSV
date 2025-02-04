@@ -1,0 +1,110 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,HC1,None,LINE,HC1 SLCS PLC
+String,HC1 Decaser,None,SEC,HC1 Decaser PLC
+String,HC1 Posiflex,None,SEC,HC1 Posiflex PLC
+String,HC1 Giramat,None,SEC,HC1 Giramat PLC
+String,HC1 Filler-Capper,None,SEC,HC1 SLCS PLC
+String,HC1 Sleever,None,SEC,HC1 Sleever PLC
+String,HC1 Twin Sleever,None,SEC,HC1 Twin Sleever PLC
+String,HC1 Flexlink Accum,None,SEC,HC1 Flexlink Accum PLC
+String,HC1 Case Packer,None,SEC,HC1 Case Packer PLC
+String,HC1 Case Sealer,None,SEC,HC1 SLCS PLC
+String,HC1 Print And Apply,None,SEC,HC1 SLCS PLC
+String,HC1 Palletizer,None,SEC,HC1 Palletizer PLC
+String,HC1 Stretch Wrapper,None,SEC,HC1 Stretch Wrapper PLC
+String,HC2,None,LINE,HC2 SLCS PLC
+String,HC2 Decaser,None,SEC,HC2 SLCS PLC
+String,HC2 Posiflex,None,SEC,HC2 Posiflex PLC
+String,HC2 Giramat,None,SEC,HC2 Giramat PLC
+String,HC2 Labeler,None,SEC,HC2 Labeler PLC
+String,HC2 Filler,None,SEC,HC2 Filler PLC
+String,HC2 Capper,None,SEC,HC2 Capper PLC
+String,HC2 Case Packer,None,SEC,HC2 Case Packer PLC
+String,HC2 Case Sealer,None,SEC,HC2 SLCS PLC
+String,HC2 Palletizer,None,SEC,HC2 Palletizer PLC
+String,HC2 Print And Apply,None,SEC,HC2 SLCS PLC
+String,HC2 Stretch Wrapper,None,SEC,HC2 Stretch Wrapper PLC
+String,HC5,None,LINE,HC5 SLCS PLC
+String,HC5 Decaser,None,SEC,HC5 Decaser PLC
+String,HC5 Posiflex,None,SEC,HC5 Posiflex PLC
+String,HC5 Giramat,None,SEC,HC5 Giramat PLC
+String,HC5 Dynac,None,SEC,HC5 Dynac PLC
+String,HC5 Filler,None,SEC,HC5 Filler PLC
+String,HC5 Trigger Inserter,None,SEC,HC5 Trigger Inserter PLC
+String,HC5 Trigger Sorter,None,SEC,HC5 Trigger Sorter PLC
+String,HC5 Sleever,None,SEC,HC5 Sleever PLC
+String,HC5 Case Packer,None,SEC,HC5 Case Packer PLC
+String,HC5 Case Sealer,None,SEC,HC5 SLCS PLC
+String,HC5 Palletizer,None,SEC,HC5 Palletizer PLC
+String,HC5 Print And Apply,None,SEC,HC5 SLCS PLC
+String,HC5 Stretch Wrapper,None,SEC,HC5 Stretch Wrapper PLC
+String,HC6,None,LINE,HC6 SLCS PLC
+String,HC6 SIPA1,None,SEC,HC6 SLCS PLC
+String,HC6 SIPA2,None,SEC,HC6 SLCS PLC
+String,HC6 Posijet Airveyor,None,SEC,HC6 Posijet Airveyor PLC
+String,HC6 Filler,None,SEC,HC6 SLCS PLC
+String,HC6 Capper,None,SEC,HC6 Capper PLC
+String,HC6 Handle Placer,None,SEC,HC6 Handle Placer PLC
+String,HC6 Labeler,None,SEC,HC6 Labeler PLC
+String,HC6 Erector Bliss,None,SEC,HC6 Erector Bliss PLC
+String,HC6 Erector Bliss 2,None,SEC,HC6 Erector Bliss 2 PLC
+String,HC6 Erector RSC,None,SEC,HC6 Erector RSC PLC
+String,HC6 Dog Bone,None,SEC,HC6 Dog Bone PLC
+String,HC6 Case Sealer,None,SEC,HC6 SLCS PLC
+String,HC6 Case Packer,None,SEC,HC6 Case Packer PLC
+String,HC6 Palletizer,None,SEC,HC6 Palletizer PLC
+String,HC6 Stretch Wrapper,None,SEC,HC6 Stretch Wrapper PLC
+String,NEW_HC5,None,LINE,None
+String,NEW HC5 Decaser,None,SEC,NEW HC5 Decaser PLC
+String,NEW HC5 Posiflex,None,SEC,NEW HC5 Posiflex PLC
+String,NEW HC5 Giramat,None,SEC,NEW HC5 Giramat PLC
+String,NEW HC5 Dynac,None,SEC,NEW HC5 Dynac PLC
+String,NEW HC5 Filler,None,SEC,NEW HC5 Filler PLC
+String,NEW HC5 Trigger Inserter,None,SEC,NEW HC5 Trigger Inserter PLC
+String,NEW HC5 Trigger Sorter,None,SEC,NEW HC5 Trigger Sorter PLC
+String,NEW HC5 Sleever,None,SEC,NEW HC5 Sleever PLC
+String,NEW HC5 Case Packer,None,SEC,NEW HC5 Case Packer PLC
+String,NEW HC5 Case Sealer,None,SEC,NEW HC5 SLCS PLC
+String,NEW HC5 Palletizer,None,SEC,NEW HC5 Palletizer PLC
+String,NEW HC5 Stretch Wrapper,None,SEC,NEW HC5 Stretch Wrapper PLC
+String,NEW_HC6,None,LINE,None
+String,NEW HC6 SIPA1,None,SEC,HC6 SLCS PLC
+String,NEW HC6 SIPA2,None,SEC,HC6 SLCS PLC
+String,NEW HC6 Filler,None,SEC,HC6 SLCS PLC
+String,NEW HC6 Capper,None,SEC,HC6 Capper PLC
+String,NEW HC6 Labeler,None,SEC,HC6 Labeler PLC
+String,NEW HC6 Erector Bliss,None,SEC,HC6 Erector Bliss PLC
+String,NEW HC6 Erector Bliss 2,None,SEC,HC6 Erector Bliss 2 PLC
+String,NEW HC6 Erector RSC,None,SEC,HC6 Erector RSC PLC
+String,NEW HC6 Dog Bone,None,SEC,HC6 Dog Bone PLC
+String,NEW HC6 Ind Sealer,None,SEC,HC6 SLCS PLC
+String,NEW HC6 Case Sealer,None,SEC,HC6 SLCS PLC
+String,NEW HC6 Case Packer,None,SEC,HC6 Case Packer PLC
+String,NEW HC6 Palletizer,None,SEC,HC6 Palletizer PLC
+String,NEW HC6 Stretch Wrapper,None,SEC,HC6 Stretch Wrapper PLC
+String,NEW_LD1,None,LINE,None
+String,NEW LD1 Depal,None,SEC,LD1 Depal PLC
+String,NEW LD1 Labeler,None,SEC,LD1 Labeler PLC
+String,NEW LD1 Filler,None,SEC,LD1 Filler PLC
+String,NEW LD1 Capper,None,SEC,LD1 Capper PLC
+String,NEW LD1 Laner,None,SEC,LD1 Laner PLC
+String,NEW LD1 Case Packer,None,SEC,LD1 Case Packer PLC
+String,NEW LD2 Case Packer,None,SEC,LD2 Case Packer PLC
+String,NEW LD1 Case Sealer,None,SEC,LD1 Case Sealer PLC
+String,NEW LD2 Case Sealer,None,SEC,LD2 Case Sealer PLC
+String,NEW LD1 Palletizer,None,SEC,LD1 Palletizer PLC
+String,NEW LD1 Stretch Wrapper,None,SEC,LD1 Stretch Wrapper PLC
+String,NEW LD1 Case Erector,None,SEC,LD1 Case Erector PLC
+String,NEW_LD4,None,LINE,None
+String,NEW LD4 Depal,None,SEC,LD4 Depal PLC
+String,NEW LD4 Labeler,None,SEC,LD4 Labeler PLC
+String,NEW LD4 Filler,None,SEC,LD4 Filler PLC
+String,NEW LD4 Capper,None,SEC,LD4 Capper PLC
+String,NEW LD4 Carton Load,None,SEC,LD4 Carton Loader PLC
+String,NEW LD4 Case Erector,None,SEC,LD4 Case Erector PLC
+String,NEW LD4 Case Packer,None,SEC,LD4 Case Packer PLC
+String,NEW LD4 Case Sealer,None,SEC,LD4 Case Sealer PLC
+String,NEW LD4 Palletizer,None,SEC,LD4 Palletizer PLC
+String,NEW LD4 Stretch Wrapper,None,SEC,LD4 Stretch Wrapper PLC
+String,NEW_HC1,None,LINE,None
+String,NEW_HC2,None,LINE,None

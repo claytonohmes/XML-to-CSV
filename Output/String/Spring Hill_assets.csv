@@ -1,0 +1,36 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,Line1,None,LINE,Line1_Filler PLC
+String,Line1 Filler,None,SEC,Line1_Filler PLC
+String,Line1 Casepacker,None,SEC,Line1_Casepacker PLC
+String,Line1 CP Robot,None,SEC,Line1_CPRobot PLC
+String,Line1 Taper,None,SEC,Line1_Taper PLC
+String,Line1 Palletizer,None,SEC,Line1_Palletizer PLC
+String,Line1 Stretchwrapper,None,SEC,Line1_Stretchwrapper PLC
+String,Line3,None,LINE,Line3 PLC
+String,Line3 Filler,None,SEC,Line3_Filler PLC
+String,Line3 Casepacker,None,SEC,Line3_Casepacker PLC
+String,Line3 CP Robot,None,SEC,Line3_CPRobot PLC
+String,Line3 Palletizer,None,SEC,Line3_Palletizer PLC
+String,Line3 Stretchwrapper,None,SEC,Line3_Stretchwrapper PLC
+String,Line5,None,LINE,Line5_Filler PLC
+String,Line5 Filler,None,SEC,Line5_Filler PLC
+String,Line5 Palletizer,None,SEC,Line5_Palletizer PLC
+String,Line5 Stretchwrapper,None,SEC,Line5_Stretchwrapper PLC
+String,Line8,None,LINE,Line8 PLC
+String,Line8 Filler1 BS,None,SEC,Line8_Filler1BS PLC
+String,Line8 Filler2 BS,None,SEC,Line8_Filler2BS PLC
+String,Line8 Filler3 BS,None,SEC,Line8_Filler3BS PLC
+String,Line8 Laner,None,SEC,Line8_Laner PLC
+String,Line8 Traypacker,None,SEC,Line8_Traypacker PLC
+String,Line8 Heat Tunnel,None,SEC,Line8_HeatTunnel PLC
+String,Line8 Palletizer,None,SEC,Line8_Palletizer PLC
+String,Line8 Hooder,None,SEC,Line8_Hooder PLC
+String,Line9,None,LINE,Line9 PLC
+String,Line9 Filler1 BS,None,SEC,Line9_Filler1BS PLC
+String,Line9 Filler2 BS,None,SEC,Line9_Filler2BS PLC
+String,Line9 Filler3 BS,None,SEC,Line9_Filler3BS PLC
+String,Line9 Laner,None,SEC,Line9_Laner PLC
+String,Line9 Traypacker,None,SEC,Line9_Traypacker PLC
+String,Line9 Heat Tunnel,None,SEC,Line9_HeatTunnel PLC
+String,Line9 Palletizer,None,SEC,Line9_Palletizer PLC
+String,Line9 Hooder,None,SEC,Line9_Hooder PLC

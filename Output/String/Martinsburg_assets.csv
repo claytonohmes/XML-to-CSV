@@ -1,0 +1,20 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,RomaLine,None,LINE,Roma Line PLC
+String,Roma Filler,None,SEC,Roma Filler PLC
+String,Roma Casepacker,None,SEC,Roma Casepacker PLC
+String,Roma BlankLoader,None,SEC,Roma BlankLoader PLC
+String,Roma Palletizer,None,SEC,Roma Palletizer PLC
+String,Roma Stretchwrapper,None,SEC,Roma Stretchwrapper PLC
+String,EnzoLine,None,LINE,Enzo Line PLC
+String,Enzo Filler1,EnzoF1,SEC,Enzo Filler1 PLC
+String,Enzo Filler2,EnzoF2,SEC,Enzo Filler2 PLC
+String,Enzo Filler3,EnzoF3,LINE,None
+String,Enzo Traypacker,None,SEC,Enzo Traypacker PLC
+String,Enzo Shrinkwrapper,None,SEC,Enzo Shrinkwrapper PLC
+String,Enzo Palletizer,None,SEC,Enzo Palletizer PLC
+String,Enzo Hooder,None,SEC,Enzo Hooder PLC
+String,RailCarClay,None,LINE,Unloading PLC
+String,RailCarLimestone,None,LINE,Unloading PLC
+String,PinMixer1,None,LINE,None
+String,PinMixer2,None,LINE,None
+String,Blender,None,LINE,Blending PLC

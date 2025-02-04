@@ -1,0 +1,8 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Glen,Retort,TUP_RT,LINE,Retort PLC
+Glen,Wood Infeed,TUP_RT_Wood Infeed,SEC,Retort PLC
+Glen,Sizing,TUP_RT_Sizing,SEC,Retort PLC
+Glen,Wood Dryer,TUP_RT_Wood Dryer,SEC,Retort PLC
+Glen,Furnace Charring,TUP_RT_Furnace Charring,SEC,Retort PLC
+Glen,Char Storage,TUP_RT_Char Storage,SEC,Retort PLC
+Glen,ACC Burner,TUP_RT_ACC Burner,SEC,Retort PLC

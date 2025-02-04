@@ -1,0 +1,12 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,Retort,None,LINE,Retort PLC
+String,ACC,None,SEC,Retort PLC
+String,Accumulation,None,SEC,Retort PLC
+String,Boiler,None,SEC,Retort PLC
+String,Char Storage,None,SEC,Retort PLC
+String,Furnace Char,None,SEC,Retort PLC
+String,Low Burner,None,SEC,Retort PLC
+String,Sizing,None,SEC,Retort PLC
+String,Up Burner,None,SEC,Retort PLC
+String,Wood Dryer,None,SEC,Retort PLC
+String,Wood Infeed,None,SEC,Retort PLC

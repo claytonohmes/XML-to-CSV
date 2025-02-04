@@ -1,0 +1,48 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,L300,None,LINE,ABLE
+String,L300 Unscrambler,None,SEC,L300 Line PLC
+String,L300 Filler,None,SEC,L300 Line PLC
+String,L300 Labeler,None,SEC,L300 Line PLC
+String,L300 Capper,None,SEC,L300 Line PLC
+String,L300 Cartoner,None,SEC,L300 Line PLC
+String,L300 CasePacker,None,SEC,L300 Line PLC
+String,L950,None,LINE,ABLE
+String,L950 Cartoner1,None,SEC,L950 Cartoner1 PLC
+String,L950 Cartoner2,None,SEC,L950 Cartoner2 PLC
+String,L950 Hopper 2,None,SEC,L950 Hopper 2 PLC
+String,L950 Hopper 3,None,SEC,L950 Hopper 3 PLC
+String,L950 Hopper 4,None,SEC,L950 Hopper 4 PLC
+String,L950 Hopper 5,None,SEC,L950 Hopper 5 PLC
+String,L875,None,LINE,L875 PLC
+String,L875 FAL Fill,None,SEC,L875 PLC
+String,L875 Base Feeder,None,SEC,L875 PLC
+String,L875 MS3,None,SEC,L875 PLC
+String,L875 Flex Fill,None,SEC,L875 PLC
+String,L875 Ck Weigher,None,SEC,L875 PLC
+String,L875 Cap Feeder,None,SEC,L875 PLC
+String,L875 Laser 1,None,SEC,L875 PLC
+String,L875 Laser 2,None,SEC,L875 PLC
+String,L875 Labeler,None,SEC,L875 PLC
+String,L875 FAL System,None,SEC,L875 PLC
+String,L950 Collator,None,SEC,L950_Collator PLC
+String,L320,None,LINE,L320_AB_CLX PLC
+String,L320 Bottle Sorter,None,SEC,L320_AB_CLX PLC
+String,L320 Labeler,None,SEC,L320_AB_CLX PLC
+String,L320 Filler,None,SEC,L320_AB_CLX PLC
+String,L320 Pump Placer,None,SEC,L320_AB_CLX PLC
+String,L320 Capper,None,SEC,L320_AB_CLX PLC
+String,L320 Cartoner,None,SEC,L320_AB_CLX PLC
+String,L320 Conveyors,None,SEC,L320_AB_CLX PLC
+String,L800,None,LINE,L875 PLC
+String,L800 Labeler A,None,SEC,L875 PLC
+String,L800 Labeler B,None,SEC,L875 PLC
+String,L800 Filler,None,SEC,L875 PLC
+String,L850,None,LINE,L875 PLC
+String,L850 Labeler A,None,SEC,L875 PLC
+String,L850 Labeler B,None,SEC,L875 PLC
+String,L850 Filler,None,SEC,L875 PLC
+String,L600,None,LINE,L600_CLX_PLC
+String,L710,None,LINE,L710 PLC
+String,L720,None,LINE,L710 PLC
+String,L730,None,LINE,L710 PLC
+String,L520,None,LINE,L520 PLC

@@ -1,0 +1,615 @@
+reas_group,reas_desc,state,category1,spare4
+String|Retort,Communication Fault,DOWNTIME,Excluded Time,10
+String|Retort|Excluded Time,Planned Downtime,DOWNTIME,Excluded Time,11
+String|Retort|External Delays|Primary Infeed,Infeed Starved,DOWNTIME,Excluded Time,12
+String|Retort|External Delays|Secondary Infeed,Infeed Starved,DOWNTIME,Excluded Time,13
+String|Retort|External Delays|Primary Discharge,Discharge Backup,DOWNTIME,Excluded Time,14
+String|Retort|External Delays|Secondary Discharge,Discharge Backup,DOWNTIME,Excluded Time,15
+String|Retort|External Delays|Primary Discharge,Discharge Stopped,DOWNTIME,Excluded Time,16
+String|Retort|External Delays|Secondary Discharge,Discharge Stopped,DOWNTIME,Excluded Time,17
+String|Retort|External Delays|Primary Infeed,Infeed Stopped,DOWNTIME,Excluded Time,18
+String|Retort|External Delays|Secondary Infeed,Infeed Stopped,DOWNTIME,Excluded Time,19
+String|Retort|Excluded Time,Bypassed/Not In Use,DOWNTIME,Excluded Time,20
+String|Retort|General Stops,Machine Aborted,DOWNTIME,Process Failure,21
+String|Retort|Operator Stops,Emergency Stop,DOWNTIME,Process Failure,22
+String|Retort|Operator Stops,Machine Held,DOWNTIME,Process Failure,23
+String|Retort|Operator Stops,Machine Stopped,DOWNTIME,Process Failure,24
+String|Retort|Operator Stops,Machine Idle,DOWNTIME,Process Failure,25
+String|Retort|General Stops,Machine Suspended,DOWNTIME,Process Failure,26
+String|Retort|Operator Stops,Not In Auto,DOWNTIME,Process Failure,27
+String|Retort|Operator Stops,Guard Doors/Safeties,DOWNTIME,Process Failure,28
+String|Retort|General Stops,Invalid PackML State,DOWNTIME,Process Failure,29
+String|Retort,Undefined State,DOWNTIME,SuperXXX,80
+String|Retort,Clearing State,DOWNTIME,SuperXXX,81
+String|Retort,Stopped State,DOWNTIME,SuperXXX,82
+String|Retort,Starting State,DOWNTIME,SuperXXX,83
+String|Retort,Idle State,DOWNTIME,SuperXXX,84
+String|Retort,Suspended State,DOWNTIME,SuperXXX,85
+String|Retort,Execute State,DOWNTIME,SuperXXX,86
+String|Retort,Stopping State,DOWNTIME,SuperXXX,87
+String|Retort,Aborting State,DOWNTIME,SuperXXX,88
+String|Retort,Aborted State,DOWNTIME,SuperXXX,89
+String|Retort,Holding State,DOWNTIME,SuperXXX,90
+String|Retort,Held State,DOWNTIME,SuperXXX,91
+String|Retort,Unholding State,DOWNTIME,SuperXXX,92
+String|Retort,Suspending State,DOWNTIME,SuperXXX,93
+String|Retort,Unsuspending State,DOWNTIME,SuperXXX,94
+String|Retort,Resetting State,DOWNTIME,SuperXXX,95
+String|Retort,Completing State,DOWNTIME,SuperXXX,96
+String|Retort,Complete State,DOWNTIME,SuperXXX,97
+String|Retort|Scheduled Downtime,Other,DOWNTIME,Scheduled Downtime,100
+String|Retort|Scheduled Downtime,Maintenance,DOWNTIME,Scheduled Downtime,101
+String|Retort|Scheduled Downtime,Training,DOWNTIME,Scheduled Downtime,102
+String|Retort|Scheduled Downtime,Meeting,DOWNTIME,Scheduled Downtime,103
+String|Retort|ACC Burner,Fault Learning,DOWNTIME,Process Failure,1000
+String|Retort|ACC Burner,Machine Aborted,DOWNTIME,Process Failure,1001
+String|Retort|ACC Burner,Emergency Stop,DOWNTIME,Process Failure,1002
+String|Retort|ACC Burner,Machine Held,DOWNTIME,Process Failure,1003
+String|Retort|ACC Burner,Machine Stopped,DOWNTIME,Process Failure,1004
+String|Retort|ACC Burner,Machine Idle,DOWNTIME,Process Failure,1005
+String|Retort|ACC Burner,Machine Suspended,DOWNTIME,Process Failure,1006
+String|Retort|ACC Burner,Not In Auto,DOWNTIME,Process Failure,1007
+String|Retort|ACC Burner,Guard Doors/Safeties,DOWNTIME,Process Failure,1008
+String|Retort|ACC Burner,Invalid PackML State,DOWNTIME,Process Failure,1009
+String|Retort|ACC Burner,Communication Fault,DOWNTIME,Process Failure,1010
+String|Retort|ACC Burner|ACC Burner Infeed,Infeed Starved,DOWNTIME,Process Failure,1012
+String|Retort|ACC Burner|ACC Burner Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1013
+String|Retort|ACC Burner|ACC Burner Disch,Discharge Backup,DOWNTIME,Process Failure,1014
+String|Retort|ACC Burner|ACC Burner Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1015
+String|Retort|ACC Burner|ACC Burner Disch,Discharge Stopped,DOWNTIME,Process Failure,1016
+String|Retort|ACC Burner|ACC Burner Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1017
+String|Retort|ACC Burner|ACC Burner Infeed,Infeed Stopped,DOWNTIME,Process Failure,1018
+String|Retort|ACC Burner|ACC Burner Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1019
+String|Retort|ACC|50001 - ACC Temp,ACC Top Temp Low Alarm,DOWNTIME,None,100308
+String|Retort|ACC|50002 - ACC Temp,ACC Bottom Temp High,DOWNTIME,None,100307
+String|Retort|ACC|50002 - ACC Temp,ACC Low Temp Alarm,DOWNTIME,None,100309
+String|Retort|ACC|50003 - ACC Temp,ACC Top Temp Low,DOWNTIME,None,100310
+String|Retort|ACC|5001 - Furnace ID Fan,Temperature Out Of Range-Contact Maint.,DOWNTIME,None,100250
+String|Retort|ACC|5001 - Furnace ID Fan,#5001 Furn ID Fan Alm,DOWNTIME,None,100316
+String|Retort|ACC|5001 - Furnace ID Fan,#5001 Furn ID Fan  H-O-A,DOWNTIME,None,100324
+String|Retort|ACC|5001 - Furnace ID Fan,Furnace ID Fan High Temp Alarm,DOWNTIME,None,100330
+String|Retort|ACC|5001 - Furnace ID Fan,Furn ID Fan High Amps,DOWNTIME,None,100331
+String|Retort|ACC|5001 - Furnace ID Fan,#5001 Furn ID Fan  Breaker,DOWNTIME,None,100336
+String|Retort|ACC|5001 - Furnace ID Fan,#5001 Furn ID Fan Disc. Sw,DOWNTIME,None,100342
+String|Retort|ACC|5001 - Furnace ID Fan,#5001 Furn ID Fan Overloads,DOWNTIME,None,100348
+String|Retort|ACC|5001 - Furnace ID Fan,Furnace ID Fan Over Temp,DOWNTIME,None,100356
+String|Retort|ACC|50013 - Duct Blower,Ductblower #3 Fault,DOWNTIME,None,100358
+String|Retort|ACC|5002 - ACC Comb Air,#5002 ACC Comb Air Fan Alm,DOWNTIME,None,100317
+String|Retort|ACC|5002 - ACC Comb Air,#5002 ACC Comb Air Fan  H-O-A,DOWNTIME,None,100325
+String|Retort|ACC|5002 - ACC Comb Air,ACC Comb Air Fan High Amps,DOWNTIME,None,100332
+String|Retort|ACC|5002 - ACC Comb Air,#5002 ACC Comb Air Fan  Breaker,DOWNTIME,None,100337
+String|Retort|ACC|5002 - ACC Comb Air,#5002 ACC Comb Air Fan Disc. Sw,DOWNTIME,None,100343
+String|Retort|ACC|5002 - ACC Comb Air,#5002 ACC Comb Air Fan Overloads,DOWNTIME,None,100349
+String|Retort|ACC|5003 - ACC Temp Air Fan,#5003 ACC Temp Air Fan Alm,DOWNTIME,None,100318
+String|Retort|ACC|5003 - ACC Temp Air Fan,#5003 ACC Temp Air Fan  H-O-A,DOWNTIME,None,100326
+String|Retort|ACC|5003 - ACC Temp Air Fan,ACC Temp Air Fan High Amps,DOWNTIME,None,100333
+String|Retort|ACC|5003 - ACC Temp Air Fan,#5003 ACC Temp Air Fan  Breaker,DOWNTIME,None,100338
+String|Retort|ACC|5003 - ACC Temp Air Fan,#5003 ACC Temp Air Fan Disc. Sw,DOWNTIME,None,100344
+String|Retort|ACC|5003 - ACC Temp Air Fan,#5003 ACC Temp Air Fan Overloads,DOWNTIME,None,100350
+String|Retort|ACC|50051 - Pony Motor,Pony Motor Alm,DOWNTIME,None,100320
+String|Retort|ACC|50051 - Pony Motor,Pony Motor H-O-A,DOWNTIME,None,100328
+String|Retort|ACC|50051 - Pony Motor,Pony Motor High Amps,DOWNTIME,None,100335
+String|Retort|ACC|50051 - Pony Motor,Pony Motor Breaker,DOWNTIME,None,100340
+String|Retort|ACC|50051 - Pony Motor,Pony Motor Disc. Sw,DOWNTIME,None,100346
+String|Retort|ACC|50051 - Pony Motor,Pony Motor Overloads,DOWNTIME,None,100352
+String|Retort|ACC|52001 - ACC Burner,ACC Burner Flame Fail,DOWNTIME,None,100322
+String|Retort|ACC|Ductblower,Ductblower 5 Fault,DOWNTIME,None,100312
+String|Retort|ACC|Ductblower,Ductblower 6 Fault,DOWNTIME,None,100313
+String|Retort|ACC|Gas Pressure,Low Gas Pressure,DOWNTIME,None,100323
+String|Retort|ACC|Opacity Alm,Take Opacity Reading Alm,DOWNTIME,None,100315
+String|Retort|Air Compressor,Fault Learning,DOWNTIME,Process Failure,1100
+String|Retort|Air Compressor,Machine Aborted,DOWNTIME,Process Failure,1101
+String|Retort|Air Compressor,Emergency Stop,DOWNTIME,Process Failure,1102
+String|Retort|Air Compressor,Machine Held,DOWNTIME,Process Failure,1103
+String|Retort|Air Compressor,Machine Stopped,DOWNTIME,Process Failure,1104
+String|Retort|Air Compressor,Machine Idle,DOWNTIME,Process Failure,1105
+String|Retort|Air Compressor,Machine Suspended,DOWNTIME,Process Failure,1106
+String|Retort|Air Compressor,Not In Auto,DOWNTIME,Process Failure,1107
+String|Retort|Air Compressor,Guard Doors/Safeties,DOWNTIME,Process Failure,1108
+String|Retort|Air Compressor,Invalid PackML State,DOWNTIME,Process Failure,1109
+String|Retort|Air Compressor,Communication Fault,DOWNTIME,Process Failure,1110
+String|Retort|Air Compressor|Air Compressor Infeed,Infeed Starved,DOWNTIME,Process Failure,1112
+String|Retort|Air Compressor|Air Compressor Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1113
+String|Retort|Air Compressor|Air Compressor Disch,Discharge Backup,DOWNTIME,Process Failure,1114
+String|Retort|Air Compressor|Air Compressor Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1115
+String|Retort|Air Compressor|Air Compressor Disch,Discharge Stopped,DOWNTIME,Process Failure,1116
+String|Retort|Air Compressor|Air Compressor Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1117
+String|Retort|Air Compressor|Air Compressor Infeed,Infeed Stopped,DOWNTIME,Process Failure,1118
+String|Retort|Air Compressor|Air Compressor Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1119
+String|Retort|AIRCOMP|Air Pressure,Plant Air Low Pressure,DOWNTIME,None,100314
+String|Retort|Boiler,Fault Learning,DOWNTIME,Process Failure,1200
+String|Retort|Boiler,Machine Aborted,DOWNTIME,Process Failure,1201
+String|Retort|Boiler,Emergency Stop,DOWNTIME,Process Failure,1202
+String|Retort|Boiler,Machine Held,DOWNTIME,Process Failure,1203
+String|Retort|Boiler,Machine Stopped,DOWNTIME,Process Failure,1204
+String|Retort|Boiler,Machine Idle,DOWNTIME,Process Failure,1205
+String|Retort|Boiler,Machine Suspended,DOWNTIME,Process Failure,1206
+String|Retort|Boiler,Not In Auto,DOWNTIME,Process Failure,1207
+String|Retort|Boiler,Guard Doors/Safeties,DOWNTIME,Process Failure,1208
+String|Retort|Boiler,Invalid PackML State,DOWNTIME,Process Failure,1209
+String|Retort|Boiler,Communication Fault,DOWNTIME,Process Failure,1210
+String|Retort|Boiler|Boiler Infeed,Infeed Starved,DOWNTIME,Process Failure,1212
+String|Retort|Boiler|Boiler Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1213
+String|Retort|Boiler|Boiler Disch,Discharge Backup,DOWNTIME,Process Failure,1214
+String|Retort|Boiler|Boiler Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1215
+String|Retort|Boiler|Boiler Disch,Discharge Stopped,DOWNTIME,Process Failure,1216
+String|Retort|Boiler|Boiler Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1217
+String|Retort|Boiler|Boiler Infeed,Infeed Stopped,DOWNTIME,Process Failure,1218
+String|Retort|Boiler|Boiler Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1219
+String|Retort|BOILER|Flame Failure,Boiler Flame Failure Alarm,DOWNTIME,None,110465
+String|Retort|BOILER|Water Level,Boiler High Water Alarm,DOWNTIME,None,110466
+String|Retort|BOILER|Water Level,Boiler Low Water Alarm,DOWNTIME,None,110467
+String|Retort|BOILER|02202_01 _ Mist,Zone A Flow Alarm High,DOWNTIME,None,110468
+String|Retort|BOILER|02202_01 _ Mist,Zone A Flow Alarm Low,DOWNTIME,None,110469
+String|Retort|BOILER|02202_01 _ Mist,Zone A Flow Alarm Low Low,DOWNTIME,None,110470
+String|Retort|BOILER|02202_02 - Mist,Zone B Flow Alarm Low,DOWNTIME,None,110471
+String|Retort|BOILER|02202_02 - Mist,Zone B Flow Alarm Low Low,DOWNTIME,None,110472
+String|Retort|BOILER|02202_03 - Mist,Zone C Flow Alarm High,DOWNTIME,None,110473
+String|Retort|BOILER|02202_03 - Mist,Zone C Flow Alarm Low,DOWNTIME,None,110474
+String|Retort|BOILER|02202_03 - Mist,Zone C Flow Alarm Low Low,DOWNTIME,None,110475
+String|Retort|BOILER|02202_01 _ Mist,Mist Pump HOA Fault,DOWNTIME,None,110476
+String|Retort|BOILER|02201_01 - Mist Tank,Mist Tank High Level,DOWNTIME,None,110477
+String|Retort|BOILER|02201_01 - Mist Tank,Mist Tank Low Level,DOWNTIME,None,110479
+String|Retort|BOILER|02202_01 _ Mist,Mist Pump Mcp Fault,DOWNTIME,None,110483
+String|Retort|BOILER|02202_01 _ Mist,Mist Pump Disc Fault,DOWNTIME,None,110484
+String|Retort|BOILER|02202_01 _ Mist,Mist Pump Msa Fault,DOWNTIME,None,110485
+String|Retort|BOILER|02202_01 _ Mist,Mist Pump Msol Fault,DOWNTIME,None,110486
+String|Retort|Furnace Charring,Fault Learning,DOWNTIME,Process Failure,1300
+String|Retort|Furnace Charring,Machine Aborted,DOWNTIME,Process Failure,1301
+String|Retort|Furnace Charring,Emergency Stop,DOWNTIME,Process Failure,1302
+String|Retort|Furnace Charring,Machine Held,DOWNTIME,Process Failure,1303
+String|Retort|Furnace Charring,Machine Stopped,DOWNTIME,Process Failure,1304
+String|Retort|Furnace Charring,Machine Idle,DOWNTIME,Process Failure,1305
+String|Retort|Furnace Charring,Machine Suspended,DOWNTIME,Process Failure,1306
+String|Retort|Furnace Charring,Not In Auto,DOWNTIME,Process Failure,1307
+String|Retort|Furnace Charring,Guard Doors/Safeties,DOWNTIME,Process Failure,1308
+String|Retort|Furnace Charring,Invalid PackML State,DOWNTIME,Process Failure,1309
+String|Retort|Furnace Charring,Communication Fault,DOWNTIME,Process Failure,1310
+String|Retort|Furnace Charring|Furnace Charring Infeed,Infeed Starved,DOWNTIME,Process Failure,1312
+String|Retort|Furnace Charring|Furnace Charring Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1313
+String|Retort|Furnace Charring|Furnace Charring Disch,Discharge Backup,DOWNTIME,Process Failure,1314
+String|Retort|Furnace Charring|Furnace Charring Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1315
+String|Retort|Furnace Charring|Furnace Charring Disch,Discharge Stopped,DOWNTIME,Process Failure,1316
+String|Retort|Furnace Charring|Furnace Charring Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1317
+String|Retort|Furnace Charring|Furnace Charring Infeed,Infeed Stopped,DOWNTIME,Process Failure,1318
+String|Retort|Furnace Charring|Furnace Charring Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1319
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot Feed Alm,DOWNTIME,None,120075
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot Feed H-O-A,DOWNTIME,None,120081
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot  High Amps,DOWNTIME,None,120097
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot Feed Breaker,DOWNTIME,None,120111
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot Fdr Disc. Sw,DOWNTIME,None,120127
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot Fd Overloads,DOWNTIME,None,120141
+String|Retort|CHARRING|20121 - Furnace Feed Screw,Furn Feed Screw Rot Fdr SSL,DOWNTIME,None,120153
+String|Retort|CHARRING|3000 - Furnace,Ductblower #4 Fault,DOWNTIME,None,120234
+String|Retort|CHARRING|3000 - Furnace,Furnace Hearth Over 1600,DOWNTIME,None,120160
+String|Retort|CHARRING|3001 - Furnace Feed,Furn Feed Scr. High Amps,DOWNTIME,None,120184
+String|Retort|CHARRING|3001 - Furnace Feed,#3001 Furn Feed Scr. Breaker,DOWNTIME,None,120195
+String|Retort|CHARRING|3001 - Furnace Feed,#3001 Furn Feed Scr.Disc. Sw,DOWNTIME,None,120205
+String|Retort|CHARRING|3001 - Furnace Feed,#3001 Furn Feed Scr.Overloads,DOWNTIME,None,120215
+String|Retort|CHARRING|3001 - Furnace Feed,#3001 Furn Feed Scr. SSL,DOWNTIME,None,120226
+String|Retort|CHARRING|3001 - Furnace Feed,#3001 Furn Feed Scr. Alm,DOWNTIME,None,120161
+String|Retort|CHARRING|3002 - Furnace Comb Air,#3002 Fur Comb Air #1 Alm,DOWNTIME,None,120162
+String|Retort|CHARRING|3002 - Furnace Comb Air,Fur Comb Air #1 High Amps,DOWNTIME,None,120185
+String|Retort|CHARRING|3002 - Furnace Comb Air,#3002 Fur Comb Air #1 Breaker,DOWNTIME,None,120196
+String|Retort|CHARRING|3002 - Furnace Comb Air,#3002 Fur Comb Air #1Disc. Sw,DOWNTIME,None,120206
+String|Retort|CHARRING|3002 - Furnace Comb Air,#3002 Fur Comb Air #1Overloads,DOWNTIME,None,120216
+String|Retort|CHARRING|3003 - Furnace Comb Air,#3003 Fur Comb Air #2 Alm,DOWNTIME,None,120163
+String|Retort|CHARRING|3003 - Furnace Comb Air,Fur Comb Air #2 High Amps,DOWNTIME,None,120186
+String|Retort|CHARRING|3003 - Furnace Comb Air,#3003 Fur Comb Air #2 Breaker,DOWNTIME,None,120197
+String|Retort|CHARRING|3003 - Furnace Comb Air,#3003 Fur Comb Air #2 Disc. Sw,DOWNTIME,None,120207
+String|Retort|CHARRING|3003 - Furnace Comb Air,#3003 Fur Comb Air #2 Overloads,DOWNTIME,None,120217
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,#3004 Fur Shaft Fan Alm,DOWNTIME,None,120164
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,Fur Shaft Fan High Amps,DOWNTIME,None,120187
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,Furn.Shaft Cooling Fan Lo Amps,DOWNTIME,None,120194
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,#3004 Fur Shaft Fan Breaker,DOWNTIME,None,120198
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,#3004 Fur Shaft Fan Disc. Sw,DOWNTIME,None,120208
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,#3004 Fur Shaft Fan Overloads,DOWNTIME,None,120218
+String|Retort|CHARRING|3004 - Furnace Shaft Fan,Shaft Cooling Fan Off,DOWNTIME,None,120225
+String|Retort|CHARRING|3005 - Furnace Drive,#3005 Fur. Drive Alm,DOWNTIME,None,120165
+String|Retort|CHARRING|3005 - Furnace Drive,Fur. Drive High Amps,DOWNTIME,None,120188
+String|Retort|CHARRING|3005 - Furnace Drive,#3005 Fur. Drive Breaker,DOWNTIME,None,120199
+String|Retort|CHARRING|3005 - Furnace Drive,#3005 Fur. Drive Disc. Sw,DOWNTIME,None,120209
+String|Retort|CHARRING|3005 - Furnace Drive,#3005 Fur. Drive Overloads,DOWNTIME,None,120219
+String|Retort|CHARRING|3005 - Furnace Drive,#3005 Furn Drive SSL,DOWNTIME,None,120227
+String|Retort|CHARRING|3006 - Furnace Disc Screw,#3006 Furn.Dis Scr 1  Alm,DOWNTIME,None,120166
+String|Retort|CHARRING|3006 - Furnace Disc Screw,Furn.Dis Scr 1  High Amps,DOWNTIME,None,120189
+String|Retort|CHARRING|3006 - Furnace Disc Screw,#3006 Furn.Dis Scr 1  Breaker,DOWNTIME,None,120200
+String|Retort|CHARRING|3006 - Furnace Disc Screw,#3006 Furn.Dis Scr 1 Disc. Sw,DOWNTIME,None,120210
+String|Retort|CHARRING|3006 - Furnace Disc Screw,#3006 Furn.Dis Scr 1  Overloads,DOWNTIME,None,120220
+String|Retort|CHARRING|3006 - Furnace Disc Screw,#3006 Furn.Dis Scr 1  SSL,DOWNTIME,None,120228
+String|Retort|CHARRING|3007 - Furnace Cyc Rot,#3007 Furn.Cyc. Rot  Alm,DOWNTIME,None,120167
+String|Retort|CHARRING|3007 - Furnace Cyc Rot,Furn.Cyc. Rot 2 High Amps,DOWNTIME,None,120190
+String|Retort|CHARRING|3007 - Furnace Cyc Rot,#3007 Furn.Cyc. Rot  Breaker,DOWNTIME,None,120201
+String|Retort|CHARRING|3007 - Furnace Cyc Rot,#3007 Furn.Cyc. Rot Disc. Sw,DOWNTIME,None,120211
+String|Retort|CHARRING|3007 - Furnace Cyc Rot,#3007 Furn.Cyc. Rot Overloads,DOWNTIME,None,120221
+String|Retort|CHARRING|3007 - Furnace Cyc Rot,#3007 Furn.Cyc. Rot SSL,DOWNTIME,None,120229
+String|Retort|CHARRING|3008 - Furnace Disc Screw,#3008 Furn.Dis Scr 2 Alm,DOWNTIME,None,120168
+String|Retort|CHARRING|3008 - Furnace Disc Screw,Furn.Dis Scr 2  High Amps,DOWNTIME,None,120191
+String|Retort|CHARRING|3008 - Furnace Disc Screw,#3008 Furn.Dis Scr 2  Breaker,DOWNTIME,None,120202
+String|Retort|CHARRING|3008 - Furnace Disc Screw,#3008 Furn.Dis Scr 2 Disc. Sw,DOWNTIME,None,120212
+String|Retort|CHARRING|3008 - Furnace Disc Screw,#3009 Furn.Dis Scr 2 Overloads,DOWNTIME,None,120222
+String|Retort|CHARRING|3008 - Furnace Disc Screw,#3008 Furn.Dis Scr 2 SSL,DOWNTIME,None,120230
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3  Alm,DOWNTIME,None,120169
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3 H-O-A,DOWNTIME,None,120180
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3  High Amps,DOWNTIME,None,120192
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3  Breaker,DOWNTIME,None,120203
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3  Disc. Sw,DOWNTIME,None,120213
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3 Overloads,DOWNTIME,None,120223
+String|Retort|CHARRING|3009 - Furnace Disc Screw,Furn.Dis Scr #3  SSL,DOWNTIME,None,120231
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 4 Alm,DOWNTIME,None,120170
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 4 H-O-A,DOWNTIME,None,120181
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 4 High Amps,DOWNTIME,None,120193
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 4 Breaker,DOWNTIME,None,120204
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 3 Disc. Sw,DOWNTIME,None,120214
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 4 Overloads,DOWNTIME,None,120224
+String|Retort|CHARRING|3010 - Furnace Disc Screw,Furn.Dis Scr 4 SSL,DOWNTIME,None,120232
+String|Retort|CHARRING|3100 - Furnace Burners,Furnace Burners Hi Temp Limit,DOWNTIME,None,120183
+String|Retort|CHARRING|31021 - Hearth Burner,Hearth 1 Burner 1 Flame Fail,DOWNTIME,None,120173
+String|Retort|CHARRING|31022 - Hearth Burner,Hearth 2 Burner 2 Flame Fail,DOWNTIME,None,120174
+String|Retort|CHARRING|31031 - Hearth Burner,Hearth 3 Burner 1 Flame Fail,DOWNTIME,None,120175
+String|Retort|CHARRING|31032 - Hearth Burner,Hearth 3 Burner 2 Flame Fail,DOWNTIME,None,120176
+String|Retort|CHARRING|31041 - Hearth Burner,Hearth 4 Burner 1 Flame Fail,DOWNTIME,None,120177
+String|Retort|CHARRING|31042 - Hearth Burner,Hearth 4 Burner 2 Flame Fail,DOWNTIME,None,120178
+String|Retort|CHARRING|31061 - Duct Blower,Ductblower #1 Fault,DOWNTIME,None,120235
+String|Retort|CHARRING|31071 - Duct Blower,Ductblower #2 Fault,DOWNTIME,None,120236
+String|Retort|CHARRING|3301 - Furnace Slidegate,#3301Fur Fdscr Sld Gate Ls Alarm,DOWNTIME,None,120171
+String|Retort|CHARRING|3301 - Furnace Slidegate,#3301Fur Fdscr Sld Gate Ls Alarm,DOWNTIME,None,120172
+String|Retort|CHARRING|3301 - Furnace Slidegate,#3301 HOA,DOWNTIME,None,120182
+String|Retort|CHARRING|4001 - Furnace Screw,#4001 Fur Screw Alm,DOWNTIME,None,120241
+String|Retort|CHARRING|4001 - Furnace Screw,Furn.Screw High Amps,DOWNTIME,None,120255
+String|Retort|CHARRING|4001 - Furnace Screw,#4001 Fur Screw Breaker,DOWNTIME,None,120269
+String|Retort|CHARRING|4001 - Furnace Screw,#4001 Fur Screw Disc. Sw,DOWNTIME,None,120278
+String|Retort|CHARRING|4001 - Furnace Screw,#4001 Fur Screw Overloads,DOWNTIME,None,120287
+String|Retort|CHARRING|4001 - Furnace Screw,#4001 Fur Screw SSL,DOWNTIME,None,120298
+String|Retort|CHARRING|4002 - Cooling Screw,#4002 Cooling Scr Alm,DOWNTIME,None,120242
+String|Retort|CHARRING|4002 - Cooling Screw,Cooling Scr High Amps,DOWNTIME,None,120256
+String|Retort|CHARRING|4002 - Cooling Screw,#4002 Cooling Scr Breaker,DOWNTIME,None,120270
+String|Retort|CHARRING|4002 - Cooling Screw,#4002 Cooling Scr Disc. Sw,DOWNTIME,None,120279
+String|Retort|CHARRING|4002 - Cooling Screw,#4002 Cooling Scr Overloads,DOWNTIME,None,120288
+String|Retort|CHARRING|4002 - Cooling Screw,#4002 Cooling Scr SSL,DOWNTIME,None,120299
+String|Retort|CHARRING|4003 - Cooling Screw Rotary Valve,#4003 Cooling Scr Rot Alm,DOWNTIME,None,120243
+String|Retort|CHARRING|4003 - Cooling Screw Rotary Valve,Cooling Scr Rot High Amps,DOWNTIME,None,120257
+String|Retort|CHARRING|4003 - Cooling Screw Rotary Valve,#4003 Cooling Scr Rot Breaker,DOWNTIME,None,120271
+String|Retort|CHARRING|4003 - Cooling Screw Rotary Valve,#4003 Cooling Scr Rot Disc. Sw,DOWNTIME,None,120280
+String|Retort|CHARRING|4003 - Cooling Screw Rotary Valve,#4003 Cooling Scr Rot Overloads,DOWNTIME,None,120289
+String|Retort|CHARRING|4003 - Cooling Screw Rotary Valve,#4003 Cooling Scr Rot SSL,DOWNTIME,None,120300
+String|Retort|CHARRING|41011 - Quench Water,Quench Water Low Flow,DOWNTIME,None,120268
+String|Retort|CHARRING|41011 - Quench Water,Quench Water High Temp,DOWNTIME,None,120311
+String|Retort|CHARRING|Ductblower,Ductblower #10 Fault,DOWNTIME,None,120237
+String|Retort|CHARRING|Ductblower,Ductblower #7 Fault,DOWNTIME,None,120238
+String|Retort|CHARRING|Ductblower,Ductblower #8 Fault,DOWNTIME,None,120239
+String|Retort|CHARRING|Ductblower,Ductblower #9 Fault,DOWNTIME,None,120240
+String|Retort|Char Storage,Fault Learning,DOWNTIME,Process Failure,1400
+String|Retort|Char Storage,Machine Aborted,DOWNTIME,Process Failure,1401
+String|Retort|Char Storage,Emergency Stop,DOWNTIME,Process Failure,1402
+String|Retort|Char Storage,Machine Held,DOWNTIME,Process Failure,1403
+String|Retort|Char Storage,Machine Stopped,DOWNTIME,Process Failure,1404
+String|Retort|Char Storage,Machine Idle,DOWNTIME,Process Failure,1405
+String|Retort|Char Storage,Machine Suspended,DOWNTIME,Process Failure,1406
+String|Retort|Char Storage,Not In Auto,DOWNTIME,Process Failure,1407
+String|Retort|Char Storage,Guard Doors/Safeties,DOWNTIME,Process Failure,1408
+String|Retort|Char Storage,Invalid PackML State,DOWNTIME,Process Failure,1409
+String|Retort|Char Storage,Communication Fault,DOWNTIME,Process Failure,1410
+String|Retort|Char Storage|Char Storage Infeed,Infeed Starved,DOWNTIME,Process Failure,1412
+String|Retort|Char Storage|Char Storage Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1413
+String|Retort|Char Storage|Char Storage Disch,Discharge Backup,DOWNTIME,Process Failure,1414
+String|Retort|Char Storage|Char Storage Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1415
+String|Retort|Char Storage|Char Storage Disch,Discharge Stopped,DOWNTIME,Process Failure,1416
+String|Retort|Char Storage|Char Storage Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1417
+String|Retort|Char Storage|Char Storage Infeed,Infeed Stopped,DOWNTIME,Process Failure,1418
+String|Retort|Char Storage|Char Storage Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1419
+String|Retort|CHARSTORE|4004 - Char Elevator,#4004 Char Elev Alm,DOWNTIME,None,130244
+String|Retort|CHARSTORE|4004 - Char Elevator,Char Elev Bottom H-O-A,DOWNTIME,None,130253
+String|Retort|CHARSTORE|4004 - Char Elevator,Char Elev High Amps,DOWNTIME,None,130258
+String|Retort|CHARSTORE|4004 - Char Elevator,#4004 Char Elev Breaker,DOWNTIME,None,130272
+String|Retort|CHARSTORE|4004 - Char Elevator,#4004 Char Elev Disc. Sw,DOWNTIME,None,130281
+String|Retort|CHARSTORE|4004 - Char Elevator,#4004 Char Elev Overloads,DOWNTIME,None,130290
+String|Retort|CHARSTORE|4004 - Char Elevator,#4004 Char Elev SSL,DOWNTIME,None,130301
+String|Retort|CHARSTORE|40042 - Char Elevator Top,Char Elev Top HOA,DOWNTIME,None,130254
+String|Retort|CHARSTORE|4006 - Short Screw,#4006 Short Screw Alm,DOWNTIME,None,130246
+String|Retort|CHARSTORE|4006 - Short Screw,Short Screw High Amps,DOWNTIME,None,130260
+String|Retort|CHARSTORE|4006 - Short Screw,#4006 Short Screw Breaker,DOWNTIME,None,130274
+String|Retort|CHARSTORE|4006 - Short Screw,#4006 Short Screw Disc. Sw,DOWNTIME,None,130283
+String|Retort|CHARSTORE|4006 - Short Screw,#4006 Short Screw Overloads,DOWNTIME,None,130292
+String|Retort|CHARSTORE|4006 - Short Screw,#4006 Short Screw SSL,DOWNTIME,None,130303
+String|Retort|CHARSTORE|4007 - Char Unload Screw,#4007 Char Unload Scr Alm,DOWNTIME,None,130247
+String|Retort|CHARSTORE|4007 - Char Unload Screw,Char Unload Scr High Amps,DOWNTIME,None,130261
+String|Retort|CHARSTORE|4007 - Char Unload Screw,#4007 Char Unload Scr Breaker,DOWNTIME,None,130275
+String|Retort|CHARSTORE|4007 - Char Unload Screw,#4007 Char Unload Scr Disc. Sw,DOWNTIME,None,130284
+String|Retort|CHARSTORE|4007 - Char Unload Screw,#4007 Char Unload Scr Overloads,DOWNTIME,None,130293
+String|Retort|CHARSTORE|4007 - Char Unload Screw,#4007 Char Unload Scr SSL,DOWNTIME,None,130304
+String|Retort|CHARSTORE|4008 - Char Trailer,#4008 Char Tr1 Scr Alm,DOWNTIME,None,130248
+String|Retort|CHARSTORE|4008 - Char Trailer,Trailer #1 Fill Fault,DOWNTIME,None,130251
+String|Retort|CHARSTORE|4008 - Char Trailer,Char Tr1 Scr High Amps,DOWNTIME,None,130262
+String|Retort|CHARSTORE|4008 - Char Trailer,Char Trailer #1 Single Phase Amp,DOWNTIME,None,130264
+String|Retort|CHARSTORE|4008 - Char Trailer,Trailer #1 Full,DOWNTIME,None,130266
+String|Retort|CHARSTORE|4008 - Char Trailer,#4008 Char Tr1 Scr Breaker,DOWNTIME,None,130276
+String|Retort|CHARSTORE|4008 - Char Trailer,#4008 Char Tr1 Scr Disc. Sw,DOWNTIME,None,130285
+String|Retort|CHARSTORE|4008 - Char Trailer,#4008 Char Tr1 Scr Overloads,DOWNTIME,None,130294
+String|Retort|CHARSTORE|4009 - Char Trailer,#4009 Char Tr2 Scr Alm,DOWNTIME,None,130249
+String|Retort|CHARSTORE|4009 - Char Trailer,Trailer #2 Fill Fault,DOWNTIME,None,130252
+String|Retort|CHARSTORE|4009 - Char Trailer,Char Tr2 Scr High Amps,DOWNTIME,None,130263
+String|Retort|CHARSTORE|4009 - Char Trailer,Char Trailer #2 Single Phase Amp,DOWNTIME,None,130265
+String|Retort|CHARSTORE|4009 - Char Trailer,Trailer #2 Full,DOWNTIME,None,130267
+String|Retort|CHARSTORE|4009 - Char Trailer,#4009 Char Tr2 Scr Breaker,DOWNTIME,None,130277
+String|Retort|CHARSTORE|4009 - Char Trailer,#4009 Char Tr2 Scr Disc. Sw,DOWNTIME,None,130286
+String|Retort|CHARSTORE|4009 - Char Trailer,#4009 Char Tr2 Scr Overloads,DOWNTIME,None,130295
+String|Retort|Wood Dryer,Faulted,DOWNTIME,Process Failure,1500
+String|Retort|Wood Dryer,Machine Aborted,DOWNTIME,Process Failure,1501
+String|Retort|Wood Dryer,Emergency Stop,DOWNTIME,Process Failure,1502
+String|Retort|Wood Dryer,Machine Held,DOWNTIME,Process Failure,1503
+String|Retort|Wood Dryer,Machine Stopped,DOWNTIME,Process Failure,1504
+String|Retort|Wood Dryer,Machine Idle,DOWNTIME,Process Failure,1505
+String|Retort|Wood Dryer,Machine Suspended,DOWNTIME,Process Failure,1506
+String|Retort|Wood Dryer,Not In Auto,DOWNTIME,Process Failure,1507
+String|Retort|Wood Dryer,Guard Doors/Safeties,DOWNTIME,Process Failure,1508
+String|Retort|Wood Dryer,Invalid PackML State,DOWNTIME,Process Failure,1509
+String|Retort|Wood Dryer,Communication Fault,DOWNTIME,Process Failure,1510
+String|Retort|Wood Dryer|Wood Dryer Infeed,Infeed Starved,DOWNTIME,Process Failure,1512
+String|Retort|Wood Dryer|Wood Dryer Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1513
+String|Retort|Wood Dryer|Wood Dryer Disch,Discharge Backup,DOWNTIME,Process Failure,1514
+String|Retort|Wood Dryer|Wood Dryer Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1515
+String|Retort|Wood Dryer|Wood Dryer Disch,Discharge Stopped,DOWNTIME,Process Failure,1516
+String|Retort|Wood Dryer|Wood Dryer Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1517
+String|Retort|Wood Dryer|Wood Dryer Infeed,Infeed Stopped,DOWNTIME,Process Failure,1518
+String|Retort|Wood Dryer|Wood Dryer Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1519
+String|Retort|DRYER|20001 - Dryer,Dryer Planned Shutdown Srt/Stop,DOWNTIME,None,140158
+String|Retort|DRYER|2001 - Buhler Conv,#2001 Buhler Conv. Alm,DOWNTIME,None,140059
+String|Retort|DRYER|2001 - Buhler Conv,Buhler Conv.  High Amps,DOWNTIME,None,140086
+String|Retort|DRYER|2001 - Buhler Conv,#2001 Buhler Conv.Breaker,DOWNTIME,None,140100
+String|Retort|DRYER|2001 - Buhler Conv,#2001 Buhler Conv. Disc. Sw,DOWNTIME,None,140115
+String|Retort|DRYER|2001 - Buhler Conv,#2001 Buhler Conv.Overloads,DOWNTIME,None,140130
+String|Retort|DRYER|2001 - Buhler Conv,#2001 Buhler Conv. SSL,DOWNTIME,None,140145
+String|Retort|DRYER|20021 - Dryer Drive,#2002 Dryer Drive Alm,DOWNTIME,None,140060
+String|Retort|DRYER|20021 - Dryer Drive,Dryer Drive  High Amps,DOWNTIME,None,140087
+String|Retort|DRYER|20021 - Dryer Drive,Dryer Drive Low Amps,DOWNTIME,None,140099
+String|Retort|DRYER|20021 - Dryer Drive,#2002 Dryer Drive Breaker,DOWNTIME,None,140101
+String|Retort|DRYER|20021 - Dryer Drive,#2002 Dryer Drive Disc. Sw,DOWNTIME,None,140116
+String|Retort|DRYER|20021 - Dryer Drive,#2002 Dryer Drive Overloads,DOWNTIME,None,140131
+String|Retort|DRYER|20022 - Dryer Inlet,#2002 Dryer Inlet Above 1600,DOWNTIME,None,140061
+String|Retort|DRYER|20023 - Dryer Outlet,#2002 Dryer Outlet Above 281,DOWNTIME,None,140062
+String|Retort|DRYER|2003 - Dryer ID Fan,#2003 Dryer ID Fanalm,DOWNTIME,None,140063
+String|Retort|DRYER|2003 - Dryer ID Fan,#2003 Dryer ID Fan Vibration Above 50,DOWNTIME,None,140064
+String|Retort|DRYER|2003 - Dryer ID Fan,Dryer ID Fan  High Amps,DOWNTIME,None,140088
+String|Retort|DRYER|2003 - Dryer ID Fan,#2003 Dryer ID Fan Breaker,DOWNTIME,None,140102
+String|Retort|DRYER|2003 - Dryer ID Fan,#2003 Dryer ID Fan Disc. Sw,DOWNTIME,None,140117
+String|Retort|DRYER|2003 - Dryer ID Fan,#2003 Dryer ID Fan Overloads,DOWNTIME,None,140132
+String|Retort|DRYER|2003 - Dryer ID Fan,Dryer Fan High Vibration,DOWNTIME,None,140157
+String|Retort|DRYER|2004 - Primary Saw Cyc,#2004 Pr Saw.Cyc Rot Alm,DOWNTIME,None,140065
+String|Retort|DRYER|2004 - Primary Saw Cyc,Pr Saw.Cyc Rot  High Amps,DOWNTIME,None,140089
+String|Retort|DRYER|2004 - Primary Saw Cyc,#2004 Pr Saw.Cyc Rot Breaker,DOWNTIME,None,140103
+String|Retort|DRYER|2004 - Primary Saw Cyc,#2004 Pr Saw.Cyc Rot Disc. Sw,DOWNTIME,None,140118
+String|Retort|DRYER|2004 - Primary Saw Cyc,#2004 Pr Saw.Cyc Rot Overloads,DOWNTIME,None,140133
+String|Retort|DRYER|2004 - Primary Saw Cyc,#2004 Pr Saw.Cyc Rot SSL,DOWNTIME,None,140146
+String|Retort|DRYER|2005 - Secondary Saw Cyc,#2005 Sec Saw.Cyc Rot 1 Alm,DOWNTIME,None,140066
+String|Retort|DRYER|2005 - Secondary Saw Cyc,Sec Saw.Cyc Rot 1 High Amps,DOWNTIME,None,140090
+String|Retort|DRYER|2005 - Secondary Saw Cyc,#2005 Sec Saw.Cyc Rot 1 Breaker,DOWNTIME,None,140104
+String|Retort|DRYER|2005 - Secondary Saw Cyc,#2005 Sec Saw.Cyc Rot 1 Disc. Sw,DOWNTIME,None,140119
+String|Retort|DRYER|2005 - Secondary Saw Cyc,#2005 Sec Saw.Cyc Rot1 Overloads,DOWNTIME,None,140134
+String|Retort|DRYER|2005 - Secondary Saw Cyc,#2005 Sec Saw.Cyc Rot 1 SSL,DOWNTIME,None,140147
+String|Retort|DRYER|2006 - Secondary Saw Cyc,#2006 Sec Saw.Cyc Rot2 Alm,DOWNTIME,None,140067
+String|Retort|DRYER|2006 - Secondary Saw Cyc,Sec Saw.Cyc Rot2 High Amps,DOWNTIME,None,140091
+String|Retort|DRYER|2006 - Secondary Saw Cyc,#2006 Sec Saw.Cyc Rot2 Breaker,DOWNTIME,None,140105
+String|Retort|DRYER|2006 - Secondary Saw Cyc,#2006 Sec Saw.Cyc Rot2 Disc. Sw,DOWNTIME,None,140120
+String|Retort|DRYER|2006 - Secondary Saw Cyc,#2006 Sec Saw.Cyc Rot2 Overloads,DOWNTIME,None,140135
+String|Retort|DRYER|2006 - Secondary Saw Cyc,#2006 Sec Saw.Cyc Rot2 SSL,DOWNTIME,None,140148
+String|Retort|DRYER|2007 - Dryer Return Air Fan,#2007 Dryer Ret.Air Fan Alm,DOWNTIME,None,140068
+String|Retort|DRYER|2007 - Dryer Return Air Fan,Dryer Ret.Air Fan High Amps,DOWNTIME,None,140092
+String|Retort|DRYER|2007 - Dryer Return Air Fan,#2007 Dryer Ret.Air Fan Breaker,DOWNTIME,None,140106
+String|Retort|DRYER|2007 - Dryer Return Air Fan,#2007 Dryer Ret.Air Fan Disc. Sw,DOWNTIME,None,140121
+String|Retort|DRYER|2007 - Dryer Return Air Fan,#2007 Dryer Ret.Air Fan Overloads,DOWNTIME,None,140136
+String|Retort|DRYER|20071 - Duct Temp,Duct Temp From Dryer Return Fan To ACC High,DOWNTIME,None,140155
+String|Retort|DRYER|20072 - Duct Temp,Duct Temp To Dryer Return Fan High,DOWNTIME,None,140156
+String|Retort|DRYER|2008 - Saw Fines Screw,#2008 Saw Fines Scr#1 Alm,DOWNTIME,None,140069
+String|Retort|DRYER|2008 - Saw Fines Screw,Saw Fines Scr#1 High Amps,DOWNTIME,None,140093
+String|Retort|DRYER|2008 - Saw Fines Screw,#2008 Saw Fines Scr#1 Breaker,DOWNTIME,None,140107
+String|Retort|DRYER|2008 - Saw Fines Screw,#2008 Saw Fines Scr#1 Disc. Sw,DOWNTIME,None,140122
+String|Retort|DRYER|2008 - Saw Fines Screw,#2008 Saw Fines Scr#1 Overloads,DOWNTIME,None,140137
+String|Retort|DRYER|2008 - Saw Fines Screw,#2008 Saw Fines Scr#1 SSL,DOWNTIME,None,140150
+String|Retort|DRYER|2009 - Saw Fines Screw,#2009 Saw Fines Scr#2 Alm,DOWNTIME,None,140070
+String|Retort|DRYER|2009 - Saw Fines Screw,Saw Fines Scr#2 High Amps,DOWNTIME,None,140094
+String|Retort|DRYER|2009 - Saw Fines Screw,#2009 Saw Fines Scr#2 Breaker,DOWNTIME,None,140108
+String|Retort|DRYER|2009 - Saw Fines Screw,#2009 Saw Fines Scr#2 Disc. Sw,DOWNTIME,None,140123
+String|Retort|DRYER|2009 - Saw Fines Screw,#2009 Saw Fines Scr#2 Overloads,DOWNTIME,None,140138
+String|Retort|DRYER|2009 - Saw Fines Screw,#2009 Saw Fines Scr#2 SSL,DOWNTIME,None,140151
+String|Retort|DRYER|2010 - Bypass Screw,#2010 Bypass Screw Alm,DOWNTIME,None,140071
+String|Retort|DRYER|2010 - Bypass Screw,Bypass Screw High Amps,DOWNTIME,None,140095
+String|Retort|DRYER|2010 - Bypass Screw,#2010 Bypass Screw Breaker,DOWNTIME,None,140109
+String|Retort|DRYER|2010 - Bypass Screw,#2010 Bypass Screw Disc. Sw,DOWNTIME,None,140124
+String|Retort|DRYER|2010 - Bypass Screw,#2010 Bypass Screw Overloads,DOWNTIME,None,140139
+String|Retort|DRYER|2010 - Bypass Screw,#2010 Bypass Screw SSL,DOWNTIME,None,140152
+String|Retort|DRYER|20102 - Bypass Gate,Bypass Gate Solenoid HOA,DOWNTIME,None,140080
+String|Retort|DRYER|20102 - Bypass Screw,#2010 Byp Scr Sg Open Ls Alarm,DOWNTIME,None,140072
+String|Retort|DRYER|20103 - Bypass Screw,#2010 Byp Scr Sg Closed Ls Alarm,DOWNTIME,None,140073
+String|Retort|DRYER|2011 - Sawdust Elevator,#2011Sawdust Elev. Alm,DOWNTIME,None,140074
+String|Retort|DRYER|2011 - Sawdust Elevator,Sawdust Elev. High Amps,DOWNTIME,None,140096
+String|Retort|DRYER|2011 - Sawdust Elevator,#2011Sawdust Elev. Breaker,DOWNTIME,None,140110
+String|Retort|DRYER|2011 - Sawdust Elevator,#2011Sawdust Elev. Disc. Sw 1,DOWNTIME,None,140125
+String|Retort|DRYER|2011 - Sawdust Elevator,#2011Sawdust Elev. Disc. Sw 2,DOWNTIME,None,140126
+String|Retort|DRYER|2011 - Sawdust Elevator,#2011Sawdust Elev. Overloads,DOWNTIME,None,140140
+String|Retort|DRYER|2013 - Purge Fan,2013 Purge Fan 2 Alarm,DOWNTIME,None,140076
+String|Retort|DRYER|2013 - Purge Fan,Purge Fan #2 Alarm,DOWNTIME,None,140159
+String|Retort|DRYER|2013 - Purge Fan,Purge Fan #2 HOA,DOWNTIME,None,140179
+String|Retort|DRYER|20141 - Purge Fan,Purge Fan Alm,DOWNTIME,None,140077
+String|Retort|DRYER|20141 - Purge Fan,Purge Fan H-O-A,DOWNTIME,None,140082
+String|Retort|DRYER|20141 - Purge Fan,Purge Fan High Amps,DOWNTIME,None,140098
+String|Retort|DRYER|20141 - Purge Fan,Purge Fan Breaker,DOWNTIME,None,140112
+String|Retort|DRYER|20141 - Purge Fan,Purge Fan Disc. Sw,DOWNTIME,None,140128
+String|Retort|DRYER|20141 - Purge Fan,Purge Fan Overloads,DOWNTIME,None,140142
+String|Retort|DRYER|2015 - Dryer Pony Motor,#2015 Dryer Pony Motor Drive Alm,DOWNTIME,None,140078
+String|Retort|DRYER|2015 - Dryer Pony Motor,#2015 Dryer Pony Motor Drive H-O-A,DOWNTIME,None,140083
+String|Retort|DRYER|2015 - Dryer Pony Motor,#2015 Dryer Pony Motor Drive Breaker,DOWNTIME,None,140114
+String|Retort|DRYER|2015 - Dryer Pony Motor,#2015 Dryer Pony Motor Drive Disc. Sw,DOWNTIME,None,140129
+String|Retort|DRYER|2015 - Dryer Pony Motor,#2015 Dryer Pony Motor Starter Aux Fault,DOWNTIME,None,140143
+String|Retort|DRYER|2015 - Dryer Pony Motor,#2015 Dryer Pony Motor Starter Overload Aux Fault,DOWNTIME,None,140144
+String|Retort|DRYER|21071 - Dryer Inlet,Dryer Inlet High Temp,DOWNTIME,None,140085
+String|Retort|DRYER|21111 - Bypass Slidegate,Bypass Slide Gate HOA,DOWNTIME,None,140084
+String|Retort|DRYER|Dry Wood Cyclones Over,Dry Wood Cyclones Over 350 Deg,DOWNTIME,None,140233
+String|Retort|DRYER|Dryer Down Comber,Dryer Down Comber 02 Above 10%,DOWNTIME,None,140079
+String|Retort|Wood Infeed,Fault Learning,DOWNTIME,Process Failure,1600
+String|Retort|Wood Infeed,Machine Aborted,DOWNTIME,Process Failure,1601
+String|Retort|Wood Infeed,Emergency Stop,DOWNTIME,Process Failure,1602
+String|Retort|Wood Infeed,Machine Held,DOWNTIME,Process Failure,1603
+String|Retort|Wood Infeed,Machine Stopped,DOWNTIME,Process Failure,1604
+String|Retort|Wood Infeed,Machine Idle,DOWNTIME,Process Failure,1605
+String|Retort|Wood Infeed,Machine Suspended,DOWNTIME,Process Failure,1606
+String|Retort|Wood Infeed,Not In Auto,DOWNTIME,Process Failure,1607
+String|Retort|Wood Infeed,Guard Doors/Safeties,DOWNTIME,Process Failure,1608
+String|Retort|Wood Infeed,Invalid PackML State,DOWNTIME,Process Failure,1609
+String|Retort|Wood Infeed,Communication Fault,DOWNTIME,Process Failure,1610
+String|Retort|Wood Infeed|Wood Infeed Infeed,Infeed Starved,DOWNTIME,Process Failure,1612
+String|Retort|Wood Infeed|Wood Infeed Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1613
+String|Retort|Wood Infeed|Wood Infeed Disch,Discharge Backup,DOWNTIME,Process Failure,1614
+String|Retort|Wood Infeed|Wood Infeed Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1615
+String|Retort|Wood Infeed|Wood Infeed Disch,Discharge Stopped,DOWNTIME,Process Failure,1616
+String|Retort|Wood Infeed|Wood Infeed Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1617
+String|Retort|Wood Infeed|Wood Infeed Infeed,Infeed Stopped,DOWNTIME,Process Failure,1618
+String|Retort|Wood Infeed|Wood Infeed Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1619
+String|Retort|INFEED|10011 - Drag Pit,#1001 Drag Pit Alm,DOWNTIME,None,150001
+String|Retort|INFEED|10021 - Hog Infeed,#1002  Hog Infeed Belt Alm,DOWNTIME,None,150002
+String|Retort|INFEED|1003 - Hog Motor,#1003 Hog Motor  Alm,DOWNTIME,None,150003
+String|Retort|INFEED|1004 - Block Conveyor,#1004 Block Conv. Alm,DOWNTIME,None,150004
+String|Retort|INFEED|1102 - Belt Fan,#1102 Belt Fan Alm,DOWNTIME,None,150007
+String|Retort|INFEED|1202 - Magnet,Magnet Fault,DOWNTIME,None,150010
+String|Retort|INFEED|10081 - Bypass Blk Conv,Bypass Blk Conv HOA,DOWNTIME,None,150011
+String|Retort|INFEED|1202 - Magnet,#1202 Magnet HOA,DOWNTIME,None,150013
+String|Retort|INFEED|10021 - Hog Infeed,#1002 Hog Infeed Belt HSA 1,DOWNTIME,None,150014
+String|Retort|INFEED|10022 - Hog Infeed,#1002 Hog Infeed Belt HSA 2,DOWNTIME,None,150015
+String|Retort|INFEED|10011 - Drag Pit,Drag Pit High Amps,DOWNTIME,None,150016
+String|Retort|INFEED|10021 - Hog Infeed,Hog Infeed Belt  High Amps,DOWNTIME,None,150017
+String|Retort|INFEED|1003 - Hog Motor,Hog Motor   High Amps,DOWNTIME,None,150018
+String|Retort|INFEED|1004 - Block Conveyor,Block Conv.  High Amps,DOWNTIME,None,150019
+String|Retort|INFEED|10071 - Bypass Pit,Bypass Pit High Amps,DOWNTIME,None,150022
+String|Retort|INFEED|10081 - Bypass Blk Conv,Bypass Blk Conv High Amps,DOWNTIME,None,150023
+String|Retort|INFEED|1003 - Hog Motor,#1003  Hog Chute Plug Sw,DOWNTIME,None,150025
+String|Retort|INFEED|1003 - Hog Motor,#1003  Hog Grate Rack Sw,DOWNTIME,None,150026
+String|Retort|INFEED|10011 - Drag Pit,#1001 Drag Pit Breaker,DOWNTIME,None,150027
+String|Retort|INFEED|10021 - Hog Infeed,#1002 Hog Infeed Belt Breaker,DOWNTIME,None,150028
+String|Retort|INFEED|1003 - Hog Motor,#1003 Hog Motor Breaker,DOWNTIME,None,150029
+String|Retort|INFEED|1004 - Block Conveyor,#1004 Block Conv. Breaker,DOWNTIME,None,150030
+String|Retort|INFEED|1202 - Magnet,Magnet Mcp Tripped,DOWNTIME,None,150033
+String|Retort|INFEED|1302 - Metal Detector,#1302  Metal Detected,DOWNTIME,None,150034
+String|Retort|INFEED|1302 - Metal Detector,Metal Detector On,DOWNTIME,None,150035
+String|Retort|INFEED|10011 - Drag Pit,#1001 Drag Pit Disc. Sw,DOWNTIME,None,150036
+String|Retort|INFEED|10021 - Hog Infeed,#1002 Hog Infeed Belt Disc. 1,DOWNTIME,None,150037
+String|Retort|INFEED|10022 - Hog Infeed,#1002 Hog Infeed Belt Disc.2,DOWNTIME,None,150038
+String|Retort|INFEED|1003 - Hog Motor,#1003  Hog Motor  Disc. Sw,DOWNTIME,None,150039
+String|Retort|INFEED|1004 - Block Conveyor,#1004 Block Conv.  Disc. Sw,DOWNTIME,None,150040
+String|Retort|INFEED|1202 - Magnet,Magnet Disconnect,DOWNTIME,None,150043
+String|Retort|INFEED|10011 - Drag Pit,#1001 Drag Pit Overloads,DOWNTIME,None,150044
+String|Retort|INFEED|10021 - Hog Infeed,#1002 Hog Infeed Belt Overloads,DOWNTIME,None,150045
+String|Retort|INFEED|1003 - Hog Motor,#1003  Hog Motor  Overloads,DOWNTIME,None,150046
+String|Retort|INFEED|1004 - Block Conveyor,#1004 Block Conv. Overloads,DOWNTIME,None,150047
+String|Retort|INFEED|1202 - Magnet,Magnet Starter Overloads,DOWNTIME,None,150050
+String|Retort|INFEED|1202 - Magnet,Magnet On Auxillary,DOWNTIME,None,150051
+String|Retort|INFEED|10021 - Hog Infeed,Pull Cord Hog Infeed Belt,DOWNTIME,None,150052
+String|Retort|INFEED|1004 - Block Conveyor,Pull Cord Block Conveyor,DOWNTIME,None,150053
+String|Retort|INFEED|10021 - Hog Infeed,#1002 Hog Infeed Belt SSL,DOWNTIME,None,150054
+String|Retort|INFEED|1004 - Block Conveyor,#1004 Block Conv.Speed Switch,DOWNTIME,None,150055
+String|Retort|INFEED|10071 - Bypass Pit,Motion Switch For Bypass Pit,DOWNTIME,None,150057
+String|Retort|INFEED|10081 - Bypass Blk Conv,Bypass Blk Conv SSL,DOWNTIME,None,150058
+String|Retort|INFEED|21021 - 48 Belt,48 Belt Brush Aux Fault,DOWNTIME,None,150113
+String|Retort|Low Burn,Fault Learning,DOWNTIME,Process Failure,1700
+String|Retort|Low Burn,Machine Aborted,DOWNTIME,Process Failure,1701
+String|Retort|Low Burn,Emergency Stop,DOWNTIME,Process Failure,1702
+String|Retort|Low Burn,Machine Held,DOWNTIME,Process Failure,1703
+String|Retort|Low Burn,Machine Stopped,DOWNTIME,Process Failure,1704
+String|Retort|Low Burn,Machine Idle,DOWNTIME,Process Failure,1705
+String|Retort|Low Burn,Machine Suspended,DOWNTIME,Process Failure,1706
+String|Retort|Low Burn,Not In Auto,DOWNTIME,Process Failure,1707
+String|Retort|Low Burn,Guard Doors/Safeties,DOWNTIME,Process Failure,1708
+String|Retort|Low Burn,Invalid PackML State,DOWNTIME,Process Failure,1709
+String|Retort|Low Burn,Communication Fault,DOWNTIME,Process Failure,1710
+String|Retort|Low Burn|Low Burn Infeed,Infeed Starved,DOWNTIME,Process Failure,1712
+String|Retort|Low Burn|Low Burn Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1713
+String|Retort|Low Burn|Low Burn Disch,Discharge Backup,DOWNTIME,Process Failure,1714
+String|Retort|Low Burn|Low Burn Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1715
+String|Retort|Low Burn|Low Burn Disch,Discharge Stopped,DOWNTIME,Process Failure,1716
+String|Retort|Low Burn|Low Burn Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1717
+String|Retort|Low Burn|Low Burn Infeed,Infeed Stopped,DOWNTIME,Process Failure,1718
+String|Retort|Low Burn|Low Burn Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1719
+String|Retort|LOWBURN|5004 - ACC Lower Burner,#5004 ACC Burner Fan Alm,DOWNTIME,None,180319
+String|Retort|LOWBURN|5004 - ACC Lower Burner,#5004 ACC Burner Fan H-O-A,DOWNTIME,None,180327
+String|Retort|LOWBURN|5004 - ACC Lower Burner,ACC Burner Fan High Amps,DOWNTIME,None,180334
+String|Retort|LOWBURN|5004 - ACC Lower Burner,#5004 ACC Burner Fan  Breaker,DOWNTIME,None,180339
+String|Retort|LOWBURN|5004 - ACC Lower Burner,#5004 ACC Burner Fan Disc. Sw,DOWNTIME,None,180345
+String|Retort|LOWBURN|5004 - ACC Lower Burner,#5004 ACC Burner Fan Overloads,DOWNTIME,None,180351
+String|Retort|LOWBURN|5004 - ACC Lower Burner,ACC Burner Fan Starter Aux Fault,DOWNTIME,None,180353
+String|Retort|Sizing,Fault Learning,DOWNTIME,Process Failure,1800
+String|Retort|Sizing,Machine Aborted,DOWNTIME,Process Failure,1801
+String|Retort|Sizing,Emergency Stop,DOWNTIME,Process Failure,1802
+String|Retort|Sizing,Machine Held,DOWNTIME,Process Failure,1803
+String|Retort|Sizing,Machine Stopped,DOWNTIME,Process Failure,1804
+String|Retort|Sizing,Machine Idle,DOWNTIME,Process Failure,1805
+String|Retort|Sizing,Machine Suspended,DOWNTIME,Process Failure,1806
+String|Retort|Sizing,Not In Auto,DOWNTIME,Process Failure,1807
+String|Retort|Sizing,Guard Doors/Safeties,DOWNTIME,Process Failure,1808
+String|Retort|Sizing,Invalid PackML State,DOWNTIME,Process Failure,1809
+String|Retort|Sizing,Communication Fault,DOWNTIME,Process Failure,1810
+String|Retort|Sizing|Sizing Infeed,Infeed Starved,DOWNTIME,Process Failure,1812
+String|Retort|Sizing|Sizing Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1813
+String|Retort|Sizing|Sizing Disch,Discharge Backup,DOWNTIME,Process Failure,1814
+String|Retort|Sizing|Sizing Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1815
+String|Retort|Sizing|Sizing Disch,Discharge Stopped,DOWNTIME,Process Failure,1816
+String|Retort|Sizing|Sizing Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1817
+String|Retort|Sizing|Sizing Infeed,Infeed Stopped,DOWNTIME,Process Failure,1818
+String|Retort|Sizing|Sizing Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1819
+String|Retort|SIZING|1005 - Live Bottom Bin,#1005 Live Bott.Bin Alm,DOWNTIME,None,160005
+String|Retort|SIZING|1005 - Live Bottom Bin,Live Bott.Bin  High Amps,DOWNTIME,None,160020
+String|Retort|SIZING|1005 - Live Bottom Bin,#1005 Live Bott.Bin. Breaker,DOWNTIME,None,160031
+String|Retort|SIZING|1005 - Live Bottom Bin,#1005 Live Bott.Bin Disc. Sw,DOWNTIME,None,160041
+String|Retort|SIZING|1005 - Live Bottom Bin,#1005 Live Bott.Bin.Overloads,DOWNTIME,None,160048
+String|Retort|SIZING|1005 - Live Bottom Bin,#1005 Live Bott.Bin SSL,DOWNTIME,None,160056
+String|Retort|SIZING|1006 - Live Bottom Bin,#1006 Live Bott.Bin.Bu Alm,DOWNTIME,None,160006
+String|Retort|SIZING|1009 - Live Bottom Bin,#1009 Live Bott.Bin Lo Level,DOWNTIME,None,160024
+String|Retort|SIZING|11041 - Flopgate,#1104 Flopgate To Dryer Ls Alarm,DOWNTIME,None,160008
+String|Retort|SIZING|11041 - Flopgate,Dryer/Mulch HOA,DOWNTIME,None,160012
+String|Retort|SIZING|11042 - Flopgate,#1104 Flopgate To Mulch Ls Alarm,DOWNTIME,None,160009
+String|Retort|Up Burn,Fault Learning,DOWNTIME,Process Failure,1900
+String|Retort|Up Burn,Machine Aborted,DOWNTIME,Process Failure,1901
+String|Retort|Up Burn,Emergency Stop,DOWNTIME,Process Failure,1902
+String|Retort|Up Burn,Machine Held,DOWNTIME,Process Failure,1903
+String|Retort|Up Burn,Machine Stopped,DOWNTIME,Process Failure,1904
+String|Retort|Up Burn,Machine Idle,DOWNTIME,Process Failure,1905
+String|Retort|Up Burn,Machine Suspended,DOWNTIME,Process Failure,1906
+String|Retort|Up Burn,Not In Auto,DOWNTIME,Process Failure,1907
+String|Retort|Up Burn,Guard Doors/Safeties,DOWNTIME,Process Failure,1908
+String|Retort|Up Burn,Invalid PackML State,DOWNTIME,Process Failure,1909
+String|Retort|Up Burn,Communication Fault,DOWNTIME,Process Failure,1910
+String|Retort|Up Burn|Up Burn Infeed,Infeed Starved,DOWNTIME,Process Failure,1912
+String|Retort|Up Burn|Up Burn Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1913
+String|Retort|Up Burn|Up Burn Disch,Discharge Backup,DOWNTIME,Process Failure,1914
+String|Retort|Up Burn|Up Burn Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1915
+String|Retort|Up Burn|Up Burn Disch,Discharge Stopped,DOWNTIME,Process Failure,1916
+String|Retort|Up Burn|Up Burn Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1917
+String|Retort|Up Burn|Up Burn Infeed,Infeed Stopped,DOWNTIME,Process Failure,1918
+String|Retort|Up Burn|Up Burn Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1919
+String|Retort|UPBURN|5006 - ACC Upper Burner,ACC Sec Burner Fan Mcc Breaker Fault,DOWNTIME,None,190341
+String|Retort|UPBURN|5006 - ACC Upper Burner,ACC Sec Burner Fan Starter Aux Fault,DOWNTIME,None,190354
+String|Retort|UPBURN|5006 - ACC Upper Burner,ACC Sec Burner Fan Starter Overload Fault,DOWNTIME,None,190355
+String|Retort|UPBURN|5006 - ACC Upper Burner,ACC Sec Burner Fan HOA Fault,DOWNTIME,None,190329
+String|Retort|UPBURN|5006 - ACC Upper Burner,ACC Sec Burner Fan Disconnect Switch Fault,DOWNTIME,None,190347
+String|Retort|UPBURN|5006 - ACC Upper Burner,ACC Sec Burner Fan Common Fault Storage,DOWNTIME,None,190321
+String|Retort|Vaporizer,Fault Learning,DOWNTIME,Process Failure,2000
+String|Retort|Vaporizer,Machine Aborted,DOWNTIME,Process Failure,2001
+String|Retort|Vaporizer,Emergency Stop,DOWNTIME,Process Failure,2002
+String|Retort|Vaporizer,Machine Held,DOWNTIME,Process Failure,2003
+String|Retort|Vaporizer,Machine Stopped,DOWNTIME,Process Failure,2004
+String|Retort|Vaporizer,Machine Idle,DOWNTIME,Process Failure,2005
+String|Retort|Vaporizer,Machine Suspended,DOWNTIME,Process Failure,2006
+String|Retort|Vaporizer,Not In Auto,DOWNTIME,Process Failure,2007
+String|Retort|Vaporizer,Guard Doors/Safeties,DOWNTIME,Process Failure,2008
+String|Retort|Vaporizer,Invalid PackML State,DOWNTIME,Process Failure,2009
+String|Retort|Vaporizer,Communication Fault,DOWNTIME,Process Failure,2010
+String|Retort|Vaporizer|Vaporizer Infeed,Infeed Starved,DOWNTIME,Process Failure,2012
+String|Retort|Vaporizer|Vaporizer Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2013
+String|Retort|Vaporizer|Vaporizer Disch,Discharge Backup,DOWNTIME,Process Failure,2014
+String|Retort|Vaporizer|Vaporizer Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2015
+String|Retort|Vaporizer|Vaporizer Disch,Discharge Stopped,DOWNTIME,Process Failure,2016
+String|Retort|Vaporizer|Vaporizer Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2017
+String|Retort|Vaporizer|Vaporizer Infeed,Infeed Stopped,DOWNTIME,Process Failure,2018
+String|Retort|Vaporizer|Vaporizer Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2019
+String|Retort|VAPORIZER|Flame Failure,Vaporizer Flame Failure #1 Alarm,DOWNTIME,None,170489
+String|Retort|VAPORIZER|Flame Failure,Vaporizer Flame Failure #2 Alarm,DOWNTIME,None,170490
+String|Retort|VAPORIZER|Leak Detection,Vaporizer Leak Detection Alarm,DOWNTIME,None,170491
+String|Retort|VAPORIZER|Liquid Carryover,Vaporizer Liquid Carryover Alarm,DOWNTIME,None,170492

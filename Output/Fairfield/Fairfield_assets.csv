@@ -1,0 +1,25 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Fairfield,BL1,None,LINE,None
+Fairfield,HC1,None,LINE,None
+Fairfield,BL1 Decaser,None,SEC,BL1 Decaser PLC
+Fairfield,BL1 Filler,None,SEC,BL1 SLCS PLC
+Fairfield,BL1 Labeler,None,SEC,BL1 Labeler2 PLC
+Fairfield,BL1 Capper,None,SEC,BL1 Capper PLC
+Fairfield,BL1 Case Packer,None,SEC,BL1 SLCS PLC
+Fairfield,BL1 Sealer,None,SEC,BL1 Sealer PLC
+Fairfield,BL1 Palletizer,None,SEC,BL1 Palletizer PLC
+Fairfield,BL1 Stretchwrapper,None,SEC,BL1 Stretchwrapper PLC
+Fairfield,BL1 Case Erector,None,SEC,BL1 Case Erector PLC
+Fairfield,HC1 Decaser,None,SEC,HC1 SLCS PLC
+Fairfield,HC1 Unscrambler,None,SEC,HC1 Unscrambler PLC
+Fairfield,HC1 Orienter,None,SEC,HC1 Orienter PLC
+Fairfield,HC1 Labeler,None,SEC,HC1 Labeler PLC
+Fairfield,HC1 Filler,None,SEC,HC1 Filler PLC
+Fairfield,HC1 Trigger Capper,None,SEC,HC1 Filler PLC
+Fairfield,HC1 Capper,None,SEC,HC1 Capper PLC
+Fairfield,HC1 Sleever,None,SEC,HC1 Sleever PLC
+Fairfield,HC1 Accumulator,None,SEC,HC1 Accumulator PLC
+Fairfield,HC1 Packer,None,SEC,HC1 Packer PLC
+Fairfield,HC1 Sealer,None,SEC,HC1 Sealer PLC
+Fairfield,HC1 Unitizer,None,SEC,HC1 Unitizer PLC
+Fairfield,HC1 Stretchwrapper,None,SEC,HC1 Stretchwrapper PLC

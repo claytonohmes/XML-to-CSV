@@ -1,0 +1,40 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,Retort,None,LINE,Concentrator PLC
+String,Char Storage,None,SEC,Concentrator PLC
+String,Wood Infeed,None,SEC,Concentrator PLC
+String,Sizing,None,SEC,Concentrator PLC
+String,Furnace Charring,None,SEC,Concentrator PLC
+String,ACC Heat,None,SEC,Concentrator PLC
+String,Wood Dryer,None,SEC,Concentrator PLC
+String,Briquetting,None,LINE,Concentrator PLC
+String,Dryer 1,None,SEC,Concentrator PLC
+String,Dryer 2,None,SEC,Concentrator PLC
+String,SilosDischarge Convey,None,SEC,Concentrator PLC
+String,Infeed Conveyors,None,SEC,Concentrator PLC
+String,Press 1,None,SEC,Concentrator PLC
+String,Press 2,None,SEC,Concentrator PLC
+String,HammerMill,None,SEC,Concentrator PLC
+String,Char Silos,None,SEC,Concentrator PLC
+String,MixMull,None,SEC,Concentrator PLC
+String,Minors,None,SEC,Concentrator PLC
+String,Kiln Dust,None,SEC,Concentrator PLC
+String,Line 1,None,LINE,Concentrator PLC
+String,L1 Line Control,None,SEC,Concentrator PLC
+String,L1 Bag Hanger,None,SEC,Concentrator PLC
+String,L1 Bag Mag,None,SEC,Concentrator PLC
+String,L1 Doboy,None,SEC,Concentrator PLC
+String,L1 Heat Tunnel,None,SEC,Concentrator PLC
+String,L1 Palletizer,None,SEC,Concentrator PLC
+String,L1 Stretchwrapper,None,SEC,Concentrator PLC
+String,L1 Upstacker,None,SEC,Concentrator PLC
+String,Line 2,None,LINE,Concentrator PLC
+String,L2 Line Control,None,SEC,Concentrator PLC
+String,L2 Bag Hanger,None,SEC,Concentrator PLC
+String,L2 Bag Mag,None,SEC,Concentrator PLC
+String,L2 Doboy,None,SEC,Concentrator PLC
+String,L2 Heat Tunnel,None,SEC,Concentrator PLC
+String,L2 Palletizer,None,SEC,Concentrator PLC
+String,L2 Stretchwrapper,None,SEC,Concentrator PLC
+String,L2 Spiral Conv,None,SEC,Concentrator PLC
+String,Pretreat,None,SEC,Concentrator PLC
+String,Tank Farm,None,SEC,Concentrator PLC

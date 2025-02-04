@@ -1,0 +1,65 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Aberdeen,Line 1,None,LINE,None
+Aberdeen,Line 2,None,LINE,None
+Aberdeen,Line 3,None,LINE,None
+Aberdeen,Line 4,None,LINE,None
+Aberdeen,Line 5,None,LINE,None
+Aberdeen,Line 7,None,LINE,None
+Aberdeen,Line 1 Decaser,None,SEC,Line 1 Decaser PLC
+Aberdeen,Line 1 Labeler,None,SEC,Line 1 Labeler PLC
+Aberdeen,Line 1 Filler,None,SEC,Line 1 Filler PLC
+Aberdeen,Line 1 Capper,None,SEC,Line 1 Capper PLC
+Aberdeen,Line 1 Packer,None,SEC,Line 1 Packer PLC
+Aberdeen,Line 1 Sealer,None,SEC,Line 1 Sealer PLC
+Aberdeen,Line 1 Palletizer,None,SEC,Line 1 Palletizer PLC
+Aberdeen,Line 1 Stretchwrapper,None,SEC,Line 1 Stretchwrapper PLC
+Aberdeen,Line 1 Erector,None,SEC,Line 1 Erector PLC
+Aberdeen,Line 1 PartitionInserter,None,SEC,Line 1 PartitionInserter PLC
+Aberdeen,Line 2 Labeler,None,SEC,Line 2 Labeler PLC
+Aberdeen,Line 2 Filler,None,SEC,Line 2 Filler PLC
+Aberdeen,Line 2 Capper,None,SEC,Line 2 Capper PLC
+Aberdeen,Line 2 Packer,None,SEC,Line 2 Packer PLC
+Aberdeen,Line 2 Sealer,None,SEC,Line 2 Sealer PLC
+Aberdeen,Line 2 Erector,None,SEC,Line 2 Erector PLC
+Aberdeen,Line 2 KDAuto,None,SEC,Line 2 KDAuto PLC
+Aberdeen,Line 2 Palletizer,None,SEC,Line 2 Palletizer PLC
+Aberdeen,Line 2 Stretchwrapper,None,SEC,Line 2 Stretchwrapper PLC
+Aberdeen,Line 3 Labeler,None,SEC,Line 3 Labeler PLC
+Aberdeen,Line 3 Filler,None,SEC,Line 3 Filler PLC
+Aberdeen,Line 3 Capper,None,SEC,Line 3 Capper PLC
+Aberdeen,Line 3 Packer,None,SEC,Line 3 Packer PLC
+Aberdeen,Line 3 Sealer,None,SEC,Line 3 Sealer PLC
+Aberdeen,Line 3 Erector,None,SEC,Line 3 Erector PLC
+Aberdeen,Line 3 KDAuto,None,SEC,Line 3 KDAuto PLC
+Aberdeen,Line 3 Palletizer,None,SEC,Line 3 Palletizer PLC
+Aberdeen,Line 3 Stretchwrapper,None,SEC,Line 3 Stretchwrapper PLC
+Aberdeen,Line 4 Labeler,None,SEC,Line 4 Labeler PLC
+Aberdeen,Line 4 Filler,None,SEC,Line 4 Filler PLC
+Aberdeen,Line 4 Capper,None,SEC,Line 4 Capper PLC
+Aberdeen,Line 4 Packer,None,SEC,Line 4 Packer PLC
+Aberdeen,Line 4 Sealer,None,SEC,Line 4 Sealer PLC
+Aberdeen,Line 4 Erector,None,SEC,Line 4 Erector PLC
+Aberdeen,Line 4 KDAuto,None,SEC,Line 4 KDAuto PLC
+Aberdeen,Line 4 Palletizer,None,SEC,Line 4 Palletizer PLC
+Aberdeen,Line 4 Stretchwrapper,None,SEC,Line 4 Stretchwrapper PLC
+Aberdeen,Mold 4 Wheel,None,LINE,Line 4 SLCS PLC
+Aberdeen,Line 5 Unscrambler,None,SEC,Line 5 Unscrambler PLC
+Aberdeen,Line 5 Labeler,None,SEC,Line 5 Labeler PLC
+Aberdeen,Line 5 Filler,None,SEC,Line 5 Filler PLC
+Aberdeen,Line 5 Capper,None,SEC,Line 5 Capper PLC
+Aberdeen,Line 5 Packer,None,SEC,Line 5 Packer PLC
+Aberdeen,Line 5 Sealer,None,SEC,Line 5 Sealer PLC
+Aberdeen,Line 5 Erector,None,SEC,Line 5 Erector PLC
+Aberdeen,Line 5 KDAuto,None,SEC,Line 5 KDAuto PLC
+Aberdeen,Line 5 Palletizer,None,SEC,Line 5 Palletizer PLC
+Aberdeen,Line 5 Stretchwrapper,None,SEC,Line 5 Stretchwrapper PLC
+Aberdeen,Line 7 Decaser,None,SEC,Line 7 SLCS PLC
+Aberdeen,Line 7 Orienter,None,SEC,Line 7 Orienter PLC
+Aberdeen,Line 7 Filler,None,SEC,Line 7 FillerCapper PLC
+Aberdeen,Line 7 Capper,None,SEC,Line 7 FillerCapper PLC
+Aberdeen,Line 7 Cap Sorter,None,SEC,Line 7 Cap Sorter PLC
+Aberdeen,Line 7 Dynac,None,SEC,Line 7 Accumulator PLC
+Aberdeen,Line 7 Packer,None,SEC,Line 7 Packer PLC
+Aberdeen,Line 7 Sealer,None,SEC,Line 7 Sealer PLC
+Aberdeen,Line 7 Palletizer,None,SEC,Line 7 Palletizer PLC
+Aberdeen,Line 7 Stretchwrapper,None,SEC,Line 7 Stretchwrapper PLC

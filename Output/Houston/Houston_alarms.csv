@@ -1,0 +1,1089 @@
+reas_group,reas_desc,state,category1,spare4
+Houston|Null Reasons,No Reason,DOWNTIME,None,10000
+Houston|Null Reasons,No Reason,DOWNTIME,None,10001
+Houston|Null Reasons,No Reason,DOWNTIME,None,10002
+Houston|Null Reasons,No Reason,DOWNTIME,None,10003
+Houston|Null Reasons,No Reason,DOWNTIME,None,10004
+Houston|Null Reasons,No Reason,DOWNTIME,None,10005
+Houston|Null Reasons,No Reason,DOWNTIME,None,10006
+Houston|Null Reasons,No Reason,DOWNTIME,None,10007
+Houston|Null Reasons,No Reason,DOWNTIME,None,10008
+Houston|Null Reasons,No Reason,DOWNTIME,None,10009
+Houston|Null Reasons,No Reason,DOWNTIME,None,10010
+Houston|Null Reasons,No Reason,DOWNTIME,None,10011
+Houston|Null Reasons,No Reason,DOWNTIME,None,10012
+Houston|Null Reasons,No Reason,DOWNTIME,None,10013
+Houston|Null Reasons,No Reason,DOWNTIME,None,10014
+Houston|Null Reasons,No Reason,DOWNTIME,None,10015
+Houston|Null Reasons,No Reason,DOWNTIME,None,10016
+Houston|Null Reasons,No Reason,DOWNTIME,None,10017
+Houston|Null Reasons,No Reason,DOWNTIME,None,10018
+Houston|Null Reasons,No Reason,DOWNTIME,None,10019
+Houston|Null Reasons,No Reason,DOWNTIME,None,10020
+Houston|Null Reasons,No Reason,DOWNTIME,None,10021
+Houston|Null Reasons,No Reason,DOWNTIME,None,10022
+Houston|Null Reasons,No Reason,DOWNTIME,None,10023
+Houston|Null Reasons,No Reason,DOWNTIME,None,10024
+Houston|Null Reasons,No Reason,DOWNTIME,None,10025
+Houston|Null Reasons,No Reason,DOWNTIME,None,10026
+Houston|Null Reasons,No Reason,DOWNTIME,None,10027
+Houston|Null Reasons,No Reason,DOWNTIME,None,10028
+Houston|Null Reasons,No Reason,DOWNTIME,None,10029
+Houston|Null Reasons,No Reason,DOWNTIME,None,10030
+Houston|Null Reasons,No Reason,DOWNTIME,None,10031
+Houston|Null Reasons,No Reason,DOWNTIME,None,10032
+Houston|Null Reasons,No Reason,DOWNTIME,None,10033
+Houston|Null Reasons,No Reason,DOWNTIME,None,10034
+Houston|Null Reasons,No Reason,DOWNTIME,None,10035
+Houston|Null Reasons,No Reason,DOWNTIME,None,10036
+Houston|Null Reasons,No Reason,DOWNTIME,None,10037
+Houston|Null Reasons,No Reason,DOWNTIME,None,10038
+Houston|Null Reasons,No Reason,DOWNTIME,None,10039
+Houston|Null Reasons,No Reason,DOWNTIME,None,10040
+Houston|Null Reasons,No Reason,DOWNTIME,None,10041
+Houston|Null Reasons,No Reason,DOWNTIME,None,10042
+Houston|Null Reasons,No Reason,DOWNTIME,None,10043
+Houston|Null Reasons,No Reason,DOWNTIME,None,10044
+Houston|Null Reasons,No Reason,DOWNTIME,None,10045
+Houston|Null Reasons,No Reason,DOWNTIME,None,10046
+Houston|Null Reasons,No Reason,DOWNTIME,None,10047
+Houston|Null Reasons,No Reason,DOWNTIME,None,10048
+Houston|Null Reasons,No Reason,DOWNTIME,None,10049
+Houston|Null Reasons,No Reason,DOWNTIME,None,10050
+Houston|Null Reasons,No Reason,DOWNTIME,None,10051
+Houston|Null Reasons,No Reason,DOWNTIME,None,10052
+Houston|Null Reasons,No Reason,DOWNTIME,None,10053
+Houston|Null Reasons,No Reason,DOWNTIME,None,10054
+Houston|Null Reasons,No Reason,DOWNTIME,None,10055
+Houston|Null Reasons,No Reason,DOWNTIME,None,10056
+Houston|Null Reasons,No Reason,DOWNTIME,None,10057
+Houston|Null Reasons,No Reason,DOWNTIME,None,10058
+Houston|Null Reasons,No Reason,DOWNTIME,None,10059
+Houston|Null Reasons,No Reason,DOWNTIME,None,10060
+Houston|Null Reasons,No Reason,DOWNTIME,None,10061
+Houston|Null Reasons,No Reason,DOWNTIME,None,10062
+Houston|Null Reasons,No Reason,DOWNTIME,None,10063
+Houston|Null Reasons,No Reason,DOWNTIME,None,10064
+Houston|Null Reasons,No Reason,DOWNTIME,None,10065
+Houston|Null Reasons,No Reason,DOWNTIME,None,10066
+Houston|Null Reasons,No Reason,DOWNTIME,None,10067
+Houston|Null Reasons,No Reason,DOWNTIME,None,10068
+Houston|Null Reasons,No Reason,DOWNTIME,None,10069
+Houston|Null Reasons,No Reason,DOWNTIME,None,10070
+Houston|Null Reasons,No Reason,DOWNTIME,None,10071
+Houston|Null Reasons,No Reason,DOWNTIME,None,10072
+Houston|Null Reasons,No Reason,DOWNTIME,None,10073
+Houston|Null Reasons,No Reason,DOWNTIME,None,10074
+Houston|Null Reasons,No Reason,DOWNTIME,None,10075
+Houston|Null Reasons,No Reason,DOWNTIME,None,10076
+Houston|Null Reasons,No Reason,DOWNTIME,None,10077
+Houston|Null Reasons,No Reason,DOWNTIME,None,10078
+Houston|Null Reasons,No Reason,DOWNTIME,None,10079
+Houston|PackML,PlaceHolder-DELETEME,DOWNTIME,None,1
+Houston|PackML|Excluded Time,Communication Fault,DOWNTIME,Excluded Time,10
+Houston|PackML|Suspended State,Infeed Starved,DOWNTIME,Excluded Time,12
+Houston|PackML|Suspended State,Infeed Starved,DOWNTIME,Excluded Time,13
+Houston|PackML|Suspended State,Discharge Backup,DOWNTIME,Excluded Time,14
+Houston|PackML|Suspended State,Discharge Backup,DOWNTIME,Excluded Time,15
+Houston|PackML|Suspended State,Discharge Stopped,DOWNTIME,Excluded Time,16
+Houston|PackML|Suspended State,Discharge Stopped,DOWNTIME,Excluded Time,17
+Houston|PackML|Suspended State,Infeed Stopped,DOWNTIME,Excluded Time,18
+Houston|PackML|Suspended State,Infeed Stopped,DOWNTIME,Excluded Time,19
+Houston|PackML|Excluded Time,Bypassed/Not In Use,DOWNTIME,Excluded Time,20
+Houston|PackML,Undefined State,DOWNTIME,Process Failure,80
+Houston|PackML,Clearing State,DOWNTIME,Process Failure,81
+Houston|PackML,Stopped State,DOWNTIME,Process Failure,82
+Houston|PackML,Starting State,DOWNTIME,Process Failure,83
+Houston|PackML,Idle State,DOWNTIME,Process Failure,84
+Houston|PackML,Suspended State,DOWNTIME,Process Failure,85
+Houston|PackML,Execute State,DOWNTIME,Process Failure,86
+Houston|PackML,Stopping State,DOWNTIME,Process Failure,87
+Houston|PackML,Aborting State,DOWNTIME,Process Failure,88
+Houston|PackML,Aborted State,DOWNTIME,Process Failure,89
+Houston|PackML,Holding State,DOWNTIME,Process Failure,90
+Houston|PackML,Held State,DOWNTIME,Process Failure,91
+Houston|PackML,Unholding State,DOWNTIME,Process Failure,92
+Houston|PackML,Suspending State,DOWNTIME,Process Failure,93
+Houston|PackML,Unsuspending State,DOWNTIME,Process Failure,94
+Houston|PackML,Resetting State,DOWNTIME,Process Failure,95
+Houston|PackML,Completing State,DOWNTIME,Process Failure,96
+Houston|PackML,Complete State,DOWNTIME,Process Failure,97
+Houston|BL1 Reasons,PlaceHolder-DELETEME,DOWNTIME,None,1
+Houston|BL1 Reasons|Excluded Time,Communication Fault,DOWNTIME,Excluded Time,10
+Houston|BL1 Reasons|Excluded Time,Planned Downtime,DOWNTIME,Excluded Time,11
+Houston|BL1 Reasons|Suspended State,Infeed Starved,DOWNTIME,Excluded Time,12
+Houston|BL1 Reasons|Suspended State,Infeed Starved,DOWNTIME,Excluded Time,13
+Houston|BL1 Reasons|Suspended State,Discharge Backup,DOWNTIME,Excluded Time,14
+Houston|BL1 Reasons|Suspended State,Discharge Backup,DOWNTIME,Excluded Time,15
+Houston|BL1 Reasons|Suspended State,Discharge Stopped,DOWNTIME,Excluded Time,16
+Houston|BL1 Reasons|Suspended State,Discharge Stopped,DOWNTIME,Excluded Time,17
+Houston|BL1 Reasons|Suspended State,Infeed Stopped,DOWNTIME,Excluded Time,18
+Houston|BL1 Reasons|Suspended State,Infeed Stopped,DOWNTIME,Excluded Time,19
+Houston|BL1 Reasons|Excluded Time,Bypassed/Not In Use,DOWNTIME,Excluded Time,20
+Houston|BL1 Reasons|General Stops,Machine Aborted,DOWNTIME,Process Failure,21
+Houston|BL1 Reasons|Operator Stops,Emergency Stop,DOWNTIME,Process Failure,22
+Houston|BL1 Reasons|Operator Stops,Machine Held,DOWNTIME,Process Failure,23
+Houston|BL1 Reasons|Operator Stops,Machine Stopped,DOWNTIME,Process Failure,24
+Houston|BL1 Reasons|Operator Stops,Machine Idle,DOWNTIME,Process Failure,25
+Houston|BL1 Reasons|General Stops,Machine Suspended,DOWNTIME,Process Failure,26
+Houston|BL1 Reasons|Operator Stops,Not In Auto,DOWNTIME,Process Failure,27
+Houston|BL1 Reasons|Operator Stops,Guard Doors/Safeties,DOWNTIME,Process Failure,28
+Houston|BL1 Reasons|General Stops,Invalid PackML State,DOWNTIME,Process Failure,29
+Houston|BL1 Reasons,Undefined State,DOWNTIME,Process Failure,80
+Houston|BL1 Reasons,Clearing State,DOWNTIME,Process Failure,81
+Houston|BL1 Reasons,Stopped State,DOWNTIME,Process Failure,82
+Houston|BL1 Reasons,Starting State,DOWNTIME,Process Failure,83
+Houston|BL1 Reasons,Idle State,DOWNTIME,Process Failure,84
+Houston|BL1 Reasons,Suspended State,DOWNTIME,Process Failure,85
+Houston|BL1 Reasons,Execute State,DOWNTIME,Process Failure,86
+Houston|BL1 Reasons,Stopping State,DOWNTIME,Process Failure,87
+Houston|BL1 Reasons,Aborting State,DOWNTIME,Process Failure,88
+Houston|BL1 Reasons,Aborted State,DOWNTIME,Process Failure,89
+Houston|BL1 Reasons,Holding State,DOWNTIME,Process Failure,90
+Houston|BL1 Reasons,Held State,DOWNTIME,Process Failure,91
+Houston|BL1 Reasons,Unholding State,DOWNTIME,Process Failure,92
+Houston|BL1 Reasons,Suspending State,DOWNTIME,Process Failure,93
+Houston|BL1 Reasons,Unsuspending State,DOWNTIME,Process Failure,94
+Houston|BL1 Reasons,Resetting State,DOWNTIME,Process Failure,95
+Houston|BL1 Reasons,Completing State,DOWNTIME,Process Failure,96
+Houston|BL1 Reasons,Complete State,DOWNTIME,Process Failure,97
+Houston|BL1 Reasons,Excluded Time,DOWNTIME,Excluded Time,100
+Houston|BL1 Reasons,Excluded Time,DOWNTIME,Excluded Time,200
+Houston|BL1 Reasons,Excluded Time,DOWNTIME,Excluded Time,300
+Houston|BL1 Reasons,Excluded Time,DOWNTIME,Excluded Time,400
+Houston|BL1 Reasons|Nercon Convey,Fault Learning,DOWNTIME,Process Failure,1100
+Houston|BL1 Reasons|Nercon Convey,Machine Aborted,DOWNTIME,Process Failure,1101
+Houston|BL1 Reasons|Nercon Convey,Emergency Stop,DOWNTIME,Process Failure,1102
+Houston|BL1 Reasons|Nercon Convey,Machine Held,DOWNTIME,Process Failure,1103
+Houston|BL1 Reasons|Nercon Convey,Machine Stopped,DOWNTIME,Process Failure,1104
+Houston|BL1 Reasons|Nercon Convey,Machine Idle,DOWNTIME,Process Failure,1105
+Houston|BL1 Reasons|Nercon Convey,Machine Suspended,DOWNTIME,Process Failure,1106
+Houston|BL1 Reasons|Nercon Convey,Not In Auto,DOWNTIME,Process Failure,1107
+Houston|BL1 Reasons|Nercon Convey,Guard Doors/Safeties,DOWNTIME,Process Failure,1108
+Houston|BL1 Reasons|Nercon Convey,Invalid PackML State,DOWNTIME,Process Failure,1109
+Houston|BL1 Reasons|Nercon Convey,Communication Fault,DOWNTIME,Process Failure,1110
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Infeed,Infeed Starved,DOWNTIME,Process Failure,1112
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,1113
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Disch,Discharge Backup,DOWNTIME,Process Failure,1114
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Sec Disch,Discharge Backup,DOWNTIME,Process Failure,1115
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Disch,Discharge Stopped,DOWNTIME,Process Failure,1116
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,1117
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Infeed,Infeed Stopped,DOWNTIME,Process Failure,1118
+Houston|BL1 Reasons|Nercon Convey|Empty Bottle Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,1119
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1120,DOWNTIME,Process Failure,1120
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1121,DOWNTIME,Process Failure,1121
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1122,DOWNTIME,Process Failure,1122
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1123,DOWNTIME,Process Failure,1123
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1124,DOWNTIME,Process Failure,1124
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1125,DOWNTIME,Process Failure,1125
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1126,DOWNTIME,Process Failure,1126
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1127,DOWNTIME,Process Failure,1127
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1128,DOWNTIME,Process Failure,1128
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1129,DOWNTIME,Process Failure,1129
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1130,DOWNTIME,Process Failure,1130
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1131,DOWNTIME,Process Failure,1131
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1132,DOWNTIME,Process Failure,1132
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1133,DOWNTIME,Process Failure,1133
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1134,DOWNTIME,Process Failure,1134
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1135,DOWNTIME,Process Failure,1135
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1136,DOWNTIME,Process Failure,1136
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1137,DOWNTIME,Process Failure,1137
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1138,DOWNTIME,Process Failure,1138
+Houston|BL1 Reasons|Nercon Convey,Future Fault 1139,DOWNTIME,Process Failure,1139
+Houston|BL1 Reasons|Labeler,Fault Learning,DOWNTIME,Process Failure,2100
+Houston|BL1 Reasons|Labeler,Machine Aborted,DOWNTIME,Process Failure,2101
+Houston|BL1 Reasons|Labeler,Emergency Stop,DOWNTIME,Process Failure,2102
+Houston|BL1 Reasons|Labeler,Machine Held,DOWNTIME,Process Failure,2103
+Houston|BL1 Reasons|Labeler,Machine Stopped,DOWNTIME,Process Failure,2104
+Houston|BL1 Reasons|Labeler,Machine Idle,DOWNTIME,Process Failure,2105
+Houston|BL1 Reasons|Labeler,Machine Suspended,DOWNTIME,Process Failure,2106
+Houston|BL1 Reasons|Labeler,Not In Auto,DOWNTIME,Process Failure,2107
+Houston|BL1 Reasons|Labeler,Guard Doors/Safeties,DOWNTIME,Process Failure,2108
+Houston|BL1 Reasons|Labeler,Invalid PackML State,DOWNTIME,Process Failure,2109
+Houston|BL1 Reasons|Labeler,Communication Fault,DOWNTIME,Process Failure,2110
+Houston|BL1 Reasons|Labeler|Labeler Infeed,Infeed Starved,DOWNTIME,Process Failure,2112
+Houston|BL1 Reasons|Labeler|Labeler Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2113
+Houston|BL1 Reasons|Labeler|Labeler Disch,Discharge Backup,DOWNTIME,Process Failure,2114
+Houston|BL1 Reasons|Labeler|Labeler Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2115
+Houston|BL1 Reasons|Labeler|Labeler Disch,Discharge Stopped,DOWNTIME,Process Failure,2116
+Houston|BL1 Reasons|Labeler|Labeler Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2117
+Houston|BL1 Reasons|Labeler|Labeler Infeed,Infeed Stopped,DOWNTIME,Process Failure,2118
+Houston|BL1 Reasons|Labeler|Labeler Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2119
+Houston|BL1 Reasons|Labeler,Future Fault 2120,DOWNTIME,Process Failure,2120
+Houston|BL1 Reasons|Labeler,Future Fault 2121,DOWNTIME,Process Failure,2121
+Houston|BL1 Reasons|Labeler,Future Fault 2122,DOWNTIME,Process Failure,2122
+Houston|BL1 Reasons|Labeler,Future Fault 2123,DOWNTIME,Process Failure,2123
+Houston|BL1 Reasons|Labeler,Future Fault 2124,DOWNTIME,Process Failure,2124
+Houston|BL1 Reasons|Labeler,Future Fault 2125,DOWNTIME,Process Failure,2125
+Houston|BL1 Reasons|Labeler,Future Fault 2126,DOWNTIME,Process Failure,2126
+Houston|BL1 Reasons|Labeler,Future Fault 2127,DOWNTIME,Process Failure,2127
+Houston|BL1 Reasons|Labeler,Future Fault 2128,DOWNTIME,Process Failure,2128
+Houston|BL1 Reasons|Labeler,Future Fault 2129,DOWNTIME,Process Failure,2129
+Houston|BL1 Reasons|Labeler,Future Fault 2130,DOWNTIME,Process Failure,2130
+Houston|BL1 Reasons|Labeler,Future Fault 2131,DOWNTIME,Process Failure,2131
+Houston|BL1 Reasons|Labeler,Future Fault 2132,DOWNTIME,Process Failure,2132
+Houston|BL1 Reasons|Labeler,Future Fault 2133,DOWNTIME,Process Failure,2133
+Houston|BL1 Reasons|Labeler,Future Fault 2134,DOWNTIME,Process Failure,2134
+Houston|BL1 Reasons|Labeler,Future Fault 2135,DOWNTIME,Process Failure,2135
+Houston|BL1 Reasons|Labeler,Future Fault 2136,DOWNTIME,Process Failure,2136
+Houston|BL1 Reasons|Labeler,Future Fault 2137,DOWNTIME,Process Failure,2137
+Houston|BL1 Reasons|Labeler,Future Fault 2138,DOWNTIME,Process Failure,2138
+Houston|BL1 Reasons|Labeler,Future Fault 2139,DOWNTIME,Process Failure,2139
+Houston|BL1 Reasons|Filler,Fault Learning,DOWNTIME,Process Failure,2200
+Houston|BL1 Reasons|Filler,Machine Aborted,DOWNTIME,Process Failure,2201
+Houston|BL1 Reasons|Filler,Emergency Stop,DOWNTIME,Process Failure,2202
+Houston|BL1 Reasons|Filler,Machine Held,DOWNTIME,Process Failure,2203
+Houston|BL1 Reasons|Filler,Machine Stopped,DOWNTIME,Process Failure,2204
+Houston|BL1 Reasons|Filler,Machine Idle,DOWNTIME,Process Failure,2205
+Houston|BL1 Reasons|Filler,Machine Suspended,DOWNTIME,Process Failure,2206
+Houston|BL1 Reasons|Filler,Not In Auto,DOWNTIME,Process Failure,2207
+Houston|BL1 Reasons|Filler,Guard Doors/Safeties,DOWNTIME,Process Failure,2208
+Houston|BL1 Reasons|Filler,Invalid PackML State,DOWNTIME,Process Failure,2209
+Houston|BL1 Reasons|Filler,Communication Fault,DOWNTIME,Process Failure,2210
+Houston|BL1 Reasons|Filler|Filler Infeed,Infeed Starved,DOWNTIME,Process Failure,2212
+Houston|BL1 Reasons|Filler|Filler Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2213
+Houston|BL1 Reasons|Filler|Filler Disch,Discharge Backup,DOWNTIME,Process Failure,2214
+Houston|BL1 Reasons|Filler|Filler Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2215
+Houston|BL1 Reasons|Filler|Filler Disch,Discharge Stopped,DOWNTIME,Process Failure,2216
+Houston|BL1 Reasons|Filler|Filler Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2217
+Houston|BL1 Reasons|Filler|Filler Infeed,Infeed Stopped,DOWNTIME,Process Failure,2218
+Houston|BL1 Reasons|Filler|Filler Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2219
+Houston|BL1 Reasons|Filler,Future Fault 2220,DOWNTIME,Process Failure,2220
+Houston|BL1 Reasons|Filler,Future Fault 2221,DOWNTIME,Process Failure,2221
+Houston|BL1 Reasons|Filler,Future Fault 2222,DOWNTIME,Process Failure,2222
+Houston|BL1 Reasons|Filler,Future Fault 2223,DOWNTIME,Process Failure,2223
+Houston|BL1 Reasons|Filler,Future Fault 2224,DOWNTIME,Process Failure,2224
+Houston|BL1 Reasons|Filler,Future Fault 2225,DOWNTIME,Process Failure,2225
+Houston|BL1 Reasons|Filler,Future Fault 2226,DOWNTIME,Process Failure,2226
+Houston|BL1 Reasons|Filler,Future Fault 2227,DOWNTIME,Process Failure,2227
+Houston|BL1 Reasons|Filler,Future Fault 2228,DOWNTIME,Process Failure,2228
+Houston|BL1 Reasons|Filler,Future Fault 2229,DOWNTIME,Process Failure,2229
+Houston|BL1 Reasons|Filler,Future Fault 2230,DOWNTIME,Process Failure,2230
+Houston|BL1 Reasons|Filler,Future Fault 2231,DOWNTIME,Process Failure,2231
+Houston|BL1 Reasons|Filler,Future Fault 2232,DOWNTIME,Process Failure,2232
+Houston|BL1 Reasons|Filler,Future Fault 2233,DOWNTIME,Process Failure,2233
+Houston|BL1 Reasons|Filler,Future Fault 2234,DOWNTIME,Process Failure,2234
+Houston|BL1 Reasons|Filler,Future Fault 2235,DOWNTIME,Process Failure,2235
+Houston|BL1 Reasons|Filler,Future Fault 2236,DOWNTIME,Process Failure,2236
+Houston|BL1 Reasons|Filler,Future Fault 2237,DOWNTIME,Process Failure,2237
+Houston|BL1 Reasons|Filler,Future Fault 2238,DOWNTIME,Process Failure,2238
+Houston|BL1 Reasons|Filler,Future Fault 2239,DOWNTIME,Process Failure,2239
+Houston|BL1 Reasons|Capper,Fault Learning,DOWNTIME,Process Failure,2300
+Houston|BL1 Reasons|Capper,Machine Aborted,DOWNTIME,Process Failure,2301
+Houston|BL1 Reasons|Capper,Emergency Stop,DOWNTIME,Process Failure,2302
+Houston|BL1 Reasons|Capper,Machine Held,DOWNTIME,Process Failure,2303
+Houston|BL1 Reasons|Capper,Machine Stopped,DOWNTIME,Process Failure,2304
+Houston|BL1 Reasons|Capper,Machine Idle,DOWNTIME,Process Failure,2305
+Houston|BL1 Reasons|Capper,Machine Suspended,DOWNTIME,Process Failure,2306
+Houston|BL1 Reasons|Capper,Not In Auto,DOWNTIME,Process Failure,2307
+Houston|BL1 Reasons|Capper,Guard Doors/Safeties,DOWNTIME,Process Failure,2308
+Houston|BL1 Reasons|Capper,Invalid PackML State,DOWNTIME,Process Failure,2309
+Houston|BL1 Reasons|Capper,Communication Fault,DOWNTIME,Process Failure,2310
+Houston|BL1 Reasons|Capper|Capper Infeed,Infeed Starved,DOWNTIME,Process Failure,2312
+Houston|BL1 Reasons|Capper|Capper Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2313
+Houston|BL1 Reasons|Capper|Capper Disch,Discharge Backup,DOWNTIME,Process Failure,2314
+Houston|BL1 Reasons|Capper|Capper Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2315
+Houston|BL1 Reasons|Capper|Capper Disch,Discharge Stopped,DOWNTIME,Process Failure,2316
+Houston|BL1 Reasons|Capper|Capper Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2317
+Houston|BL1 Reasons|Capper|Capper Infeed,Infeed Stopped,DOWNTIME,Process Failure,2318
+Houston|BL1 Reasons|Capper|Capper Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2319
+Houston|BL1 Reasons|Capper,Future Fault 2320,DOWNTIME,Process Failure,2320
+Houston|BL1 Reasons|Capper,Future Fault 2321,DOWNTIME,Process Failure,2321
+Houston|BL1 Reasons|Capper,Future Fault 2322,DOWNTIME,Process Failure,2322
+Houston|BL1 Reasons|Capper,Future Fault 2323,DOWNTIME,Process Failure,2323
+Houston|BL1 Reasons|Capper,Future Fault 2324,DOWNTIME,Process Failure,2324
+Houston|BL1 Reasons|Capper,Future Fault 2325,DOWNTIME,Process Failure,2325
+Houston|BL1 Reasons|Capper,Future Fault 2326,DOWNTIME,Process Failure,2326
+Houston|BL1 Reasons|Capper,Future Fault 2327,DOWNTIME,Process Failure,2327
+Houston|BL1 Reasons|Capper,Future Fault 2328,DOWNTIME,Process Failure,2328
+Houston|BL1 Reasons|Capper,Future Fault 2329,DOWNTIME,Process Failure,2329
+Houston|BL1 Reasons|Capper,Future Fault 2330,DOWNTIME,Process Failure,2330
+Houston|BL1 Reasons|Capper,Future Fault 2331,DOWNTIME,Process Failure,2331
+Houston|BL1 Reasons|Capper,Future Fault 2332,DOWNTIME,Process Failure,2332
+Houston|BL1 Reasons|Capper,Future Fault 2333,DOWNTIME,Process Failure,2333
+Houston|BL1 Reasons|Capper,Future Fault 2334,DOWNTIME,Process Failure,2334
+Houston|BL1 Reasons|Capper,Future Fault 2335,DOWNTIME,Process Failure,2335
+Houston|BL1 Reasons|Capper,Future Fault 2336,DOWNTIME,Process Failure,2336
+Houston|BL1 Reasons|Capper,Future Fault 2337,DOWNTIME,Process Failure,2337
+Houston|BL1 Reasons|Capper,Future Fault 2338,DOWNTIME,Process Failure,2338
+Houston|BL1 Reasons|Capper,Future Fault 2339,DOWNTIME,Process Failure,2339
+Houston|BL1 Reasons|North Bottle Conveyor,Fault Learning,DOWNTIME,Process Failure,2400
+Houston|BL1 Reasons|North Bottle Conveyor,Machine Aborted,DOWNTIME,Process Failure,2401
+Houston|BL1 Reasons|North Bottle Conveyor,Emergency Stop,DOWNTIME,Process Failure,2402
+Houston|BL1 Reasons|North Bottle Conveyor,Machine Held,DOWNTIME,Process Failure,2403
+Houston|BL1 Reasons|North Bottle Conveyor,Machine Stopped,DOWNTIME,Process Failure,2404
+Houston|BL1 Reasons|North Bottle Conveyor,Machine Idle,DOWNTIME,Process Failure,2405
+Houston|BL1 Reasons|North Bottle Conveyor,Machine Suspended,DOWNTIME,Process Failure,2406
+Houston|BL1 Reasons|North Bottle Conveyor,Not In Auto,DOWNTIME,Process Failure,2407
+Houston|BL1 Reasons|North Bottle Conveyor,Guard Doors/Safeties,DOWNTIME,Process Failure,2408
+Houston|BL1 Reasons|North Bottle Conveyor,Invalid PackML State,DOWNTIME,Process Failure,2409
+Houston|BL1 Reasons|North Bottle Conveyor,Communication Fault,DOWNTIME,Process Failure,2410
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Infeed,Infeed Starved,DOWNTIME,Process Failure,2412
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2413
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Disch,Discharge Backup,DOWNTIME,Process Failure,2414
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2415
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Disch,Discharge Stopped,DOWNTIME,Process Failure,2416
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2417
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Infeed,Infeed Stopped,DOWNTIME,Process Failure,2418
+Houston|BL1 Reasons|North Bottle Conveyor|North Bottle Conveyor Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2419
+Houston|BL1 Reasons|North Bottle Conveyor,Printers not  Printing,DOWNTIME,Process Failure,2420
+Houston|BL1 Reasons|North Bottle Conveyor,Heuft Bottle Jam,DOWNTIME,Process Failure,2421
+Houston|BL1 Reasons|North Bottle Conveyor,IR Machine Fault,DOWNTIME,Process Failure,2422
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2423,DOWNTIME,Process Failure,2423
+Houston|BL1 Reasons|North Bottle Conveyor,Cap Hopper not Running,DOWNTIME,Process Failure,2424
+Houston|BL1 Reasons|North Bottle Conveyor,No Caps in Chute,DOWNTIME,Process Failure,2425
+Houston|BL1 Reasons|North Bottle Conveyor,Missing Cap Limit,DOWNTIME,Process Failure,2426
+Houston|BL1 Reasons|North Bottle Conveyor,Keyence 1 Fault,DOWNTIME,Process Failure,2427
+Houston|BL1 Reasons|North Bottle Conveyor,Keyence 2 Fault,DOWNTIME,Process Failure,2428
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2429,DOWNTIME,Process Failure,2429
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2430,DOWNTIME,Process Failure,2430
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2431,DOWNTIME,Process Failure,2431
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2432,DOWNTIME,Process Failure,2432
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2433,DOWNTIME,Process Failure,2433
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2434,DOWNTIME,Process Failure,2434
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2435,DOWNTIME,Process Failure,2435
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2436,DOWNTIME,Process Failure,2436
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2437,DOWNTIME,Process Failure,2437
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2438,DOWNTIME,Process Failure,2438
+Houston|BL1 Reasons|North Bottle Conveyor,Future Fault 2439,DOWNTIME,Process Failure,2439
+Houston|BL1 Reasons|AML 1,Fault Learning,DOWNTIME,Process Failure,2500
+Houston|BL1 Reasons|AML 1,Machine Aborted,DOWNTIME,Process Failure,2501
+Houston|BL1 Reasons|AML 1,Emergency Stop,DOWNTIME,Process Failure,2502
+Houston|BL1 Reasons|AML 1,Machine Held,DOWNTIME,Process Failure,2503
+Houston|BL1 Reasons|AML 1,Machine Stopped,DOWNTIME,Process Failure,2504
+Houston|BL1 Reasons|AML 1,Machine Idle,DOWNTIME,Process Failure,2505
+Houston|BL1 Reasons|AML 1,Machine Suspended,DOWNTIME,Process Failure,2506
+Houston|BL1 Reasons|AML 1,Not In Auto,DOWNTIME,Process Failure,2507
+Houston|BL1 Reasons|AML 1,Guard Doors/Safeties,DOWNTIME,Process Failure,2508
+Houston|BL1 Reasons|AML 1,Invalid PackML State,DOWNTIME,Process Failure,2509
+Houston|BL1 Reasons|AML 1,Communication Fault,DOWNTIME,Process Failure,2510
+Houston|BL1 Reasons|AML 1|AML 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,2512
+Houston|BL1 Reasons|AML 1|AML 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2513
+Houston|BL1 Reasons|AML 1|AML 1 Disch,Discharge Backup,DOWNTIME,Process Failure,2514
+Houston|BL1 Reasons|AML 1|AML 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2515
+Houston|BL1 Reasons|AML 1|AML 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,2516
+Houston|BL1 Reasons|AML 1|AML 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2517
+Houston|BL1 Reasons|AML 1|AML 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,2518
+Houston|BL1 Reasons|AML 1|AML 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2519
+Houston|BL1 Reasons|AML 1,Jam Stack at Upender,DOWNTIME,Process Failure,2520
+Houston|BL1 Reasons|AML 1,Case Stall Squaring,DOWNTIME,Process Failure,2521
+Houston|BL1 Reasons|AML 1,Motor Thermal OL,DOWNTIME,Process Failure,2522
+Houston|BL1 Reasons|AML 1,Low Air Pressure,DOWNTIME,Process Failure,2523
+Houston|BL1 Reasons|AML 1,Future Fault 2524,DOWNTIME,Process Failure,2524
+Houston|BL1 Reasons|AML 1,Future Fault 2525,DOWNTIME,Process Failure,2525
+Houston|BL1 Reasons|AML 1,Future Fault 2526,DOWNTIME,Process Failure,2526
+Houston|BL1 Reasons|AML 1,Future Fault 2527,DOWNTIME,Process Failure,2527
+Houston|BL1 Reasons|AML 1,Future Fault 2528,DOWNTIME,Process Failure,2528
+Houston|BL1 Reasons|AML 1,Future Fault 2529,DOWNTIME,Process Failure,2529
+Houston|BL1 Reasons|AML 1,Future Fault 2530,DOWNTIME,Process Failure,2530
+Houston|BL1 Reasons|AML 1,Future Fault 2531,DOWNTIME,Process Failure,2531
+Houston|BL1 Reasons|AML 1,Future Fault 2532,DOWNTIME,Process Failure,2532
+Houston|BL1 Reasons|AML 1,Future Fault 2533,DOWNTIME,Process Failure,2533
+Houston|BL1 Reasons|AML 1,Future Fault 2534,DOWNTIME,Process Failure,2534
+Houston|BL1 Reasons|AML 1,Future Fault 2535,DOWNTIME,Process Failure,2535
+Houston|BL1 Reasons|AML 1,Future Fault 2536,DOWNTIME,Process Failure,2536
+Houston|BL1 Reasons|AML 1,Future Fault 2537,DOWNTIME,Process Failure,2537
+Houston|BL1 Reasons|AML 1,Future Fault 2538,DOWNTIME,Process Failure,2538
+Houston|BL1 Reasons|AML 1,Future Fault 2539,DOWNTIME,Process Failure,2539
+Houston|BL1 Reasons|AML 2,Fault Learning,DOWNTIME,Process Failure,2600
+Houston|BL1 Reasons|AML 2,Machine Aborted,DOWNTIME,Process Failure,2601
+Houston|BL1 Reasons|AML 2,Emergency Stop,DOWNTIME,Process Failure,2602
+Houston|BL1 Reasons|AML 2,Machine Held,DOWNTIME,Process Failure,2603
+Houston|BL1 Reasons|AML 2,Machine Stopped,DOWNTIME,Process Failure,2604
+Houston|BL1 Reasons|AML 2,Machine Idle,DOWNTIME,Process Failure,2605
+Houston|BL1 Reasons|AML 2,Machine Suspended,DOWNTIME,Process Failure,2606
+Houston|BL1 Reasons|AML 2,Not In Auto,DOWNTIME,Process Failure,2607
+Houston|BL1 Reasons|AML 2,Guard Doors/Safeties,DOWNTIME,Process Failure,2608
+Houston|BL1 Reasons|AML 2,Invalid PackML State,DOWNTIME,Process Failure,2609
+Houston|BL1 Reasons|AML 2,Communication Fault,DOWNTIME,Process Failure,2610
+Houston|BL1 Reasons|AML 2|AML 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,2612
+Houston|BL1 Reasons|AML 2|AML 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,2613
+Houston|BL1 Reasons|AML 2|AML 2 Disch,Discharge Backup,DOWNTIME,Process Failure,2614
+Houston|BL1 Reasons|AML 2|AML 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,2615
+Houston|BL1 Reasons|AML 2|AML 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,2616
+Houston|BL1 Reasons|AML 2|AML 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,2617
+Houston|BL1 Reasons|AML 2|AML 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,2618
+Houston|BL1 Reasons|AML 2|AML 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,2619
+Houston|BL1 Reasons|AML 2,Jam Stack at Upender,DOWNTIME,Process Failure,2620
+Houston|BL1 Reasons|AML 2,Case Stall Squaring,DOWNTIME,Process Failure,2621
+Houston|BL1 Reasons|AML 2,Motor Thermal OL,DOWNTIME,Process Failure,2622
+Houston|BL1 Reasons|AML 2,Future Fault 2623,DOWNTIME,Process Failure,2623
+Houston|BL1 Reasons|AML 2,Future Fault 2624,DOWNTIME,Process Failure,2624
+Houston|BL1 Reasons|AML 2,Future Fault 2625,DOWNTIME,Process Failure,2625
+Houston|BL1 Reasons|AML 2,Future Fault 2626,DOWNTIME,Process Failure,2626
+Houston|BL1 Reasons|AML 2,Future Fault 2627,DOWNTIME,Process Failure,2627
+Houston|BL1 Reasons|AML 2,Future Fault 2628,DOWNTIME,Process Failure,2628
+Houston|BL1 Reasons|AML 2,Future Fault 2629,DOWNTIME,Process Failure,2629
+Houston|BL1 Reasons|AML 2,Future Fault 2630,DOWNTIME,Process Failure,2630
+Houston|BL1 Reasons|AML 2,Future Fault 2631,DOWNTIME,Process Failure,2631
+Houston|BL1 Reasons|AML 2,Future Fault 2632,DOWNTIME,Process Failure,2632
+Houston|BL1 Reasons|AML 2,Future Fault 2633,DOWNTIME,Process Failure,2633
+Houston|BL1 Reasons|AML 2,Future Fault 2634,DOWNTIME,Process Failure,2634
+Houston|BL1 Reasons|AML 2,Future Fault 2635,DOWNTIME,Process Failure,2635
+Houston|BL1 Reasons|AML 2,Future Fault 2636,DOWNTIME,Process Failure,2636
+Houston|BL1 Reasons|AML 2,Future Fault 2637,DOWNTIME,Process Failure,2637
+Houston|BL1 Reasons|AML 2,Future Fault 2638,DOWNTIME,Process Failure,2638
+Houston|BL1 Reasons|AML 2,Future Fault 2639,DOWNTIME,Process Failure,2639
+Houston|BL1 Reasons|Case Erector 1,Fault Learning,DOWNTIME,Process Failure,3100
+Houston|BL1 Reasons|Case Erector 1,Machine Aborted,DOWNTIME,Process Failure,3101
+Houston|BL1 Reasons|Case Erector 1,Emergency Stop,DOWNTIME,Process Failure,3102
+Houston|BL1 Reasons|Case Erector 1,Machine Held,DOWNTIME,Process Failure,3103
+Houston|BL1 Reasons|Case Erector 1,Machine Stopped,DOWNTIME,Process Failure,3104
+Houston|BL1 Reasons|Case Erector 1,Machine Idle,DOWNTIME,Process Failure,3105
+Houston|BL1 Reasons|Case Erector 1,Machine Suspended,DOWNTIME,Process Failure,3106
+Houston|BL1 Reasons|Case Erector 1,Not In Auto,DOWNTIME,Process Failure,3107
+Houston|BL1 Reasons|Case Erector 1,Guard Doors/Safeties,DOWNTIME,Process Failure,3108
+Houston|BL1 Reasons|Case Erector 1,Invalid PackML State,DOWNTIME,Process Failure,3109
+Houston|BL1 Reasons|Case Erector 1,Communication Fault,DOWNTIME,Process Failure,3110
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,3112
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,3113
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Disch,Discharge Backup,DOWNTIME,Process Failure,3114
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,3115
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,3116
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,3117
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,3118
+Houston|BL1 Reasons|Case Erector 1|Case Erector 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,3119
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3120,DOWNTIME,Process Failure,3120
+Houston|BL1 Reasons|Case Erector 1,Glue System,DOWNTIME,Process Failure,3121
+Houston|BL1 Reasons|Case Erector 1,CASE  JAM  AT MANDREL,DOWNTIME,Process Failure,3122
+Houston|BL1 Reasons|Case Erector 1,CASE FAIL  JAM TO SETUP,DOWNTIME,Process Failure,3123
+Houston|BL1 Reasons|Case Erector 1,MASTER CONTROL JAM,DOWNTIME,Process Failure,3124
+Houston|BL1 Reasons|Case Erector 1,CASE AT JAM PICKUP,DOWNTIME,Process Failure,3125
+Houston|BL1 Reasons|Case Erector 1,FAIL TO TRANSFER TO MANDREL,DOWNTIME,Process Failure,3126
+Houston|BL1 Reasons|Case Erector 1,VACUUM FAIL,DOWNTIME,Process Failure,3127
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3128,DOWNTIME,Process Failure,3128
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3129,DOWNTIME,Process Failure,3129
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3130,DOWNTIME,Process Failure,3130
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3131,DOWNTIME,Process Failure,3131
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3132,DOWNTIME,Process Failure,3132
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3133,DOWNTIME,Process Failure,3133
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3134,DOWNTIME,Process Failure,3134
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3135,DOWNTIME,Process Failure,3135
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3136,DOWNTIME,Process Failure,3136
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3137,DOWNTIME,Process Failure,3137
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3138,DOWNTIME,Process Failure,3138
+Houston|BL1 Reasons|Case Erector 1,Future Fault 3139,DOWNTIME,Process Failure,3139
+Houston|BL1 Reasons|Case Erector 2,Fault Learning,DOWNTIME,Process Failure,3200
+Houston|BL1 Reasons|Case Erector 2,Machine Aborted,DOWNTIME,Process Failure,3201
+Houston|BL1 Reasons|Case Erector 2,Emergency Stop,DOWNTIME,Process Failure,3202
+Houston|BL1 Reasons|Case Erector 2,Machine Held,DOWNTIME,Process Failure,3203
+Houston|BL1 Reasons|Case Erector 2,Machine Stopped,DOWNTIME,Process Failure,3204
+Houston|BL1 Reasons|Case Erector 2,Machine Idle,DOWNTIME,Process Failure,3205
+Houston|BL1 Reasons|Case Erector 2,Machine Suspended,DOWNTIME,Process Failure,3206
+Houston|BL1 Reasons|Case Erector 2,Not In Auto,DOWNTIME,Process Failure,3207
+Houston|BL1 Reasons|Case Erector 2,Guard Doors/Safeties,DOWNTIME,Process Failure,3208
+Houston|BL1 Reasons|Case Erector 2,Invalid PackML State,DOWNTIME,Process Failure,3209
+Houston|BL1 Reasons|Case Erector 2,Communication Fault,DOWNTIME,Process Failure,3210
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,3212
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,3213
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Disch,Discharge Backup,DOWNTIME,Process Failure,3214
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,3215
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,3216
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,3217
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,3218
+Houston|BL1 Reasons|Case Erector 2|Case Erector 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,3219
+Houston|BL1 Reasons|Case Erector 2,Master Jam Control Bit,DOWNTIME,Process Failure,3220
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3221,DOWNTIME,Process Failure,3221
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3222,DOWNTIME,Process Failure,3222
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3223,DOWNTIME,Process Failure,3223
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3224,DOWNTIME,Process Failure,3224
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3225,DOWNTIME,Process Failure,3225
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3226,DOWNTIME,Process Failure,3226
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3227,DOWNTIME,Process Failure,3227
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3228,DOWNTIME,Process Failure,3228
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3229,DOWNTIME,Process Failure,3229
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3230,DOWNTIME,Process Failure,3230
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3231,DOWNTIME,Process Failure,3231
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3232,DOWNTIME,Process Failure,3232
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3233,DOWNTIME,Process Failure,3233
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3234,DOWNTIME,Process Failure,3234
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3235,DOWNTIME,Process Failure,3235
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3236,DOWNTIME,Process Failure,3236
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3237,DOWNTIME,Process Failure,3237
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3238,DOWNTIME,Process Failure,3238
+Houston|BL1 Reasons|Case Erector 2,Future Fault 3239,DOWNTIME,Process Failure,3239
+Houston|BL1 Reasons|Erector Conveyor,Fault Learning,DOWNTIME,Process Failure,3300
+Houston|BL1 Reasons|Erector Conveyor,Machine Aborted,DOWNTIME,Process Failure,3301
+Houston|BL1 Reasons|Erector Conveyor,Emergency Stop,DOWNTIME,Process Failure,3302
+Houston|BL1 Reasons|Erector Conveyor,Machine Held,DOWNTIME,Process Failure,3303
+Houston|BL1 Reasons|Erector Conveyor,Machine Stopped,DOWNTIME,Process Failure,3304
+Houston|BL1 Reasons|Erector Conveyor,Machine Idle,DOWNTIME,Process Failure,3305
+Houston|BL1 Reasons|Erector Conveyor,Machine Suspended,DOWNTIME,Process Failure,3306
+Houston|BL1 Reasons|Erector Conveyor,Not In Auto,DOWNTIME,Process Failure,3307
+Houston|BL1 Reasons|Erector Conveyor,Guard Doors/Safeties,DOWNTIME,Process Failure,3308
+Houston|BL1 Reasons|Erector Conveyor,Invalid PackML State,DOWNTIME,Process Failure,3309
+Houston|BL1 Reasons|Erector Conveyor,Communication Fault,DOWNTIME,Process Failure,3310
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Infeed,Infeed Starved,DOWNTIME,Process Failure,3312
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,3313
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Disch,Discharge Backup,DOWNTIME,Process Failure,3314
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Sec Disch,Discharge Backup,DOWNTIME,Process Failure,3315
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Disch,Discharge Stopped,DOWNTIME,Process Failure,3316
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,3317
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Infeed,Infeed Stopped,DOWNTIME,Process Failure,3318
+Houston|BL1 Reasons|Erector Conveyor|Erector Conveyor Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,3319
+Houston|BL1 Reasons|Erector Conveyor,Case Jam Fault,DOWNTIME,Process Failure,3320
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3321,DOWNTIME,Process Failure,3321
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3322,DOWNTIME,Process Failure,3322
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3323,DOWNTIME,Process Failure,3323
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3324,DOWNTIME,Process Failure,3324
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3325,DOWNTIME,Process Failure,3325
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3326,DOWNTIME,Process Failure,3326
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3327,DOWNTIME,Process Failure,3327
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3328,DOWNTIME,Process Failure,3328
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3329,DOWNTIME,Process Failure,3329
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3330,DOWNTIME,Process Failure,3330
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3331,DOWNTIME,Process Failure,3331
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3332,DOWNTIME,Process Failure,3332
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3333,DOWNTIME,Process Failure,3333
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3334,DOWNTIME,Process Failure,3334
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3335,DOWNTIME,Process Failure,3335
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3336,DOWNTIME,Process Failure,3336
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3337,DOWNTIME,Process Failure,3337
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3338,DOWNTIME,Process Failure,3338
+Houston|BL1 Reasons|Erector Conveyor,Future Fault 3339,DOWNTIME,Process Failure,3339
+Houston|BL1 Reasons|Empty Case Conveyor,Fault Learning,DOWNTIME,Process Failure,3400
+Houston|BL1 Reasons|Empty Case Conveyor,Machine Aborted,DOWNTIME,Process Failure,3401
+Houston|BL1 Reasons|Empty Case Conveyor,Emergency Stop,DOWNTIME,Process Failure,3402
+Houston|BL1 Reasons|Empty Case Conveyor,Machine Held,DOWNTIME,Process Failure,3403
+Houston|BL1 Reasons|Empty Case Conveyor,Machine Stopped,DOWNTIME,Process Failure,3404
+Houston|BL1 Reasons|Empty Case Conveyor,Machine Idle,DOWNTIME,Process Failure,3405
+Houston|BL1 Reasons|Empty Case Conveyor,Machine Suspended,DOWNTIME,Process Failure,3406
+Houston|BL1 Reasons|Empty Case Conveyor,Not In Auto,DOWNTIME,Process Failure,3407
+Houston|BL1 Reasons|Empty Case Conveyor,Guard Doors/Safeties,DOWNTIME,Process Failure,3408
+Houston|BL1 Reasons|Empty Case Conveyor,Invalid PackML State,DOWNTIME,Process Failure,3409
+Houston|BL1 Reasons|Empty Case Conveyor,Communication Fault,DOWNTIME,Process Failure,3410
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Infeed,Infeed Starved,DOWNTIME,Process Failure,3412
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,3413
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Disch,Discharge Backup,DOWNTIME,Process Failure,3414
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Sec Disch,Discharge Backup,DOWNTIME,Process Failure,3415
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Disch,Discharge Stopped,DOWNTIME,Process Failure,3416
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,3417
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Infeed,Infeed Stopped,DOWNTIME,Process Failure,3418
+Houston|BL1 Reasons|Empty Case Conveyor|Empty Case Conveyor Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,3419
+Houston|BL1 Reasons|Empty Case Conveyor,Jam Detected,DOWNTIME,Process Failure,3420
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3421,DOWNTIME,Process Failure,3421
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3422,DOWNTIME,Process Failure,3422
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3423,DOWNTIME,Process Failure,3423
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3424,DOWNTIME,Process Failure,3424
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3425,DOWNTIME,Process Failure,3425
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3426,DOWNTIME,Process Failure,3426
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3427,DOWNTIME,Process Failure,3427
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3428,DOWNTIME,Process Failure,3428
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3429,DOWNTIME,Process Failure,3429
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3430,DOWNTIME,Process Failure,3430
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3431,DOWNTIME,Process Failure,3431
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3432,DOWNTIME,Process Failure,3432
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3433,DOWNTIME,Process Failure,3433
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3434,DOWNTIME,Process Failure,3434
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3435,DOWNTIME,Process Failure,3435
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3436,DOWNTIME,Process Failure,3436
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3437,DOWNTIME,Process Failure,3437
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3438,DOWNTIME,Process Failure,3438
+Houston|BL1 Reasons|Empty Case Conveyor,Future Fault 3439,DOWNTIME,Process Failure,3439
+Houston|BL1 Reasons|Zip Conveyor,Fault Learning,DOWNTIME,Process Failure,3500
+Houston|BL1 Reasons|Zip Conveyor,Machine Aborted,DOWNTIME,Process Failure,3501
+Houston|BL1 Reasons|Zip Conveyor,Emergency Stop,DOWNTIME,Process Failure,3502
+Houston|BL1 Reasons|Zip Conveyor,Machine Held,DOWNTIME,Process Failure,3503
+Houston|BL1 Reasons|Zip Conveyor,Machine Stopped,DOWNTIME,Process Failure,3504
+Houston|BL1 Reasons|Zip Conveyor,Machine Idle,DOWNTIME,Process Failure,3505
+Houston|BL1 Reasons|Zip Conveyor,Machine Suspended,DOWNTIME,Process Failure,3506
+Houston|BL1 Reasons|Zip Conveyor,Not In Auto,DOWNTIME,Process Failure,3507
+Houston|BL1 Reasons|Zip Conveyor,Guard Doors/Safeties,DOWNTIME,Process Failure,3508
+Houston|BL1 Reasons|Zip Conveyor,Invalid PackML State,DOWNTIME,Process Failure,3509
+Houston|BL1 Reasons|Zip Conveyor,Communication Fault,DOWNTIME,Process Failure,3510
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Infeed,Infeed Starved,DOWNTIME,Process Failure,3512
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,3513
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Disch,Discharge Backup,DOWNTIME,Process Failure,3514
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Sec Disch,Discharge Backup,DOWNTIME,Process Failure,3515
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Disch,Discharge Stopped,DOWNTIME,Process Failure,3516
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,3517
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Infeed,Infeed Stopped,DOWNTIME,Process Failure,3518
+Houston|BL1 Reasons|Zip Conveyor|Zip Conveyor Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,3519
+Houston|BL1 Reasons|Zip Conveyor,Empty Case Convey Disabled,DOWNTIME,Process Failure,3520
+Houston|BL1 Reasons|Zip Conveyor,Case Jam Detected,DOWNTIME,Process Failure,3521
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3522,DOWNTIME,Process Failure,3522
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3523,DOWNTIME,Process Failure,3523
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3524,DOWNTIME,Process Failure,3524
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3525,DOWNTIME,Process Failure,3525
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3526,DOWNTIME,Process Failure,3526
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3527,DOWNTIME,Process Failure,3527
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3528,DOWNTIME,Process Failure,3528
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3529,DOWNTIME,Process Failure,3529
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3530,DOWNTIME,Process Failure,3530
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3531,DOWNTIME,Process Failure,3531
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3532,DOWNTIME,Process Failure,3532
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3533,DOWNTIME,Process Failure,3533
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3534,DOWNTIME,Process Failure,3534
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3535,DOWNTIME,Process Failure,3535
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3536,DOWNTIME,Process Failure,3536
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3537,DOWNTIME,Process Failure,3537
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3538,DOWNTIME,Process Failure,3538
+Houston|BL1 Reasons|Zip Conveyor,Future Fault 3539,DOWNTIME,Process Failure,3539
+Houston|BL1 Reasons|Case Packer 1,Fault Learning,DOWNTIME,Process Failure,4100
+Houston|BL1 Reasons|Case Packer 1,Machine Aborted,DOWNTIME,Process Failure,4101
+Houston|BL1 Reasons|Case Packer 1,Emergency Stop,DOWNTIME,Process Failure,4102
+Houston|BL1 Reasons|Case Packer 1,Machine Held,DOWNTIME,Process Failure,4103
+Houston|BL1 Reasons|Case Packer 1,Machine Stopped,DOWNTIME,Process Failure,4104
+Houston|BL1 Reasons|Case Packer 1,Machine Idle,DOWNTIME,Process Failure,4105
+Houston|BL1 Reasons|Case Packer 1,Machine Suspended,DOWNTIME,Process Failure,4106
+Houston|BL1 Reasons|Case Packer 1,Not In Auto,DOWNTIME,Process Failure,4107
+Houston|BL1 Reasons|Case Packer 1,Guard Doors/Safeties,DOWNTIME,Process Failure,4108
+Houston|BL1 Reasons|Case Packer 1,Invalid PackML State,DOWNTIME,Process Failure,4109
+Houston|BL1 Reasons|Case Packer 1,Communication Fault,DOWNTIME,Process Failure,4110
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,4112
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,4113
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Disch,Discharge Backup,DOWNTIME,Process Failure,4114
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,4115
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,4116
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,4117
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,4118
+Houston|BL1 Reasons|Case Packer 1|Case Packer 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,4119
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4120,DOWNTIME,Process Failure,4120
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4121,DOWNTIME,Process Failure,4121
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4122,DOWNTIME,Process Failure,4122
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4123,DOWNTIME,Process Failure,4123
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4124,DOWNTIME,Process Failure,4124
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4125,DOWNTIME,Process Failure,4125
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4126,DOWNTIME,Process Failure,4126
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4127,DOWNTIME,Process Failure,4127
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4128,DOWNTIME,Process Failure,4128
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4129,DOWNTIME,Process Failure,4129
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4130,DOWNTIME,Process Failure,4130
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4131,DOWNTIME,Process Failure,4131
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4132,DOWNTIME,Process Failure,4132
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4133,DOWNTIME,Process Failure,4133
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4134,DOWNTIME,Process Failure,4134
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4135,DOWNTIME,Process Failure,4135
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4136,DOWNTIME,Process Failure,4136
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4137,DOWNTIME,Process Failure,4137
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4138,DOWNTIME,Process Failure,4138
+Houston|BL1 Reasons|Case Packer 1,Future Fault 4139,DOWNTIME,Process Failure,4139
+Houston|BL1 Reasons|Case Packer 2,Fault Learning,DOWNTIME,Process Failure,4200
+Houston|BL1 Reasons|Case Packer 2,Machine Aborted,DOWNTIME,Process Failure,4201
+Houston|BL1 Reasons|Case Packer 2,Emergency Stop,DOWNTIME,Process Failure,4202
+Houston|BL1 Reasons|Case Packer 2,Machine Held,DOWNTIME,Process Failure,4203
+Houston|BL1 Reasons|Case Packer 2,Machine Stopped,DOWNTIME,Process Failure,4204
+Houston|BL1 Reasons|Case Packer 2,Machine Idle,DOWNTIME,Process Failure,4205
+Houston|BL1 Reasons|Case Packer 2,Machine Suspended,DOWNTIME,Process Failure,4206
+Houston|BL1 Reasons|Case Packer 2,Not In Auto,DOWNTIME,Process Failure,4207
+Houston|BL1 Reasons|Case Packer 2,Guard Doors/Safeties,DOWNTIME,Process Failure,4208
+Houston|BL1 Reasons|Case Packer 2,Invalid PackML State,DOWNTIME,Process Failure,4209
+Houston|BL1 Reasons|Case Packer 2,Communication Fault,DOWNTIME,Process Failure,4210
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,4212
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,4213
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Disch,Discharge Backup,DOWNTIME,Process Failure,4214
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,4215
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,4216
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,4217
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,4218
+Houston|BL1 Reasons|Case Packer 2|Case Packer 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,4219
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4220,DOWNTIME,Process Failure,4220
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4221,DOWNTIME,Process Failure,4221
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4222,DOWNTIME,Process Failure,4222
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4223,DOWNTIME,Process Failure,4223
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4224,DOWNTIME,Process Failure,4224
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4225,DOWNTIME,Process Failure,4225
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4226,DOWNTIME,Process Failure,4226
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4227,DOWNTIME,Process Failure,4227
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4228,DOWNTIME,Process Failure,4228
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4229,DOWNTIME,Process Failure,4229
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4230,DOWNTIME,Process Failure,4230
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4231,DOWNTIME,Process Failure,4231
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4232,DOWNTIME,Process Failure,4232
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4233,DOWNTIME,Process Failure,4233
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4234,DOWNTIME,Process Failure,4234
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4235,DOWNTIME,Process Failure,4235
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4236,DOWNTIME,Process Failure,4236
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4237,DOWNTIME,Process Failure,4237
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4238,DOWNTIME,Process Failure,4238
+Houston|BL1 Reasons|Case Packer 2,Future Fault 4239,DOWNTIME,Process Failure,4239
+Houston|BL1 Reasons|Case Sealer 1,Fault Learning,DOWNTIME,Process Failure,4300
+Houston|BL1 Reasons|Case Sealer 1,Machine Aborted,DOWNTIME,Process Failure,4301
+Houston|BL1 Reasons|Case Sealer 1,Emergency Stop,DOWNTIME,Process Failure,4302
+Houston|BL1 Reasons|Case Sealer 1,Machine Held,DOWNTIME,Process Failure,4303
+Houston|BL1 Reasons|Case Sealer 1,Machine Stopped,DOWNTIME,Process Failure,4304
+Houston|BL1 Reasons|Case Sealer 1,Machine Idle,DOWNTIME,Process Failure,4305
+Houston|BL1 Reasons|Case Sealer 1,Machine Suspended,DOWNTIME,Process Failure,4306
+Houston|BL1 Reasons|Case Sealer 1,Not In Auto,DOWNTIME,Process Failure,4307
+Houston|BL1 Reasons|Case Sealer 1,Guard Doors/Safeties,DOWNTIME,Process Failure,4308
+Houston|BL1 Reasons|Case Sealer 1,Invalid PackML State,DOWNTIME,Process Failure,4309
+Houston|BL1 Reasons|Case Sealer 1,Communication Fault,DOWNTIME,Process Failure,4310
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,4312
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,4313
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Disch,Discharge Backup,DOWNTIME,Process Failure,4314
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,4315
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,4316
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,4317
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,4318
+Houston|BL1 Reasons|Case Sealer 1|Case Sealer 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,4319
+Houston|BL1 Reasons|Case Sealer 1,CR1 Not Energized,DOWNTIME,Process Failure,4320
+Houston|BL1 Reasons|Case Sealer 1,Pacer Motor Overload,DOWNTIME,Process Failure,4321
+Houston|BL1 Reasons|Case Sealer 1,Sealer Motor Overload,DOWNTIME,Process Failure,4322
+Houston|BL1 Reasons|Case Sealer 1,Pacer Fault,DOWNTIME,Process Failure,4323
+Houston|BL1 Reasons|Case Sealer 1,Open Flaps Detected,DOWNTIME,Process Failure,4324
+Houston|BL1 Reasons|Case Sealer 1,Sealer Discharge Jam,DOWNTIME,Process Failure,4325
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4326,DOWNTIME,Process Failure,4326
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4327,DOWNTIME,Process Failure,4327
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4328,DOWNTIME,Process Failure,4328
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4329,DOWNTIME,Process Failure,4329
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4330,DOWNTIME,Process Failure,4330
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4331,DOWNTIME,Process Failure,4331
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4332,DOWNTIME,Process Failure,4332
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4333,DOWNTIME,Process Failure,4333
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4334,DOWNTIME,Process Failure,4334
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4335,DOWNTIME,Process Failure,4335
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4336,DOWNTIME,Process Failure,4336
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4337,DOWNTIME,Process Failure,4337
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4338,DOWNTIME,Process Failure,4338
+Houston|BL1 Reasons|Case Sealer 1,Future Fault 4339,DOWNTIME,Process Failure,4339
+Houston|BL1 Reasons|Case Sealer 2,Fault Learning,DOWNTIME,Process Failure,4400
+Houston|BL1 Reasons|Case Sealer 2,Machine Aborted,DOWNTIME,Process Failure,4401
+Houston|BL1 Reasons|Case Sealer 2,Emergency Stop,DOWNTIME,Process Failure,4402
+Houston|BL1 Reasons|Case Sealer 2,Machine Held,DOWNTIME,Process Failure,4403
+Houston|BL1 Reasons|Case Sealer 2,Machine Stopped,DOWNTIME,Process Failure,4404
+Houston|BL1 Reasons|Case Sealer 2,Machine Idle,DOWNTIME,Process Failure,4405
+Houston|BL1 Reasons|Case Sealer 2,Machine Suspended,DOWNTIME,Process Failure,4406
+Houston|BL1 Reasons|Case Sealer 2,Not In Auto,DOWNTIME,Process Failure,4407
+Houston|BL1 Reasons|Case Sealer 2,Guard Doors/Safeties,DOWNTIME,Process Failure,4408
+Houston|BL1 Reasons|Case Sealer 2,Invalid PackML State,DOWNTIME,Process Failure,4409
+Houston|BL1 Reasons|Case Sealer 2,Communication Fault,DOWNTIME,Process Failure,4410
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,4412
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,4413
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Disch,Discharge Backup,DOWNTIME,Process Failure,4414
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,4415
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,4416
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,4417
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,4418
+Houston|BL1 Reasons|Case Sealer 2|Case Sealer 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,4419
+Houston|BL1 Reasons|Case Sealer 2,CR1 Not Energized,DOWNTIME,Process Failure,4420
+Houston|BL1 Reasons|Case Sealer 2,Pacer Motor Overload,DOWNTIME,Process Failure,4421
+Houston|BL1 Reasons|Case Sealer 2,Sealer Motor Overload,DOWNTIME,Process Failure,4422
+Houston|BL1 Reasons|Case Sealer 2,Pacer Fault,DOWNTIME,Process Failure,4423
+Houston|BL1 Reasons|Case Sealer 2,Sealer Tape Low,DOWNTIME,Process Failure,4424
+Houston|BL1 Reasons|Case Sealer 2,Open Flaps Detected,DOWNTIME,Process Failure,4425
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4426,DOWNTIME,Process Failure,4426
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4427,DOWNTIME,Process Failure,4427
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4428,DOWNTIME,Process Failure,4428
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4429,DOWNTIME,Process Failure,4429
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4430,DOWNTIME,Process Failure,4430
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4431,DOWNTIME,Process Failure,4431
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4432,DOWNTIME,Process Failure,4432
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4433,DOWNTIME,Process Failure,4433
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4434,DOWNTIME,Process Failure,4434
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4435,DOWNTIME,Process Failure,4435
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4436,DOWNTIME,Process Failure,4436
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4437,DOWNTIME,Process Failure,4437
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4438,DOWNTIME,Process Failure,4438
+Houston|BL1 Reasons|Case Sealer 2,Future Fault 4439,DOWNTIME,Process Failure,4439
+Houston|BL1 Reasons|Palletizer 1,Fault Learning,DOWNTIME,Process Failure,5100
+Houston|BL1 Reasons|Palletizer 1,Machine Aborted,DOWNTIME,Process Failure,5101
+Houston|BL1 Reasons|Palletizer 1,Emergency Stop,DOWNTIME,Process Failure,5102
+Houston|BL1 Reasons|Palletizer 1,Machine Held,DOWNTIME,Process Failure,5103
+Houston|BL1 Reasons|Palletizer 1,Machine Stopped,DOWNTIME,Process Failure,5104
+Houston|BL1 Reasons|Palletizer 1,Machine Idle,DOWNTIME,Process Failure,5105
+Houston|BL1 Reasons|Palletizer 1,Machine Suspended,DOWNTIME,Process Failure,5106
+Houston|BL1 Reasons|Palletizer 1,Not In Auto,DOWNTIME,Process Failure,5107
+Houston|BL1 Reasons|Palletizer 1,Guard Doors/Safeties,DOWNTIME,Process Failure,5108
+Houston|BL1 Reasons|Palletizer 1,Invalid PackML State,DOWNTIME,Process Failure,5109
+Houston|BL1 Reasons|Palletizer 1,Communication Fault,DOWNTIME,Process Failure,5110
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,5112
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5113
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Disch,Discharge Backup,DOWNTIME,Process Failure,5114
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5115
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,5116
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5117
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5118
+Houston|BL1 Reasons|Palletizer 1|Palletizer 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5119
+Houston|BL1 Reasons|Palletizer 1,SIDE LAYER GUIDES OUT,DOWNTIME,Process Failure,5120
+Houston|BL1 Reasons|Palletizer 1,SIDE LAYER GUIDES BACK,DOWNTIME,Process Failure,5121
+Houston|BL1 Reasons|Palletizer 1,FRONT LAYER GUIDE OUT,DOWNTIME,Process Failure,5122
+Houston|BL1 Reasons|Palletizer 1,FRONT LAYER GUIDE BACK,DOWNTIME,Process Failure,5123
+Houston|BL1 Reasons|Palletizer 1,PUSHER CHAINS JAMMED,DOWNTIME,Process Failure,5124
+Houston|BL1 Reasons|Palletizer 1,HOIST DOWN SLOW FAULT,DOWNTIME,Process Failure,5125
+Houston|BL1 Reasons|Palletizer 1,HOIST UP FAST FAULT,DOWNTIME,Process Failure,5126
+Houston|BL1 Reasons|Palletizer 1,PC-12 BLOCKED FAULT,DOWNTIME,Process Failure,5127
+Houston|BL1 Reasons|Palletizer 1,HOIST DOWN FAST FAULT,DOWNTIME,Process Failure,5128
+Houston|BL1 Reasons|Palletizer 1,STRIPPER PLATE FAULT,DOWNTIME,Process Failure,5129
+Houston|BL1 Reasons|Palletizer 1,GATE FAULT,DOWNTIME,Process Failure,5130
+Houston|BL1 Reasons|Palletizer 1,PAL EJECT CARRIAGE FAULT,DOWNTIME,Process Failure,5131
+Houston|BL1 Reasons|Palletizer 1,PAL DISP CARRIAGE FAULT,DOWNTIME,Process Failure,5132
+Houston|BL1 Reasons|Palletizer 1,PAL DISP ANGLES FAULT,DOWNTIME,Process Failure,5133
+Houston|BL1 Reasons|Palletizer 1,FULL LOAD CONVEY FAULT,DOWNTIME,Process Failure,5134
+Houston|BL1 Reasons|Palletizer 1,TIE SHEET DISPENSER FAULT,DOWNTIME,Process Failure,5135
+Houston|BL1 Reasons|Palletizer 1,SLIP SHEET DISPENSER FAULT,DOWNTIME,Process Failure,5136
+Houston|BL1 Reasons|Palletizer 1,PALLET DETECT DISABLE,DOWNTIME,Process Failure,5137
+Houston|BL1 Reasons|Palletizer 1,Future Fault 5138,DOWNTIME,Process Failure,5138
+Houston|BL1 Reasons|Palletizer 1,Future Fault 5139,DOWNTIME,Process Failure,5139
+Houston|BL1 Reasons|Palletizer 2,Fault Learning,DOWNTIME,Process Failure,5200
+Houston|BL1 Reasons|Palletizer 2,Machine Aborted,DOWNTIME,Process Failure,5201
+Houston|BL1 Reasons|Palletizer 2,Emergency Stop,DOWNTIME,Process Failure,5202
+Houston|BL1 Reasons|Palletizer 2,Machine Held,DOWNTIME,Process Failure,5203
+Houston|BL1 Reasons|Palletizer 2,Machine Stopped,DOWNTIME,Process Failure,5204
+Houston|BL1 Reasons|Palletizer 2,Machine Idle,DOWNTIME,Process Failure,5205
+Houston|BL1 Reasons|Palletizer 2,Machine Suspended,DOWNTIME,Process Failure,5206
+Houston|BL1 Reasons|Palletizer 2,Not In Auto,DOWNTIME,Process Failure,5207
+Houston|BL1 Reasons|Palletizer 2,Guard Doors/Safeties,DOWNTIME,Process Failure,5208
+Houston|BL1 Reasons|Palletizer 2,Invalid PackML State,DOWNTIME,Process Failure,5209
+Houston|BL1 Reasons|Palletizer 2,Communication Fault,DOWNTIME,Process Failure,5210
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,5212
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5213
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Disch,Discharge Backup,DOWNTIME,Process Failure,5214
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5215
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,5216
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5217
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5218
+Houston|BL1 Reasons|Palletizer 2|Palletizer 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5219
+Houston|BL1 Reasons|Palletizer 2,SIDE LAYER GUIDES OUT,DOWNTIME,Process Failure,5220
+Houston|BL1 Reasons|Palletizer 2,SIDE LAYER GUIDES BACK,DOWNTIME,Process Failure,5221
+Houston|BL1 Reasons|Palletizer 2,FRONT LAYER GUIDE OUT,DOWNTIME,Process Failure,5222
+Houston|BL1 Reasons|Palletizer 2,FRONT LAYER GUIDE BACK,DOWNTIME,Process Failure,5223
+Houston|BL1 Reasons|Palletizer 2,PUSHER CHAINS JAMMED,DOWNTIME,Process Failure,5224
+Houston|BL1 Reasons|Palletizer 2,HOIST DOWN SLOW FAULT,DOWNTIME,Process Failure,5225
+Houston|BL1 Reasons|Palletizer 2,HOIST UP FAST FAULT,DOWNTIME,Process Failure,5226
+Houston|BL1 Reasons|Palletizer 2,PC-12 BLOCKED FAULT,DOWNTIME,Process Failure,5227
+Houston|BL1 Reasons|Palletizer 2,HOIST DOWN FAST FAULT,DOWNTIME,Process Failure,5228
+Houston|BL1 Reasons|Palletizer 2,STRIPPER PLATE FAULT,DOWNTIME,Process Failure,5229
+Houston|BL1 Reasons|Palletizer 2,GATE FAULT,DOWNTIME,Process Failure,5230
+Houston|BL1 Reasons|Palletizer 2,PAL EJECT CARRIAGE FAULT,DOWNTIME,Process Failure,5231
+Houston|BL1 Reasons|Palletizer 2,PAL DISP CARRIAGE FAULT,DOWNTIME,Process Failure,5232
+Houston|BL1 Reasons|Palletizer 2,PAL DISP ANGLES FAULT,DOWNTIME,Process Failure,5233
+Houston|BL1 Reasons|Palletizer 2,FULL LOAD CONVEY FAULT,DOWNTIME,Process Failure,5234
+Houston|BL1 Reasons|Palletizer 2,TIE SHEET DISPENSER FAULT,DOWNTIME,Process Failure,5235
+Houston|BL1 Reasons|Palletizer 2,SLIP SHEET DISPENSER FAULT,DOWNTIME,Process Failure,5236
+Houston|BL1 Reasons|Palletizer 2,PALLET DETECT DISABLE,DOWNTIME,Process Failure,5237
+Houston|BL1 Reasons|Palletizer 2,Future Fault 5238,DOWNTIME,Process Failure,5238
+Houston|BL1 Reasons|Palletizer 2,Future Fault 5239,DOWNTIME,Process Failure,5239
+Houston|BL1 Reasons|Stretch Wrapper 1,Fault Learning,DOWNTIME,Process Failure,5300
+Houston|BL1 Reasons|Stretch Wrapper 1,Machine Aborted,DOWNTIME,Process Failure,5301
+Houston|BL1 Reasons|Stretch Wrapper 1,Emergency Stop,DOWNTIME,Process Failure,5302
+Houston|BL1 Reasons|Stretch Wrapper 1,Machine Held,DOWNTIME,Process Failure,5303
+Houston|BL1 Reasons|Stretch Wrapper 1,Machine Stopped,DOWNTIME,Process Failure,5304
+Houston|BL1 Reasons|Stretch Wrapper 1,Machine Idle,DOWNTIME,Process Failure,5305
+Houston|BL1 Reasons|Stretch Wrapper 1,Machine Suspended,DOWNTIME,Process Failure,5306
+Houston|BL1 Reasons|Stretch Wrapper 1,Not In Auto,DOWNTIME,Process Failure,5307
+Houston|BL1 Reasons|Stretch Wrapper 1,Guard Doors/Safeties,DOWNTIME,Process Failure,5308
+Houston|BL1 Reasons|Stretch Wrapper 1,Invalid PackML State,DOWNTIME,Process Failure,5309
+Houston|BL1 Reasons|Stretch Wrapper 1,Communication Fault,DOWNTIME,Process Failure,5310
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,5312
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5313
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Disch,Discharge Backup,DOWNTIME,Process Failure,5314
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5315
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,5316
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5317
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5318
+Houston|BL1 Reasons|Stretch Wrapper 1|Stretch Wrapper 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5319
+Houston|BL1 Reasons|Stretch Wrapper 1,Safety Check Fail,DOWNTIME,Process Failure,5320
+Houston|BL1 Reasons|Stretch Wrapper 1,Cap Misfeed Alarm,DOWNTIME,Process Failure,5321
+Houston|BL1 Reasons|Stretch Wrapper 1,Broken Film Alarm,DOWNTIME,Process Failure,5322
+Houston|BL1 Reasons|Stretch Wrapper 1,Empty Magazine Alarm,DOWNTIME,Process Failure,5323
+Houston|BL1 Reasons|Stretch Wrapper 1,Alarm Lock-Up,DOWNTIME,Process Failure,5324
+Houston|BL1 Reasons|Stretch Wrapper 1,Run Fault Lock-Up,DOWNTIME,Process Failure,5325
+Houston|BL1 Reasons|Stretch Wrapper 1,Load too Small,DOWNTIME,Process Failure,5326
+Houston|BL1 Reasons|Stretch Wrapper 1,Load is too Low,DOWNTIME,Process Failure,5327
+Houston|BL1 Reasons|Stretch Wrapper 1,Post Arm Pneumatic Fault,DOWNTIME,Process Failure,5328
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5329,DOWNTIME,Process Failure,5329
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5330,DOWNTIME,Process Failure,5330
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5331,DOWNTIME,Process Failure,5331
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5332,DOWNTIME,Process Failure,5332
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5333,DOWNTIME,Process Failure,5333
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5334,DOWNTIME,Process Failure,5334
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5335,DOWNTIME,Process Failure,5335
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5336,DOWNTIME,Process Failure,5336
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5337,DOWNTIME,Process Failure,5337
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5338,DOWNTIME,Process Failure,5338
+Houston|BL1 Reasons|Stretch Wrapper 1,Future Fault 5339,DOWNTIME,Process Failure,5339
+Houston|BL1 Reasons|Stretch Wrapper 2,Fault Learning,DOWNTIME,Process Failure,5400
+Houston|BL1 Reasons|Stretch Wrapper 2,Machine Aborted,DOWNTIME,Process Failure,5401
+Houston|BL1 Reasons|Stretch Wrapper 2,Emergency Stop,DOWNTIME,Process Failure,5402
+Houston|BL1 Reasons|Stretch Wrapper 2,Machine Held,DOWNTIME,Process Failure,5403
+Houston|BL1 Reasons|Stretch Wrapper 2,Machine Stopped,DOWNTIME,Process Failure,5404
+Houston|BL1 Reasons|Stretch Wrapper 2,Machine Idle,DOWNTIME,Process Failure,5405
+Houston|BL1 Reasons|Stretch Wrapper 2,Machine Suspended,DOWNTIME,Process Failure,5406
+Houston|BL1 Reasons|Stretch Wrapper 2,Not In Auto,DOWNTIME,Process Failure,5407
+Houston|BL1 Reasons|Stretch Wrapper 2,Guard Doors/Safeties,DOWNTIME,Process Failure,5408
+Houston|BL1 Reasons|Stretch Wrapper 2,Invalid PackML State,DOWNTIME,Process Failure,5409
+Houston|BL1 Reasons|Stretch Wrapper 2,Communication Fault,DOWNTIME,Process Failure,5410
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,5412
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5413
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Disch,Discharge Backup,DOWNTIME,Process Failure,5414
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5415
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,5416
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5417
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5418
+Houston|BL1 Reasons|Stretch Wrapper 2|Stretch Wrapper 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5419
+Houston|BL1 Reasons|Stretch Wrapper 2,Safety Check Fail,DOWNTIME,Process Failure,5420
+Houston|BL1 Reasons|Stretch Wrapper 2,Screen Alarm is On,DOWNTIME,Process Failure,5421
+Houston|BL1 Reasons|Stretch Wrapper 2,Clamp Misfeed Alarm,DOWNTIME,Process Failure,5422
+Houston|BL1 Reasons|Stretch Wrapper 2,Film Cut and Seal Fail,DOWNTIME,Process Failure,5423
+Houston|BL1 Reasons|Stretch Wrapper 2,Conveyor OL Tripped,DOWNTIME,Process Failure,5424
+Houston|BL1 Reasons|Stretch Wrapper 2,Load is too High,DOWNTIME,Process Failure,5425
+Houston|BL1 Reasons|Stretch Wrapper 2,Broken Film Alarm,DOWNTIME,Process Failure,5426
+Houston|BL1 Reasons|Stretch Wrapper 2,Empty Magazine Alarm,DOWNTIME,Process Failure,5427
+Houston|BL1 Reasons|Stretch Wrapper 2,Post Arm Pneumatic Fault,DOWNTIME,Process Failure,5428
+Houston|BL1 Reasons|Stretch Wrapper 2,Alarm Lock-Up,DOWNTIME,Process Failure,5429
+Houston|BL1 Reasons|Stretch Wrapper 2,Load too Small,DOWNTIME,Process Failure,5430
+Houston|BL1 Reasons|Stretch Wrapper 2,Load is too Low,DOWNTIME,Process Failure,5431
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5432,DOWNTIME,Process Failure,5432
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5433,DOWNTIME,Process Failure,5433
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5434,DOWNTIME,Process Failure,5434
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5435,DOWNTIME,Process Failure,5435
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5436,DOWNTIME,Process Failure,5436
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5437,DOWNTIME,Process Failure,5437
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5438,DOWNTIME,Process Failure,5438
+Houston|BL1 Reasons|Stretch Wrapper 2,Future Fault 5439,DOWNTIME,Process Failure,5439
+Houston|BL1 Reasons|Full Case Convey 1,Fault Learning,DOWNTIME,Process Failure,5500
+Houston|BL1 Reasons|Full Case Convey 1,Machine Aborted,DOWNTIME,Process Failure,5501
+Houston|BL1 Reasons|Full Case Convey 1,Emergency Stop,DOWNTIME,Process Failure,5502
+Houston|BL1 Reasons|Full Case Convey 1,Machine Held,DOWNTIME,Process Failure,5503
+Houston|BL1 Reasons|Full Case Convey 1,Machine Stopped,DOWNTIME,Process Failure,5504
+Houston|BL1 Reasons|Full Case Convey 1,Machine Idle,DOWNTIME,Process Failure,5505
+Houston|BL1 Reasons|Full Case Convey 1,Machine Suspended,DOWNTIME,Process Failure,5506
+Houston|BL1 Reasons|Full Case Convey 1,Not In Auto,DOWNTIME,Process Failure,5507
+Houston|BL1 Reasons|Full Case Convey 1,Guard Doors/Safeties,DOWNTIME,Process Failure,5508
+Houston|BL1 Reasons|Full Case Convey 1,Invalid PackML State,DOWNTIME,Process Failure,5509
+Houston|BL1 Reasons|Full Case Convey 1,Communication Fault,DOWNTIME,Process Failure,5510
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,5512
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5513
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Disch,Discharge Backup,DOWNTIME,Process Failure,5514
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5515
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,5516
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5517
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5518
+Houston|BL1 Reasons|Full Case Convey 1|Full Case Convey 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5519
+Houston|BL1 Reasons|Full Case Convey 1,CASE_REJECTER_L1_JAM,DOWNTIME,Process Failure,5520
+Houston|BL1 Reasons|Full Case Convey 1,CASE_INFEED_STOP,DOWNTIME,Process Failure,5521
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5522,DOWNTIME,Process Failure,5522
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5523,DOWNTIME,Process Failure,5523
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5524,DOWNTIME,Process Failure,5524
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5525,DOWNTIME,Process Failure,5525
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5526,DOWNTIME,Process Failure,5526
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5527,DOWNTIME,Process Failure,5527
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5528,DOWNTIME,Process Failure,5528
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5529,DOWNTIME,Process Failure,5529
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5530,DOWNTIME,Process Failure,5530
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5531,DOWNTIME,Process Failure,5531
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5532,DOWNTIME,Process Failure,5532
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5533,DOWNTIME,Process Failure,5533
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5534,DOWNTIME,Process Failure,5534
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5535,DOWNTIME,Process Failure,5535
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5536,DOWNTIME,Process Failure,5536
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5537,DOWNTIME,Process Failure,5537
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5538,DOWNTIME,Process Failure,5538
+Houston|BL1 Reasons|Full Case Convey 1,Future Fault 5539,DOWNTIME,Process Failure,5539
+Houston|BL1 Reasons|Full Case Convey 2,Fault Learning,DOWNTIME,Process Failure,5600
+Houston|BL1 Reasons|Full Case Convey 2,Machine Aborted,DOWNTIME,Process Failure,5601
+Houston|BL1 Reasons|Full Case Convey 2,Emergency Stop,DOWNTIME,Process Failure,5602
+Houston|BL1 Reasons|Full Case Convey 2,Machine Held,DOWNTIME,Process Failure,5603
+Houston|BL1 Reasons|Full Case Convey 2,Machine Stopped,DOWNTIME,Process Failure,5604
+Houston|BL1 Reasons|Full Case Convey 2,Machine Idle,DOWNTIME,Process Failure,5605
+Houston|BL1 Reasons|Full Case Convey 2,Machine Suspended,DOWNTIME,Process Failure,5606
+Houston|BL1 Reasons|Full Case Convey 2,Not In Auto,DOWNTIME,Process Failure,5607
+Houston|BL1 Reasons|Full Case Convey 2,Guard Doors/Safeties,DOWNTIME,Process Failure,5608
+Houston|BL1 Reasons|Full Case Convey 2,Invalid PackML State,DOWNTIME,Process Failure,5609
+Houston|BL1 Reasons|Full Case Convey 2,Communication Fault,DOWNTIME,Process Failure,5610
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,5612
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5613
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Disch,Discharge Backup,DOWNTIME,Process Failure,5614
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5615
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,5616
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5617
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5618
+Houston|BL1 Reasons|Full Case Convey 2|Full Case Convey 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5619
+Houston|BL1 Reasons|Full Case Convey 2,CASE SWITCH JAM,DOWNTIME,Process Failure,5620
+Houston|BL1 Reasons|Full Case Convey 2,CASE_REJECTER_L2_JAM,DOWNTIME,Process Failure,5621
+Houston|BL1 Reasons|Full Case Convey 2,CS_2C_STOP,DOWNTIME,Process Failure,5622
+Houston|BL1 Reasons|Full Case Convey 2,CASE_REJECT_JAM_DETECT,DOWNTIME,Process Failure,5623
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5624,DOWNTIME,Process Failure,5624
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5625,DOWNTIME,Process Failure,5625
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5626,DOWNTIME,Process Failure,5626
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5627,DOWNTIME,Process Failure,5627
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5628,DOWNTIME,Process Failure,5628
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5629,DOWNTIME,Process Failure,5629
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5630,DOWNTIME,Process Failure,5630
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5631,DOWNTIME,Process Failure,5631
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5632,DOWNTIME,Process Failure,5632
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5633,DOWNTIME,Process Failure,5633
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5634,DOWNTIME,Process Failure,5634
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5635,DOWNTIME,Process Failure,5635
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5636,DOWNTIME,Process Failure,5636
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5637,DOWNTIME,Process Failure,5637
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5638,DOWNTIME,Process Failure,5638
+Houston|BL1 Reasons|Full Case Convey 2,Future Fault 5639,DOWNTIME,Process Failure,5639
+Houston|BL1 Reasons|Bar Coder 1,Fault Learning,DOWNTIME,Process Failure,5700
+Houston|BL1 Reasons|Bar Coder 1,Machine Aborted,DOWNTIME,Process Failure,5701
+Houston|BL1 Reasons|Bar Coder 1,Emergency Stop,DOWNTIME,Process Failure,5702
+Houston|BL1 Reasons|Bar Coder 1,Machine Held,DOWNTIME,Process Failure,5703
+Houston|BL1 Reasons|Bar Coder 1,Machine Stopped,DOWNTIME,Process Failure,5704
+Houston|BL1 Reasons|Bar Coder 1,Machine Idle,DOWNTIME,Process Failure,5705
+Houston|BL1 Reasons|Bar Coder 1,Machine Suspended,DOWNTIME,Process Failure,5706
+Houston|BL1 Reasons|Bar Coder 1,Not In Auto,DOWNTIME,Process Failure,5707
+Houston|BL1 Reasons|Bar Coder 1,Guard Doors/Safeties,DOWNTIME,Process Failure,5708
+Houston|BL1 Reasons|Bar Coder 1,Invalid PackML State,DOWNTIME,Process Failure,5709
+Houston|BL1 Reasons|Bar Coder 1,Communication Fault,DOWNTIME,Process Failure,5710
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Infeed,Infeed Starved,DOWNTIME,Process Failure,5712
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5713
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Disch,Discharge Backup,DOWNTIME,Process Failure,5714
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5715
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Disch,Discharge Stopped,DOWNTIME,Process Failure,5716
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5717
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5718
+Houston|BL1 Reasons|Bar Coder 1|Bar Coder 1 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5719
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5720,DOWNTIME,Process Failure,5720
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5721,DOWNTIME,Process Failure,5721
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5722,DOWNTIME,Process Failure,5722
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5723,DOWNTIME,Process Failure,5723
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5724,DOWNTIME,Process Failure,5724
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5725,DOWNTIME,Process Failure,5725
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5726,DOWNTIME,Process Failure,5726
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5727,DOWNTIME,Process Failure,5727
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5728,DOWNTIME,Process Failure,5728
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5729,DOWNTIME,Process Failure,5729
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5730,DOWNTIME,Process Failure,5730
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5731,DOWNTIME,Process Failure,5731
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5732,DOWNTIME,Process Failure,5732
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5733,DOWNTIME,Process Failure,5733
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5734,DOWNTIME,Process Failure,5734
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5735,DOWNTIME,Process Failure,5735
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5736,DOWNTIME,Process Failure,5736
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5737,DOWNTIME,Process Failure,5737
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5738,DOWNTIME,Process Failure,5738
+Houston|BL1 Reasons|Bar Coder 1,Future Fault 5739,DOWNTIME,Process Failure,5739
+Houston|BL1 Reasons|Bar Coder 2,Fault Learning,DOWNTIME,Process Failure,5800
+Houston|BL1 Reasons|Bar Coder 2,Machine Aborted,DOWNTIME,Process Failure,5801
+Houston|BL1 Reasons|Bar Coder 2,Emergency Stop,DOWNTIME,Process Failure,5802
+Houston|BL1 Reasons|Bar Coder 2,Machine Held,DOWNTIME,Process Failure,5803
+Houston|BL1 Reasons|Bar Coder 2,Machine Stopped,DOWNTIME,Process Failure,5804
+Houston|BL1 Reasons|Bar Coder 2,Machine Idle,DOWNTIME,Process Failure,5805
+Houston|BL1 Reasons|Bar Coder 2,Machine Suspended,DOWNTIME,Process Failure,5806
+Houston|BL1 Reasons|Bar Coder 2,Not In Auto,DOWNTIME,Process Failure,5807
+Houston|BL1 Reasons|Bar Coder 2,Guard Doors/Safeties,DOWNTIME,Process Failure,5808
+Houston|BL1 Reasons|Bar Coder 2,Invalid PackML State,DOWNTIME,Process Failure,5809
+Houston|BL1 Reasons|Bar Coder 2,Communication Fault,DOWNTIME,Process Failure,5810
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Infeed,Infeed Starved,DOWNTIME,Process Failure,5812
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Sec Infeed,Infeed Starved,DOWNTIME,Process Failure,5813
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Disch,Discharge Backup,DOWNTIME,Process Failure,5814
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Sec Disch,Discharge Backup,DOWNTIME,Process Failure,5815
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Disch,Discharge Stopped,DOWNTIME,Process Failure,5816
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Sec Disch,Discharge Stopped,DOWNTIME,Process Failure,5817
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Infeed,Infeed Stopped,DOWNTIME,Process Failure,5818
+Houston|BL1 Reasons|Bar Coder 2|Bar Coder 2 Sec Infeed,Infeed Stopped,DOWNTIME,Process Failure,5819
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5820,DOWNTIME,Process Failure,5820
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5821,DOWNTIME,Process Failure,5821
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5822,DOWNTIME,Process Failure,5822
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5823,DOWNTIME,Process Failure,5823
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5824,DOWNTIME,Process Failure,5824
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5825,DOWNTIME,Process Failure,5825
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5826,DOWNTIME,Process Failure,5826
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5827,DOWNTIME,Process Failure,5827
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5828,DOWNTIME,Process Failure,5828
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5829,DOWNTIME,Process Failure,5829
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5830,DOWNTIME,Process Failure,5830
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5831,DOWNTIME,Process Failure,5831
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5832,DOWNTIME,Process Failure,5832
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5833,DOWNTIME,Process Failure,5833
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5834,DOWNTIME,Process Failure,5834
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5835,DOWNTIME,Process Failure,5835
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5836,DOWNTIME,Process Failure,5836
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5837,DOWNTIME,Process Failure,5837
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5838,DOWNTIME,Process Failure,5838
+Houston|BL1 Reasons|Bar Coder 2,Future Fault 5839,DOWNTIME,Process Failure,5839

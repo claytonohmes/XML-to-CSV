@@ -1,0 +1,53 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,Retort,None,LINE,Concentrator PLC
+String,Wood Dryer,None,SEC,Concentrator PLC
+String,Furnace Charring,None,SEC,Concentrator PLC
+String,Furnace Burner,None,SEC,Concentrator PLC
+String,Char Storage,None,SEC,Concentrator PLC
+String,ACC Heat,None,SEC,Concentrator PLC
+String,ACC Burner 1,None,SEC,Concentrator PLC
+String,ACC Burner 2,None,SEC,Concentrator PLC
+String,Wood Infeed,None,SEC,Concentrator PLC
+String,Sizing,None,SEC,Concentrator PLC
+String,Reclaimer,None,SEC,Concentrator PLC
+String,Stacker,None,SEC,Concentrator PLC
+String,Briquetting,None,LINE,Concentrator PLC
+String,Mixer Muller,None,SEC,Concentrator PLC
+String,Infeed TF and Doc,None,SEC,Concentrator PLC
+String,Flavored Wood,None,SEC,Concentrator PLC
+String,Hammermill,None,SEC,Concentrator PLC
+String,Minors,None,SEC,Concentrator PLC
+String,Press 1,None,SEC,Concentrator PLC
+String,Press 2,None,SEC,Concentrator PLC
+String,Dryer A,None,SEC,Concentrator PLC
+String,Dryer B,None,SEC,Concentrator PLC
+String,Dryer C,None,SEC,Concentrator PLC
+String,Discharge,None,SEC,Concentrator PLC
+String,Heat Supply,None,SEC,Concentrator PLC
+String,Dry Heat Burner,None,SEC,Concentrator PLC
+String,KCL,None,LINE,Concentrator PLC
+String,Line Control,None,SEC,Concentrator PLC
+String,Solvent,None,SEC,Concentrator PLC
+String,Filler,None,SEC,Concentrator PLC
+String,Sealer,None,SEC,Concentrator PLC
+String,Palletizer,None,SEC,Concentrator PLC
+String,Stretchwrapper,None,SEC,Concentrator PLC
+String,Case Packer,None,SEC,Concentrator PLC
+String,Case Erector,None,SEC,Concentrator PLC
+String,Labeler,None,SEC,Concentrator PLC
+String,Dog Bone Applicator,None,SEC,Concentrator PLC
+String,Line 1,None,LINE,Concentrator PLC
+String,L1 Bag Hanger,None,SEC,Concentrator PLC
+String,L1 Sealer Doboy,None,SEC,Concentrator PLC
+String,L1 Heat Tunnel,None,SEC,Concentrator PLC
+String,L1 Palletizer,None,SEC,Concentrator PLC
+String,L1 Stretchwrapper,None,SEC,Concentrator PLC
+String,Line 2,None,LINE,Concentrator PLC
+String,L2 Bag Hanger,None,SEC,Concentrator PLC
+String,L2 Sealer Doboy,None,SEC,Concentrator PLC
+String,L2 Polypack,None,SEC,Concentrator PLC
+String,L2 Polypack Bypass,None,SEC,Concentrator PLC
+String,L2 Palletizer,None,SEC,Concentrator PLC
+String,L2 Stretchwrapper,None,SEC,Concentrator PLC
+String,Pretreat,None,SEC,Concentrator PLC
+String,Silos Discharge,None,SEC,Concentrator PLC

@@ -1,0 +1,55 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,Pluto,None,LINE,None
+String,Pluto Filler 1,None,SEC,Pluto Filler 1 PLC
+String,Pluto Filler 2,None,SEC,Pluto Filler 2 PLC
+String,Pluto Pnp Robot 1,None,SEC,Pluto Pnp Robot PLC
+String,Pluto Pnp Robot 2,None,SEC,Pluto Pnp Robot PLC
+String,Pluto Cartoner,None,SEC,Pluto Cartoner PLC
+String,Pluto Carton Ckwr,None,SEC,Pluto Cartoner PLC
+String,Pluto Casepacker,None,SEC,Pluto Casepacker PLC
+String,Dry Palletizer,None,SEC,Dry Palletizer PLC
+String,Dry Stretchwrapper,None,SEC,Dry Stretchwrapper PLC
+String,Ceres,None,LINE,None
+String,Ceres Bottle Hopper,None,SEC,Ceres Unscrambler PLC
+String,Ceres Unscrambler,None,SEC,Ceres Unscrambler PLC
+String,Ceres Orienter,None,SEC,Ceres Orienter PLC
+String,Ceres Filler,None,SEC,Ceres Filler PLC
+String,Ceres Capper,None,SEC,Ceres Capper PLC
+String,Ceres Cap Sealer,None,SEC,Ceres SLCS PLC
+String,Ceres Labeler,None,SEC,Ceres Labeler PLC
+String,Ceres Case Packer,None,SEC,Ceres Case Packer PLC
+String,Ceres Ink Jet Printer,None,SEC,Ceres SLCS PLC
+String,Zeus,None,LINE,None
+String,Zeus Depal,None,SEC,Zeus Depal PLC
+String,Zeus Dumper,None,SEC,Zeus SLCS PLC
+String,Zeus Unscrambler,None,SEC,Zeus Unscrambler PLC
+String,Zeus Rinser,None,SEC,Zeus Filler PLC
+String,Zeus Filler,None,SEC,Zeus Filler PLC
+String,Zeus Capper,None,SEC,Zeus Filler PLC
+String,Zeus Labeler,None,SEC,Zeus Labeler PLC
+String,Zeus Accum Table,None,SEC,Zeus Accum Table PLC
+String,Zeus Laner,None,SEC,Zeus Laner PLC
+String,Zeus Case Former,None,SEC,Zeus Case Former PLC
+String,Zeus Case Packer,None,SEC,Zeus Case Packer PLC
+String,Zeus Case Sealer,None,SEC,Zeus Case Packer PLC
+String,Columbia Robot Palletizer,None,SEC,Columbia Robot Palletizer PLC
+String,Columbia Stretchwrapper,None,SEC,Columbia Stretchwrapper PLC
+String,Atlas,None,LINE,None
+String,Atlas Depal,None,SEC,Atlas Depal PLC
+String,Atlas Dumper,None,SEC,Atlas SLCS PLC
+String,Atlas Unscrambler,None,SEC,Atlas Unscrambler PLC
+String,Atlas Rinser,None,SEC,Atlas Filler Capper PLC
+String,Atlas Filler Capper,None,SEC,Atlas Filler Capper PLC
+String,Atlas Labeler,None,SEC,Atlas Labeler PLC
+String,Atlas Infeed Accum,None,SEC,Atlas SLCS PLC
+String,Atlas Sleever,None,SEC,Atlas SLCS PLC
+String,Atlas Outfeed Accum,None,SEC,Atlas SLCS PLC
+String,Atlas Tray Former,None,SEC,Atlas Tray Former PLC
+String,Atlas Case Former,None,SEC,Atlas Case Former PLC
+String,Atlas Case Packer,None,SEC,Atlas Case Packer PLC
+String,Atlas Case CW,None,SEC,Atlas SLCS PLC
+String,Atlas Sealer,None,SEC,Atlas SLCS PLC
+String,Atlas Print Apply,None,SEC,Atlas SLCS PLC
+String,Bottle Case Switcher,None,SEC,Bottle Case Switcher PLC
+String,Hartness Robot Palletizer,None,SEC,Hartness Robot Palletizer PLC
+String,Hartness Stretchwrapper,None,SEC,Hartness Stretchwrapper PLC

@@ -1,0 +1,51 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Springfield,Retort,None,LINE,None
+Springfield,Wood Dryer,None,SEC,Concentrator PLC
+Springfield,East Dryer Burner,None,SEC,Concentrator PLC
+Springfield,North Eclipse Burner,None,SEC,Concentrator PLC
+Springfield,North NA Burner,None,SEC,Concentrator PLC
+Springfield,South Eclipse Burner,None,SEC,Concentrator PLC
+Springfield,South NA Burner,None,SEC,Concentrator PLC
+Springfield,West Dryer Burner,None,SEC,Concentrator PLC
+Springfield,ACC,None,SEC,Concentrator PLC
+Springfield,Char Storage,None,SEC,Concentrator PLC
+Springfield,Furnace Charring,None,SEC,Concentrator PLC
+Springfield,Sizing,None,SEC,Concentrator PLC
+Springfield,Briquetting,None,LINE,None
+Springfield,Mixer Muller,None,SEC,Concentrator PLC
+Springfield,Borax,None,SEC,Concentrator PLC
+Springfield,Blend Bins,None,SEC,Concentrator PLC
+Springfield,Flavored Wood,None,SEC,Concentrator PLC
+Springfield,Dryer 1,None,SEC,Concentrator PLC
+Springfield,Dryer 2,None,SEC,Concentrator PLC
+Springfield,Starch,None,SEC,Concentrator PLC
+Springfield,Hammermill Infeed,None,SEC,Concentrator PLC
+Springfield,Hammermill,None,SEC,Concentrator PLC
+Springfield,Hinderburg Burner,None,SEC,Concentrator PLC
+Springfield,Press 1,None,SEC,Concentrator PLC
+Springfield,Press 2,None,SEC,Concentrator PLC
+Springfield,Green Shaker,None,SEC,Concentrator PLC
+Springfield,Briquette Tanks,None,SEC,Concentrator PLC
+Springfield,Hot Air Fan,None,SEC,Concentrator PLC
+Springfield,Minors,None,SEC,Concentrator PLC
+Springfield,Packaging North,None,LINE,None
+Springfield,North Heat Tunnel,None,SEC,Concentrator PLC
+Springfield,South Bag Hanger,None,SEC,SouthBagHanger PLC
+Springfield,South Bag Mag,None,SEC,Concentrator PLC
+Springfield,South Polypack Bundler,None,SEC,Concentrator PLC
+Springfield,North Doboy,None,SEC,Concentrator PLC
+Springfield,Pretreat,None,SEC,Concentrator PLC
+Springfield,North Bag Hanger,None,SEC,NorthBagHanger PLC
+Springfield,North Supervisory,None,SEC,Concentrator PLC
+Springfield,North Infeed,None,SEC,Concentrator PLC
+Springfield,North Bag Mag,None,SEC,Concentrator PLC
+Springfield,North Palletizer,None,SEC,Concentrator PLC
+Springfield,North Stretchwrapper,None,SEC,Concentrator PLC
+Springfield,Packaging South,None,LINE,None
+Springfield,South Doboy,None,SEC,Concentrator PLC
+Springfield,South Supervisory,None,SEC,SouthSupervisory PLC
+Springfield,South Infeed,None,SEC,SouthSupervisory PLC
+Springfield,South Palletizer,None,SEC,SouthPalletizer PLC
+Springfield,South Stretchwrapper,None,SEC,Concentrator PLC
+Springfield,Diverter,None,SEC,Concentrator PLC
+Springfield,North Collater,None,SEC,Concentrator PLC
