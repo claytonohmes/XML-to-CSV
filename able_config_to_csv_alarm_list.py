@@ -2,7 +2,7 @@ import csv
 import xml.etree.ElementTree as ET
 from ReasonCode import ReasonCode
 
-def able_Config_To_CSV(file, csvfile):
+def able_config_to_csv_alarm_list(file, csvfile):
     '''
     the purpose of this function is to take the ABLE config alarms and output a csv file. 
     '''
@@ -36,13 +36,16 @@ def able_Config_To_CSV(file, csvfile):
 
     with open(csvfile, 'w', newline='') as alarmlist:
         writer = csv.DictWriter(alarmlist, fieldnames=fieldnames)
-
+        print('File Created.')
         # Write header row
         writer.writeheader()
-
+        print('Starting File Write.')
         # Write data rows
         for _, value in reason_dict.items():
             for item in value:
+                if item.reas2 == None and item.reas3 != None:
+                    print("No good! Orphan Reason 3: " + str(item))
+                
                 if item.reas2 == None:
                     #reason level 2 none
                     writer.writerow({'reas_group': f"{item.siteName}|{item.reasArea}",
@@ -65,4 +68,4 @@ def able_Config_To_CSV(file, csvfile):
                                      'spare4': f"{item.opccode}"}) 
     
 if __name__ == "__main__":
-    able_Config_To_CSV('idc - Belle 20250124 - 03.xml', 'alarmList.csv')
+    able_config_to_csv_alarm_list('idc - Belle 20250124 - 03.xml', 'alarmList.csv')

@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog
-from xml_to_csv import able_Config_To_CSV
+from able_config_to_csv_alarm_list import able_config_to_csv_alarm_list
 
 selected_file_path = None  # Variable to store the selected file path
 user_input_text = None  # Variable to store the user's input
@@ -27,7 +27,7 @@ def ok_button_pressed():
     if selected_file_path:
         print("File path:", selected_file_path)
         print("User input:", user_input_text)
-        able_Config_To_CSV(selected_file_path, user_input_text + ".csv")
+        able_config_to_csv_alarm_list(selected_file_path, user_input_text + ".csv")
     else:
         print("No file selected to use")
     
