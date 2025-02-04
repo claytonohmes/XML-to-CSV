@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<IDCConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" filename="String" name="String" lockcidconfig="true" dce_reasoncycles="6" version="0" xsi:noNamespaceSchemaLocation="IDC.xsd">
+<IDCConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" filename="String" name="ATL West" lockcidconfig="true" dce_reasoncycles="6" version="0" xsi:noNamespaceSchemaLocation="IDC.xsd">
   <firebaseapi deviceid="4LxyJYwD" uri="" auth="" />
   <system>
     <states>

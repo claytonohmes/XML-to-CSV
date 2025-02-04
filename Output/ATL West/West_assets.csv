@@ -1,0 +1,32 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+ATL West,Line2,None,LINE,ABLE
+ATL West,Line2 Depal2,None,SEC,Line2 Depal2 PLC
+ATL West,Line2 Winder3,None,LINE,ABLE
+ATL West,Line2 Stuffer3,None,SEC,Line2 Stuffer3 PLC
+ATL West,Line2 Winder4,None,LINE,ABLE
+ATL West,Line2 Stuffer4,None,SEC,Line2 Stuffer4 PLC
+ATL West,Line2 Filler2,None,SEC,Line2 Filler2 PLC
+ATL West,Line2 Labeler4,None,SEC,Line2 Labeler4 PLC
+ATL West,Line2 Labeler5,None,SEC,Line2 Labeler5 PLC
+ATL West,Line2 Labeler6,None,SEC,Line2 Labeler6 PLC
+ATL West,Line2 FS3,None,SEC,Line2 FS3 PLC
+ATL West,Line2 TFS3,None,SEC,Line2 TFS3 PLC
+ATL West,Line2 Palletizer2,None,SEC,Line2 Palletizer2 PLC
+ATL West,Line2 Wrapper2,None,SEC,Line2 Wrapper2 PLC
+ATL West,Line1,None,LINE,ABLE
+ATL West,Line1 Depal1,None,SEC,Line1 Depal1 PLC
+ATL West,Line1 Winder1,None,LINE,ABLE
+ATL West,Line1 Winder2,None,LINE,ABLE
+ATL West,Line1 Stuffer1,None,SEC,Line1 Stuffer1 PLC
+ATL West,Line1 Filler1,None,SEC,Line1 Filler1 PLC
+ATL West,Line1 Labeler1,None,SEC,Line1 Labeler1 PLC
+ATL West,Line1 Labeler2,None,SEC,Line1 Labeler2 PLC
+ATL West,Line1 Labeler3,None,SEC,Line1 Labeler3 PLC
+ATL West,Line1 CosmoPack1,None,SEC,Line1 CosmoPack1 PLC
+ATL West,Line1 CosmoPack2,None,SEC,Line1 CosmoPack2 PLC
+ATL West,Line1 FS1,None,SEC,Line1 FS1 PLC
+ATL West,Line1 FS2,None,SEC,Line1 FS2 PLC
+ATL West,Line1 TFS1,None,SEC,Line1 TFS1 PLC
+ATL West,Line1 TFS2,None,SEC,Line1 TFS2 PLC
+ATL West,Line1 Palletizer1,None,SEC,Line1 Palletizer1 PLC
+ATL West,Line1 Wrapper1,None,SEC,Line1 Wrapper1 PLC

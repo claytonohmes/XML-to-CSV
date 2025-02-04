@@ -1,6 +1,6 @@
 import csv
 import xml.etree.ElementTree as ET
-from ReasonCode import ReasonCode
+from Model.ReasonCode import ReasonCode
 
 def able_config_to_csv_alarm_list(file, csvfile):
     '''

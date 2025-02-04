@@ -1,0 +1,32 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+String,Line2,None,LINE,ABLE
+String,Line2 Depal2,None,SEC,Line2 Depal2 PLC
+String,Line2 Winder3,None,LINE,ABLE
+String,Line2 Stuffer3,None,SEC,Line2 Stuffer3 PLC
+String,Line2 Winder4,None,LINE,ABLE
+String,Line2 Stuffer4,None,SEC,Line2 Stuffer4 PLC
+String,Line2 Filler2,None,SEC,Line2 Filler2 PLC
+String,Line2 Labeler4,None,SEC,Line2 Labeler4 PLC
+String,Line2 Labeler5,None,SEC,Line2 Labeler5 PLC
+String,Line2 Labeler6,None,SEC,Line2 Labeler6 PLC
+String,Line2 FS3,None,SEC,Line2 FS3 PLC
+String,Line2 TFS3,None,SEC,Line2 TFS3 PLC
+String,Line2 Palletizer2,None,SEC,Line2 Palletizer2 PLC
+String,Line2 Wrapper2,None,SEC,Line2 Wrapper2 PLC
+String,Line1,None,LINE,ABLE
+String,Line1 Depal1,None,SEC,Line1 Depal1 PLC
+String,Line1 Winder1,None,LINE,ABLE
+String,Line1 Winder2,None,LINE,ABLE
+String,Line1 Stuffer1,None,SEC,Line1 Stuffer1 PLC
+String,Line1 Filler1,None,SEC,Line1 Filler1 PLC
+String,Line1 Labeler1,None,SEC,Line1 Labeler1 PLC
+String,Line1 Labeler2,None,SEC,Line1 Labeler2 PLC
+String,Line1 Labeler3,None,SEC,Line1 Labeler3 PLC
+String,Line1 CosmoPack1,None,SEC,Line1 CosmoPack1 PLC
+String,Line1 CosmoPack2,None,SEC,Line1 CosmoPack2 PLC
+String,Line1 FS1,None,SEC,Line1 FS1 PLC
+String,Line1 FS2,None,SEC,Line1 FS2 PLC
+String,Line1 TFS1,None,SEC,Line1 TFS1 PLC
+String,Line1 TFS2,None,SEC,Line1 TFS2 PLC
+String,Line1 Palletizer1,None,SEC,Line1 Palletizer1 PLC
+String,Line1 Wrapper1,None,SEC,Line1 Wrapper1 PLC
