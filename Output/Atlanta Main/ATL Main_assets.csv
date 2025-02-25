@@ -1,0 +1,473 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Atlanta Main,HC1,None,LINE,HC1 SLCS PLC
+Atlanta Main,HC1 Decaser,None,SEC,HC1 Decaser PLC
+Atlanta Main,HC1 Posiflex,None,SEC,HC1 Posiflex PLC
+Atlanta Main,HC1 Giramat,None,SEC,HC1 Giramat PLC
+Atlanta Main,HC1 Filler-Capper,None,SEC,HC1 SLCS PLC
+Atlanta Main,HC1 Sleever,None,SEC,HC1 Sleever PLC
+Atlanta Main,HC1 Twin Sleever,None,SEC,HC1 Twin Sleever PLC
+Atlanta Main,HC1 Flexlink Accum,None,SEC,HC1 Flexlink Accum PLC
+Atlanta Main,HC1 Case Packer,None,SEC,HC1 Case Packer PLC
+Atlanta Main,HC1 Case Sealer,None,SEC,HC1 SLCS PLC
+Atlanta Main,HC1 Print And Apply,None,SEC,HC1 SLCS PLC
+Atlanta Main,HC1 Palletizer,None,SEC,HC1 Palletizer PLC
+Atlanta Main,HC1 Stretch Wrapper,None,SEC,HC1 Stretch Wrapper PLC
+Atlanta Main,HC2,None,LINE,HC2 SLCS PLC
+Atlanta Main,HC2 Decaser,None,SEC,HC2 SLCS PLC
+Atlanta Main,HC2 Posiflex,None,SEC,HC2 Posiflex PLC
+Atlanta Main,HC2 Giramat,None,SEC,HC2 Giramat PLC
+Atlanta Main,HC2 Labeler,None,SEC,HC2 Labeler PLC
+Atlanta Main,HC2 Filler,None,SEC,HC2 Filler PLC
+Atlanta Main,HC2 Capper,None,SEC,HC2 Capper PLC
+Atlanta Main,HC2 Case Packer,None,SEC,HC2 Case Packer PLC
+Atlanta Main,HC2 Case Sealer,None,SEC,HC2 SLCS PLC
+Atlanta Main,HC2 Palletizer,None,SEC,HC2 Palletizer PLC
+Atlanta Main,HC2 Print And Apply,None,SEC,HC2 SLCS PLC
+Atlanta Main,HC2 Stretch Wrapper,None,SEC,HC2 Stretch Wrapper PLC
+Atlanta Main,HC5,None,LINE,HC5 SLCS PLC
+Atlanta Main,HC5 Decaser,None,SEC,HC5 Decaser PLC
+Atlanta Main,HC5 Posiflex,None,SEC,HC5 Posiflex PLC
+Atlanta Main,HC5 Giramat,None,SEC,HC5 Giramat PLC
+Atlanta Main,HC5 Dynac,None,SEC,HC5 Dynac PLC
+Atlanta Main,HC5 Filler,None,SEC,HC5 Filler PLC
+Atlanta Main,HC5 Trigger Inserter,None,SEC,HC5 Trigger Inserter PLC
+Atlanta Main,HC5 Trigger Sorter,None,SEC,HC5 Trigger Sorter PLC
+Atlanta Main,HC5 Sleever,None,SEC,HC5 Sleever PLC
+Atlanta Main,HC5 Case Packer,None,SEC,HC5 Case Packer PLC
+Atlanta Main,HC5 Case Sealer,None,SEC,HC5 SLCS PLC
+Atlanta Main,HC5 Palletizer,None,SEC,HC5 Palletizer PLC
+Atlanta Main,HC5 Print And Apply,None,SEC,HC5 SLCS PLC
+Atlanta Main,HC5 Stretch Wrapper,None,SEC,HC5 Stretch Wrapper PLC
+Atlanta Main,HC6,None,LINE,HC6 SLCS PLC
+Atlanta Main,HC6 SIPA1,None,SEC,HC6 SLCS PLC
+Atlanta Main,HC6 SIPA2,None,SEC,HC6 SLCS PLC
+Atlanta Main,HC6 Sipas,None,VIRT,HC6 SLCS PLC
+Atlanta Main,HC6 Posijet Airveyor,None,SEC,HC6 Posijet Airveyor PLC
+Atlanta Main,HC6 Filler,None,SEC,HC6 SLCS PLC
+Atlanta Main,HC6 Capper,None,SEC,HC6 Capper PLC
+Atlanta Main,HC6 Handle Placer,None,SEC,HC6 Handle Placer PLC
+Atlanta Main,HC6 Labeler,None,SEC,HC6 Labeler PLC
+Atlanta Main,HC6 Active Erector,None,VIRT,HC6 SLCS PLC
+Atlanta Main,HC6 Erector Bliss,None,SEC,HC6 Erector Bliss PLC
+Atlanta Main,HC6 Erector Bliss 2,None,SEC,HC6 Erector Bliss 2 PLC
+Atlanta Main,HC6 Erector RSC,None,SEC,HC6 Erector RSC PLC
+Atlanta Main,HC6 Dog Bone,None,SEC,HC6 Dog Bone PLC
+Atlanta Main,HC6 Case Sealer,None,SEC,HC6 SLCS PLC
+Atlanta Main,HC6 Case Packer,None,SEC,HC6 Case Packer PLC
+Atlanta Main,HC6 Palletizer,None,SEC,HC6 Palletizer PLC
+Atlanta Main,HC6 Stretch Wrapper,None,SEC,HC6 Stretch Wrapper PLC
+Atlanta Main,UM-1820 TBC-GEL,None,VIRT,Process GEL PLC
+Atlanta Main,UM-1820 Phases,None,VIRT,Process GEL PLC
+Atlanta Main,EM-T1820 Main Adds,None,VIRT,Process GEL PLC
+Atlanta Main,EM-T1820 Minor Adds,None,VIRT,Process GEL PLC
+Atlanta Main,EM-T1820 Final Adds,None,VIRT,Process GEL PLC
+Atlanta Main,EM-SideA Main Adds,None,VIRT,Process TLX PLC
+Atlanta Main,EM-SideA Scent Adds,None,VIRT,Process TLX PLC
+Atlanta Main,EM-SideB Main Adds,None,VIRT,Process TLX PLC
+Atlanta Main,EM-SideB Scent Adds,None,VIRT,Process TLX PLC
+Atlanta Main,EM-TLX-HC2 Feed,None,VIRT,Process TLX PLC
+Atlanta Main,EM-TLX-HC2 Return,None,VIRT,Process TLX PLC
+Atlanta Main,EM-TLX-HC4 Feed,None,VIRT,Process TLX PLC
+Atlanta Main,EM-TLX-HC4 Return,None,VIRT,Process TLX PLC
+Atlanta Main,EM-TLX-HC5 Feed,None,VIRT,Process TLX PLC
+Atlanta Main,EM-TLX-HC5 Return,None,VIRT,Process TLX PLC
+Atlanta Main,Finished Prod T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,DI H2O - T-1803,None,VIRT,Process GEL PLC
+Atlanta Main,Pigment - T-1803,None,VIRT,Process GEL PLC
+Atlanta Main,T-1803 Pigment PB,None,VIRT,Process GEL PLC
+Atlanta Main,Amine Oxide - T-1806,None,VIRT,Process GEL PLC
+Atlanta Main,Barlox14 - T-1806,None,VIRT,Process GEL PLC
+Atlanta Main,Bleach - T-1806,None,VIRT,Process GEL PLC
+Atlanta Main,Caustic - T-1806,None,VIRT,Process GEL PLC
+Atlanta Main,FattyAcid - T-1806,None,VIRT,Process GEL PLC
+Atlanta Main,HOT DI H2O - T-1806,None,VIRT,Process GEL PLC
+Atlanta Main,T-1806 FattyAcid PB,None,VIRT,Process GEL PLC
+Atlanta Main,Amine Oxide - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,MO - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,Opacifier - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,Bleach - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,Caustic - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,DI H2O - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,Hot DI H2O - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,KI - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,FattyAcidPB - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,FragranceF1 - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,FragranceF2 - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,Pigment PB - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,TBC FA PB - T-1820,None,VIRT,Process GEL PLC
+Atlanta Main,Crossover Disabled,None,VIRT,Process TLX PLC
+Atlanta Main,Crossover to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Crossover to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Fuji Oil to T-4003,None,VIRT,Process TLX PLC
+Atlanta Main,Sanisol to T-4003,None,VIRT,Process TLX PLC
+Atlanta Main,T-1231 TMMR Filling,None,VIRT,Process TLX PLC
+Atlanta Main,T-1232 TMMR Filling,None,VIRT,Process TLX PLC
+Atlanta Main,T-1233 TMMR Filling,None,VIRT,Process TLX PLC
+Atlanta Main,T-4003 FMMR Filling,None,VIRT,Process TLX PLC
+Atlanta Main,T-1143 Silicate Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-1301 Caustic Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-1616 Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-1617 Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-2002 AO Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-2003 AO Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-3001 Fill,None,VIRT,Process TLX PLC
+Atlanta Main,T-3002 Fill,None,VIRT,Process TLX PLC
+Atlanta Main,AO to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Bleach to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Caustic to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Silicate to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Softwater to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,CCU Scent to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Citrus Scent-Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Fragrance to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,Fresh Scent - Side A,None,VIRT,Process TLX PLC
+Atlanta Main,TMMR Scent to Side A,None,VIRT,Process TLX PLC
+Atlanta Main,AO to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Bleach to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Caustic to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Silicate to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Softwater to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,CCU Scent to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Citrus Scent-Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Fragrance to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,Fresh Scent - Side B,None,VIRT,Process TLX PLC
+Atlanta Main,TMMR Scent to Side B,None,VIRT,Process TLX PLC
+Atlanta Main,T-1231 TMMR to HC2,None,VIRT,Process TLX PLC
+Atlanta Main,T-1233 CCU to HC2,None,VIRT,Process TLX PLC
+Atlanta Main,HC2 to T-1231 TMMR,None,VIRT,Process TLX PLC
+Atlanta Main,HC2 to T-1233 CCU,None,VIRT,Process TLX PLC
+Atlanta Main,T-1231 TMMR to HC4,None,VIRT,Process TLX PLC
+Atlanta Main,T-1232 Swing to HC4,None,VIRT,Process TLX PLC
+Atlanta Main,T-1233 CCU to HC4,None,VIRT,Process TLX PLC
+Atlanta Main,T-4003 FMMR to HC4,None,VIRT,Process TLX PLC
+Atlanta Main,HC4 to T-1231 TMMR,None,VIRT,Process TLX PLC
+Atlanta Main,HC4 to T-1232 Swing,None,VIRT,Process TLX PLC
+Atlanta Main,HC4 to T-1233 CCU,None,VIRT,Process TLX PLC
+Atlanta Main,HC4 to T-4003 FMMR,None,VIRT,Process TLX PLC
+Atlanta Main,T-1231 TMMR to HC5,None,VIRT,Process TLX PLC
+Atlanta Main,T-1232 Swing to HC5,None,VIRT,Process TLX PLC
+Atlanta Main,T-1233 CCU to HC5,None,VIRT,Process TLX PLC
+Atlanta Main,T-4003 FMMR to HC5,None,VIRT,Process TLX PLC
+Atlanta Main,HC5 to T-1231 TMMR,None,VIRT,Process TLX PLC
+Atlanta Main,HC5 to T-1232 Swing,None,VIRT,Process TLX PLC
+Atlanta Main,HC5 to T-1233 CCU,None,VIRT,Process TLX PLC
+Atlanta Main,HC5 to T-4003 FMMR,None,VIRT,Process TLX PLC
+Atlanta Main,LD4,None,VIRT,LD4 Filler PLC
+Atlanta Main,LD4 Depal,None,VIRT,LD4 Depal PLC
+Atlanta Main,LD4 Labeler,None,VIRT,LD4 Labeler PLC
+Atlanta Main,LD4 Filler,None,VIRT,LD4 Filler PLC
+Atlanta Main,LD4 Capper,None,VIRT,LD4 Capper PLC
+Atlanta Main,LD4 Carton Load,None,VIRT,LD4 Carton Loader PLC
+Atlanta Main,LD4 Case Erector,None,VIRT,LD4 Case Erector PLC
+Atlanta Main,LD4 Case Packer,None,VIRT,LD4 Case Packer PLC
+Atlanta Main,LD4 Case Sealer,None,VIRT,LD4 Case Sealer PLC
+Atlanta Main,LD4 Case Coder,None,VIRT,LD4 Case Coder PLC
+Atlanta Main,LD4 Palletizer,None,VIRT,LD4 Palletizer PLC
+Atlanta Main,LD4 Stretch Wrap,None,VIRT,LD4 Stretch Wrapper PLC
+Atlanta Main,PMLx-LD4 Depal,None,VIRT,LD4 Depal PLC
+Atlanta Main,PMLx-LD4 Labeler,None,VIRT,LD4 Labeler PLC
+Atlanta Main,PMLx-LD4 Filler,None,VIRT,LD4 Filler PLC
+Atlanta Main,PMLx-LD4 Capper,None,VIRT,LD4 Capper PLC
+Atlanta Main,PMLx-LD4 Carton Loa,None,VIRT,LD4 Carton Loader PLC
+Atlanta Main,PMLx-LD4 Case Erecto,None,VIRT,LD4 Case Erector PLC
+Atlanta Main,PMLx-LD4 Case Packe,None,VIRT,LD4 Case Packer PLC
+Atlanta Main,PMLx-LD4 Case Seale,None,VIRT,LD4 Case Sealer PLC
+Atlanta Main,PMLx-LD4 Case Code,None,VIRT,LD4 Case Coder PLC
+Atlanta Main,PMLx-LD4 Palletize,None,VIRT,LD4 Palletizer PLC
+Atlanta Main,PMLx-LD4 Stretch Wra,None,VIRT,LD4 Stretch Wrapper PLC
+Atlanta Main,FLTx-LD4 Capper,None,VIRT,LD4 Capper PLC
+Atlanta Main,FLTx-LD4 Case Code,None,VIRT,LD4 Case Coder PLC
+Atlanta Main,FLTx-LD4 Case Erecto,None,VIRT,LD4 Case Erector PLC
+Atlanta Main,FLTx-LD4 Case Packe,None,VIRT,LD4 Case Packer PLC
+Atlanta Main,FLTx-LD4 Depal,None,VIRT,LD4 Depal PLC
+Atlanta Main,FLTx-LD4 Filler,None,VIRT,LD4 Filler PLC
+Atlanta Main,FLTx-LD4 Palletize,None,VIRT,LD4 Palletizer PLC
+Atlanta Main,FLTx-LD4 Stretch Wra,None,VIRT,LD4 Stretch Wrapper PLC
+Atlanta Main,FLTx-LD4 Labeler,None,VIRT,LD4 Labeler PLC
+Atlanta Main,FLTx-LD4 Carton Loa,None,VIRT,LD4 Carton Loader PLC
+Atlanta Main,FLTx-LD4 Case Seale,None,VIRT,LD4 Case Sealer PLC
+Atlanta Main,LD4 Lab-Fill-Cap,None,VIRT,LD4 SLCS PLC
+Atlanta Main,LD4 Case Feed,None,VIRT,LD4 SLCS PLC
+Atlanta Main,LD4 Pack-Seal-Code,None,VIRT,LD4 SLCS PLC
+Atlanta Main,LD4 Pall-Wrap,None,VIRT,LD4 SLCS PLC
+Atlanta Main,CK-LD4 Lab-Fill-Cap,None,VIRT,LD4 SLCS PLC
+Atlanta Main,CK-LD4 Case Feed,None,VIRT,LD4 SLCS PLC
+Atlanta Main,CK-LD4 Pak-Seal-Code,None,VIRT,LD4 SLCS PLC
+Atlanta Main,CK-LD4 Pall-Wrap,None,VIRT,LD4 SLCS PLC
+Atlanta Main,NEW HC1 Decaser,None,VIRT,HC1 Decaser PLC
+Atlanta Main,NEW HC1 Posiflex,None,VIRT,HC1 Posiflex PLC
+Atlanta Main,NEW HC1 Giramat,None,VIRT,HC1 Giramat PLC
+Atlanta Main,NEW HC1 Filler-Capper,None,VIRT,New HC1 SLCS PLC
+Atlanta Main,NEW HC1 Sleever,None,VIRT,HC1 Sleever PLC
+Atlanta Main,NEW HC1 Twin Sleever,None,VIRT,HC1 Twin Sleever PLC
+Atlanta Main,NEW HC1 Flexlink Accum,None,VIRT,HC1 Flexlink Accum PLC
+Atlanta Main,NEW HC1 Case Packer,None,VIRT,HC1 Case Packer PLC
+Atlanta Main,NEW HC1 Case Sealer,None,VIRT,New HC1 SLCS PLC
+Atlanta Main,NEW HC1 Print And Apply,None,VIRT,HC1 Print And Apply PLC
+Atlanta Main,NEW HC1 Palletizer,None,VIRT,HC1 Palletizer PLC
+Atlanta Main,NEW HC1 Stretch Wrapper,None,VIRT,HC1 Stretch Wrapper PLC
+Atlanta Main,NEW HC2 Decaser,None,VIRT,HC2 SLCS PLC
+Atlanta Main,NEW HC2 Posiflex,None,VIRT,HC2 Posiflex PLC
+Atlanta Main,NEW HC2 Giramat,None,VIRT,HC2 Giramat PLC
+Atlanta Main,NEW HC2 Labeler,None,VIRT,HC2 Labeler PLC
+Atlanta Main,NEW HC2 Filler,None,VIRT,HC2 Filler PLC
+Atlanta Main,NEW HC2 Capper,None,VIRT,HC2 Capper PLC
+Atlanta Main,NEW HC2 Case Packer,None,VIRT,HC2 Case Packer PLC
+Atlanta Main,NEW HC2 Case Sealer,None,VIRT,HC2 SLCS PLC
+Atlanta Main,NEW HC2 Palletizer,None,VIRT,HC2 Palletizer PLC
+Atlanta Main,NEW HC2 Print And Apply,None,VIRT,HC2 Print And Apply PLC
+Atlanta Main,NEW HC2 Stretch Wrapper,None,VIRT,HC2 Stretch Wrapper PLC
+Atlanta Main,NEW_HC5,None,LINE,None
+Atlanta Main,NEW HC5 Decaser,None,SEC,NEW HC5 Decaser PLC
+Atlanta Main,NEW HC5 Posiflex,None,SEC,NEW HC5 Posiflex PLC
+Atlanta Main,NEW HC5 Giramat,None,SEC,NEW HC5 Giramat PLC
+Atlanta Main,NEW HC5 Dynac,None,SEC,NEW HC5 Dynac PLC
+Atlanta Main,NEW HC5 Filler,None,SEC,NEW HC5 Filler PLC
+Atlanta Main,NEW HC5 Trigger Inserter,None,SEC,NEW HC5 Trigger Inserter PLC
+Atlanta Main,NEW HC5 Trigger Sorter,None,SEC,NEW HC5 Trigger Sorter PLC
+Atlanta Main,NEW HC5 Sleever,None,SEC,NEW HC5 Sleever PLC
+Atlanta Main,NEW HC5 Case Packer,None,SEC,NEW HC5 Case Packer PLC
+Atlanta Main,NEW HC5 Case Sealer,None,SEC,NEW HC5 SLCS PLC
+Atlanta Main,NEW HC5 Palletizer,None,SEC,NEW HC5 Palletizer PLC
+Atlanta Main,NEW HC5 Print And Apply,None,VIRT,NEW HC5 SLCS PLC
+Atlanta Main,NEW HC5 Stretch Wrapper,None,SEC,NEW HC5 Stretch Wrapper PLC
+Atlanta Main,NEW_HC6,None,LINE,None
+Atlanta Main,NEW HC6 SIPA1,None,SEC,HC6 SLCS PLC
+Atlanta Main,NEW HC6 SIPA2,None,SEC,HC6 SLCS PLC
+Atlanta Main,NEW HC6 Posijet Airveyor,None,VIRT,HC6 Posijet Airveyor PLC
+Atlanta Main,NEW HC6 Filler,None,SEC,HC6 SLCS PLC
+Atlanta Main,NEW HC6 Capper,None,SEC,HC6 Capper PLC
+Atlanta Main,NEW HC6 Labeler,None,SEC,HC6 Labeler PLC
+Atlanta Main,NEW HC6 Erector Bliss,None,SEC,HC6 Erector Bliss PLC
+Atlanta Main,NEW HC6 Erector Bliss 2,None,SEC,HC6 Erector Bliss 2 PLC
+Atlanta Main,NEW HC6 Erector RSC,None,SEC,HC6 Erector RSC PLC
+Atlanta Main,NEW HC6 Dog Bone,None,SEC,HC6 Dog Bone PLC
+Atlanta Main,NEW HC6 Ind Sealer,None,SEC,HC6 SLCS PLC
+Atlanta Main,NEW HC6 Case Sealer,None,SEC,HC6 SLCS PLC
+Atlanta Main,NEW HC6 Case Packer,None,SEC,HC6 Case Packer PLC
+Atlanta Main,NEW HC6 Coder,None,VIRT,HC6 SLCS PLC
+Atlanta Main,NEW HC6 Palletizer,None,SEC,HC6 Palletizer PLC
+Atlanta Main,NEW HC6 Stretch Wrapper,None,SEC,HC6 Stretch Wrapper PLC
+Atlanta Main,PML HC1 Decaser,None,VIRT,HC1 Decaser PLC
+Atlanta Main,PML HC1 Posiflex,None,VIRT,HC1 Posiflex PLC
+Atlanta Main,PML HC1 Giramat,None,VIRT,HC1 Giramat PLC
+Atlanta Main,PML HC1 Filler-Capper,None,VIRT,New HC1 SLCS PLC
+Atlanta Main,PML HC1 Sleever,None,VIRT,HC1 Sleever PLC
+Atlanta Main,PML HC1 Twin Sleever,None,VIRT,HC1 Twin Sleever PLC
+Atlanta Main,PML HC1 Flexlink Accum,None,VIRT,HC1 Flexlink Accum PLC
+Atlanta Main,PML HC1 Case Packer,None,VIRT,HC1 Case Packer PLC
+Atlanta Main,PML HC1 Case Sealer,None,VIRT,New HC1 SLCS PLC
+Atlanta Main,PML HC1 Palletizer,None,VIRT,HC1 Palletizer PLC
+Atlanta Main,PML HC1 Stretch Wrapper,None,VIRT,HC1 Stretch Wrapper PLC
+Atlanta Main,PML HC2 Decaser,None,VIRT,HC2 SLCS PLC
+Atlanta Main,PML HC2 Posiflex,None,VIRT,HC2 Posiflex PLC
+Atlanta Main,PML HC2 Giramat,None,VIRT,HC2 Giramat PLC
+Atlanta Main,PML HC2 Labeler,None,VIRT,HC2 Labeler PLC
+Atlanta Main,PML HC2 Filler,None,VIRT,HC2 Filler PLC
+Atlanta Main,PML HC2 Capper,None,VIRT,HC2 Capper PLC
+Atlanta Main,PML HC2 Case Packer,None,VIRT,HC2 Case Packer PLC
+Atlanta Main,PML HC2 Case Sealer,None,VIRT,HC2 SLCS PLC
+Atlanta Main,PML HC2 Palletizer,None,VIRT,HC2 Palletizer PLC
+Atlanta Main,PML HC2 Stretch Wrapper,None,VIRT,HC2 Stretch Wrapper PLC
+Atlanta Main,PML HC5 Decaser,None,VIRT,NEW HC5 Decaser PLC
+Atlanta Main,PML HC5 Posiflex,None,VIRT,NEW HC5 Posiflex PLC
+Atlanta Main,PML HC5 Giramat,None,VIRT,NEW HC5 Giramat PLC
+Atlanta Main,PML HC5 Dynac,None,VIRT,NEW HC5 Dynac PLC
+Atlanta Main,PML HC5 Filler,None,VIRT,NEW HC5 Filler PLC
+Atlanta Main,PML HC5 Trigger Inserter,None,VIRT,NEW HC5 Trigger Inserter PLC
+Atlanta Main,PML HC5 Trigger Sorter,None,VIRT,NEW HC5 Trigger Sorter PLC
+Atlanta Main,PML HC5 Sleever,None,VIRT,NEW HC5 Sleever PLC
+Atlanta Main,PML HC5 Case Packer,None,VIRT,NEW HC5 Case Packer PLC
+Atlanta Main,PML HC5 Case Sealer,None,VIRT,NEW HC5 SLCS PLC
+Atlanta Main,PML HC5 Palletizer,None,VIRT,NEW HC5 Palletizer PLC
+Atlanta Main,PML HC5 Stretch Wrapper,None,VIRT,NEW HC5 Stretch Wrapper PLC
+Atlanta Main,PML HC6 SIPA1,None,VIRT,HC6 SLCS PLC
+Atlanta Main,PML HC6 SIPA2,None,VIRT,HC6 SLCS PLC
+Atlanta Main,PML HC6 Posijet Airveyor,None,VIRT,HC6 Posijet Airveyor PLC
+Atlanta Main,PML HC6 Filler,None,VIRT,HC6 SLCS PLC
+Atlanta Main,PML HC6 Capper,None,VIRT,HC6 Capper PLC
+Atlanta Main,PML HC6 Labeler,None,VIRT,HC6 Labeler PLC
+Atlanta Main,PML HC6 Erector Bliss,None,VIRT,HC6 Erector Bliss PLC
+Atlanta Main,PML HC6 Erector Bliss 2,None,VIRT,HC6 Erector Bliss 2 PLC
+Atlanta Main,PML HC6 Erector RSC,None,VIRT,HC6 Erector RSC PLC
+Atlanta Main,PML HC6 Dog Bone,None,VIRT,HC6 Dog Bone PLC
+Atlanta Main,PML HC6 Ind Sealer,None,VIRT,HC6 SLCS PLC
+Atlanta Main,PML HC6 Case Sealer,None,VIRT,HC6 SLCS PLC
+Atlanta Main,PML HC6 Case Packer,None,VIRT,HC6 Case Packer PLC
+Atlanta Main,PML HC6 Palletizer,None,VIRT,HC6 Palletizer PLC
+Atlanta Main,PML HC6 Stretch Wrapper,None,VIRT,HC6 Stretch Wrapper PLC
+Atlanta Main,FLT HC1 Decaser,None,VIRT,HC1 Decaser PLC
+Atlanta Main,FLT HC1 Posiflex,None,VIRT,HC1 Posiflex PLC
+Atlanta Main,FLT HC1 Giramat,None,VIRT,HC1 Giramat PLC
+Atlanta Main,FLT HC1 Filler-Capper,None,VIRT,New HC1 SLCS PLC
+Atlanta Main,FLT HC1 Sleever,None,VIRT,HC1 Sleever PLC
+Atlanta Main,FLT HC1 Twin Sleever,None,VIRT,HC1 Twin Sleever PLC
+Atlanta Main,FLT HC1 Flexlink Accum,None,VIRT,HC1 Flexlink Accum PLC
+Atlanta Main,FLT HC1 Case Packer,None,VIRT,HC1 Case Packer PLC
+Atlanta Main,FLT HC1 Case Sealer,None,VIRT,New HC1 SLCS PLC
+Atlanta Main,FLT HC1 Palletizer,None,VIRT,HC1 Palletizer PLC
+Atlanta Main,FLT HC1 Stretch Wrapper,None,VIRT,HC1 Stretch Wrapper PLC
+Atlanta Main,FLT HC2 Decaser,None,VIRT,HC2 SLCS PLC
+Atlanta Main,FLT HC2 Posiflex,None,VIRT,HC2 Posiflex PLC
+Atlanta Main,FLT HC2 Giramat,None,VIRT,HC2 Giramat PLC
+Atlanta Main,FLT HC2 Labeler,None,VIRT,HC2 Labeler PLC
+Atlanta Main,FLT HC2 Filler,None,VIRT,HC2 Filler PLC
+Atlanta Main,FLT HC2 Capper,None,VIRT,HC2 Capper PLC
+Atlanta Main,FLT HC2 Case Packer,None,VIRT,HC2 Case Packer PLC
+Atlanta Main,FLT HC2 Case Sealer,None,VIRT,HC2 SLCS PLC
+Atlanta Main,FLT HC2 Palletizer,None,VIRT,HC2 Palletizer PLC
+Atlanta Main,FLT HC2 Stretch Wrapper,None,VIRT,HC2 Stretch Wrapper PLC
+Atlanta Main,NEW_HC3,None,VIRT,None
+Atlanta Main,NEW HC3 Capper,None,VIRT,HC3 Capper PLC
+Atlanta Main,NEW HC3 Case Packer,None,VIRT,HC3 Case Packer PLC
+Atlanta Main,NEW HC3 Filler,None,VIRT,HC3 SLCS PLC
+Atlanta Main,NEW HC3 Labeler,None,VIRT,HC3 Labeler PLC
+Atlanta Main,NEW HC3 Palletizer,None,VIRT,HC3 Palletizer PLC
+Atlanta Main,NEW HC3 Stretch Wrapper,None,VIRT,HC3 Stretch Wrapper PLC
+Atlanta Main,NEW HC3 Airveyor,None,VIRT,HC3 SIG Airveyor PLC
+Atlanta Main,NEW HC3 SIG Molder,None,VIRT,HC3 SLCS PLC
+Atlanta Main,NEW_HC4,None,VIRT,None
+Atlanta Main,NEW HC4 Print And Apply,None,VIRT,HC4 Print And Apply PLC
+Atlanta Main,NEW HC4 Case Packer,None,VIRT,HC4 Case Packer PLC
+Atlanta Main,NEW HC4 Case Sealer,None,VIRT,HC4 SLCS PLC
+Atlanta Main,NEW HC4 Decaser,None,VIRT,HC4 SLCS PLC
+Atlanta Main,NEW HC4 Dynac,None,VIRT,HC4 Dynac PLC
+Atlanta Main,NEW HC4 Filler,None,VIRT,HC4 Filler PLC
+Atlanta Main,NEW HC4 Giramat,None,VIRT,HC4 Giramat PLC
+Atlanta Main,NEW HC4 Palletizer,None,VIRT,HC4 Palletizer PLC
+Atlanta Main,NEW HC4 Posiflex,None,VIRT,HC4 Posiflex PLC
+Atlanta Main,NEW HC4 Sleever,None,VIRT,HC4 Sleever PLC
+Atlanta Main,NEW HC4 Stretch Wrapper,None,VIRT,HC4 Stretch Wrapper PLC
+Atlanta Main,NEW HC4 Trigger Sorter,None,VIRT,HC4 Trigger Sorter PLC
+Atlanta Main,NEW HC4 Trigger Inserter,None,VIRT,HC4 Trigger Inserter PLC
+Atlanta Main,NEW_HC7,None,VIRT,None
+Atlanta Main,NEW HC7 Capper,None,VIRT,HC7 SLCS PLC
+Atlanta Main,NEW HC7 Case Packer,None,VIRT,HC7 Case Packer PLC
+Atlanta Main,NEW HC7 Case Sealer,None,VIRT,HC7 Case Packer PLC
+Atlanta Main,NEW HC7 Decaser,None,VIRT,HC7 Decaser PLC
+Atlanta Main,NEW HC7 Filler,None,VIRT,HC7 SLCS PLC
+Atlanta Main,NEW HC7 Giramat,None,VIRT,HC7 Giramat PLC
+Atlanta Main,NEW HC7 Palletizer,None,VIRT,HC7 Palletizer PLC
+Atlanta Main,NEW HC7 Print And Apply,None,VIRT,HC7 SLCS PLC
+Atlanta Main,NEW HC7 Sleever,None,VIRT,HC7 Sleever PLC
+Atlanta Main,NEW HC7 Stretch Wrapper,None,VIRT,HC7 Stretch Wrapper PLC
+Atlanta Main,NEW_LD1,None,LINE,None
+Atlanta Main,NEW LD1 Depal,None,SEC,LD1 Depal PLC
+Atlanta Main,NEW LD1 Labeler,None,SEC,LD1 Labeler PLC
+Atlanta Main,NEW LD1 Filler,None,SEC,LD1 Filler PLC
+Atlanta Main,NEW LD1 Capper,None,SEC,LD1 Capper PLC
+Atlanta Main,NEW LD1 Laner,None,SEC,LD1 Laner PLC
+Atlanta Main,NEW LD1 Case Packer,None,SEC,LD1 Case Packer PLC
+Atlanta Main,NEW LD2 Case Packer,None,SEC,LD2 Case Packer PLC
+Atlanta Main,NEW LD1 Print And Apply,None,VIRT,LD1 SLCS PLC
+Atlanta Main,NEW LD2 Print And Apply,None,VIRT,LD1 SLCS PLC
+Atlanta Main,NEW LD1 Case Sealer,None,SEC,LD1 Case Sealer PLC
+Atlanta Main,NEW LD2 Case Sealer,None,SEC,LD2 Case Sealer PLC
+Atlanta Main,NEW LD1 Palletizer,None,SEC,LD1 Palletizer PLC
+Atlanta Main,NEW LD1 Stretch Wrapper,None,SEC,LD1 Stretch Wrapper PLC
+Atlanta Main,NEW LD1 Case Erector,None,SEC,LD1 Case Erector PLC
+Atlanta Main,NEW LD1 Rate Loss,None,VIRT,LD1 Filler PLC
+Atlanta Main,NEW_LD4,None,LINE,None
+Atlanta Main,NEW LD4 Depal,None,SEC,LD4 Depal PLC
+Atlanta Main,NEW LD4 Labeler,None,SEC,LD4 Labeler PLC
+Atlanta Main,NEW LD4 Filler,None,SEC,LD4 Filler PLC
+Atlanta Main,NEW LD4 Capper,None,SEC,LD4 Capper PLC
+Atlanta Main,NEW LD4 Carton Load,None,SEC,LD4 Carton Loader PLC
+Atlanta Main,NEW LD4 Case Erector,None,SEC,LD4 Case Erector PLC
+Atlanta Main,NEW LD4 Case Packer,None,SEC,LD4 Case Packer PLC
+Atlanta Main,NEW LD4 Case Sealer,None,SEC,LD4 Case Sealer PLC
+Atlanta Main,NEW LD4 Case Coder,None,VIRT,LD4 Case Coder PLC
+Atlanta Main,NEW LD4 Palletizer,None,SEC,LD4 Palletizer PLC
+Atlanta Main,NEW LD4 Stretch Wrapper,None,SEC,LD4 Stretch Wrapper PLC
+Atlanta Main,PML-HC3 Capper,None,VIRT,HC3 Capper PLC
+Atlanta Main,PML-HC3 Case Packer,None,VIRT,HC3 Case Packer PLC
+Atlanta Main,PML-HC3 Filler,None,VIRT,HC3 SLCS PLC
+Atlanta Main,PML-HC3 Labeler,None,VIRT,HC3 Labeler PLC
+Atlanta Main,PML-HC3 Palletizer,None,VIRT,HC3 Palletizer PLC
+Atlanta Main,PML-HC3 Stretch Wrapper,None,VIRT,HC3 Stretch Wrapper PLC
+Atlanta Main,PML-HC3 Airveyor,None,VIRT,HC3 SIG Airveyor PLC
+Atlanta Main,PML-HC3 SIG Molder,None,VIRT,HC3 SLCS PLC
+Atlanta Main,PML-HC4 Case Packer,None,VIRT,HC4 Case Packer PLC
+Atlanta Main,PML-HC4 Case Sealer,None,VIRT,HC4 SLCS PLC
+Atlanta Main,PML-HC4 Decaser,None,VIRT,HC4 SLCS PLC
+Atlanta Main,PML-HC4 Dynac,None,VIRT,HC4 Dynac PLC
+Atlanta Main,PML-HC4 Filler,None,VIRT,HC4 Filler PLC
+Atlanta Main,PML-HC4 Giramat,None,VIRT,HC4 Giramat PLC
+Atlanta Main,PML-HC4 Palletizer,None,VIRT,HC4 Palletizer PLC
+Atlanta Main,PML-HC4 Posiflex,None,VIRT,HC4 Posiflex PLC
+Atlanta Main,PML-HC4 Sleever,None,VIRT,HC4 Sleever PLC
+Atlanta Main,PML-HC4 Stretch Wrapper,None,VIRT,HC4 Stretch Wrapper PLC
+Atlanta Main,PML-HC4 Trigger Sorter,None,VIRT,HC4 Trigger Sorter PLC
+Atlanta Main,PML-HC4 Trigger Inserter,None,VIRT,HC4 Trigger Inserter PLC
+Atlanta Main,PML-HC7 Capper,None,VIRT,HC7 SLCS PLC
+Atlanta Main,PML-HC7 Case Packer,None,VIRT,HC7 Case Packer PLC
+Atlanta Main,PML-HC7 Case Sealer,None,VIRT,HC7 Case Packer PLC
+Atlanta Main,PML-HC7 Decaser,None,VIRT,HC7 Decaser PLC
+Atlanta Main,PML-HC7 Filler,None,VIRT,HC7 SLCS PLC
+Atlanta Main,PML-HC7 Giramat,None,VIRT,HC7 Giramat PLC
+Atlanta Main,PML-HC7 Palletizer,None,VIRT,HC7 Palletizer PLC
+Atlanta Main,PML-HC7 Sleever,None,VIRT,HC7 Sleever PLC
+Atlanta Main,PML-HC7 Stretch Wrapper,None,VIRT,HC7 Stretch Wrapper PLC
+Atlanta Main,PML-LD1 Depal,None,VIRT,LD1 Depal PLC
+Atlanta Main,PML-LD1 Labeler,None,VIRT,LD1 Labeler PLC
+Atlanta Main,PML-LD1 Filler,None,VIRT,LD1 Filler PLC
+Atlanta Main,PML-LD1 Capper,None,VIRT,LD1 Capper PLC
+Atlanta Main,PML-LD1 Laner,None,VIRT,LD1 Laner PLC
+Atlanta Main,PML-LD1 Case Packer,None,VIRT,LD1 Case Packer PLC
+Atlanta Main,PML-LD2 Case Packer,None,VIRT,LD2 Case Packer PLC
+Atlanta Main,PML-LD1 Case Sealer,None,VIRT,LD1 Case Sealer PLC
+Atlanta Main,PML-LD2 Case Sealer,None,VIRT,LD2 Case Sealer PLC
+Atlanta Main,PML-LD1 Palletizer,None,VIRT,LD1 Palletizer PLC
+Atlanta Main,PML-LD1 Stretch Wrapper,None,VIRT,LD1 Stretch Wrapper PLC
+Atlanta Main,PML-LD1 Case Erector,None,VIRT,LD1 Case Erector PLC
+Atlanta Main,PML-LD4 Depal,None,VIRT,LD4 Depal PLC
+Atlanta Main,PML-LD4 Labeler,None,VIRT,LD4 Labeler PLC
+Atlanta Main,PML-LD4 Filler,None,VIRT,LD4 Filler PLC
+Atlanta Main,PML-LD4 Capper,None,VIRT,LD4 Capper PLC
+Atlanta Main,PML-LD4 Carton Load,None,VIRT,LD4 Carton Loader PLC
+Atlanta Main,PML-LD4 Case Erector,None,VIRT,LD4 Case Erector PLC
+Atlanta Main,PML-LD4 Case Packer,None,VIRT,LD4 Case Packer PLC
+Atlanta Main,PML-LD4 Case Sealer,None,VIRT,LD4 Case Sealer PLC
+Atlanta Main,PML-LD4 Case Coder,None,VIRT,LD4 Case Coder PLC
+Atlanta Main,PML-LD4 Palletizer,None,VIRT,LD4 Palletizer PLC
+Atlanta Main,PML-LD4 Stretch Wrapper,None,VIRT,LD4 Stretch Wrapper PLC
+Atlanta Main,FLT-HC3 Capper,None,VIRT,HC3 Capper PLC
+Atlanta Main,FLT-HC3 Case Packer,None,VIRT,HC3 Case Packer PLC
+Atlanta Main,FLT-HC3 Filler,None,VIRT,HC3 SLCS PLC
+Atlanta Main,FLT-HC3 Labeler,None,VIRT,HC3 Labeler PLC
+Atlanta Main,FLT-HC3 Palletizer,None,VIRT,HC3 Palletizer PLC
+Atlanta Main,FLT-HC3 Stretch Wrapper,None,VIRT,HC3 Stretch Wrapper PLC
+Atlanta Main,FLT-HC4 Case Packer,None,VIRT,HC4 Case Packer PLC
+Atlanta Main,FLT-HC4 Case Sealer,None,VIRT,HC4 SLCS PLC
+Atlanta Main,FLT-HC4 Decaser,None,VIRT,HC4 SLCS PLC
+Atlanta Main,FLT-HC4 Dynac,None,VIRT,HC4 Dynac PLC
+Atlanta Main,FLT-HC4 Filler,None,VIRT,HC4 Filler PLC
+Atlanta Main,FLT-HC4 Giramat,None,VIRT,HC4 Giramat PLC
+Atlanta Main,FLT-HC4 Palletizer,None,VIRT,HC4 Palletizer PLC
+Atlanta Main,FLT-HC4 Posiflex,None,VIRT,HC4 Posiflex PLC
+Atlanta Main,FLT-HC4 Sleever,None,VIRT,HC4 Sleever PLC
+Atlanta Main,FLT-HC4 Stretch Wrapper,None,VIRT,HC4 Stretch Wrapper PLC
+Atlanta Main,FLT-HC4 Trigger Sorter,None,VIRT,HC4 Trigger Sorter PLC
+Atlanta Main,FLT-HC4 Trigger Inserter,None,VIRT,HC4 Trigger Inserter PLC
+Atlanta Main,FLT-HC7 Capper,None,VIRT,HC7 SLCS PLC
+Atlanta Main,FLT-HC7 Case Packer,None,VIRT,HC7 Case Packer PLC
+Atlanta Main,FLT-HC7 Case Sealer,None,VIRT,HC7 Case Packer PLC
+Atlanta Main,FLT-HC7 Decaser,None,VIRT,HC7 Decaser PLC
+Atlanta Main,FLT-HC7 Filler,None,VIRT,HC7 SLCS PLC
+Atlanta Main,FLT-HC7 Giramat,None,VIRT,HC7 Giramat PLC
+Atlanta Main,FLT-HC7 Palletizer,None,VIRT,HC7 Palletizer PLC
+Atlanta Main,FLT-HC7 Sleever,None,VIRT,HC7 Sleever PLC
+Atlanta Main,FLT-HC7 Stretch Wrapper,None,VIRT,HC7 Stretch Wrapper PLC
+Atlanta Main,FLT-LD4 Depal,None,VIRT,LD4 Depal PLC
+Atlanta Main,FLT-LD4 Labeler,None,VIRT,LD4 Labeler PLC
+Atlanta Main,FLT-LD4 Filler,None,VIRT,LD4 Filler PLC
+Atlanta Main,FLT-LD4 Capper,None,VIRT,LD4 Capper PLC
+Atlanta Main,FLT-LD4 Carton Load,None,VIRT,LD4 Carton Loader PLC
+Atlanta Main,FLT-LD4 Case Erector,None,VIRT,LD4 Case Erector PLC
+Atlanta Main,FLT-LD4 Case Packer,None,VIRT,LD4 Case Packer PLC
+Atlanta Main,FLT-LD4 Case Sealer,None,VIRT,LD4 Case Sealer PLC
+Atlanta Main,FLT-LD4 Case Coder,None,VIRT,LD4 Case Coder PLC
+Atlanta Main,FLT-LD4 Palletizer,None,VIRT,LD4 Palletizer PLC
+Atlanta Main,FLT-LD4 Stretch Wrapper,None,VIRT,LD4 Stretch Wrapper PLC
+Atlanta Main,NEW_HC1,None,LINE,None
+Atlanta Main,NEW_HC2,None,LINE,None

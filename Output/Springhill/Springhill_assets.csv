@@ -1,0 +1,97 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Springhill,Line1,None,LINE,Line1_Filler PLC
+Springhill,Line1 Filler,None,SEC,Line1_Filler PLC
+Springhill,Line1 Casepacker,None,SEC,Line1_Casepacker PLC
+Springhill,Line1 CP Robot,None,SEC,Line1_CPRobot PLC
+Springhill,Line1 Taper,None,SEC,Line1_Taper PLC
+Springhill,Line1 Palletizer,None,SEC,Line1_Palletizer PLC
+Springhill,Line1 Stretchwrapper,None,SEC,Line1_Stretchwrapper PLC
+Springhill,Line3,None,LINE,Line3 PLC
+Springhill,Line3 Filler,None,SEC,Line3_Filler PLC
+Springhill,Line3 Casepacker,None,SEC,Line3_Casepacker PLC
+Springhill,Line3 CP Robot,None,SEC,Line3_CPRobot PLC
+Springhill,Line3 Palletizer,None,SEC,Line3_Palletizer PLC
+Springhill,Line3 Stretchwrapper,None,SEC,Line3_Stretchwrapper PLC
+Springhill,Line5,None,LINE,Line5_Filler PLC
+Springhill,Line5 Filler,None,SEC,Line5_Filler PLC
+Springhill,Line5 Palletizer,None,SEC,Line5_Palletizer PLC
+Springhill,Line5 Stretchwrapper,None,SEC,Line5_Stretchwrapper PLC
+Springhill,Line8,None,LINE,Line8 PLC
+Springhill,Line8 Filler1 BS,None,SEC,Line8_Filler1BS PLC
+Springhill,Line8 Filler2 BS,None,SEC,Line8_Filler2BS PLC
+Springhill,Line8 Filler3 BS,None,SEC,Line8_Filler3BS PLC
+Springhill,Line8 Laner,None,SEC,Line8_Laner PLC
+Springhill,Line8 Traypacker,None,SEC,Line8_Traypacker PLC
+Springhill,Line8 Heat Tunnel,None,SEC,Line8_HeatTunnel PLC
+Springhill,Line8 Palletizer,None,SEC,Line8_Palletizer PLC
+Springhill,Line8 Hooder,None,SEC,Line8_Hooder PLC
+Springhill,Line9,None,LINE,Line9 PLC
+Springhill,Line9 Filler1 BS,None,SEC,Line9_Filler1BS PLC
+Springhill,Line9 Filler2 BS,None,SEC,Line9_Filler2BS PLC
+Springhill,Line9 Filler3 BS,None,SEC,Line9_Filler3BS PLC
+Springhill,Line9 Laner,None,SEC,Line9_Laner PLC
+Springhill,Line9 Traypacker,None,SEC,Line9_Traypacker PLC
+Springhill,Line9 Heat Tunnel,None,SEC,Line9_HeatTunnel PLC
+Springhill,Line9 Palletizer,None,SEC,Line9_Palletizer PLC
+Springhill,Line9 Hooder,None,SEC,Line9_Hooder PLC
+Springhill,PML-Line1 Filler,None,VIRT,Line1_Filler PLC
+Springhill,PML-Line1 Casepacker,None,VIRT,Line1_Casepacker PLC
+Springhill,PML-Line1 CP Robot,None,VIRT,Line1_CPRobot PLC
+Springhill,PML-Line1 Taper,None,VIRT,Line1_Taper PLC
+Springhill,PML-Line1 Palletizer,None,VIRT,Line1_Palletizer PLC
+Springhill,PML-Line1 Stretchwrapper,None,VIRT,Line1_Stretchwrapper PLC
+Springhill,PML-Line3 Filler,None,VIRT,Line3_Filler PLC
+Springhill,PML-Line3 Casepacker,None,VIRT,Line3_Casepacker PLC
+Springhill,PML-Line3 CP Robot,None,VIRT,Line3_CPRobot PLC
+Springhill,PML-Line3 Palletizer,None,VIRT,Line3_Palletizer PLC
+Springhill,PML-Line3 Stretchwrapper,None,VIRT,Line3_Stretchwrapper PLC
+Springhill,PML-Line5 Filler,None,VIRT,Line5_Filler PLC
+Springhill,PML-Line5 Palletizer,None,VIRT,Line5_Palletizer PLC
+Springhill,PML-Line5 Stretchwrapper,None,VIRT,Line5_Stretchwrapper PLC
+Springhill,PML-Line8 Filler1 BS,None,VIRT,Line8_Filler1BS PLC
+Springhill,PML-Line8 Filler2 BS,None,VIRT,Line8_Filler2BS PLC
+Springhill,PML-Line8 Filler3 BS,None,VIRT,Line8_Filler3BS PLC
+Springhill,PML-Line8 Laner,None,VIRT,Line8_Laner PLC
+Springhill,PML-Line8 Traypacker,None,VIRT,Line8_Traypacker PLC
+Springhill,PML-Line8 Heat Tunnel,None,VIRT,Line8_HeatTunnel PLC
+Springhill,PML-Line8 ARB,None,VIRT,Line8_ARB PLC
+Springhill,PML-Line8 Palletizer,None,VIRT,Line8_Palletizer PLC
+Springhill,PML-Line8 Hooder,None,VIRT,Line8_Hooder PLC
+Springhill,PML-Line9 Filler1 BS,None,VIRT,Line9_Filler1BS PLC
+Springhill,PML-Line9 Filler2 BS,None,VIRT,Line9_Filler2BS PLC
+Springhill,PML-Line9 Filler3 BS,None,VIRT,Line9_Filler3BS PLC
+Springhill,PML-Line9 Laner,None,VIRT,Line9_Laner PLC
+Springhill,PML-Line9 Traypacker,None,VIRT,Line9_Traypacker PLC
+Springhill,PML-Line9 Heat Tunnel,None,VIRT,Line9_HeatTunnel PLC
+Springhill,PML-Line9 Palletizer,None,VIRT,Line9_Palletizer PLC
+Springhill,PML-Line9 Hooder,None,VIRT,Line9_Hooder PLC
+Springhill,FLT-Line1 Filler,None,VIRT,Line1_Filler PLC
+Springhill,FLT-Line1 Casepacker,None,VIRT,Line1_Casepacker PLC
+Springhill,FLT-Line1 CP Robot,None,VIRT,Line1_CPRobot PLC
+Springhill,FLT-Line1 Taper,None,VIRT,Line1_Taper PLC
+Springhill,FLT-Line1 Palletizer,None,VIRT,Line1_Palletizer PLC
+Springhill,FLT-Line1 Stretchwrapper,None,VIRT,Line1_Stretchwrapper PLC
+Springhill,FLT-Line3 Filler,None,VIRT,Line3_Filler PLC
+Springhill,FLT-Line3 Casepacker,None,VIRT,Line3_Casepacker PLC
+Springhill,FLT-Line3 CP Robot,None,VIRT,Line3_CPRobot PLC
+Springhill,FLT-Line3 Palletizer,None,VIRT,Line3_Palletizer PLC
+Springhill,FLT-Line3 Stretchwrapper,None,VIRT,Line3_Stretchwrapper PLC
+Springhill,FLT-Line5 Filler,None,VIRT,Line5_Filler PLC
+Springhill,FLT-Line5 Palletizer,None,VIRT,Line5_Palletizer PLC
+Springhill,FLT-Line5 Stretchwrapper,None,VIRT,Line5_Stretchwrapper PLC
+Springhill,FLT-Line8 Filler1 BS,None,VIRT,Line8_Filler1BS PLC
+Springhill,FLT-Line8 Filler2 BS,None,VIRT,Line8_Filler2BS PLC
+Springhill,FLT-Line8 Filler3 BS,None,VIRT,Line8_Filler3BS PLC
+Springhill,FLT-Line8 Laner,None,VIRT,Line8_Laner PLC
+Springhill,FLT-Line8 Traypacker,None,VIRT,Line8_Traypacker PLC
+Springhill,FLT-Line8 Heat Tunnel,None,VIRT,Line8_HeatTunnel PLC
+Springhill,FLT-Line8 Palletizer,None,VIRT,Line8_Palletizer PLC
+Springhill,FLT-Line8 Hooder,None,VIRT,Line8_Hooder PLC
+Springhill,FLT-Line9 Filler1 BS,None,VIRT,Line9_Filler1BS PLC
+Springhill,FLT-Line9 Filler2 BS,None,VIRT,Line9_Filler2BS PLC
+Springhill,FLT-Line9 Filler3 BS,None,VIRT,Line9_Filler3BS PLC
+Springhill,FLT-Line9 Laner,None,VIRT,Line9_Laner PLC
+Springhill,FLT-Line9 Traypacker,None,VIRT,Line9_Traypacker PLC
+Springhill,FLT-Line9 Heat Tunnel,None,VIRT,Line9_HeatTunnel PLC
+Springhill,FLT-Line9 Palletizer,None,VIRT,Line9_Palletizer PLC
+Springhill,FLT-Line9 Hooder,None,VIRT,Line9_Hooder PLC

@@ -1,0 +1,75 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Parsons,Retort,None,LINE,Concentrator PLC
+Parsons,Char Storage,None,SEC,Concentrator PLC
+Parsons,Wood Infeed,None,SEC,Concentrator PLC
+Parsons,Sizing,None,SEC,Concentrator PLC
+Parsons,Furnace Charring,None,SEC,Concentrator PLC
+Parsons,ACC Heat,None,SEC,Concentrator PLC
+Parsons,Wood Dryer,None,SEC,Concentrator PLC
+Parsons,Briquetting,None,LINE,Concentrator PLC
+Parsons,Dryer 1,None,SEC,Concentrator PLC
+Parsons,Dryer 2,None,SEC,Concentrator PLC
+Parsons,SilosDischarge Convey,None,SEC,Concentrator PLC
+Parsons,Infeed Conveyors,None,SEC,Concentrator PLC
+Parsons,Press 1,None,SEC,Concentrator PLC
+Parsons,Press 2,None,SEC,Concentrator PLC
+Parsons,HammerMill,None,SEC,Concentrator PLC
+Parsons,Char Silos,None,SEC,Concentrator PLC
+Parsons,MixMull,None,SEC,Concentrator PLC
+Parsons,Minors,None,SEC,Concentrator PLC
+Parsons,Kiln Dust,None,SEC,Concentrator PLC
+Parsons,Line 1,None,LINE,Concentrator PLC
+Parsons,L1 Line Control,None,SEC,Concentrator PLC
+Parsons,L1 Bag Hanger,None,SEC,Concentrator PLC
+Parsons,L1 Bag Mag,None,SEC,Concentrator PLC
+Parsons,L1 Doboy,None,SEC,Concentrator PLC
+Parsons,L1 Heat Tunnel,None,SEC,Concentrator PLC
+Parsons,L1 Palletizer,None,SEC,Concentrator PLC
+Parsons,L1 Stretchwrapper,None,SEC,Concentrator PLC
+Parsons,L1 Upstacker,None,SEC,Concentrator PLC
+Parsons,Line 2,None,LINE,Concentrator PLC
+Parsons,L2 Line Control,None,SEC,Concentrator PLC
+Parsons,L2 Bag Hanger,None,SEC,Concentrator PLC
+Parsons,L2 Bag Mag,None,SEC,Concentrator PLC
+Parsons,L2 Doboy,None,SEC,Concentrator PLC
+Parsons,L2 Heat Tunnel,None,SEC,Concentrator PLC
+Parsons,L2 Palletizer,None,SEC,Concentrator PLC
+Parsons,L2 Stretchwrapper,None,SEC,Concentrator PLC
+Parsons,L2 Spiral Conv,None,SEC,Concentrator PLC
+Parsons,Pretreat,None,SEC,Concentrator PLC
+Parsons,Tank Farm,None,SEC,Concentrator PLC
+Parsons,PML-Char Storage,None,VIRT,Concentrator PLC
+Parsons,PML-Wood Infeed,None,VIRT,Concentrator PLC
+Parsons,PML-Sizing,None,VIRT,Concentrator PLC
+Parsons,PML-Furnace Charring,None,VIRT,Concentrator PLC
+Parsons,PML-ACC Heat,None,VIRT,Concentrator PLC
+Parsons,PML-Wood Dryer,None,VIRT,Concentrator PLC
+Parsons,PML-Dryer 1,None,VIRT,Concentrator PLC
+Parsons,PML-Dryer 2,None,VIRT,Concentrator PLC
+Parsons,PML-SilosDischarge Convey,None,VIRT,Concentrator PLC
+Parsons,PML-Infeed Conveyors,None,VIRT,Concentrator PLC
+Parsons,PML-Press 1,None,VIRT,Concentrator PLC
+Parsons,PML-Press 2,None,VIRT,Concentrator PLC
+Parsons,PML-HammerMill,None,VIRT,Concentrator PLC
+Parsons,PML-Char Silos,None,VIRT,Concentrator PLC
+Parsons,PML-MixMull,None,VIRT,Concentrator PLC
+Parsons,PML-Minors,None,VIRT,Concentrator PLC
+Parsons,PML-Kiln Dust,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Line Control,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Bag Hanger,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Bag Mag,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Doboy,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Heat Tunnel,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Palletizer,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Stretchwrapper,None,VIRT,Concentrator PLC
+Parsons,PML-L1 Upstacker,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Line Control,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Bag Hanger,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Bag Mag,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Doboy,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Heat Tunnel,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Palletizer,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Stretchwrapper,None,VIRT,Concentrator PLC
+Parsons,PML-L2 Spiral Conv,None,VIRT,Concentrator PLC
+Parsons,PML-Pretreat,None,VIRT,Concentrator PLC
+Parsons,PML-Tank Farm,None,VIRT,Concentrator PLC

@@ -6,3 +6,9 @@ Glen,Wood Dryer,TUP_RT_Wood Dryer,SEC,Retort PLC
 Glen,Furnace Charring,TUP_RT_Furnace Charring,SEC,Retort PLC
 Glen,Char Storage,TUP_RT_Char Storage,SEC,Retort PLC
 Glen,ACC Burner,TUP_RT_ACC Burner,SEC,Retort PLC
+Glen,PML-Wood Infeed,None,VIRT,Retort PLC
+Glen,PML-Sizing,None,VIRT,Retort PLC
+Glen,PML-Wood Dryer,None,VIRT,Retort PLC
+Glen,PML-Furnace Charring,None,VIRT,Retort PLC
+Glen,PML-Char Storage,None,VIRT,Retort PLC
+Glen,PML-ACC Burner,None,VIRT,Retort PLC

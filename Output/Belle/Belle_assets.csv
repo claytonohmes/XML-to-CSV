@@ -1,50 +1,95 @@
 Site,Asset Name,MES Ent in ABLE,Type,PLC
 Belle,Retort,ROL_RT,LINE,Concentrator PLC
 Belle,Wood Infeed,ROL_RT_Wood Infeed,SEC,Concentrator PLC
+Belle,PML-Wood Infeed,None,VIRT,Concentrator PLC
 Belle,Sizing,ROL_RT_Sizing,SEC,Concentrator PLC
+Belle,PML-Sizing,None,VIRT,Concentrator PLC
 Belle,Wood Dryer,ROL_RT_Wood Dryer,SEC,Concentrator PLC
+Belle,PML-Wood Dryer,None,VIRT,Concentrator PLC
 Belle,Furnace Charring,ROL_RT_Furnace Charring,SEC,Concentrator PLC
+Belle,PML-Furnace Charring,None,VIRT,Concentrator PLC
 Belle,Char Storage,ROL_RT_Char Storage,SEC,Concentrator PLC
+Belle,PML-Char Storage,None,VIRT,Concentrator PLC
 Belle,Propane Vaporizer,ROL_RT_Propane Vaporizer,SEC,Concentrator PLC
+Belle,PML-Propane Vaporizer,None,VIRT,Concentrator PLC
 Belle,Air Dryer,ROL_RT_Air Dryer,SEC,Concentrator PLC
+Belle,PML-Air Dryer,None,VIRT,Concentrator PLC
 Belle,Boiler,ROL_RT_Boiler,SEC,Concentrator PLC
+Belle,PML-Boiler,None,VIRT,Concentrator PLC
 Belle,Aux Burner,ROL_RT_Aux Burner,SEC,Concentrator PLC
+Belle,PML-Aux Burner,None,VIRT,Concentrator PLC
 Belle,Briquetting,ROL_BQ,LINE,Concentrator PLC
 Belle,Minors,ROL_BQ_Minors,SEC,Concentrator PLC
+Belle,PML-Minors,None,VIRT,Concentrator PLC
 Belle,Dry Starch,ROL_BQ_Dry Starch,SEC,Concentrator PLC
+Belle,PML-Dry Starch,None,VIRT,Concentrator PLC
 Belle,Mixing Mulling,ROL_BQ_Mixing Mulling,SEC,Concentrator PLC
+Belle,PML-Mixing Mulling,None,VIRT,Concentrator PLC
 Belle,Press 1,ROL_BQ_Press 1,SEC,Concentrator PLC
+Belle,PML-Press 1,None,VIRT,Concentrator PLC
 Belle,Press 2,ROL_BQ_Press 2,SEC,Concentrator PLC
+Belle,PML-Press 2,None,VIRT,Concentrator PLC
 Belle,Conveyance,ROL_BQ_Conveyance,SEC,Concentrator PLC
+Belle,PML-Conveyance,None,VIRT,Concentrator PLC
 Belle,Dryer 1,ROL_BQ_Dryer 1,SEC,Concentrator PLC
+Belle,PML-Dryer 1,None,VIRT,Concentrator PLC
 Belle,Dryer 2,ROL_BQ_Dryer 2,SEC,Concentrator PLC
+Belle,PML-Dryer 2,None,VIRT,Concentrator PLC
 Belle,Dryer 3,ROL_BQ_Dryer 3,SEC,Concentrator PLC
+Belle,PML-Dryer 3,None,VIRT,Concentrator PLC
 Belle,Char Silos,ROL_BQ_Char Silos,SEC,Concentrator PLC
+Belle,PML-Char Silos,None,VIRT,Concentrator PLC
 Belle,Propane Burner,ROL_BQ_Propane Burner,SEC,Concentrator PLC
+Belle,PML-Propane Burner,None,VIRT,Concentrator PLC
 Belle,Fuel Oil Burner,ROL_BQ_Fuel Oil Burner,SEC,Concentrator PLC
+Belle,PML-Fuel Oil Burner,None,VIRT,Concentrator PLC
 Belle,Line1,ROL_PK_Line1,LINE,Concentrator PLC
 Belle,L1 Bag Magazine,ROL_PK_L1 Bag Magaziner,SEC,Concentrator PLC
+Belle,PML-L1 Bag Magazine,None,VIRT,Concentrator PLC
 Belle,L1 Sealer Doboy,ROL_PK_L1 Sealer Doboy,SEC,Concentrator PLC
+Belle,PML-L1 Sealer Doboy,None,VIRT,Concentrator PLC
 Belle,L1 Palletizer,ROL_PK_L1 Palletizer,SEC,Concentrator PLC
+Belle,PML-L1 Palletizer,None,VIRT,Concentrator PLC
 Belle,L1 Stretchwrapper,ROL_PK_L1 Stretchwrapper,SEC,Concentrator PLC
+Belle,PML-L1 Stretchwrapper,None,VIRT,Concentrator PLC
 Belle,L1 Pallet Stacker,ROL_PK_L1 Pallet Stacker,SEC,Concentrator PLC
+Belle,PML-L1 Pallet Stacker,None,VIRT,Concentrator PLC
 Belle,Smoker,ROL_PK_Smoker,SEC,Concentrator PLC
+Belle,PML-Smoker,None,VIRT,Concentrator PLC
 Belle,Line2,ROL_PK_Line2,LINE,Concentrator PLC
 Belle,L2 Bag Magazine,ROL_PK_L2 Bag Magazine,SEC,Concentrator PLC
+Belle,PML-L2 Bag Magazine,None,VIRT,Concentrator PLC
 Belle,L2 Sealer Doboy,ROL_PK_L2 Sealer Doboy,SEC,Concentrator PLC
+Belle,PML-L2 Sealer Doboy,None,VIRT,Concentrator PLC
 Belle,L2 Shrink Tunnel,ROL_PK_L2 Shrink Tunnel,SEC,Concentrator PLC
+Belle,PML-L2 Shrink Tunnel,None,VIRT,Concentrator PLC
 Belle,L2 Palletizer 1,ROL_PK_L2 Palletizer 1,SEC,Concentrator PLC
+Belle,PML-L2 Palletizer 1,None,VIRT,Concentrator PLC
 Belle,L2 Palletizer 2,ROL_PK_L2 Palletizer 2,SEC,Concentrator PLC
+Belle,PML-L2 Palletizer 2,None,VIRT,Concentrator PLC
 Belle,L2 Stretchwrapper 1,ROL_PK_L2 Stretchwrapper 1,SEC,Concentrator PLC
+Belle,PML-L2 Stretchwrapper 1,None,VIRT,Concentrator PLC
 Belle,L2 Stretchwrapper 2,ROL_PK_L2 Stretchwrapper 2,SEC,Concentrator PLC
+Belle,PML-L2 Stretchwrapper 2,None,VIRT,Concentrator PLC
 Belle,L2 Pallet Stacker 1,ROL_PK_L2 Pallet Stacker 1,SEC,Concentrator PLC
+Belle,PLM L2 Pallet Stacker 1,None,VIRT,Concentrator PLC
 Belle,L2 Pallet Stacker 2,ROL_PK_L2 Pallet Stacker 2,SEC,Concentrator PLC
+Belle,PML-L2 Pallet Stacker 2,None,VIRT,Concentrator PLC
 Belle,ACC Heat,ROL_RT_ACC Heat,SEC,Concentrator PLC
+Belle,PML-ACC Heat,None,VIRT,Concentrator PLC
 Belle,Hammermill,ROL_BQ_Hammermill,SEC,Concentrator PLC
+Belle,PML-Hammermill,None,VIRT,Concentrator PLC
 Belle,ReRun Fines,ROL_BQ_ReRun Fines,SEC,Concentrator PLC
+Belle,PML-ReRun Fines,None,VIRT,Concentrator PLC
 Belle,CoalSizing,ROL_BQ_CoalSizing,SEC,Concentrator PLC
+Belle,PML-Coal Sizing,None,VIRT,Concentrator PLC
 Belle,Briquetting Infeed,ROL_BQ_Briquetting Infeed,SEC,Concentrator PLC
+Belle,PML-Briquetting Infeed,None,VIRT,Concentrator PLC
 Belle,L1 Bag Hanger,ROL_PK_L1 Bag Hanger,SEC,Concentrator PLC
+Belle,PML-L1 Bag Hanger,None,VIRT,Concentrator PLC
 Belle,L2 Bag Hanger,ROL_PK_L2 Bag Hanger,SEC,Concentrator PLC
+Belle,PML-L2 Bag Hanger,None,VIRT,Concentrator PLC
 Belle,L1 Diverter,ROL_PK_L1 Diverter,SEC,Concentrator PLC
 Belle,L1 Shrink Wrap,ROL_PK_L1 Shrink Wrap,SEC,Concentrator PLC
+Belle,PML-L1 PolyPack Diverter,None,VIRT,Concentrator PLC
+Belle,PML-L1 Polypack Main,None,VIRT,Concentrator PLC

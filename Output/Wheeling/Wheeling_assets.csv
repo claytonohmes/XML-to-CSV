@@ -1,0 +1,24 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Wheeling,BHVR1,None,LINE,BHVR1 SLCS PLC
+Wheeling,BHVR1 Depalletizer,None,SEC,BHVR1 Depalletizer PLC
+Wheeling,BHVR1 Unscrambler,None,SEC,BHVR1 Unscrambler PLC
+Wheeling,BHVR1 Rinser,None,SEC,BHVR1 Filler PLC
+Wheeling,BHVR1 Capper,None,SEC,BHVR1 Filler PLC
+Wheeling,BHVR1 Filler,None,SEC,BHVR1 Filler PLC
+Wheeling,BHVR1 Labeler,None,SEC,BHVR1 Labeler PLC
+Wheeling,BHVR1 Laner,None,VIRT,BHVR1 Laner PLC
+Wheeling,BHVR1 Case Erector,None,SEC,BHVR1 Case Erector PLC
+Wheeling,BHVR1 Case Packer,None,SEC,BHVR1 Case Packer PLC
+Wheeling,BHVR1 Case Sealer,None,SEC,BHVR1 Case Packer PLC
+Wheeling,BHVR1 Palletizer,None,SEC,BHVR1 Palletizer PLC
+Wheeling,vBHVR1 Case Sealer,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Filler,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Full Case,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Empty Case,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Single Filer,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Cleaner,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Capper,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Labeler,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Divert Accum,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Case Packer,None,VIRT,BHVR1 SLCS PLC
+Wheeling,vBHVR1 Posimat,None,VIRT,BHVR1 SLCS PLC

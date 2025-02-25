@@ -4,14 +4,14 @@ Houston,BL1 Nercon Convey,None,SEC,BL1 Empty Bottle PLC
 Houston,BL1 Labeler,None,SEC,BL1 Labeler PLC
 Houston,BL1 Filler,None,SEC,BL1 Filler PLC
 Houston,BL1 Capper,None,SEC,BL1 Capper PLC
-Houston,BL1 N Bottle Conveyor,None,SEC,BL1 North Bottle Conveyor PLC
+Houston,BL1 N Bottle Conveyor,None,VIRT,BL1 North Bottle Conveyor PLC
 Houston,BL1 AML 1,None,SEC,BL1 AML 1 PLC
 Houston,BL1 AML 2,None,SEC,BL1 AML 2 PLC
 Houston,BL1 Case Erector 1,None,SEC,BL1 Case Erector 1 PLC
 Houston,BL1 Case Erector 2,None,SEC,BL1 Case Erector 2 PLC
-Houston,BL1 Erector Conveyor,None,SEC,BL1 Erector Conveyor PLC
-Houston,BL1 Empty Case Convey,None,SEC,BL1 Empty Case Conveyor PLC
-Houston,BL1 Zip Conveyor,None,SEC,BL1 Zip Panel PLC
+Houston,BL1 Erector Conveyor,None,VIRT,BL1 Erector Conveyor PLC
+Houston,BL1 Empty Case Convey,None,VIRT,BL1 Empty Case Conveyor PLC
+Houston,BL1 Zip Conveyor,None,VIRT,BL1 Zip Panel PLC
 Houston,BL1 Case Packer 1,None,SEC,BL1 Case Packer 1 PLC
 Houston,BL1 Case Packer 2,None,SEC,BL1 Case Packer 2 PLC
 Houston,BL1 Case Sealer 1,None,SEC,BL1 Case Sealer 1 PLC
@@ -20,7 +20,39 @@ Houston,BL1 Palletizer 1,None,SEC,BL1 Palletizer 1 PLC
 Houston,BL1 Palletizer 2,None,SEC,BL1 Palletizer 2 PLC
 Houston,BL1 Stretch Wrapper 1,None,SEC,BL1 Stretch Wrapper 1 PLC
 Houston,BL1 Stretch Wrapper 2,None,SEC,BL1 Stretch Wrapper 2 PLC
-Houston,BL1 Full Case Convey1,None,SEC,BL1 Full Case Convey1 PLC
-Houston,BL1 Full Case Convey2,None,SEC,BL1 Full Case Convey2 PLC
-Houston,BL1 BarCoder 1,None,SEC,BL1 Bar Coder 1 PLC
-Houston,BL1 BarCoder 2,None,SEC,BL1 Bar Coder 2 PLC
+Houston,BL1 Full Case Convey1,None,VIRT,BL1 Full Case Convey1 PLC
+Houston,BL1 Full Case Convey2,None,VIRT,BL1 Full Case Convey2 PLC
+Houston,BL1 BarCoder 1,None,VIRT,BL1 Bar Coder 1 PLC
+Houston,BL1 BarCoder 2,None,VIRT,BL1 Bar Coder 2 PLC
+Houston,PML-BL1 Nercon Convey,None,VIRT,BL1 Empty Bottle PLC
+Houston,PML-BL1 Labeler,None,VIRT,BL1 Labeler PLC
+Houston,PML-BL1 Filler,None,VIRT,BL1 Filler PLC
+Houston,PML-BL1 Capper,None,VIRT,BL1 Capper PLC
+Houston,PML-BL1 N Bottle Convey,None,VIRT,BL1 North Bottle Conveyor PLC
+Houston,PML-BL1 AML 1,None,VIRT,BL1 AML 1 PLC
+Houston,PML-BL1 AML 2,None,VIRT,BL1 AML 2 PLC
+Houston,PML-BL1 Case Erector 1,None,VIRT,BL1 Case Erector 1 PLC
+Houston,PML-BL1 Case Erector 2,None,VIRT,BL1 Case Erector 2 PLC
+Houston,PML-BL1 Erector Conveyor,None,VIRT,BL1 Erector Conveyor PLC
+Houston,PML-BL1 Empty CaseConvey,None,VIRT,BL1 Empty Case Conveyor PLC
+Houston,PML-BL1 Zip Conveyor,None,VIRT,BL1 Zip Panel PLC
+Houston,PML-BL1 Case Packer 1,None,VIRT,BL1 Case Packer 1 PLC
+Houston,PML-BL1 Case Packer 2,None,VIRT,BL1 Case Packer 2 PLC
+Houston,PML-BL1 Case Sealer 1,None,VIRT,BL1 Case Sealer 1 PLC
+Houston,PML-BL1 Case Sealer 2,None,VIRT,BL1 Case Sealer 2 PLC
+Houston,PML-BL1 Palletizer 1,None,VIRT,BL1 Palletizer 1 PLC
+Houston,PML-BL1 Palletizer 2,None,VIRT,BL1 Palletizer 2 PLC
+Houston,PML-BL1 Stretch Wrap 1,None,VIRT,BL1 Stretch Wrapper 1 PLC
+Houston,PML-BL1 Stretch Wrap 2,None,VIRT,BL1 Stretch Wrapper 2 PLC
+Houston,PML-BL1 Full CaseConvey1,None,VIRT,BL1 Full Case Convey1 PLC
+Houston,PML-BL1 Full CaseConvey2,None,VIRT,BL1 Full Case Convey2 PLC
+Houston,PML-BL1 BarCoder 1,None,VIRT,BL1 Bar Coder 1 PLC
+Houston,PML-BL1 BarCoder 2,None,VIRT,BL1 Bar Coder 2 PLC
+Houston,FLT-BL1 Nercon Convey,None,VIRT,BL1 Empty Bottle PLC
+Houston,FLT-BL1 Labeler,None,VIRT,BL1 Labeler PLC
+Houston,FLT-BL1 Filler,None,VIRT,BL1 Filler PLC
+Houston,FLT-BL1 Capper,None,VIRT,BL1 Capper PLC
+Houston,FLT-BL1 Case Packer 1,None,VIRT,BL1 Case Packer 1 PLC
+Houston,FLT-BL1 Case Packer 2,None,VIRT,BL1 Case Packer 2 PLC
+Houston,FLT-BL1 BarCoder 1,None,VIRT,BL1 Bar Coder 1 PLC
+Houston,FLT-BL1 BarCoder 2,None,VIRT,BL1 Bar Coder 2 PLC

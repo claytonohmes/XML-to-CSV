@@ -1,0 +1,117 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Reno,Pluto,None,LINE,None
+Reno,Pluto Filler 1,None,SEC,Pluto Filler 1 PLC
+Reno,Pluto Filler 2,None,SEC,Pluto Filler 2 PLC
+Reno,Pluto Pnp Robot 1,None,SEC,Pluto Pnp Robot PLC
+Reno,Pluto Pnp Robot 2,None,SEC,Pluto Pnp Robot PLC
+Reno,Pluto Cartoner,None,SEC,Pluto Cartoner PLC
+Reno,Pluto Carton Ckwr,None,SEC,Pluto Cartoner PLC
+Reno,Pluto Casepacker,None,SEC,Pluto Casepacker PLC
+Reno,Dry Palletizer,None,SEC,Dry Palletizer PLC
+Reno,Dry Stretchwrapper,None,SEC,Dry Stretchwrapper PLC
+Reno,Ceres,None,LINE,None
+Reno,Ceres Bottle Hopper,None,SEC,Ceres Unscrambler PLC
+Reno,Ceres Unscrambler,None,SEC,Ceres Unscrambler PLC
+Reno,Ceres Orienter,None,SEC,Ceres Orienter PLC
+Reno,Ceres Filler,None,SEC,Ceres Filler PLC
+Reno,Ceres Capper,None,SEC,Ceres Capper PLC
+Reno,Ceres Cap Sealer,None,SEC,Ceres SLCS PLC
+Reno,Ceres Labeler,None,SEC,Ceres Labeler PLC
+Reno,Ceres Case Packer,None,SEC,Ceres Case Packer PLC
+Reno,Ceres Ink Jet Printer,None,SEC,Ceres SLCS PLC
+Reno,Zeus,None,LINE,None
+Reno,Zeus Depal,None,SEC,Zeus Depal PLC
+Reno,Zeus Dumper,None,SEC,Zeus SLCS PLC
+Reno,Zeus Unscrambler,None,SEC,Zeus Unscrambler PLC
+Reno,Zeus Rinser,None,SEC,Zeus Filler PLC
+Reno,Zeus Filler,None,SEC,Zeus Filler PLC
+Reno,Zeus Capper,None,SEC,Zeus Filler PLC
+Reno,Zeus Labeler,None,SEC,Zeus Labeler PLC
+Reno,Zeus Accum Table,None,SEC,Zeus Accum Table PLC
+Reno,Zeus Laner,None,SEC,Zeus Laner PLC
+Reno,Zeus Case Former,None,SEC,Zeus Case Former PLC
+Reno,Zeus Case Packer,None,SEC,Zeus Case Packer PLC
+Reno,Zeus Case Sealer,None,SEC,Zeus Case Packer PLC
+Reno,Columbia Robot Palletizer,None,SEC,Columbia Robot Palletizer PLC
+Reno,Columbia Stretchwrapper,None,SEC,Columbia Stretchwrapper PLC
+Reno,Atlas,None,LINE,None
+Reno,Atlas Depal,None,SEC,Atlas Depal PLC
+Reno,Atlas Dumper,None,SEC,Atlas SLCS PLC
+Reno,Atlas Unscrambler,None,SEC,Atlas Unscrambler PLC
+Reno,Atlas Rinser,None,SEC,Atlas Filler Capper PLC
+Reno,Atlas Filler Capper,None,SEC,Atlas Filler Capper PLC
+Reno,Atlas Labeler,None,SEC,Atlas Labeler PLC
+Reno,Atlas Infeed Accum,None,SEC,Atlas SLCS PLC
+Reno,Atlas Sleever,None,SEC,Atlas SLCS PLC
+Reno,Atlas Outfeed Accum,None,SEC,Atlas SLCS PLC
+Reno,Atlas Tray Former,None,SEC,Atlas Tray Former PLC
+Reno,Atlas Case Former,None,SEC,Atlas Case Former PLC
+Reno,Atlas Case Packer,None,SEC,Atlas Case Packer PLC
+Reno,Atlas Case CW,None,SEC,Atlas SLCS PLC
+Reno,Atlas Sealer,None,SEC,Atlas SLCS PLC
+Reno,Atlas Print Apply,None,SEC,Atlas SLCS PLC
+Reno,Bottle Case Switcher,None,SEC,Bottle Case Switcher PLC
+Reno,Hartness Robot Palletizer,None,SEC,Hartness Robot Palletizer PLC
+Reno,Hartness Stretchwrapper,None,SEC,Hartness Stretchwrapper PLC
+Reno,Atlas Hartness Pall,None,VIRT,Bottle Case Switcher PLC
+Reno,Atlas Columbia Pall,None,VIRT,Bottle Case Switcher PLC
+Reno,Atlas Hartness Wrapper,None,VIRT,Bottle Case Switcher PLC
+Reno,Atlas Columbia Wrapper,None,VIRT,Bottle Case Switcher PLC
+Reno,VIRT Atlas Hartness,None,VIRT,Bottle Case Switcher PLC
+Reno,VIRT Atlas Columbia,None,VIRT,Bottle Case Switcher PLC
+Reno,Zeus Hartness Pall,None,VIRT,Bottle Case Switcher PLC
+Reno,Zeus Columbia Pall,None,VIRT,Bottle Case Switcher PLC
+Reno,Zeus Hartness Wrapper,None,VIRT,Bottle Case Switcher PLC
+Reno,Zeus Columbia Wrapper,None,VIRT,Bottle Case Switcher PLC
+Reno,VIRT Zeus Hartness,None,VIRT,Bottle Case Switcher PLC
+Reno,VIRT Zeus Columbia,None,VIRT,Bottle Case Switcher PLC
+Reno,PML-Pluto Filler 1,None,VIRT,Pluto Filler 1 PLC
+Reno,PML-Pluto Filler 2,None,VIRT,Pluto Filler 2 PLC
+Reno,PML-Pluto Pnp Robot 1,None,VIRT,Pluto Pnp Robot PLC
+Reno,PML-Pluto Pnp Robot 2,None,VIRT,Pluto Pnp Robot PLC
+Reno,PML-Pluto Cartoner,None,VIRT,Pluto Cartoner PLC
+Reno,PML-Pluto Carton Ckwr,None,VIRT,Pluto Cartoner PLC
+Reno,PML-Pluto Casepacker,None,VIRT,Pluto Casepacker PLC
+Reno,PML-Dry Palletizer,None,VIRT,Dry Palletizer PLC
+Reno,PML-Dry Stretchwrapper,None,VIRT,Dry Stretchwrapper PLC
+Reno,PML-Ceres Bottle Hopper,None,VIRT,Ceres Unscrambler PLC
+Reno,PML-Ceres Unscrambler,None,VIRT,Ceres Unscrambler PLC
+Reno,PML-Ceres Orienter,None,VIRT,Ceres Orienter PLC
+Reno,PML-Ceres Filler,None,VIRT,Ceres Filler PLC
+Reno,PML-Ceres Capper,None,VIRT,Ceres Capper PLC
+Reno,PML-Ceres Cap Sealer,None,VIRT,Ceres SLCS PLC
+Reno,PML-Ceres Labeler,None,VIRT,Ceres Labeler PLC
+Reno,PML-Ceres Case Packer,None,VIRT,Ceres Case Packer PLC
+Reno,PML-Ceres Ink Jet Printer,None,VIRT,Ceres SLCS PLC
+Reno,PML-Zeus Depal,None,VIRT,Zeus Depal PLC
+Reno,PML-Zeus Dumper,None,VIRT,Zeus SLCS PLC
+Reno,PML-Zeus Unscrambler,None,VIRT,Zeus Unscrambler PLC
+Reno,PML-Zeus Rinser,None,VIRT,Zeus Filler PLC
+Reno,PML-Zeus Filler,None,VIRT,Zeus Filler PLC
+Reno,PML-Zeus Capper,None,VIRT,Zeus Filler PLC
+Reno,PML-Zeus Labeler,None,VIRT,Zeus Labeler PLC
+Reno,PML-Zeus Accum Table,None,VIRT,Zeus Accum Table PLC
+Reno,PML-Zeus Laner,None,VIRT,Zeus Laner PLC
+Reno,PML-Zeus Case Former,None,VIRT,Zeus Case Former PLC
+Reno,PML-Zeus Case Packer,None,VIRT,Zeus Case Packer PLC
+Reno,PML-Zeus Case Sealer,None,VIRT,Zeus Case Packer PLC
+Reno,PML-Columbia Palletizer,None,VIRT,Columbia Robot Palletizer PLC
+Reno,PML-Columbia Stretchwrap,None,VIRT,Columbia Stretchwrapper PLC
+Reno,PML-Atlas Depal,None,VIRT,Atlas Depal PLC
+Reno,PML-Atlas Dumper,None,VIRT,Atlas SLCS PLC
+Reno,PML-Atlas Unscrambler,None,VIRT,Atlas Unscrambler PLC
+Reno,PML-Atlas Rinser,None,VIRT,Atlas Filler Capper PLC
+Reno,PML-Atlas Filler Capper,None,VIRT,Atlas Filler Capper PLC
+Reno,PML-Atlas Labeler,None,VIRT,Atlas Labeler PLC
+Reno,PML-Atlas Infeed Accum,None,VIRT,Atlas SLCS PLC
+Reno,PML-Atlas Sleever,None,VIRT,Atlas SLCS PLC
+Reno,PML-Atlas Outfeed Accum,None,VIRT,Atlas SLCS PLC
+Reno,PML-Atlas Tray Former,None,VIRT,Atlas Tray Former PLC
+Reno,PML-Atlas Case Former,None,VIRT,Atlas Case Former PLC
+Reno,PML-Atlas Case Packer,None,VIRT,Atlas Case Packer PLC
+Reno,PML-Atlas Case CW,None,VIRT,Atlas SLCS PLC
+Reno,PML-Atlas Sealer,None,VIRT,Atlas SLCS PLC
+Reno,PML-Atlas Print Apply,None,VIRT,Atlas SLCS PLC
+Reno,PML-Bottle Case Switcher,None,VIRT,Bottle Case Switcher PLC
+Reno,PML-Hartness Palletizer,None,VIRT,Hartness Robot Palletizer PLC
+Reno,PML-Hartness Stretchwrap,None,VIRT,Hartness Stretchwrapper PLC

@@ -1,0 +1,24 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Beryl,Retort,None,LINE,Retort PLC
+Beryl,ACC,None,SEC,Retort PLC
+Beryl,Air Compressor,None,SEC,Retort PLC
+Beryl,Boiler,None,SEC,Retort PLC
+Beryl,Furnace Charring,None,SEC,Retort PLC
+Beryl,Char Storage,None,SEC,Retort PLC
+Beryl,Wood Dryer,None,SEC,Retort PLC
+Beryl,Wood Infeed,None,SEC,Retort PLC
+Beryl,Low Burner,None,SEC,Retort PLC
+Beryl,Sizing ,None,SEC,Retort PLC
+Beryl,Up Burner,None,SEC,Retort PLC
+Beryl,Vaporizer,None,SEC,Retort PLC
+Beryl,PML-ACC,None,VIRT,Retort PLC
+Beryl,PML-Air Compressor,None,VIRT,Retort PLC
+Beryl,PML-Boiler,None,VIRT,Retort PLC
+Beryl,PML-Furnace Charring,None,VIRT,Retort PLC
+Beryl,PML-Char Storage,None,VIRT,Retort PLC
+Beryl,PML-Wood Dryer,None,VIRT,Retort PLC
+Beryl,PML-Wood Infeed,None,VIRT,Retort PLC
+Beryl,PML-Low Burner,None,VIRT,Retort PLC
+Beryl,PML-Sizing ,None,VIRT,Retort PLC
+Beryl,PML-Up Burner,None,VIRT,Retort PLC
+Beryl,PML-Vaporizer,None,VIRT,Retort PLC

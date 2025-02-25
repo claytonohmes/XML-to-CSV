@@ -1,8 +1,11 @@
-import csv
+import Model.AlarmList
+import Model.Alarm
+import Model.AbleAsset
 import xml.etree.ElementTree as ET
-from Model.Asset import Asset
 
-def able_config_to_csv_asset_list(file, csvfile):
+xmlFile = 'XML Exports from ABLE\idc ClorAtlWest 2024-10-15.xml'
+
+def able_config_to_csv_asset_list(file):
     '''
     the purpose of this function is to take the ABLE config alarms and output a csv file. 
     '''
@@ -43,29 +46,6 @@ def able_config_to_csv_asset_list(file, csvfile):
                       , asset.get('primaryref'))
         assets.append(assetClass)
 
-    #write the reason codes to a csv file
-    fieldnames = ['Site','Asset Name', 'MES Ent in ABLE', 'Type','PLC']
+    return assets
 
-    with open(csvfile, 'w', newline='') as assetlist:
-
-        writer = csv.DictWriter(assetlist, fieldnames=fieldnames)
-        print('File Created.')
-
-        # Write header row
-        writer.writeheader()
-        print('Starting File Write.')
-
-        # Write data rows
-        for asset in assets:
-            if asset.type == 'LINE' or asset.type == 'SEC' or asset.type == 'VIRT':
-                #reason level 2 none
-                writer.writerow({'Site': f"{asset.site_name}",
-                                    'Asset Name': f"{asset.name}",
-                                    'MES Ent in ABLE': f'{asset.devicename}',
-                                    'Type': f"{asset.type}",
-                                    'PLC': f"{asset.defaultplc}"})
-            else:
-                pass
-    
-if __name__ == "__main__":
-    able_config_to_csv_asset_list('.\\XML Exports from ABLE\\idc - Belle 20250124 - 03.xml', 'assetList.csv')
+asset_list = able_config_to_csv_asset_list(xmlFile)

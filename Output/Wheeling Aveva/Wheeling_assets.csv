@@ -1,0 +1,91 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Wheeling Aveva,BHVR1,None,LINE,BHVR1 SLCS PLC
+Wheeling Aveva,BHVR1 Depalletizer,None,SEC,BHVR1 Depalletizer PLC
+Wheeling Aveva,BHVR1 Unscrambler,None,SEC,BHVR1 Unscrambler PLC
+Wheeling Aveva,BHVR1 Rinser,None,SEC,BHVR1 Filler PLC
+Wheeling Aveva,BHVR1 Capper,None,SEC,BHVR1 Filler PLC
+Wheeling Aveva,BHVR1 Filler,None,SEC,BHVR1 Filler PLC
+Wheeling Aveva,BHVR1 Labeler,None,SEC,BHVR1 Labeler PLC
+Wheeling Aveva,BHVR1 Laner,None,VIRT,BHVR1 Laner PLC
+Wheeling Aveva,BHVR1 Case Erector,None,SEC,BHVR1 Case Erector PLC
+Wheeling Aveva,BHVR1 Case Packer,None,SEC,BHVR1 Case Packer PLC
+Wheeling Aveva,BHVR1 Case Sealer,None,SEC,BHVR1 Case Packer PLC
+Wheeling Aveva,BHVR1 Palletizer,None,SEC,BHVR1 Palletizer PLC
+Wheeling Aveva,vBHVR1 Case Sealer,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Filler,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Full Case,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Empty Case,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Single Filer,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Cleaner,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Capper,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Labeler,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Divert Accum,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Case Packer,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,vBHVR1 Posimat,None,VIRT,BHVR1 SLCS PLC
+Wheeling Aveva,BHVR2,None,LINE,BHVR2 PLC
+Wheeling Aveva,BHVR2 Depalletizer,None,SEC,BHVR2 Depalletizer PLC
+Wheeling Aveva,BHVR2 Unscrambler,None,SEC,BHVR2 Unscrambler PLC
+Wheeling Aveva,BHVR2 Filler,None,SEC,BHVR2 Filler PLC
+Wheeling Aveva,BHVR2 Rinser,None,SEC,BHVR2 Rinser PLC
+Wheeling Aveva,BHVR2 Capper,None,SEC,BHVR2 Capper PLC
+Wheeling Aveva,BHVR2 Labeler,None,SEC,BHVR2 Labeler PLC
+Wheeling Aveva,BHVR2 Case Erector,None,SEC,BHVR2 Case Erector PLC
+Wheeling Aveva,BHVR2 Case Packer,None,SEC,BHVR2 Case Packer PLC
+Wheeling Aveva,BHVR2 Case Sealer,None,SEC,BHVR2 Case Sealer PLC
+Wheeling Aveva,BHVR2 Palletizer,None,SEC,BHVR2 Palletizer PLC
+Wheeling Aveva,BHVR2 Accum Table,None,SEC,BHVR2 Accum Table PLC
+Wheeling Aveva,BHVR2 Stretchwrapper,None,SEC,BHVR2 Stretchwrapper PLC
+Wheeling Aveva,BHVR3,None,LINE,BHVR3 PLC
+Wheeling Aveva,BHVR3 Depalletizer,None,SEC,BHVR3 Depalletizer PLC
+Wheeling Aveva,BHVR3 Unscrambler,None,SEC,BHVR3 Unscrambler PLC
+Wheeling Aveva,BHVR3 Rinser,None,SEC,BHVR3 Rinser PLC
+Wheeling Aveva,BHVR3 Filler-Capper,None,SEC,BHVR3 Filler-Capper PLC
+Wheeling Aveva,BHVR3 Labeler,None,SEC,BHVR3 Labeler PLC
+Wheeling Aveva,BHVR3 Accum 1,None,SEC,BHVR3 Accum 1 PLC
+Wheeling Aveva,BHVR3 Sleever,None,SEC,BHVR3 Sleever PLC
+Wheeling Aveva,BHVR3 Accum 2,None,SEC,BHVR3 Accum 2 PLC
+Wheeling Aveva,BHVR3 Case Packer,None,SEC,BHVR3 Case Packer PLC
+Wheeling Aveva,BHVR3 Palletizer,None,SEC,BHVR3 Palletizer PLC
+Wheeling Aveva,BHVR3 Stretchwrapper,None,SEC,BHVR3 Stretchwrapper PLC
+Wheeling Aveva,DHVR5,None,LINE,DHVR5 PLC
+Wheeling Aveva,DHVR5 Case Erector,None,SEC,DHVR5 Case Erector PLC
+Wheeling Aveva,DHVR5 Carton Inserter,None,SEC,DHVR5 Carton Inserter PLC
+Wheeling Aveva,DHVR5 Bulk Unloader,None,SEC,DHVR5 Bulk Unloader PLC
+Wheeling Aveva,DHVR5 Cloud Filler,None,SEC,DHVR5 Cloud Filler PLC
+Wheeling Aveva,DHVR5 Cloud Knife,None,SEC,DHVR5 Cloud Knife PLC
+Wheeling Aveva,DHVR5 Case Sealer,None,SEC,DHVR5 Case Sealer PLC
+Wheeling Aveva,DHVR5 E_SB Conv,None,SEC,DHVR5 E_SB Conv PLC
+Wheeling Aveva,DHVR5 Checkweigher,None,SEC,DHVR5 Checkweigher PLC
+Wheeling Aveva,DHVR5 Butler Splicer,None,SEC,DHVR5 Butler Splicer PLC
+Wheeling Aveva,PML-BHVR2 Depalletizer,None,VIRT,BHVR2 Depalletizer PLC
+Wheeling Aveva,PML-BHVR2 Unscrambler,None,VIRT,BHVR2 Unscrambler PLC
+Wheeling Aveva,PML-BHVR2 Filler,None,VIRT,BHVR2 Filler PLC
+Wheeling Aveva,PML-BHVR2 Rinser,None,VIRT,BHVR2 Rinser PLC
+Wheeling Aveva,PML-BHVR2 Capper,None,VIRT,BHVR2 Capper PLC
+Wheeling Aveva,PML-BHVR2 Labeler,None,VIRT,BHVR2 Labeler PLC
+Wheeling Aveva,PML-BHVR2 Case Erector,None,VIRT,BHVR2 Case Erector PLC
+Wheeling Aveva,PML-BHVR2 Case Packer,None,VIRT,BHVR2 Case Packer PLC
+Wheeling Aveva,PML-BHVR2 Case Sealer,None,VIRT,BHVR2 Case Sealer PLC
+Wheeling Aveva,PML-BHVR2 Palletizer,None,VIRT,BHVR2 Palletizer PLC
+Wheeling Aveva,PML-BHVR2 Accum Table,None,VIRT,BHVR2 Accum Table PLC
+Wheeling Aveva,PML-BHVR2 Stretchwrapper,None,VIRT,BHVR2 Stretchwrapper PLC
+Wheeling Aveva,PML-BHVR3 Depalletizer,None,VIRT,BHVR3 Depalletizer PLC
+Wheeling Aveva,PML-BHVR3 Unscrambler,None,VIRT,BHVR3 Unscrambler PLC
+Wheeling Aveva,PML-BHVR3 Rinser,None,VIRT,BHVR3 Rinser PLC
+Wheeling Aveva,PML-BHVR3 Filler-Capper,None,VIRT,BHVR3 Filler-Capper PLC
+Wheeling Aveva,PML-BHVR3 Labeler,None,VIRT,BHVR3 Labeler PLC
+Wheeling Aveva,PML-BHVR3 Accum 1,None,VIRT,BHVR3 Accum 1 PLC
+Wheeling Aveva,PML-BHVR3 Sleever,None,VIRT,BHVR3 Sleever PLC
+Wheeling Aveva,PML-BHVR3 Accum 2,None,VIRT,BHVR3 Accum 2 PLC
+Wheeling Aveva,PML-BHVR3 Case Packer,None,VIRT,BHVR3 Case Packer PLC
+Wheeling Aveva,PML-BHVR3 Palletizer,None,VIRT,BHVR3 Palletizer PLC
+Wheeling Aveva,PML-BHVR3 Stretchwrapper,None,VIRT,BHVR3 Stretchwrapper PLC
+Wheeling Aveva,PML-DHVR5 Case Erector,None,VIRT,DHVR5 Case Erector PLC
+Wheeling Aveva,PML-DHVR5 Carton Inserter,None,VIRT,DHVR5 Carton Inserter PLC
+Wheeling Aveva,PML-DHVR5 Bulk Unloader,None,VIRT,DHVR5 Bulk Unloader PLC
+Wheeling Aveva,PML-DHVR5 Cloud Filler,None,VIRT,DHVR5 Cloud Filler PLC
+Wheeling Aveva,PML-DHVR5 Cloud Knife,None,VIRT,DHVR5 Cloud Knife PLC
+Wheeling Aveva,PML-DHVR5 Case Sealer,None,VIRT,DHVR5 Case Sealer PLC
+Wheeling Aveva,PML-DHVR5 E_SB Conv,None,VIRT,DHVR5 E_SB Conv PLC
+Wheeling Aveva,PML-DHVR5 Checkweigher,None,VIRT,DHVR5 Checkweigher PLC
+Wheeling Aveva,PML-DHVR5 Butler Splicer,None,VIRT,DHVR5 Butler Splicer PLC

@@ -1,0 +1,113 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Atlanta West,Line2,None,LINE,ABLE
+Atlanta West,Line2 Depal2,None,SEC,Line2 Depal2 PLC
+Atlanta West,Line2 Winder3,None,LINE,ABLE
+Atlanta West,Line2 Stuffer3,None,SEC,Line2 Stuffer3 PLC
+Atlanta West,Line2 Winder4,None,LINE,ABLE
+Atlanta West,Line2 Stuffer4,None,SEC,Line2 Stuffer4 PLC
+Atlanta West,Line2 Filler2,None,SEC,Line2 Filler2 PLC
+Atlanta West,Line2 Labeler4,None,SEC,Line2 Labeler4 PLC
+Atlanta West,Line2 Labeler5,None,SEC,Line2 Labeler5 PLC
+Atlanta West,Line2 Labeler6,None,SEC,Line2 Labeler6 PLC
+Atlanta West,Line2 FS3,None,SEC,Line2 FS3 PLC
+Atlanta West,Line2 TFS3,None,SEC,Line2 TFS3 PLC
+Atlanta West,Line2 Palletizer2,None,SEC,Line2 Palletizer2 PLC
+Atlanta West,Line2 Wrapper2,None,SEC,Line2 Wrapper2 PLC
+Atlanta West,Line2 W3 General,None,VIRT,Line2 Winder3 PI1A PLC
+Atlanta West,Line2 W3 UpperPly,None,VIRT,Line2 Winder3 PI1A PLC
+Atlanta West,Line2 W3 Rewind,None,VIRT,Line2 Winder3 PI1A PLC
+Atlanta West,Line2 W3 Extractor,None,VIRT,Line2 Winder3 PI1A PLC
+Atlanta West,Line2 W3 Unwind1,None,VIRT,Line2 Winder3 PI1A PLC
+Atlanta West,Line2 W3 Unwind2,None,VIRT,Line2 Winder3 PI1A PLC
+Atlanta West,Line2 W3 LogSaw,None,VIRT,Line2 Winder3 LS1A PLC
+Atlanta West,Line2 W3 TailSeal,None,VIRT,Line2 Winder3 TS1A PLC
+Atlanta West,Line2 W4 General,None,VIRT,Line2 Winder4 PI1A PLC
+Atlanta West,Line2 W4 UpperPly,None,VIRT,Line2 Winder4 PI1A PLC
+Atlanta West,Line2 W4 Rewind,None,VIRT,Line2 Winder4 PI1A PLC
+Atlanta West,Line2 W4 Extractor,None,VIRT,Line2 Winder4 PI1A PLC
+Atlanta West,Line2 W4 Unwind1,None,VIRT,Line2 Winder4 PI1A PLC
+Atlanta West,Line2 W4 Unwind2,None,VIRT,Line2 Winder4 PI1A PLC
+Atlanta West,Line2 W4 LogSaw,None,VIRT,Line2 Winder4 LS1A PLC
+Atlanta West,Line2 W4 TailSeal,None,VIRT,Line2 Winder4 TS1A PLC
+Atlanta West,Line2 Labeler4 Zn,None,VIRT,ABLE
+Atlanta West,Line2 Labeler5 Zn,None,VIRT,ABLE
+Atlanta West,Line2 Labeler6 Zn,None,VIRT,ABLE
+Atlanta West,Line2 Labelers,None,VIRT,ABLE
+Atlanta West,Line2 FT Filler2 In1,None,VIRT,K995VPD_TBB21
+Atlanta West,Line2 FT Filler2 In2,None,VIRT,K995VPD_TBB21
+Atlanta West,Line2 FT Filler2 In3,None,VIRT,K995VPD_TBB21
+Atlanta West,Line2 FT Filler2 In4,None,VIRT,K995VPD_TBB21
+Atlanta West,Line2 FT Label4 In1,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label4 In2,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label5 In1,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label5 In2,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label6 In1,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label6 In2,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label4 Out1,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label4 Out2,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label5 Out1,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label5 Out2,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label6 Out1,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 FT Label6 Out2,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 Filler GL,None,VIRT,K995VPD_TBB21
+Atlanta West,Line2 Label4 GL,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 Label5 GL,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 Label6 GL,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 Label4-FS GL,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 Label5-FS GL,None,VIRT,K995VPE_TBB22
+Atlanta West,Line2 Label6-FS GL,None,VIRT,K995VPE_TBB22
+Atlanta West,Line1,None,LINE,ABLE
+Atlanta West,Line1 Depal1,None,SEC,Line1 Depal1 PLC
+Atlanta West,Line1 Winder1,None,LINE,ABLE
+Atlanta West,Line1 Winder2,None,LINE,ABLE
+Atlanta West,Line1 Stuffer1,None,SEC,Line1 Stuffer1 PLC
+Atlanta West,Line1 Filler1,None,SEC,Line1 Filler1 PLC
+Atlanta West,Line1 Labeler1,None,SEC,Line1 Labeler1 PLC
+Atlanta West,Line1 Labeler2,None,SEC,Line1 Labeler2 PLC
+Atlanta West,Line1 Labeler3,None,SEC,Line1 Labeler3 PLC
+Atlanta West,Line1 CosmoPack1,None,SEC,Line1 CosmoPack1 PLC
+Atlanta West,Line1 CosmoPack2,None,SEC,Line1 CosmoPack2 PLC
+Atlanta West,Line1 FS1,None,SEC,Line1 FS1 PLC
+Atlanta West,Line1 FS2,None,SEC,Line1 FS2 PLC
+Atlanta West,Line1 TFS1,None,SEC,Line1 TFS1 PLC
+Atlanta West,Line1 TFS2,None,SEC,Line1 TFS2 PLC
+Atlanta West,Line1 Palletizer1,None,SEC,Line1 Palletizer1 PLC
+Atlanta West,Line1 Wrapper1,None,SEC,Line1 Wrapper1 PLC
+Atlanta West,Line1 W1 General,None,VIRT,Line1 Winder1 PI1A PLC
+Atlanta West,Line1 W1 UpperPly,None,VIRT,Line1 Winder1 PI1A PLC
+Atlanta West,Line1 W1 Rewind,None,VIRT,Line1 Winder1 PI1A PLC
+Atlanta West,Line1 W1 Extractor,None,VIRT,Line1 Winder1 PI1A PLC
+Atlanta West,Line1 W1 Unwind1,None,VIRT,Line1 Winder1 PI1A PLC
+Atlanta West,Line1 W1 Unwind2,None,VIRT,Line1 Winder1 PI1A PLC
+Atlanta West,Line1 W1 LogSaw,None,VIRT,Line1 Winder1 LS1A PLC
+Atlanta West,Line1 W1 TailSeal,None,VIRT,Line1 Winder1 TS1A PLC
+Atlanta West,Line1 W2 General,None,VIRT,Line1 Winder2 PI1A PLC
+Atlanta West,Line1 W2 UpperPly,None,VIRT,Line1 Winder2 PI1A PLC
+Atlanta West,Line1 W2 Rewind,None,VIRT,Line1 Winder2 PI1A PLC
+Atlanta West,Line1 W2 Extractor,None,VIRT,Line1 Winder2 PI1A PLC
+Atlanta West,Line1 W2 Unwind1,None,VIRT,Line1 Winder2 PI1A PLC
+Atlanta West,Line1 W2 Unwind2,None,VIRT,Line1 Winder2 PI1A PLC
+Atlanta West,Line1 W2 LogSaw,None,VIRT,Line1 Winder2 LS1A PLC
+Atlanta West,Line1 W2 TailSeal,None,VIRT,Line1 Winder2 TS1A PLC
+Atlanta West,Line1 FT Filler1 In1,None,VIRT,K995U4E
+Atlanta West,Line1 FT Filler1 In2,None,VIRT,K995U4E
+Atlanta West,Line1 FT Filler1 In3,None,VIRT,K995U4E
+Atlanta West,Line1 Labeler1 Zn,None,VIRT,ABLE
+Atlanta West,Line1 Labeler2 Zn,None,VIRT,ABLE
+Atlanta West,Line1 Labeler3 Zn,None,VIRT,ABLE
+Atlanta West,Line1 Labelers,None,VIRT,ABLE
+Atlanta West,Line1 Filler GL,None,VIRT,K995U4E
+Atlanta West,Line1 Label1 GL,None,VIRT,K995U4F
+Atlanta West,Line1 Label2 GL,None,VIRT,K995U4F
+Atlanta West,Line1 Label3 GL,None,VIRT,K995U4F
+Atlanta West,Line1 Label1-FS GL,None,VIRT,K995U4F
+Atlanta West,Line1 Label2-FS GL,None,VIRT,K995U4F
+Atlanta West,Line1 Label3-FS GL,None,VIRT,K995U4F
+Atlanta West,T1400,None,VIRT,Process
+Atlanta West,Line1 Fragrance1,None,VIRT,Process
+Atlanta West,Line1 Fragrance2,None,VIRT,Process
+Atlanta West,Line1 Fragrance3,None,VIRT,Process
+Atlanta West,T1410,None,VIRT,Process
+Atlanta West,Line2 Fragrance1,None,VIRT,Process
+Atlanta West,Line2 Fragrance2,None,VIRT,Process
+Atlanta West,Line2 Fragrance3,None,VIRT,Process

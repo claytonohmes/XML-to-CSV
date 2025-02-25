@@ -1,0 +1,102 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Burnside,Retort,None,LINE,Concentrator PLC
+Burnside,Wood Dryer,None,SEC,Concentrator PLC
+Burnside,Furnace Charring,None,SEC,Concentrator PLC
+Burnside,Furnace Burner,None,SEC,Concentrator PLC
+Burnside,Char Storage,None,SEC,Concentrator PLC
+Burnside,ACC Heat,None,SEC,Concentrator PLC
+Burnside,ACC Burner 1,None,SEC,Concentrator PLC
+Burnside,ACC Burner 2,None,SEC,Concentrator PLC
+Burnside,Wood Infeed,None,SEC,Concentrator PLC
+Burnside,Sizing,None,SEC,Concentrator PLC
+Burnside,Reclaimer,None,SEC,Concentrator PLC
+Burnside,Stacker,None,SEC,Concentrator PLC
+Burnside,Briquetting,None,LINE,Concentrator PLC
+Burnside,Mixer Muller,None,SEC,Concentrator PLC
+Burnside,Infeed TF and Doc,None,SEC,Concentrator PLC
+Burnside,Flavored Wood,None,SEC,Concentrator PLC
+Burnside,Hammermill,None,SEC,Concentrator PLC
+Burnside,Minors,None,SEC,Concentrator PLC
+Burnside,Press 1,None,SEC,Concentrator PLC
+Burnside,Press 2,None,SEC,Concentrator PLC
+Burnside,Dryer A,None,SEC,Concentrator PLC
+Burnside,Dryer B,None,SEC,Concentrator PLC
+Burnside,Dryer C,None,SEC,Concentrator PLC
+Burnside,Discharge,None,SEC,Concentrator PLC
+Burnside,Heat Supply,None,SEC,Concentrator PLC
+Burnside,Dry Heat Burner,None,SEC,Concentrator PLC
+Burnside,KCL,None,LINE,Concentrator PLC
+Burnside,Line Control,None,SEC,Concentrator PLC
+Burnside,Solvent,None,SEC,Concentrator PLC
+Burnside,Filler,None,SEC,Concentrator PLC
+Burnside,Sealer,None,SEC,Concentrator PLC
+Burnside,Palletizer,None,SEC,Concentrator PLC
+Burnside,Stretchwrapper,None,SEC,Concentrator PLC
+Burnside,Case Packer,None,SEC,Concentrator PLC
+Burnside,Case Erector,None,SEC,Concentrator PLC
+Burnside,Labeler,None,SEC,Concentrator PLC
+Burnside,Dog Bone Applicator,None,SEC,Concentrator PLC
+Burnside,Line 1,None,LINE,Concentrator PLC
+Burnside,L1 Bag Hanger,None,SEC,Concentrator PLC
+Burnside,L1 Sealer Doboy,None,SEC,Concentrator PLC
+Burnside,L1 Heat Tunnel,None,SEC,Concentrator PLC
+Burnside,L1 Palletizer,None,SEC,Concentrator PLC
+Burnside,L1 Stretchwrapper,None,SEC,Concentrator PLC
+Burnside,Line 2,None,LINE,Concentrator PLC
+Burnside,L2 Bag Hanger,None,SEC,Concentrator PLC
+Burnside,L2 Sealer Doboy,None,SEC,Concentrator PLC
+Burnside,L2 Polypack,None,SEC,Concentrator PLC
+Burnside,L2 Polypack Bypass,None,SEC,Concentrator PLC
+Burnside,L2 Palletizer,None,SEC,Concentrator PLC
+Burnside,L2 Stretchwrapper,None,SEC,Concentrator PLC
+Burnside,Pretreat,None,SEC,Concentrator PLC
+Burnside,Silos Discharge,None,SEC,Concentrator PLC
+Burnside,PML-Wood Dryer,None,VIRT,Concentrator PLC
+Burnside,PML-Furnace Charring,None,VIRT,Concentrator PLC
+Burnside,PML-Furnace Burner,None,VIRT,Concentrator PLC
+Burnside,PML-Char Storage,None,VIRT,Concentrator PLC
+Burnside,PML-ACC Heat,None,VIRT,Concentrator PLC
+Burnside,PML-ACC Burner 1,None,VIRT,Concentrator PLC
+Burnside,PML-ACC Burner 2,None,VIRT,Concentrator PLC
+Burnside,PML-Wood Infeed,None,VIRT,Concentrator PLC
+Burnside,PML-Sizing,None,VIRT,Concentrator PLC
+Burnside,PML-Reclaimer,None,VIRT,Concentrator PLC
+Burnside,PML-Stacker,None,VIRT,Concentrator PLC
+Burnside,PML-Mixer Muller,None,VIRT,Concentrator PLC
+Burnside,PML-Infeed TF and Doc,None,VIRT,Concentrator PLC
+Burnside,PML-Flavored Wood,None,VIRT,Concentrator PLC
+Burnside,PML-Hammermill,None,VIRT,Concentrator PLC
+Burnside,PML-Minors,None,VIRT,Concentrator PLC
+Burnside,PML-Press 1,None,VIRT,Concentrator PLC
+Burnside,PML-Press 2,None,VIRT,Concentrator PLC
+Burnside,PML-Dryer A,None,VIRT,Concentrator PLC
+Burnside,PML-Dryer B,None,VIRT,Concentrator PLC
+Burnside,PML-Dryer C,None,VIRT,Concentrator PLC
+Burnside,PML-Discharge,None,VIRT,Concentrator PLC
+Burnside,PML-Heat Supply,None,VIRT,Concentrator PLC
+Burnside,PML-Dry Heat Burner,None,VIRT,Concentrator PLC
+Burnside,PML-Line Control,None,VIRT,Concentrator PLC
+Burnside,PML-Solvent,None,VIRT,Concentrator PLC
+Burnside,PML-Filler,None,VIRT,Concentrator PLC
+Burnside,PML-Sealer,None,VIRT,Concentrator PLC
+Burnside,PML-Palletizer,None,VIRT,Concentrator PLC
+Burnside,PML-Stretchwrapper,None,VIRT,Concentrator PLC
+Burnside,PML-Case Packer,None,VIRT,Concentrator PLC
+Burnside,PML-Case Erector,None,VIRT,Concentrator PLC
+Burnside,PML-Labeler,None,VIRT,Concentrator PLC
+Burnside,PML-Dog Bone Applicator,None,VIRT,Concentrator PLC
+Burnside,PML-L1 Bag Hanger,None,VIRT,Concentrator PLC
+Burnside,PML-L1 Filler,None,VIRT,Concentrator PLC
+Burnside,PML-L1 Sealer Doboy,None,VIRT,Concentrator PLC
+Burnside,PML-L1 Heat Tunnel,None,VIRT,Concentrator PLC
+Burnside,PML-L1 Palletizer,None,VIRT,Concentrator PLC
+Burnside,PML-L1 Stretchwrapper,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Bag Hanger,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Filler,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Sealer Doboy,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Polypack,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Polypack Bypass,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Palletizer,None,VIRT,Concentrator PLC
+Burnside,PML-L2 Stretchwrapper,None,VIRT,Concentrator PLC
+Burnside,PML-Pretreat,None,VIRT,Concentrator PLC
+Burnside,PML-Silos Discharge,None,VIRT,Concentrator PLC

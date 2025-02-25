@@ -10,11 +10,13 @@ Fairfield,BL1 Sealer,None,SEC,BL1 Sealer PLC
 Fairfield,BL1 Palletizer,None,SEC,BL1 Palletizer PLC
 Fairfield,BL1 Stretchwrapper,None,SEC,BL1 Stretchwrapper PLC
 Fairfield,BL1 Case Erector,None,SEC,BL1 Case Erector PLC
+Fairfield,BL1 Bar Coder,None,VIRT,BL1 Bar Coder PLC
 Fairfield,HC1 Decaser,None,SEC,HC1 SLCS PLC
 Fairfield,HC1 Unscrambler,None,SEC,HC1 Unscrambler PLC
 Fairfield,HC1 Orienter,None,SEC,HC1 Orienter PLC
 Fairfield,HC1 Labeler,None,SEC,HC1 Labeler PLC
 Fairfield,HC1 Filler,None,SEC,HC1 Filler PLC
+Fairfield,HC1 Half Speed,None,VIRT,HC1 Filler PLC
 Fairfield,HC1 Trigger Capper,None,SEC,HC1 Filler PLC
 Fairfield,HC1 Capper,None,SEC,HC1 Capper PLC
 Fairfield,HC1 Sleever,None,SEC,HC1 Sleever PLC
@@ -23,3 +25,29 @@ Fairfield,HC1 Packer,None,SEC,HC1 Packer PLC
 Fairfield,HC1 Sealer,None,SEC,HC1 Sealer PLC
 Fairfield,HC1 Unitizer,None,SEC,HC1 Unitizer PLC
 Fairfield,HC1 Stretchwrapper,None,SEC,HC1 Stretchwrapper PLC
+Fairfield,HC1 Print and Apply,None,VIRT,HC1 Print and Apply PLC
+Fairfield,PML-BL1 Decaser,None,VIRT,BL1 Decaser PLC
+Fairfield,PML-BL1 Filler,None,VIRT,BL1 SLCS PLC
+Fairfield,PML-BL1 Labeler2,None,VIRT,BL1 Labeler2 PLC
+Fairfield,PML-BL1 Capper,None,VIRT,BL1 Capper PLC
+Fairfield,PML-BL1 Case Packer,None,VIRT,BL1 SLCS PLC
+Fairfield,PML-BL1 Sealer,None,VIRT,BL1 Sealer PLC
+Fairfield,PML-BL1 Palletizer,None,VIRT,BL1 Palletizer PLC
+Fairfield,PML-BL1 Stretchwrapper,None,VIRT,BL1 Stretchwrapper PLC
+Fairfield,PML-BL1 Case Erector,None,VIRT,BL1 Case Erector PLC
+Fairfield,PML-HC1 Decaser,None,VIRT,HC1 SLCS PLC
+Fairfield,PML-HC1 Unscrambler,None,VIRT,HC1 Unscrambler PLC
+Fairfield,PML-HC1 Orienter,None,VIRT,HC1 Orienter PLC
+Fairfield,PML-HC1 Labeler,None,VIRT,HC1 Labeler PLC
+Fairfield,PML-HC1 Filler,None,VIRT,HC1 Filler PLC
+Fairfield,PML-HC1 Trigger Capper,None,VIRT,HC1 Filler PLC
+Fairfield,PML-HC1 Capper,None,VIRT,HC1 Capper PLC
+Fairfield,PML-HC1 Sleever,None,VIRT,HC1 Sleever PLC
+Fairfield,PML-HC1 Accumulator,None,VIRT,HC1 Accumulator PLC
+Fairfield,PML-HC1 Packer,None,VIRT,HC1 Packer PLC
+Fairfield,PML-HC1 Sealer,None,VIRT,HC1 Sealer PLC
+Fairfield,PML-HC1 Unitizer,None,VIRT,HC1 Unitizer PLC
+Fairfield,PML-HC1 Stretchwrapper,None,VIRT,HC1 Stretchwrapper PLC
+Fairfield,FLT-BL1 Capper,None,VIRT,BL1 Capper PLC
+Fairfield,FLT-HC1 Sealer,None,VIRT,HC1 Sealer PLC
+Fairfield,FLT-HC1 Sleever,None,VIRT,HC1 Sleever PLC

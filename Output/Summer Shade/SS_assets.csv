@@ -1,0 +1,22 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+Summer Shade,Retort,None,LINE,Retort PLC
+Summer Shade,ACC,None,SEC,Retort PLC
+Summer Shade,Accumulation,None,SEC,Retort PLC
+Summer Shade,Boiler,None,SEC,Retort PLC
+Summer Shade,Char Storage,None,SEC,Retort PLC
+Summer Shade,Furnace Char,None,SEC,Retort PLC
+Summer Shade,Low Burner,None,SEC,Retort PLC
+Summer Shade,Sizing,None,SEC,Retort PLC
+Summer Shade,Up Burner,None,SEC,Retort PLC
+Summer Shade,Wood Dryer,None,SEC,Retort PLC
+Summer Shade,Wood Infeed,None,SEC,Retort PLC
+Summer Shade,PML-ACC,None,VIRT,Retort PLC
+Summer Shade,PML-Accumulation,None,VIRT,Retort PLC
+Summer Shade,PML-Boiler,None,VIRT,Retort PLC
+Summer Shade,PML-Char Storage,None,VIRT,Retort PLC
+Summer Shade,PML-Furnace Char,None,VIRT,Retort PLC
+Summer Shade,PML-Low Burner,None,VIRT,Retort PLC
+Summer Shade,PML-Sizing,None,VIRT,Retort PLC
+Summer Shade,PML-Up Burner,None,VIRT,Retort PLC
+Summer Shade,PML-Wood Dryer,None,VIRT,Retort PLC
+Summer Shade,PML-Wood Infeed,None,VIRT,Retort PLC

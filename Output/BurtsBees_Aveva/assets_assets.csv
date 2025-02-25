@@ -1,0 +1,92 @@
+Site,Asset Name,MES Ent in ABLE,Type,PLC
+BurtsBees_Aveva,L300,None,LINE,ABLE
+BurtsBees_Aveva,L300 Unscrambler,None,SEC,L300 Line PLC
+BurtsBees_Aveva,L300 Capper,None,SEC,L300 Line PLC
+BurtsBees_Aveva,L300 Filler,None,SEC,L300 Line PLC
+BurtsBees_Aveva,L300 Labeler,None,SEC,L300 Line PLC
+BurtsBees_Aveva,L300 CIP,None,VIRT,L300 Line PLC
+BurtsBees_Aveva,L300 Cartoner,None,SEC,L300 Line PLC
+BurtsBees_Aveva,L300 CasePacker,None,SEC,L300 Line PLC
+BurtsBees_Aveva,L950,None,LINE,ABLE
+BurtsBees_Aveva,L950 Cartoner1,None,SEC,L950 Cartoner1 PLC
+BurtsBees_Aveva,L950 Cartoner2,None,SEC,L950 Cartoner2 PLC
+BurtsBees_Aveva,L950 Hopper 2,None,SEC,L950 Hopper 2 PLC
+BurtsBees_Aveva,L950 Hopper 3,None,SEC,L950 Hopper 3 PLC
+BurtsBees_Aveva,L950 Hopper 4,None,SEC,L950 Hopper 4 PLC
+BurtsBees_Aveva,L950 Hopper 5,None,SEC,L950 Hopper 5 PLC
+BurtsBees_Aveva,L875,None,LINE,L875 PLC
+BurtsBees_Aveva,L875 FAL Fill,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Base Feeder,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 MS3,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Flex Fill,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Ck Weigher,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Cap Feeder,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Laser 1,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Laser 2,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 Labeler,None,SEC,L875 PLC
+BurtsBees_Aveva,L875 FAL System,None,SEC,L875 PLC
+BurtsBees_Aveva,PML-L875 FAL Fill,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Base Feeder,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 MS3,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Flex Fill,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Ck Weigher,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Cap Feeder,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Laser 1,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Laser 2,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 Labeler,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L875 FAL System,None,VIRT,L875 PLC
+BurtsBees_Aveva,L950 Collator,None,SEC,L950_Collator PLC
+BurtsBees_Aveva,PML_L950 Collator,None,VIRT,L950_Collator PLC
+BurtsBees_Aveva,FLT-L950 Collator,None,VIRT,L950_Collator PLC
+BurtsBees_Aveva,FLT-L875 FAL Fill,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Base Feeder,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 MS3,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Flex Fill,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Ck Weigher,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Cap Feeder,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Laser 1,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Laser 2,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 Labeler,None,VIRT,L875 PLC
+BurtsBees_Aveva,FLT-L875 FAL System,None,VIRT,L875 PLC
+BurtsBees_Aveva,L320,None,LINE,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Bottle Sorter,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Labeler,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Capper,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Filler,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Pump Placer,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Cartoner,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,L320 Conveyors,None,SEC,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Bottle Sorter,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Labeler,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Filler,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Pump Placer,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Capper,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Cartoner,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,PML-L320 Conveyors,None,VIRT,L320_AB_CLX PLC
+BurtsBees_Aveva,L800,None,LINE,L875 PLC
+BurtsBees_Aveva,L800 Labeler A,None,SEC,L875 PLC
+BurtsBees_Aveva,L800 Labeler B,None,SEC,L875 PLC
+BurtsBees_Aveva,L800 Filler,None,SEC,L875 PLC
+BurtsBees_Aveva,PML-L800 Labeler A,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L800 Labeler B,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L800 Filler,None,VIRT,L875 PLC
+BurtsBees_Aveva,L850,None,LINE,L875 PLC
+BurtsBees_Aveva,L850 Labeler A,None,SEC,L875 PLC
+BurtsBees_Aveva,L850 Labeler B,None,SEC,L875 PLC
+BurtsBees_Aveva,L850 Filler,None,SEC,L875 PLC
+BurtsBees_Aveva,PML-L850 Labeler A,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L850 Labeler B,None,VIRT,L875 PLC
+BurtsBees_Aveva,PML-L850 Filler,None,VIRT,L875 PLC
+BurtsBees_Aveva,L600,None,LINE,L600_CLX_PLC
+BurtsBees_Aveva,L710,None,LINE,L710 PLC
+BurtsBees_Aveva,L720,None,LINE,L710 PLC
+BurtsBees_Aveva,L730,None,LINE,L710 PLC
+BurtsBees_Aveva,PML-L710,None,VIRT,L710 PLC
+BurtsBees_Aveva,PML-L720,None,VIRT,L710 PLC
+BurtsBees_Aveva,PML-L730,None,VIRT,L710 PLC
+BurtsBees_Aveva,L520,None,LINE,L520 PLC
+BurtsBees_Aveva,L950 Palletizer,None,SEC,L950_Palletizer PLC
+BurtsBees_Aveva,L950 Case Packer,None,SEC,L950_CasePacker PLC
+BurtsBees_Aveva,PML-L950 Palletizer,None,VIRT,L950_Palletizer PLC
+BurtsBees_Aveva,PML-L950 Case Packer,None,VIRT,L950_CasePacker PLC
+BurtsBees_Aveva,L300 Palletizer,None,SEC,L300 Line PLC
